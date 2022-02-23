@@ -1,1 +1,1 @@
-# Digit-210-Team-Avatar
+# DIGIT 210 *Avatar: The Last Airbender* Text Analysis
