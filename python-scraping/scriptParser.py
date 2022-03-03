@@ -7,8 +7,6 @@
 import os
 import bs4
 from bs4 import BeautifulSoup
-import requests
-import glob
 path = 'avatarTranscripts'
 scriptDir = os.listdir(path)
 # print(scriptDir)
@@ -23,7 +21,7 @@ for filenames in scriptDir:
             content = file.read()
             file.close()
             soup = BeautifulSoup(content, 'html.parser')
-            script = soup.find('table', { "class" : "wikitable"})
+            script = soup.find_all('table', { "class" : "wikitable"})
             # print(script)
 
             newfile = open(filename, "w", encoding = 'utf-8')
