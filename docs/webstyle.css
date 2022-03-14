@@ -1,0 +1,61 @@
+
+body {
+background-color: /*BurlyWood*/ #F0F8FF;
+color: indigo; 
+/*font-family: arial, helvetica, sans-serif;*/
+
+font-family: "Times New Roman", Times, serif;
+}
+
+/*Photo stuff*/
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.characterphotos {
+  grid-area: photos;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 20px;
+}
+
+.characterpic {
+  padding: 15px;
+	font-family: "Times New Roman", Times, serif;
+}
+.characterpic figcaption {
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 1.1rem;
+  margin-top: 3px;
+}
+.characterpic img {
+  display: block;
+  border: 1px solid;
+}
+
+.aangpic {
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ol {list-style-type: lower-alpha;
+padding: 5em;
+    
+}
