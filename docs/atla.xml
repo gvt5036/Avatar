@@ -20,7 +20,48 @@
                 to be serious when the situation calls for it.</desc>
         </char>
     </characters>
-    <nations> </nations>
+    <nations>
+        <nation>
+            <name>Water Nation</name>
+            <desc>The Water Nation consists of two major tribes, the Northern and Southern tribes.
+                The Southern Water Tribe is the less developed of the two, and consists of primative
+                huts made from wood and animal skins. The Southern Water Tribe only has one
+                waterbender during the events of The Last Airbender, Katara. The Southern Water
+                Tribe is located in the south pole. The Northern Water Tribe is located in the North
+                pole and is considerably more developed and populated than the Southern Water Tribe.
+                The Northern Water Tribe consists of many large buildings shaped from snow and ice.
+                The Northern Water Tribe is home to the Ocean and Moon spirits, the two major
+                sources of waterbenders power. The Northern Tribe is also home to the majority of
+                the remaining waterbenders. The people of the Water Nation were </desc>
+            <notChars> Katara, Sokka, Yue, </notChars>
+        </nation>
+        <nation>
+            <name>Earth Nation</name>
+            <desc>The Earth Nation, or Earth Kingdom is the largest nation in the world of Avatar.
+                The Earth Kingdom is known for its massive walled cities built by earthbenders,
+                namely Omashu and Ba Sing Se. The people of the Earth Nation are typically strong,
+                proud, and stalwart. They rarely sought conflict when possible. On the surface, the
+                Earth Kingdom appeared to be ruled by its king, but in reality most of the Nation's
+                decisions were made by the Dai Li, a group of earthbending masters who acted as
+                police enforcing martial law over Ba Sing Se after becoming corrupt at the hands of
+                Long Feng. During the events of Avatar, however, this corruption was discovered by
+                Aang and his companions and the Earth King's power was restored,</desc>
+            <notChars>Toph, Suki</notChars>
+        </nation>
+        <nation>
+            <name>Fire Nation</name>
+            <desc>The Fire Nation is the second largest of the four nations, and arguably the most
+                powerful. The Fire Nation was led by Fire Lord Ozai, who sought to expand through
+                colonialism. The Fire Nation was well known for its factories and pagoda-style
+                buildings. The people of the Fire Nation were typically proud, rash, and strict.
+                They placed a large emphasis on military power and developed a large number of metal
+                war machines that were incredibly advanced for their time.</desc>
+        </nation>
+        <nation>
+            <name> Air Nation</name>
+            <desc></desc>
+        </nation>
+    </nations>
     <animals> </animals>
     <locations> </locations>
 </xml>
