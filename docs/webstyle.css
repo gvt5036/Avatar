@@ -5,6 +5,10 @@ color: indigo;
 /*font-family: arial, helvetica, sans-serif;*/
 
 font-family: "Times New Roman", Times, serif;
+
+/* cursor */
+cursor: url('docs/images/site/glider.ico'), default;
+cursor: url('docs/images/site/glider.ico'), auto;
 }
 
 /*Photo stuff*/
