@@ -1,65 +1,102 @@
-
-body {
-background-color: /*BurlyWood*/ #F0F8FF;
-color: indigo; 
-/*font-family: arial, helvetica, sans-serif;*/
-
-font-family: "Times New Roman", Times, serif;
-
-/* cursor */
+/* Cursor */
 cursor: url('docs/images/site/glider.ico'), default;
 cursor: url('docs/images/site/glider.ico'), auto;
+/* For Nav Bar */
+:root {
+    font-size: 16px;
+    font-family: 'Open Sans';
+    --text-primary: #f53163;
+    --text-seconday: #ececec;
+    --bg-primary: #B4DFFE;
+    --bg-secondary: #659fc9;
+}
+body {
+    /* background-color: #fef2f2; */
+    background-image: url("images/aPattern1.jpg");
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+/* For Text Boxes */
+div {
+    margin-left: 14rem;
+    margin-right:14rem;
+    background-color: #B4DFFE;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+/* For Image of Map */
+section.map {
+    border: 5px solid #B4DFFE;
+    margin-left: 14rem;
+    margin-right: 14rem;
+    padding-left:5rem;
+    padding-right: 5rem;
 }
 
-/*Photo stuff*/
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+h1 {
+    text-align: center;
 }
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+/* for scroll bar */
+body::-webkit-scrollbar {
+    width: 0.25rem;
 }
-
-.characterphotos {
-  grid-area: photos;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 20px;
+body::-webkit-scrollbar-track {
+    background: #1e1e24;
 }
-
-.characterpic {
-  padding: 15px;
-	font-family: "Times New Roman", Times, serif;
+body::-webkit-scrollbar-thumb {
+    background: #B4DFFE;
 }
-.characterpic figcaption {
-  font-size: 1.5rem;
-  text-align: center;
-  line-height: 1.1rem;
-  margin-top: 3px;
+/* main is actual content */
+main {
+    margin-left: 5rem;
 }
-.characterpic img {
-  display: block;
-  border: 1px solid;
+/* more navbar stuff */
+.navbar {
+    width: 5rem;
+    height: 100vh;
+    position: fixed;
+    background-color: var(--bg-primary);
+    transition: width 200ms ease;
 }
-
-.aangpic {
+.navbar-nav{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
     
 }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.nav-link {
+    display: flex;
+    align-items: center;
+    height: 5rem;
+    color: var(--text-primary);
+    text-decoration: none; 
+    filter: grayscale(100%) opacity(0.7);
+    transition: var(--transition-speed)
+}
+.nav-link:hover {
+    filter: grayscale(0%) opacity(1);
+    background: var(--bg-secondary);
+}
+.link-text {
+    display: none;
+    margin: 0 1.5rem;
+}
+.navbar:hover {
+    width: 16rem;
+}
+.navbar:hover .link-text {
+    display: block;
 }
 
-ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+
+.fa-primary,
+.fa-secondary {
+    transition: var(--transition-speed);
 }
