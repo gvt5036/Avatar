@@ -1,6 +1,3 @@
-/* Cursor */
-cursor: url('docs/images/site/glider.ico'), default;
-cursor: url('docs/images/site/glider.ico'), auto;
 /* For Nav Bar */
 :root {
     font-size: 16px;
@@ -11,14 +8,13 @@ cursor: url('docs/images/site/glider.ico'), auto;
     --bg-secondary: #659fc9;
 }
 body {
-    /* background-color: #fef2f2; */
     background-image: url("images/aPattern1.jpg");
     color: black;
     margin: 0;
     padding: 0;
 }
 /* For Text Boxes */
-section {
+section.text {
     margin-left: 14rem;
     margin-right:14rem;
     background-color: #B4DFFE;
@@ -29,11 +25,12 @@ section {
 }
 /* For Image of Map */
 section.map {
-    border: 5px solid #B4DFFE;
+    background-color: #B4DFFE;
     margin-left: 14rem;
     margin-right: 14rem;
     padding-left:5rem;
     padding-right: 5rem;
+    padding-top: 1rem;
 }
 
 h1 {
