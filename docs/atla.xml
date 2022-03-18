@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="avatar.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <characters>
         <char name="aang">
@@ -86,7 +88,7 @@
     </characters>
     <nations>
         <nation>
-            <name>Water Nation</name>
+            <elementNation>Water Nation</elementNation>
             <desc>The Water Nation consists of two major tribes, the Northern and Southern tribes.
                 The Southern Water Tribe is the less developed of the two, and consists of primative
                 huts made from wood and animal skins. The Southern Water Tribe only has one
@@ -100,7 +102,7 @@
             <notChars> Katara, Sokka, Yue</notChars>
         </nation>
         <nation>
-            <name>Earth Nation</name>
+            <elementNation>Earth Nation</elementNation>
             <desc>The Earth Nation, or Earth Kingdom is the largest nation in the world of Avatar.
                 The Earth Kingdom is known for its massive walled cities built by earthbenders,
                 namely Omashu and Ba Sing Se. The people of the Earth Nation are typically strong,
@@ -113,7 +115,7 @@
             <notChars>Toph, Suki</notChars>
         </nation>
         <nation>
-            <name>Fire Nation</name>
+            <elementNation>Fire Nation</elementNation>
             <desc>The Fire Nation is the second largest of the four nations, and arguably the most
                 powerful. The Fire Nation was led by Fire Lord Ozai, who sought to expand through
                 colonialism. The Fire Nation was well known for its factories and pagoda-style
@@ -122,8 +124,8 @@
                 war machines that were incredibly advanced for their time.</desc>
         </nation>
         <nation>
-            <name> Air Nation</name>
-            <desc/>
+            <elementNation> Air Nation</elementNation>
+            <desc></desc>
         </nation>
     </nations>
     <animals> </animals>
