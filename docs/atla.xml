@@ -7,11 +7,34 @@
             <origin>Air Nation (</origin>
             <desc>Aang is an Air Nomad who was also the Avatar, master of all four elements. Aang
                 was born 100 years before the events of the first season, but was frozen in an
-                iceberg after running away from his home in the Air Nation. </desc>
+                iceberg after running away from his home in the Air Nation. Aang is a male Air Nomad
+                who was successor to Avatar Roku. As a young avatar he knew he was the only person
+                capable of bending all four elements and keeping the peace between the nations. As
+                an Air Nomad, he only knew how to airbend. So, he began to feel the pressure that
+                comes with being an avatar. A little before the 100 year war, Avatar Aang went
+                missing after running away from his duties as avatar. While in the avatar state,
+                Aang froze himself and his pet bison, Appa, in an iceburg for 100 years. When found
+                by two teenagers from the Southern Waterbending Tribe, Katara and Sokka, he emerged.
+                Aang was told what had happened to the nations after he left. He realized he needed
+                to learn how to bend the other elements to restore order to the nations. Katara,
+                Sokka, and Aang go on a quest to help Aang learn the other elements and save the
+                world. </desc>
         </char>
         <char name="katara">
             <origin>Water Nation (Southern Water Tribe)</origin>
-            <desc>Katara is a waterbender and member of the southern water tribe.</desc>
+            <desc>Katara is a waterbender from the Southern Water tribe. As the only waterbender
+                living in the tribe, she was rasied by her grandmother along with her brother,
+                Sokka. As teenagers Sokka and Katara found Aang, a young Air Nomad Avatar who had
+                been frozen in ice with his bison, Appa. Avatar Aang, recently defrosted, was in
+                need of a waterbending teacher. Katara was still learning herself, but offered what
+                help she could. Katara and Sokka decided to join Aang in his adventure to save the
+                world. Sokka is a Southern Water Tribe warrior and the sun of Chief Hakoda and Kya.
+                He was born wihtout any bending ability, so he became a fighter for the tribe
+                instead. Sokka is the older brother of Katara. Katara and him were raised by their
+                grandmother after their mother died and their father went to go fight in the war.
+                Sokka was left behind when the other men went to fight in the war. As the oldest
+                male in the Southern Water Tribe he was left as their leader, and became responsible
+                for everyone in the tribe. </desc>
         </char>
         <char name="sokka">
             <origin>Water Nation (Southern Water Tribe)</origin>
@@ -20,6 +43,47 @@
                 both his sword and boomerang.As the self-proclaimed "plan guy" of the group, Sokka
                 was quick to come up with. Though he often acts as the show's comic relief, he tends
                 to be serious when the situation calls for it.</desc>
+        </char>
+        <char name="Azula">
+            <origin>Fire Nation</origin>
+            <desc>Azula was the princess of the Fire Nation Royal Family, and younger sister of
+                Zuko. Azula believed that Zuko was more loved by their mother, so she always strived
+                for greatness. She became vindictive, sadistic, and cold over the years. Azula was
+                now obsessed with gaining power and recognizition from her father. When she heard
+                that the avatar was alive, she went on a search to look for him with her two best
+                friends, Mai and Ty Lee. </desc>
+        </char>
+        <char name="Zuko">
+            <origin>Fire Nation</origin>
+            <desc>Zuko was born as a prince into the Fire Nation Royal Family. As a member of the
+                fire nation and a firebending master, the Avatar is the essential enemy of Zuko.
+                Zuko was banished from the fire nation after disrespecting his father. Then, after
+                hearing that the avatar had returned, Zuko went on a mission with his uncle, Iroh,
+                to find Aang in hopes his banishment would be lifted.</desc>
+        </char>
+        <char name="Iroh">
+            <origin>Fire Nation</origin>
+            <desc>Iroh is a retired Fire Nation General, a Grand Lotus of the Order of the White
+                Lotus, a former Crown Prince, a firebending master, and the uncle of Zuko. Iroh
+                mentors and watches over Zuko. As a firebending master, Iroh has earned his
+                repuation by his ability to breathe fire. This earned him the title "The Dragon of
+                the West". Iroh and his nephew, Zuko, travel all over the world to find Avatar Aang
+                and put an end to him so that the fire nation can contune to rule over the
+                nations.</desc>
+        </char>
+        <char name="Toph">
+            <origin>Earth Nation</origin>
+            <desc>Toph Beifong is an earthbender, and one to the most powerful at that. Toph was
+                born blind, so she was treated differently because of her impairment. However, her
+                blindness turned out to be her super power when she discovered earthbending animals
+                called badgermoles. Badgemoles are blind too, so through them she learned how to use
+                her other senses to improve her bending and "see" vibrations that pass through the
+                ground. She was also the first earthbender to learn the extension of "metalbending".
+                Unbeknownst to her parents, Toph is known as the "Blind Bandit" to many because of
+                her consistent winning reputation in underground earthbending competitions. When she
+                learned of Aang's mission to save the world she wasn't interested, but decided to
+                join the cause due to her overprotective parents. Toph travelled with Aang and his
+                friends as Aang's earthbending coach.</desc>
         </char>
     </characters>
     <nations>
@@ -35,7 +99,7 @@
                 The Northern Water Tribe is home to the Ocean and Moon spirits, the two major
                 sources of waterbenders power. The Northern Tribe is also home to the majority of
                 the remaining waterbenders. The people of the Water Nation were </desc>
-            <notChars> Katara, Sokka, Yue, </notChars>
+            <notChars> Katara, Sokka, Yue</notChars>
         </nation>
         <nation>
             <elementNation>Earth Nation</elementNation>
