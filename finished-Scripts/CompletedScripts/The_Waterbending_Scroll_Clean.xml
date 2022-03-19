@@ -1,0 +1,1188 @@
+<root>
+    <metadata>
+        <title>The Waterbending Scroll</title>
+    </metadata>
+    <p>
+        <speech>
+            <description>Scene opens with the camera zoomed out showing Appa flying in above the
+                mountains with a few viewable trees, carrying Aang, Katara, Sokka, and
+                Momo.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Aang is pacing around on Appa's saddle, breathing heavily.</charAction>
+            Would you sit down? <charAction>Turns around from his perch on Appa's head.</charAction>
+            If we hit a bump, you'll go flying off. What's bugging you anyway?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Worriedly.</charAction> It's what Avatar Roku said. I'm supposed to
+            master all four elements before that comet arrives.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>In a sarcastic, amused tone while facing Aang.</charAction> Well, let's
+            see. You pretty much mastered airbending and that only took you a hundred and twelve
+            years. I'm sure you can master three more elements by next summer.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Frightfully.</charAction> I haven't even started waterbending and we're
+            still weeks away from the North Pole. What am I gonna do?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Grabs Aang's arm.</charAction> Calm down, it's going to be okay.
+                <charAction>Aang sits down in front of her.</charAction> If you want, I can try to
+            teach you some of the stuff I know.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Smiling.</charAction> You'd do that?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Nods and looks over the side of Appa's saddle.</charAction> We'll need
+            to find a good source of water first.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Grinning; sarcastically.</charAction> Maybe we can find a puddle for you
+            to splash in.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to Aang, Katara, Sokka, and Momo standing in front of a large
+                waterfall and river.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Frowning beside Aang and Katara's ecstatic faces.</charAction> Nice
+            puddle.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Appa flies down into the river and creates a huge splash that soaks and
+                almost knocks Momo of the rock he is standing on, turns over, and floats on his
+                back.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Takes off his shirt, smiling.</charAction> Yeah! Don't start without me,
+            boy! <charAction>Begins to run toward the water.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Somewhat blankly.</charAction> Remember the reason we're here.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Stops short and looks at Katara.</charAction> Oh right. Time to practice
+            waterbending. <charAction>Puts his clothes back on.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Sarcastically.</charAction> Great. So what am I supposed to do?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>You could ... clean the gunk out of Appa's toes. <charAction>Hands Sokka a branch
+                with a bushel of leaves at the end.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Frowns and crosses his arms.</charAction> So, while you guys are playing
+            in the water, I'm supposed to be hard at work picking mud out of a giant bison's
+            feet?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Smiles; somewhat cheerfully.</charAction> Mud and bugs!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Okay. <charAction>Takes stick and walks over to Appa who is floating in the
+                water.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Scene changes to Zuko's ship in the ocean. On the deck, Zuko is practicing
+                firebending with his  Lieutenant Lee when the boat turns and they are thrown to one
+                side on their backs.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Close-up of his face; he glares at the tower.</charAction> Someone's
+            changing our course.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to a crew member steering the ship at the top of the
+                boat.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Storming in, yelling.</charAction> What is the meaning of this mutiny?
+            No one told you to change course! <charAction>Shows Iroh and the rest of the crew
+                playing Pai Sho behind them.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>Actually, someone did. I assure you, it is a matter of utmost importance, Prince
+            Zuko. <charAction>Scratches beard.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Hopefully.</charAction> Is it something to do with the Avatar?</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>Even more urgent. It seems, I- <charAction>Rubs forehead in stress.</charAction> -I
+            have lost my lotus tile. <charAction>Moves a piece of his across the Pai Sho
+                board.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Confused.</charAction> Lotus tile?</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>For my Pai Sho game. Most people think the lotus tile insignificant, but it is
+            essential for the unusual strategy that I employ.</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>In disbelief.</charAction> You've changed our course for a stupid lotus
+            tile?</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>See, you, like most people, underestimate it's value. Just give me ten minutes to
+            check the merchants at this port of call. <charAction>Excitedly.</charAction> Hopefully,
+            they will have the lotus tile in stock and I can get on with my life. <charAction>Zuko
+                breathes fire up at the ceiling in anger and Iroh smiles.</charAction> I'm lucky to
+            have such an understanding nephew.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The room fills with smoke of Zuko's outburst, clouding the scene from
+                view.</description>
+            <description>Cut to a scene of a content Appa floating in the river while Sokka stands
+                on his stomach and brushes in between his toes with the branch.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Yeah, don't get too happy. You've got to do me next. <charAction>Appa moans
+                happily.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Shows Katara and Aang by the shore.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>This is a pretty basic move, but it still took me months to perfect. So don't get
+            frustrated if you don't get it right away. <charAction>She moves her hands back and
+                forth and makes small waves in the water, while Aang looks up, smiling.</charAction>
+            Just push and pull the water like this. The key is getting the wrist movement
+            right.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Stands up.</charAction> Like this? <charAction>Does the hand movements
+                Katara is doing, but nothing is happening yet.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Kindly.</charAction> That's almost right. If you keep practicing I'm
+            sure eventually—</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Hey, I'm bending it already! <charAction>Shows Aang making much bigger waves than
+                Katara's on his first try.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Surprised.</charAction> Wow, I can't believe you got that so quickly. It
+            took me two months to learn that move.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Shrugs shoulders.</charAction> Well, you had to figure it all on your
+            own. I'm lucky enough to have a great teacher.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Smiles.</charAction> Thanks.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>So, what's next?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>This is a more difficult move. I call it streaming the water. <charAction>She moves
+                her hands and raises a stream of water from the river into the air and moves it
+                around.</charAction> It's harder than it looks, so don't be disappointed if-
+                <charAction>Shows Aang already controlling a stream of water, moving it around and
+                above his body and neatly coiling it back into the river, much to Katara's
+                dismay.</charAction> Nice work. <charAction>She frowns.</charAction> Though the
+            over-the-head flare was unnecessary.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Sorry. <charAction>Excited.</charAction> Well, don't stop now! Keep 'em
+            coming!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Looks up sadly.</charAction> Well I kind of know this one other move,
+            but it's pretty hard. I haven't even totally figured it out yet. The idea is to create a
+            big, powerful wave. <charAction>She moves her hands up, shaking, and starts to get a big
+                mass of water to rise out of the river, but it pops before forming into anything
+                substantial.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>So, like this? <charAction>He raises his hands and creates a massive wave that
+                towers over their heads.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Still working on cleaning up Appa, he looks up and stares at Aang's wave
+                crashing toward him in fear.</charAction> Aang?! <charAction>The wave throws Sokka
+                off into the water and his head slowly rises out, annoyed.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Smiling.</charAction> Looks like I got the hang of that move! What else
+            do you got?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Angry at Aang's quick success.</charAction> That's enough practicing for
+            today.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Head still sticking out of the water.</charAction> Yeah, I'll say!
+                <charAction>Points to the left.</charAction> You just "practiced" our supplies down
+            the river. <charAction>Shows a group of bags floating away.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Looking guilty.</charAction> Uh, sorry. <charAction>Smiles
+                worriedly.</charAction> I'm sure we can find somewhere to replace all this
+            stuff.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>My life was hard enough when you were just an airbender. <charAction>Sinks back
+                underwater.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to Katara, Sokka, and Aang walking through the streets of a city
+                market and port. Shows many armed men staring at the trio. Sokka and Katara look
+                nervous while Aang looks around in wonder.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Walking back from alleyway with a bag over his shoulders.</charAction>
+            We've got exactly three copper pieces left from the money that King Bumi gave us. Let's
+            spend it wisely.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Uh, make that two copper pieces, Sokka. I couldn't say no to this whistle!
+                <charAction>Pulls out a white whistle that looks like a bison, takes a huge breath
+                and blows into it, but it barely makes a sound.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Pulls out fingers over his ears after expecting a loud
+                noise.</charAction> It doesn't even work. <charAction>Aang stops blowing when Momo
+                squawks at him.</charAction> See? Even Momo thinks it's a piece of junk.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No offense Aang, but I'll hold the money from now on. <charAction>Aang hands her the
+                two copper coins.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to the other side of the port where a man is talking in front of his
+                boat docked in the water.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech><charAction>Moving hands and shouting excitedly.</charAction> Earth Nation! Fire
+            Nation! Water Nation! So long as bargains are your inclination, you're welcome here!
+            Don't be shy, come on by! <charAction>Sokka, Katara, and Aang walk by and he runs up to
+                them.</charAction> Oh! You there, I can see from your clothing that you're
+            world-traveling types. Perhaps I can interest you in some exotic curios?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Walks back to the man.</charAction> Sure! What are curios?</speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech><charAction>Looks confused and thinks.</charAction> I'm not entirely sure. But we
+            got 'em! <charAction>Puts his hand on Aang's shoulder and smiles, walking him into the
+                ship.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to the inside of the boat where strange collectibles are lined up on
+                shelves on the walls. Aang, Katara, and Sokka walk in.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Looks up close at an item on a shelf, confused.</charAction>
+            Huh?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara stares at an ornate monkey statue on one of the shelves
+                eerily.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech><charAction>Standing in a dark doorway as Aang passes by with Momo on his
+                back.</charAction> I've never seen such a fine specimen of lemur. <charAction>Walks
+                into the light, an iguana parrot on his shoulder.</charAction> That beast would
+            fetch me a hefty sum if you'd be interested in bartering. <charAction>The iguana parrot
+                squawks at them.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Grabbing Momo.</charAction> Momo's not for sale.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Shows Katara walking over to a shelf where a number of scrolls are kept.
+                She grabs one with the waterbending symbol on it and opens it to see lines of
+                waterbending diagrams and writing.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Smiling.</charAction> Look at this, Aang. It's a waterbending scroll!
+                <charAction>Aang walks over.</charAction> Check out these crazy moves.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Turns to the captain, excited.</charAction> Where did you get a
+            waterbending scroll?</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech><charAction>Slams his hand onto the scroll and pulls it away.</charAction> Let's
+            just say I got it up North, at a most reasonable price, free. <charAction>Rolls the
+                scroll back up and puts it away back in its shelf.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Turns around and looks at the captain from the other side of the
+                room.</charAction> Wait a minute ... Sea loving traders, with suspiciously acquired
+            merchandise, <charAction>Raises eyebrows, almost yelling.</charAction> and pet reptile
+            birds? <charAction>Turns around to Oh, almost spitting in his face.</charAction> You
+            guys are pirates!</speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech><charAction>Puts his arm around a terrified Sokka's shoulders.</charAction> We
+            prefer to think of ourselves as "high risk traders."</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to Katara holding their two copper pieces next to Aang, with the
+                captain on the other side of the counter they are leaning on.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>So, how much for the, uh, traded scroll?</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>I've already got a buyer, a nobleman in the Earth Kingdom. <charAction>Voice turns
+                less serious.</charAction> Unless of course, you kids have two hundred gold pieces
+            on you right now.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Turns around and whispers to Katara.</charAction> I know how to deal
+            with these guys, Katara. Pirates love to haggle. <charAction>Katara drops the final
+                coins in his hand.</charAction> Watch and learn. <charAction>Walks over to the
+                counter, leans against it, and talks in a pirate voice.</charAction> Let's say to
+            the price of, one copper piece! <charAction>Smiles, and dramatically presents the single
+                coin.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech><charAction>Laughs hysterically.</charAction> The price is two hundred gold pieces.
+            I don't haggle on items this rare.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Still smirking and talking like a pirate.</charAction> Okay, two copper
+            pieces!</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech><charAction>Aggravated.</charAction> It's not as amusing the second time,
+            boy!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Whispering.</charAction> Aang, can we get out of here? I feel like we're
+            getting weird looks.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Aye, we be casting off now! <charAction>Walks away.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts back to outside, Aang, Katara, and Sokka are walking off the boat and
+                back down the street.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>What was that all about, Katara?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Yeah, I was just starting to browse through their boomerang collection.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Worried, holding her arms.</charAction> I'll just feel a lot better once
+            we get away from here.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts back to the pirate ship. Oh is running across the deck looking for
+                them.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech>Hey you! Get back here!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Calmly turns around.</charAction> Well, well. Look who's come to their
+            senses. Told you the haggling would pay off.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Suddenly, the group of armed pirates jump out of the boat and run to Aang,
+                Katara, and Sokka, whispering menacingly and swinging their weapons.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Scared.</charAction> I don't think these pirates are here to trade with
+            us. <charAction>Turns around and runs, Aang and Sokka follow and the pirates chase
+                behind them. Half of the group runs down one street while the other goes down the
+                one next to it.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech>This way. Let's cut 'em off!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Turning a corner with Aang and Katara.</charAction> Whoa!
+                <charAction>Katara freezes a puddle behind them that a pirate slips
+            on.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to peaceful scene of the cabbage merchant with his cart of cabbages in
+                an alleyway. Sokka, Katara, and Aang run past him and almost knock his cart over.
+                Aang sends a blast of wind that throws the cart into the group of pirates behind
+                them.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Cabbage merchant">Cabbage merchant</speaker>
+        <speech><charAction>Angry.</charAction> My cabbages! This place is worse than
+            Omashu!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Group of pirates jump out of another street and chase Aang, Sokka, Katara,
+                and Momo.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Pirate">Pirate</speaker>
+        <speech>I hope that lemur of yours has nine lives!</speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech><charAction>Him and the pirates corner them in the dead end of a
+                street.</charAction> Now, who gets to taste the steel of my blade first?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>No thanks. <charAction>Spins and hurls a blast of air at the pirates that send them
+                backward, and runs toward them with his glider out.</charAction> Grab on
+            tight!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Aang! I thought we were running away from the pirates! <charAction>Jumps on to
+                Aang's glider with Sokka and they lift off into the air.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Just hang on! <charAction>Flies over the pirates' heads and into the
+                distance.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts back to their camp by the river, where Aang, Sokka, and Katara stand
+                by the shore.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Putting his glider away.</charAction> I used to kind of look up to
+            pirates, but those guys are terrible.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Mischievously.</charAction> I know. That's why I took this.
+                <charAction>Holds out the waterbending scroll they saw in the
+            shop.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Surprised.</charAction> No way!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Excited.</charAction> Isn't it great?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>No wonder they were trying to hack us up! You stole their waterbending
+            scroll!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Jokingly.</charAction> I prefer to think of it as high risk
+            trading.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Laughs.</charAction> Good one, Katara.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Sokka, where do you think they got it? They stole it from a waterbender!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>It doesn't matter. You put all of our lives in danger just so you could learn some
+            stupid, fancy splashes.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>These are real waterbending forms. You know how crucial it is for Aang to learn
+            waterbending!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Walks away.</charAction> Whatever.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Well, what's done is done. We have it, we might as well learn from it.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Zuko and Iroh standing in the market
+                place.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>I've checked all the shops on this pier. Not a lotus tile in the entire
+            marketplace.</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>It's good to know this trip was a complete waste of time <description>for
+                everyone</description>!</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>Quite the contrary. I always say, the only thing better than finding something you
+            are looking for <charAction>Crew members begin to walk past carrying Iroh's
+                purchases.</charAction> is finding something you weren't looking for at a great
+            bargain! <charAction>A crew member walks past the two playing a tsungi
+                horn.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>You bought a tsungi horn?</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>For music night on the ship. Now, if we only had some woodwinds.
+                <charAction>Pointing to the ship.</charAction> Oh, this place looks promising!
+                <charAction>The monkey statue is shown again.</charAction> Oh, that is handsome!
+            Wouldn't it look magnificent in the galley?</speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech><charAction>To pirate captain.</charAction> We lost the Water Tribe girl and the
+            little bald monk she was traveling with.</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Turning.</charAction> This monk, did he have an arrow on his head?
+                <charAction>Iroh turns around, making a face similar to the
+            monkey's.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera cuts show Katara looking at the scroll.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I just want to try this one move first and then it's all yours. <charAction>Gives it
+                to Aang.</charAction> Here, hold it open for me. The single water whip. Looks
+            doable. <charAction>Attempts the move, but ends up hitting herself in the
+                forehead.</charAction> Ow!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Ha, ha, ha!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Glaring at Sokka.</charAction> What's so funny?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I'm sorry, but you deserved that. <charAction>To Aang.</charAction> You've been
+            duped; she's only interested in teaching herself.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Angrily.</charAction> Aang will get his turn once I figure out the water
+            whip. <charAction>She tries again, but hits Momo instead, who screeches.</charAction>
+            Ugh, why can't I get this stupid move?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>You'll get it. <charAction>Katara glares at him.</charAction> You just gotta shift
+            your weight through the stances. <charAction>He tries and does it perfectly on the first
+                try.</charAction> There, see, the key to bending is—</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Screaming.</charAction> Will you please shut your air hole? Believe it
+            or not your infinite wisdom gets a little old sometimes! Why don't we just throw the
+            scroll away since you're so naturally gifted! <charAction>Sokka glares at
+                her.</charAction> What? <charAction>She looks back at Aang, who has tears in his
+                eyes.</charAction> Oh my gosh, Aang, I am so sorry, I don't know what came over me.
+            But you know what, it won't happen again. <charAction>She gives the scroll to
+                Aang.</charAction> Here, this is yours. I don't want to have anything to do with it
+            anymore.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>It's okay Katara.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>What about Momo? He's the real victim here.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Bends down to pet Momo as he rubs his hind end.</charAction> I'm sorry,
+            Momo.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>And what about me? There was that time you—</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No more apologies!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera fades to show a much smaller boat being launched out of Zuko's
+                ship. The camera fades again to show the boat and the pirate ship sailing down a
+                river.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>Shouldn't we stop to search the woods?</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>We don't need to stop. They stole a waterbending scroll, right?</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>Mm-hm.</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>Then they'll be on the water.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene fades to show Katara, Sokka, and Aang sleeping by the campfire.
+                Katara quietly takes the scroll and sneaks away from the camp. However, when she
+                turns around she comes face-to-face with Momo, who starts chattering.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Whispering.</charAction> Shhh, Momo! Go back to sleep. Shh!
+                <charAction>The camera fades to show her standing by the river, attempting but
+                failing to perfect the water whip, frustrated.</charAction> Ugh, ugh, ugh! Shoot!
+            Come on water, work with me here! Okay, what if I just, ow! Stupid scroll!
+                <charAction>The pirate captain and Zuko are shown hearing her.</charAction> Okay
+            Katara, shift your weight through the stances. <charAction>She drops the water again and
+                hears the ship pulling up onto the river bank. She peaks through the bushes to see
+                what the noise was, and gasps upon seeing the pirates. She turns to run, but it
+                grabbed by a pirate.</charAction> No! Let go of me! <charAction>She bends water up
+                into the pirate's face, and he releases her, she runs but is grabbed again on the
+                wrists by Zuko.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>He glares at her as she looks frightfully at him.</charAction> I'll save
+            you from the pirates.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Katara tied to a tree with Zuko standing in front of
+                her.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>Tell me where he is and I won't hurt you or your brother.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Furiously.</charAction> Go jump in the river!</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>Try to understand. I need to capture him to restore something I've lost, my honor.
+                <charAction>Katara jerks her head away from Zuko.</charAction> Perhaps in exchange I
+            can restore something you've lost. <charAction>He holds her mother's necklace up to her
+                neck.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>My mother's necklace! How did you get that?</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>I didn't steal it, if that's what you're wondering. <description>Tell
+                me</description> where he is. <charAction>Points at Katara.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No!</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>Enough of this necklace garbage! You promised a scroll!</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>I wonder how much this is worth ... <charAction>The pirates gasp as he takes it out
+                and holds it over a fire in his hand.</charAction> A lot, apparently. Now you help
+            me find what I want, you'll get this back, and everyone goes home happy. Search the
+            woods for the boy and meet back here!</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>Fine.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to the campsite, where Sokka is waking up.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Notices Katara's missing.</charAction> Huh? Where did she go?
+                <charAction>Looks through the bag.</charAction> I don't believe it.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Yawns.</charAction> What's wrong?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>She took the scroll! She's obsessed with that thing. It's just a matter of time
+            before she gets us all in deep- <charAction>Yells as a pirate throws a rope around his
+                arms and drags him forward. He rolls away and charges at the pirate while another
+                pirate captures Aang in a net and drags him away.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Pirate">Pirate</speaker>
+        <speech>I got him, come on!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Oh, what? I'm not good enough to kidnap? Ah! <charAction>The pirate shoots another
+                net at Sokka and drags him away too.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts back to the place where Zuko and the pirates are gathered. The pirates
+                are holding Aang and Sokka, who are tied up. Sokka is struggling with the
+                ropes.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>Nice work.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Aang, this is all my fault.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>No Katara, it isn't.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>Yeah, it kind of is. <charAction>Katara glares at Iroh.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>To the pirate captain.</charAction> Give me the boy.</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>You give us the scroll.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>You're really gonna hand over <description>the Avatar</description> for a stupid
+            piece of parchment?</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>Don't listen to him, he's trying to turn us against each other!</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech><charAction>Turns to Aang.</charAction> Your friend is the Avatar?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Sure is, and I'll bet he'll fetch a lot more on the black market than that fancy
+            scroll.</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>Shut your mouth, you Water Tribe peasant!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Yeah, Sokka, you really should shut your mouth.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I'm just sayin' it's bad business sense. Think how much the Fire Lord would pay for
+            the Avatar. You guys would be set for life.</speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech><charAction>To Zuko.</charAction> Keep the scroll; we can buy a hundred with the
+            reward we'll get for the kid. <charAction>The pirates turn to
+            leave.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>You'll regret breaking a deal with me. <charAction>He and two of his soldiers send a
+                blast of fire at the pirates. The pirates jump back and Oh runs out, throwing smoke
+                bombs and jumping into the cloud as the fight ensues. Some of the soldiers run out
+                to Sokka and Aang, who are struggling with their ropes, but are stopped by several
+                pirates. Momo runs down the tree and frees Katara.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Thanks, Momo. I owe you a bushel of apples. <charAction>She runs to join the fight.
+                Aang is shown lost in the smoke, a thrown knife narrowly misses him and cuts through
+                his ropes. Zuko finds his way out of the smoke cloud and hides the scroll behind his
+                back, but the pirate captain sees him and the two begin to fight. The scroll flies
+                into the air and his caught by Momo, the iguana parrot sees him and hits Momo. The
+                scroll flies back down to the ground. A knife narrowly misses Sokka's head, and he
+                uses it to cuts the ropes on his hands.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Shouting.</charAction> Aang, are you there?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I'm over here! Follow my voice!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Where? I can't find you!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I'm right here! <charAction>Airbends the dust away, revealing the pirates
+                surrounding him, and immediately airbends it back around himself.</charAction> Uh,
+            never mind! I'll find you! <charAction>Sokka climbs out of the dust cloud on his hands
+                and knees. Aang vaults over him in a full sprint.</charAction> Run! <charAction>They
+                find Katara, who is trying to push the pirate boat back into the water.</charAction>
+            Katara, you're okay!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Help me get this boat back in the water so we can get outta here. <charAction>They
+                join her in trying to push the boat, but can't.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>We'd need a team of rhinos to budge this ship.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>A team of rhinos, or two waterbenders.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to Aang and Katara pushing and pulling the water until the boat rises
+                up.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Everybody in!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to show Iroh breaking up the fight between the pirate captain and
+                Zuko.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>Are you so busy fighting you cannot see your own ship has set sail?</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>We have no time for your proverbs, Uncle!</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>It's no proverb! <charAction>Points to Team Avatar who has hijacked the pirate
+                ship.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Pirate captain">Pirate captain</speaker>
+        <speech>Bleeding hog monkeys! <charAction>Zuko laughs while pointing at him. His laughter
+                dissipates as the pirates hijack his own boat. The pirates taunt him and the screen
+                pans to a steaming Zuko.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Angrily.</charAction> Hey! That's my boat! <charAction>Goes chasing
+                after the hijacked boat.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Pondering.</charAction> Maybe it should be a proverb ...</speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Off camera.</charAction> C'mon, Uncle! <charAction>Iroh runs after
+                Zuko.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Sokka, can't you make it go any faster?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I don't know how. This thing wasn't made by the Water Tribe!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Several of the pirates jump onto the ship, but are quickly swept away by
+                Aang's waterbending. Determined, Katara performs a perfect water whip to throw the
+                last pirate off.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Hey, you did the water whip!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I couldn't have done it without your help.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka is shown being held in place by two pirates.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Would you two quit congratulating each other and help me out?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Momo is shown still being chased by the iguana parrot; he flies up to the
+                top mast and entangles the bird in the ship's flag. Sokka is shown being thrown by
+                one of the pirates.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Oh">Oh</speaker>
+        <speech>That's good ... <charAction>Aang lands behind him and airbends him and the other
+                pirate off the ship before jumping down to Sokka.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Pointing.</charAction> Aang, look! <charAction>The ship is shown headed
+                toward a huge waterfall.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Oh no ...</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Oh comes up behind him with a knife, Aang turns and blows the bison
+                whistle. Oh stands confused while Sokka comes up behind him and pushes him off the
+                ship.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Have you lost your mind? This is no time for flute practice! <charAction>Katara and
+                Aang stare in horror at the approaching waterfall.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>We can stop the boat! Aang, together, push and pull the water! <charAction>They
+                create a small Whirlpool that stops the boat.</charAction> It's working, it's
+            slowing down! We're doing it!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>But we have another problem. <charAction>Zuko's boat is shown sailing straight
+                toward their ship. The boat rams into the ship and Sokka, Aang, and Katara are
+                forced to jump as the boat goes over the falls.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Together">Together</speaker>
+        <speech>Jump! <charAction>Appa is shown flying toward them. They land on him and fly to
+                safety.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Holding up the whistle.</charAction> I knew a bison whistle would come
+            in handy! Thanks Appa.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Yeah, we owe you one. <charAction>Appa roars and the scene cuts to show Zuko running
+                to the cliff in horror at the fact that his boat has gone over the
+                falls.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>My boat!</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Chuckles.</charAction> Prince Zuko, you're really going to get a kick
+            out of this. That lotus tile was in my sleeve the whole time! <charAction>Has a big
+                smile on his face.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Zuko snatches the lotus tile and furiously throws it down the
+                waterfall.</description>
+        </speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts back to Appa flying through the clouds.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Aang, I still owe you an apology. You were just so good at waterbending without
+            really trying. I got so competitive that I put us all in danger, I'm sorry.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>That's okay Katara.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Besides, who needs that stupid scroll anyway?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Holding the scroll. Sarcastically.</charAction> Is that really how you
+            feel?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>The scroll!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Puts his hand in front to keep Katara from grabbing it.</charAction>
+            First, what did you learn?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Stealing is wrong. <charAction>Snatches scroll.</charAction> Unless it's from
+            pirates.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Laughing.</charAction> Good one, Katara.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Fades to credits.</description>
+        </speech>
+    </p>
+</root>

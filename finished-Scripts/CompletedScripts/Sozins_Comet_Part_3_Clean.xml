@@ -1,0 +1,811 @@
+<root>
+    <metadata>
+        <title>Sozins Comet Part 3</title>
+    </metadata>
+    <p>
+        <th/>
+        <speech>
+            <description>Note: The commentators recorded the commentaries for "Sozin's Comet, Parts
+                1-4" in one sitting, cutting off the commentary just before the credits on each
+                episode, with the exception of "Part 4".</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Michael Dante DiMartino">Michael Dante DiMartino</speaker>
+        <speech>Welcome back to "Part 3" of the finale, this is Mike.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan Konietzko">Bryan Konietzko</speaker>
+        <speech>This is Bryan.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>And uh, like Bryan had talked about a little bit earlier uh, we-we-we both co-wrote
+            this episode, and when we-when we wrote it, it was the length of a normal script,
+            about... think it was twenty-five pages maybe, twenty-I don't know. Some-somewhere
+            around there, the normal script length that we usually have. And we thought, "yeah,
+            this-this will all fit into one episode," but uh, during the storyboard process and
+            making the animatic and stuff, um, we realized it had grown to exponential,
+                <charAction>Bryan and Mike chuckle.</charAction> an exponential size, and, and that
+            it wasn't going to be able, if we had tried to f-keep it all in one episode it would've
+            felt really rushed, and we wanted, pacing wise, we wanted it f-to feel more like a f-a
+            feature film. So, like, we wanted to hold on shots longer so that the effects could kind
+            of, you know, fire could dissipate, and, and just have these longer moments that we
+            don't normally get to do in an episode 'cause we're trying to tell the story and get
+            through it all in-in twenty-two and a half minutes, so.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>The exact same thing happened with Dr. Phil. Um, <charAction>Mike laughs
+                intermittently.</charAction> I think when he did like his two-hundredth episode, he
+            was like, <charAction>Imitates Dr. Phil's Southern accent.</charAction> "you know, we
+            just got so much good stuff, we got to do two," you know, so, um, just like our
+            colleague Dr. Phil, <charAction>Mike affirms.</charAction> see, we had the same
+            issue.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>So, it was kinda-it was... it was the first time we had ever done that, where we
+            hadn't intended something to be too-but uh, yeah, I think it was-it was kinda the story
+            was telling us it needed to be paced out longer. And uh, we got to... add in some great
+            moments that we wouldn't have been able to. And-and definitely, you know, when we get to
+            it, we'll talk about it more, but the end of-of the whole thing, you couldn't just have
+            like a one-minute wrap-up, you know, you needed to like let everyone have their moments
+            at the end.</speech>
+    </p>
+    <p>
+        <th/>
+        <speech>
+            <description>A pause in the commentary occurs until the shot pans up to the eel hound
+                Sokka, Toph and Suki are riding, the hybrid creature's head swaying as it swims
+                through the calm ocean waters, the light from Sozin's Comet bisecting the dark
+                orange clouds in the sky.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>This is one of my favorite shots, I don't know, with this... this is one of my
+            favorite shots in the, in the whole last two episodes.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Brief pause.</charAction> Yeah, and just wanna give a little shoutout to
+            JM Animation, who um, uh, animated 320 and 321. Uh, they basically... almost killed
+            themselves making <charAction>Bryan and Mike chuckle.</charAction> these two episodes
+            back-to-back, with some of the most complex effects and character animation we've done.
+                <charAction>Refers to the Fire Nation airships lifting off.</charAction> A lot of CG
+            with the ships, and-and things like that, so, they just went above and beyond, and just
+            really gave us what I think, you know, there's-there's certain scenes that are just
+            feature quality.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Yeah, it was a, a grueling process, and um, they just, they worked so hard. Jae
+            Myung uh, our animation director who started with us on the-on the pilot, you know, I
+            just kept telling him... you know, what-what can we do to simplify this, and-and
+            basically, he wanted to make it, he's like, "this is my last chance to work on-on
+                Avatar, and I just have to make it the best ever". And
+            uh, so a lot of the artists just really-they were so proud of it, and uh, wanted to make
+            it as good as it could be, which was our plan from the start. Um, Mike and I had worked
+            on all these shows where... the Korean studios were used, you know, I-we've-we've said
+            this before, but those studios were used just sort of like a factory situation, um, with
+            little to no contact between the showrunners in the States and the artists in Korea. And
+            um, we just knew we wanted-we wanted people to be more invested on all levels of the-of
+            the project. So... um, you know, we-we didn't want people to uh, live in their,
+                <charAction>Laughs.</charAction> in their studios and under their desks for months
+            on end, but um, they just-they-they really wanted this to be something special, so
+            they-they pushed themselves that hard. And, I mean, you know, we boarded it and wrote it
+            rather ambitiously. Um, I went over to Korea to help 'em, and uh, man, they were like,
+            "just draw fire," <charAction>Laughs.</charAction> we-there is so much fire in these two
+            episodes.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>They...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects; refers to Toph using more kicks with her metalbending during
+                her fight against the airship crew.</charAction> Just want to point out that this is
+            um, some really cool special kung fu from uh, Sifu Manuel Rodriguez. Um, he-he brought
+            his son Scott over to do some really rare, cool Southern Praying Mantis stuff that we
+            used for Toph for this scene.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to the powerful, sustained fire blasts created by the augmented
+                firebenders.</charAction> Yeah, and I just want to point out too that the, like
+            Bryan said, all of the fire, I think probably ninety-nine percent of the fire in this
+            episode, maybe a hundred percent, is hand-drawn and hand-animated, and the computer is
+            used for the glow effects and the coloring and, you know, the lighting and stuff like
+            that, but, the actual movement of the fire is uh, is all hand-drawn. So...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> Some of these uh...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... think about that. <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... yeah, some of these shots, like single shots in uh, this episode where Aang is
+            fighting Ozai, took like a week just to do the in-betweens, and uh, another week to
+            color. I mean, fire is... has to be one of the hardest things to animate, um, it's just
+            so intricate and organic, and uh, luckily uh, Yu Jae Myung is just one of the most
+            amazing effects animators. Um, we're very lucky to have met him.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to an Imperial Firebender, Qin Lee, and an airship engineer
+                making awkward small talk as they wonder whose birthday it is, being dropped out of
+                the airship by the hijackers just as they learn it is actually a crew member's
+                birthday.</charAction> So, this is uh, a fabulous scene that <charAction>Bryan
+                chuckles.</charAction> got saved from the...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>In the background.</charAction> Fabulous...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... <charAction>Laughs.</charAction> cutting-cutting room floor.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... marvelous.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Laughs.</charAction> It's a bit of a digression, bit-bit ridiculous, but
+            uh, in such a serious finale, have a little...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> I was-I was totally against it,
+                <charAction>Mike laughs.</charAction> and then uh, I was like, "oh wait, Mike and I
+            will do the voices, and then I'll like it." <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Laughs.</charAction> That's right.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Naw, that's not why, but we did do the voices.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Brief pause; refers to the airship engineer wishing the crewmember a
+                happy birthday after they surface from the water.</charAction> That's the last joke
+            for a while, people. <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Laughs.</charAction> Yeah, we did need some, some levity.
+                <charAction>Brief pause; refers to Ozai's Phoenix King armor, the shoulder guards
+                and breastplate being two phoenixes facing away from each other, their wings folded
+                over his chest.</charAction> I like Ozai's uh, shoulder pads. <charAction>Refers to
+                something on the commentator's display.</charAction> What were those flashes?
+                <charAction>Brief pause; refers to the theme playing as Azula meets with Lo and
+                Li.</charAction> So, again, I want to, um, point out Jeremy Zuckerman's world-class
+            score here. Uh, it was really cool when uh, we sent this to M. Night Shyamalan, he-he
+            called me really late one night, he and his family had just finished watching it, and
+            one of the first things he said was just like, "aw! I loved the orchestra, just sounded
+            amazing, it was like it was so cinematic". And uh, it was really fun, we-we talked about
+            really like uh... kinda esoteric things, like, "oh, let's do just textures, and these
+            like really, uh, dissonant chord clusters," and Jeremy had all these ideas about
+            harmonics and things, you know, things he could really take advantage of the live
+            players. And uh, he-I-he wrote some software that would do like digital mock-ups of
+            this, these twenty-four note clusters and all these things, and uh, little microtonal
+            shifts, and just not the kind of stuff you probably get in animated uh, TV scores.
+                <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, I don't even know what any of that is, so...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> I know...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... I just know...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... what most of it is, but even uh, you know...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... <charAction>In the background.</charAction> I just...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... beyond-beyond the technical nerdiness of it um, it just adds a depth and a-and a
+            beauty that uh, we're just so honored to have. <charAction>Refers to the tilt shot with
+                Iroh and the other White Lotus Masters, shifting down to show the other members
+                behind Iroh.</charAction> This is a really cool sequence. I love that shot, the
+            camera shift, it's cool.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to the White Lotus masters fighting the Fire Nation army at Ba
+                Sing Se.</charAction> Yeah, it's nice to see the-the White Lotus guys have their
+            moment. And...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects; refers to a shot Sozin's Comet fading in and out between
+                Iroh breathing, a large ring of fire flaring up around him and the other masters
+                every time he breathes in.</charAction> It's cool to show like uh, how the
+            firebenders are tied in with this uh, natural event, this phenomenon, with the comet in
+            the atmosphere.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to Sozin's Comet travelling high above the surface of the Earth,
+                never descending downward.</charAction> Aw yeah, that's a good thing to point out
+            that peop-might not realize is that, the idea is that the comet is actually
+            skimming...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Through the atmosphere.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... through the atmosphere. So-so, it's not, although it's not crashing into the
+            Earth, it's-it's like basically just, yeah, just kind of skimming across uh, through the
+            atmosphere. <charAction>Refers to the sky being dark reds and orange in the episode's
+                various settings.</charAction> So, that's why, you know, the sky glows red, it's
+            like basically the s-the sky is on fire.</speech>
+    </p>
+    <p>
+        <th/>
+        <speech>
+            <description>A brief pause in commentary until the White Lotus masters breach Ba Sing
+                Se's outer wall, with Pakku immobilizing his opponents or blocking augmented fire
+                blasts with waves of water, while Piandao swiftly breaks apart his enemies' weapons
+                with his sword while using it to slide across the ice Pakku bent.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, this was a very detailed sound design job by Ben Wynn. A lot of, this whole
+            episode was probably, probably the most <charAction>Laughs.</charAction> effects
+                <charAction>Bryan affirms.</charAction> he's had to deal with. Just...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects; refers to the roaring sound of Jeong Jeong's fire walls, as
+                they push back the fire blasting out from the Fire Nation tanks.</charAction> Yeah,
+            we were like, "alright Ben, so, <charAction>Mike laughs.</charAction> the fire has to be
+            bigger than any fire we've ever had. And it all has to sound different, like the fire
+            wall has to sound different than the tank fire," and this and that, and just, you know,
+            very creative solutions that he came up with. <charAction>Refers to Azula, now alone in
+                the palace, trying to tie her own hair, before haphazardly cutting it in her manic
+                frustration.</charAction> This is one of our favorite scenes I think uh,
+                <charAction>Mike affirms.</charAction> probably in the whole series.
+                <charAction>Refers to the piercing violin strings playing in the
+                background.</charAction> Um, here you can hear some of these really... creepy
+            harmonics from the violins and things. And uh, again we kind of carefully plotted out
+            Azula's unravelling since the end of episode 315. <charAction>Refers to Azula talking to
+                a hallucination of Ursa, her mother appearing as a reflection in the
+                mirror.</charAction> And this was-this was meant to be when you really knew
+                <charAction>Mike affirms.</charAction> she had cracked.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to Azula's dishevelled, lopsided bangs.</charAction> Yeah, we
+            wanted like a visual representation of her craziness of-too. So, like, you know, through
+            the series her hair has been perfect, she's always well-dressed, and, you know, very
+            proper and stuff, and she just chops off her bangs and her hair's a mess, and, you know,
+            just-just an unkempt disaster.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Refers to Azula treating Ursa as though she were actually there, turning
+                away from the mirror to look behind her and talk at Ursa.</charAction> I also like
+            the-the ambiguity of this scene, is it-is it really her mother? Is it a ghost? Is it
+            a... something in her-in her head? <charAction>Refers to Azula breaking the mirror,
+                Ursa's reflection fading away as the shards of glass fall to the
+                ground.</charAction> You can-if you look really closely as that big piece of glass
+            is falling, she's-her mother's fading off. It's kind of a cool little detail.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, 'cause you want going into that-her showdown with Zuko, you want that feeling
+            of like, not only is she super powerful on this day, she's totally
+                <charAction>Laughs.</charAction> out of her mind, <charAction>Bryan
+                affirms.</charAction> and-and...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> Total loose cannon.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... yeah.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Brief pause.</charAction> Yeah, she's-it's like how can Azula be more
+            dangerous, and like even crazier? <charAction>Mike chuckles; refers to a shot Sozin's
+                Comet fading in and out between shots of Ozai raising his head to the sky with his
+                eyes closed.</charAction> So, we see that Ozai has the same connection.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to Ozai scourging the land below him with a massive, sustained
+                stream of fire.</charAction> This was a kinda crazy Seung Hyun had, the s-he called
+            it "the seed of fire".</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>See...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Interjects.</charAction> Or maybe you called it that, I don't know.
+                <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Naw, he did, he-I remember.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>I never really understood it, but once it was all animated and everything, I think
+            it's cool.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Refers to the smoke billowing out from where Ozai's stream of fire hits
+                the ground.</charAction> Just want to thank JM Animation for adding all that smoke.
+                <charAction>Mike chuckles intermittently.</charAction> They did a beautiful job on
+            all that fire, and then we're like, "oh man, but you put the smoke in the other scene,
+            you think you could put it on that scene?" and I mean, that was like a weeks worth of
+            work. Just crazy. <charAction>Refers to the flocks of birds flying and scattering in the
+                background as they flee the Fire Nation's attack.</charAction> I love all those
+            birds <charAction>Mike affirms intermittently.</charAction> in the background too. Nice
+            scale. Very-it's very-I say this all the time, but it is really hard to get a sense of
+            scale in TV animation, you know, just because of the way the process is setup with
+            overseas and things. Um...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Brief pause.</charAction> And the screen's a lot smaller,
+            right.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Laughs.</charAction> Things just tend to be um, they tend to flatten out
+            uh, when they go through the-the process of just kind of-just it's an ine-inevitable
+            thing you have to fight. And um, yeah, little things like that are always
+            satisfying.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Brief pause; refers to Ozai removing most of his armor and garb, either
+                throwing it away or burning it, as he flies off to confront Aang.</charAction> I
+            like that he just burns off his clothes, he's like...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>In the background</charAction> Like I...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... "I-I'm not going to need these."</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... I think I added that because <charAction>Mike laughs.</charAction> it was a
+            little weird that he was just ripping his clothes off, so I was like, eh,
+                <charAction>Mike affirms intermittently.</charAction> he's gotta set them on fire to
+            be a little cooler.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Totally.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Refers to the shot of Ozai, panning up to show his exposed muscular
+                physique.</charAction> And we see Ozai, he's down to his fighting weight.
+                <charAction>Mike chuckles.</charAction> He's pumped.</speech>
+    </p>
+    <p>
+        <th/>
+        <speech>
+            <description>A brief pause in commentary until Sokka realizes that Aang has returned,
+                seeing the damaged airship he brought down through a telescope.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yay.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Yay. <charAction>Mike chuckles.</charAction></speech>
+    </p>
+    <p>
+        <th/>
+        <speech>
+            <description>Another brief pause in commentary as the scene fades to black,
+                transitioning back to a long shot of Aang and Ozai on separate rock pillars, staring
+                each other down before their confrontation.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Alright, the madness begins.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, so uh, Bryan storyboarded, I think all of the Ozai action, right? Or a lot of
+            it.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Uh...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Interjects.</charAction> Ozai-Aang battle.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... yeah, this stuff in 320. <charAction>Mike affirms.</charAction> Um, yeah, it was
+            really fun. This all took a lot of, a lot of board artists. Mike did a lot of 321, he
+            did all of act three, and uh... just a bunch of people.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>We got everyone involved...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Yeah, everybody.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... Seung Hyun...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Ben...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... basically, as people were finishing their shows, we got them to come and help
+            on, <charAction>Bryan affirms.</charAction> on these, 'cause as the board kept getting
+            bigger and bigger, we were like, "oh man, we need some help."</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Yeah. <charAction>Mike chuckles; refers to the pitched wailing sound that plays when
+                Ozai bends a circular wave of fire at Aang.</charAction> Like there was like a
+            scream in that fire, it's pretty cool. <charAction>Refers to Aang sending a chunk of a
+                rock pillar at the pillar Ozai is standing on.</charAction> So, you see Aang's
+            hesitation to sort of shoot directly at Ozai, he's always kind of shooting below him,
+            or-or throwing something at him that he can avoid.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, and-and throughout the-all the action sequences of the-of the finale, we tried
+            to be careful about the fact that there was still a story being told. Like we wanted to
+            do cool action, we wanted to be exciting and amazing and-and stuff, but we also wanted
+            to make sure that there was still this emotional heart driving these action scenes.
+                <charAction>Refers to Aang dodging Ozai's attacks more than he attacks.</charAction>
+            So, for Aang in this sequence, it's-it's, it's him really trying to evade the Fire Lord,
+            you know, he's throwing him shots at him, but he's not, he hasn't made up his mind what
+            he's going to do yet, so he's kinda not <charAction>Bryan affirms.</charAction> fully in
+            the fight, he's-he's...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> He doesn't have a really good game plan,
+                <charAction>Mike affirms.</charAction> and uh... yeah, there's-there's like
+            different, <charAction>Refers to the long shot of the Imperial Firebender's streams of
+                fire hitting the ground from above, unleashing a massive wave of fire and smoke on
+                the surrounding landscape.</charAction> oh, I love that shot, it's one of my
+            favorite ones. Joaquim uh, Dos Santos, the director of uh, 320 and 321, did this
+            storyboard. Amazing director. <charAction>Brief pause.</charAction> He,
+                <charAction>Laughs.</charAction> I remember uh... I was-he had done uh, the 316
+            action with all the airships, and I said, <charAction>Refers to Sokka slamming their
+                commandeered airship into the rest of the airship fleet.</charAction> "hey man,
+            think we're going to have you do the uh, Sokka versus the airships in-in 320," and by
+            the end of it, he was like, "I am so sick of drawing <charAction>Mike chuckles
+                intermittently.</charAction> those stupid airships, with the horns, and the-the tube
+            thing in the sky". He was just, oh, he had had enough, but he did a great job.
+                <charAction>Brief pause; refers to Sokka's airship scraping along the tops of the
+                enemy ships.</charAction> This is a cool moment.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to the piercing sounds of metallic scraping as the airships come
+                into contact with each other, and the airship the kids are on breaks apart around
+                them.</charAction> Yeah, li-the sound is just great in this part, you really feel
+            the metal just ripping apart, and...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>It was very challenging uh, you know, Ben and Jeremy, the Track Team, really tried
+            to plan... they knew the music had to be big, and the sound had to be big, but, um, you
+            know, there's only so much, uh, bandwidth that you can take up with uh, the audio, you
+            know, something's got to give, something has to step out of the way and-and let the
+            other thing be in front. So, they tried to write around each other, and um, and then
+            sometimes we made conscious decisions to uh, <charAction>Refers to the music cutting out
+                just before Sokka's airship crashes into the first airship.</charAction> like that
+            moment right before the crash, like bring the music down so that we can really hear and
+            feel the impact of the uh, of the crashes. If you don't do that then you're not-if it's
+            loud all the time, you-there's no dynamics, you don't feel the-the impact.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to the five Fire Sages being the only attendees at Azula's
+                coronation.</charAction> I love that there's like, there's basically nobody there
+            'cause <charAction>Laughs.</charAction> Azula banished...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>In the background.</charAction> She kicked everybody out.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... everyone except the F-the Fire Sages 'cause she-she just needed them for the
+            crowning part.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Brief pause; refers to Zuko and Azula's Agni Kai.</charAction> So, of
+            all of the different storylines, I gotta say I feel this one really stole the show. Um,
+            there's something about these two siblings, and all the history... and then...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Interjects.</charAction> It's got the most emotional weight behind it,
+                <charAction>Bryan affirms.</charAction> somehow.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Dean's, Dean Kelly's storyboards are just amazing. Jae Myung's key animation is just
+            amazing. Music, the sound, <charAction>Refers to the theme, Last Agni Kai, that plays as
+                Zuko and Azula initiate their Agni Kai, which dominates the scene, with the sounds
+                of the siblings' firebending being dulled and muted.</charAction> and this was a
+            case where we-we artis-made this artistic decision to-to mute the sound design, and-and
+            really kinda turn it down and let this be more of an emotional, um, more of an emotional
+            action scene.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, the-the sound mix for this, the-the last four episodes, we kinda did like a
+            movie, we mixed them all the same week, and, and it was, creatively, it was really
+            satisfying 'cause it-we were all there with Ben and Jeremy, and...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> It was the most people we've ever had.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, <charAction>Bryan chuckles.</charAction> there was a lot of people, and it
+            took a lot of time. Like, sometimes with these episodes, you know, they're, they're
+            good, they're all set, the-our mixer Tom does a great job, and we go in and we're like,
+            "yeah, sounds great, we got a few notes," and we're, you know, takes-takes an hour or
+            two. This one, we really, there were so many, there were more decisions to be made I
+            think, and-and <charAction>Bryan affirms intermittently.</charAction> more-more
+            opportunities for doing creative things with the sound and music, that it took a lot
+            longer, but it, in the end, we were all just so much happier with how it, how it all
+            balanced and stuff like that.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>I just want to thank Tom for putting up...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>In the background; laughs.</charAction> Yeah.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... with all of us, and all the notes. Of course... you know, Jerem-when Ben and
+            Jeremy were both in there, Ben was like, "sound up!" <charAction>Mike
+                chuckles.</charAction> and Jeremy was like, "music up!" and Tom's like, "I can't
+            turn both up". So, that was cool. <charAction>Refers to the long shot of Aang launching
+                from one pillar toward another one with airbending, then using his momentum and
+                earthbending to send the latter pillar at Ozai.</charAction> That's a shot that
+            works better if you have a large TV. <charAction>Mike affirms.</charAction> Mike... Mike
+            uh, was like, "it too small," and I-I wish I had made it a little closer shot,
+            but...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>No, but if you-we, we saw one of the shots on a-projected really big, and all these
+            shots Bryan did where those characters are really tiny, that are har-it's hard to see on
+            TV, totally see 'em on the big screen, and it looks awesome, so.
+                <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Well, here's-here's the thing, we-we storyboarded this right when you got your
+            really big TV. <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Laughs.</charAction> Yeah, right.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>And uh, I didn't have a TV at the time. I go over to Mike's house, and you're
+            showing me <description>Planet Earth</description>, and, I mean, we're watching these
+            tiny, little, you know, elk or whatever, running away from these African dogs or
+            something, and they-they were so tiny on the screen, I was like, "man, you know, the-the
+            thing in TV is always so close, everything's framed so tight," so I really made this
+            conscious effort to uh...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>In the background; refers to the slow motion sequence of Aang, lightning
+                coursing through his body, sending the energy away from Ozai, refusing to kill
+                him.</charAction> Cool.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... do real wide epic shots. But then we were doing retakes, we're like, "man, we
+            can't see anything". <charAction>Bryan and Mike laugh.</charAction> So, maybe I went too
+            far. But, now I have one of those big TVs.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Unless you got a big TV, <charAction>Bryan laughs.</charAction> then it looks pretty
+            sweet.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Sorry, I don't mean to be...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Interjects.</charAction> Or sit really close to it.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Don't do that stuff, or...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Laughs; refers to Aang pulling the ocean water up to him with
+                waterbending, cushioning his fall.</charAction> Love this animation, the water
+            coming up, and Aang...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> Yeah, it's cool.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>... getting-going into it. <charAction>Refers to Aang's silhouette being visible in
+                the wave pushed out from his pulling of the water.</charAction> You even see his
+            little shadow <charAction>Bryan affirms.</charAction> like swim underneath the water,
+            which I hadn't noticed the first time.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Refers to the filtered water flowing sound effect that plays while the
+                shot is initially framed under the water of Aang's wave.</charAction> Cool sound
+            design underwater there. So, you know, the plan was Aang was gonna get his butt whooped
+            in this episode. <charAction>Refers to the cut back to Zuko and Azula's fight, the music
+                once again dominating, with the sound of the firebending dulled.</charAction>
+            Alright, here's-here's this uh, just beautiful music. And not to say that sound design's
+            bad, it's just... we-I actually love how it sounds, we-we filtered it down, turned it
+            down and let the music just stand in the front.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to the tragic timbre of the Last Agni Kai theme.</charAction>
+            Yeah, the music was just so emotionally resonant and powerful that every time we-the
+            fire was louder, we just like, "ah! We can't really-still can't really hear the music,"
+            you know, or you-you can hear it but it wasn't like, wasn't getting you in the gut,
+                <charAction>Bryan affirms.</charAction> and uh...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> This is the best of both worlds, I mean,
+                <charAction>Mike affirms intermittently.</charAction> you-now you... the fire sounds
+            are kinda distant, but, you know, the emotion is really present, and I th-this is just
+            my-this is my favorite sequence.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Yeah, and it-it... s-since Aang and Ozai's fight is-is really like non-stop loud
+            fire and rocks and everything... I think you-that your ears kinda needed a break too,
+                <charAction>Bryan affirms.</charAction> you know, from that, so it's-it's
+            cool.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Also, I like that the-the fights have different characteristics, <charAction>Mike
+                affirms.</charAction> I mean, that's something I, uh, being a fan of action, um,
+            as-as, you know, a... executive producer on the show all this time, I was always saying
+            to the board artists when-you know, either in the kung fu sessions with Kisu, or um,
+            when we're storyboarding or doing the start-up meetings, you know, each fight has to
+            have its own characteristic, and um... and uh, I really like how this one has a much
+            different pace than-than the Aang-Ozai one.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to Azula generating lightning, ostensibly to shoot at Zuko; in a
+                mock anticipatory tone.</charAction> And then...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Not to say it's better or worse, it's just different.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Refers to Azula instead targeting Katara.</charAction> You're like, aw,
+            Azula, you didn't. <charAction>In a mock astonished tone.</charAction> Aw man, she did.
+                <charAction>Bryan and Mike laugh; refers to Zuko protecting Katara by redirecting
+                the lightning into himself.</charAction> Now, this is just...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Refers to the slowed down crackling sounds of the lightning
+                strike.</charAction> Another s-cool sound...</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Interjects.</charAction> Great moment too.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>... sound. Like...</speech>
+    </p>
+    <p>
+        <th/>
+        <speech>
+            <description>Bryan makes several dramatic breathing out noises, mimicking the flashing
+                lightning during Zuko's dramatic sacrifice as seen by Katara.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Refers to Zuko redirecting the lightning toward the sky while lying on
+                the ground, electrical shocks coursing through his shaking body still.</charAction>
+            So, Zuko releases most of the electricity, but he didn't
+            really do it right, like Uncle warned him.</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech>Man, Zuko like sacrifices his life for Katara, and she still didn't go for him. What
+            up? Zutarians...</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech><charAction>Interjects.</charAction> She-she can go with for him.
+                <charAction>Laughs.</charAction> "Zutarians".</speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Laughs.</charAction> They're mad right now.</speech>
+    </p>
+    <p>
+        <speaker name="Bryan">Bryan</speaker>
+        <speech>Aw, they're going to be mad. What're you going to do. <charAction>Brief pause;
+                refers to and imitates Ozai saying Aang, just like the rest of his "weak" people,
+                did not deserve to live in Ozai's world.</charAction> "In my world!"
+                <charAction>Brief pause; refers to Aang encasing himself in a sphere of rock to
+                protect himself from Ozai's onslaught of fire.</charAction> So, again, everything
+            ends bad in this one. <charAction>Laughs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Mike">Mike</speaker>
+        <speech><charAction>Laughs.</charAction> One more to go!</speech>
+    </p>
+</root>

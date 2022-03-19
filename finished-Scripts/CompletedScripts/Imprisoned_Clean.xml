@@ -1,0 +1,1297 @@
+<root>
+    <metadata>
+        <title>Imprisoned</title>
+    </metadata>
+    <p>
+        <speech>
+            <description>The scene opens up in a forest. Katara and Aang are on a raised, grassy
+                plateau. A gentle stream is running out beneath it. Katara is folding one of their
+                sleeping blankets. Aang is lying on the root of a tree. Momo screeches and lands on
+                the plateau as Sokka approaches.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Enthusiastically.</charAction> Great, you're back!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang leaps off the root with his airbending, landing beside the Water Tribe
+                siblings as Sokka digs in his bag.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>What's for dinner?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Digs nuts from his bag.</charAction> We've got a few options. First;
+            round nuts. And some kind of oval shaped nuts? And some rock-shaped nuts, that might
+            just be rocks. <charAction>Throws the rock-shaped nut toward Momo.</charAction> Dig in!
+                <charAction>Aang and Katara look at each other then back at
+            Sokka.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Seriously ... what else you got?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Momo coos, and sniffs the rock-shaped nut, before taking it with one of his
+                paws and slapping it against a stone twice. Attempting to break it, he takes it with
+                both paws and slams it down on the big rock. The moment he does so, however, the
+                entire earth quakes, making Momo shriek and his hair stand up on end.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>What was that?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Momo, believing he may have caused the quake, cautiously drops the rock to
+                the ground in test. The quake returns, causing Momo to leap away. </description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>It's coming from over there!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Aang and Katara run off-camera.</charAction> Shouldn't we run
+                away from huge booms? Not toward them?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The three, joined by Momo, hide behind a fallen tree and spy on a young boy
+                bending boulders into the air and punching them into the side of the
+                ravine.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>An earthbender!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Let's go meet him!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>He looks dangerous, so we better approach cautiously.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Suddenly Katara is a few feet in front of them, excitedly addressing the
+                earthbender.</charAction> Hello there! I'm Katara! What's your name?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The young boy gasps in surprise, dropping the boulder he was bending to the
+                ground. He flees quickly, bringing down an avalanche of boulders with his bending to
+                block his exit.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Sokka and Aang approach Katara; yelling.</charAction> Nice to meet
+            you!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Shrugging.</charAction> I just wanted to say hi.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Hey! That guy's gotta be running somewhere. Maybe we're near a village? And I bet
+            that village has a market!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Excitedly.</charAction> Which means no nuts for dinner!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Katara and Aang chase after Haru.</charAction> Hey! I worked hard to get
+            those nuts! <charAction>Momo flies overhead, chasing Katara and Aang.</charAction> Yeah,
+            I hate 'em too. <charAction>Slowly follows Katara and Aang.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara and Sokka stroll through the mining village's streets while Aang
+                speaks with a shopkeeper under a terrace.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Great hat! <charAction>Tries on the hat.</charAction> I'll trade you some nuts for
+            it.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Notices the boy enter a shop. Speaks to herself in
+                surprise.</charAction> Hey ...</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The boy enters into the dark, wooden building and approaches a
+                woman.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>Hi, Mom.</speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech>Where have you been, Haru? You're late! Get started on your chores.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Enters the shop's front door, startling Haru.</charAction> Hey. You're
+            that kid. Why did you run away before?</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>Uh, you must have me confused with some other kid.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Aang and Sokka enter the shop.</charAction> No, she doesn't. We saw you
+            earthbending.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Haru and his mother gasps in horror at his secret being revealed and both
+                the door and window to the small shop are promptly slammed shut.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech><charAction>Standing by the window.</charAction> They saw you doing what?!</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>They're crazy, Mom! I mean, look at how they're dressed.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang gazes to his conical hat, shifting it about in confusion. Katara
+                awkwardly grasps at her dress, looking with astonishment at herself. Sokka quirks an
+                eyebrow and smooths out his sleeve.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech>You know how dangerous that is! You know what would happen if they caught you
+            earthbending!</speech>
+    </p>
+    <p>
+        <speaker name="Tax collector">Tax collector</speaker>
+        <speech><charAction>Heavy knocks on the door.</charAction> Open up!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Sokka peeks through the window's blinds.</charAction> Fire Nation! Act
+            natural!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Haru's mother opens the door, allowing the Fire Nation tax collector to
+                walk inside. He stares awkwardly at the four children in front of him. Haru grasps
+                his chin and stares toward Katara, cross-eyed. Sokka eyeballs an apple. Katara
+                hunches forward with her eyes wide open, having stuffed her mouth with berries. Aang
+                has his hand atop a barrel, beaming an immense toothy smile. His pose is short-lived
+                as the barrel's lid spins, dunking Aang's hand into the barrel of water and causes
+                him to fall down.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech><charAction>The tax collector stares sourly toward the four children;
+                aggressively.</charAction> What do you want? I've already paid you this
+            week!</speech>
+    </p>
+    <p>
+        <speaker name="Tax collector">Tax collector</speaker>
+        <speech>The tax just doubled. <charAction>Arrogantly.</charAction> And we wouldn't want an
+            accident, would we? <charAction>Creates a ball of fire between his hands, making
+                everyone slightly back away.</charAction> Fire is sometimes so hard to
+            control.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Haru's mother and the tax collector approach the store's counter, where she
+                opens a small chest and passes a meager handful of Earth Kingdom currency to the tax
+                collector. Haru leans against the counter, staring with contempt toward the Fire
+                Nation man.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tax collector">Tax collector</speaker>
+        <speech>You can keep the copper ones. <charAction>Walks away, dropping four copper pieces to
+                the floor, exits.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Door slams.</charAction> Nice guy. How long has the Fire Nation been
+            here?</speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech>Five years. Fire Lord Ozai uses our town's coal mines to fuel his ships.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>They're thugs. They steal from us. And everyone here's too much of a coward to do
+            anything about it.</speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech><charAction>Angered.</charAction> Quiet, Haru! Don't talk like that.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Curiously.</charAction> But, Haru's an earthbender? He can
+            help!</speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech>Earthbending is forbidden. It's caused nothing but misery for this village!
+                <charAction>Casts a meaningful glance toward her son.</charAction> He must never use
+            his abilities.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>How can you say that? Haru has a gift! Asking him not to earthbend is like asking me
+            not to waterbend. It's a part of who we are.</speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech><charAction>Shakes head in dismay.</charAction> You don't understand.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I understand that Haru can help you fight back. What can the Fire Nation do to you
+            that they haven't done already?</speech>
+    </p>
+    <p>
+        <speaker name="Haru's mother">Haru's mother</speaker>
+        <speech>They could take Haru away! Like they took his father.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Scene changes to late evening, viewing farmland and a barn. Appa walks into
+                the barn. Cut to a closer view of Sokka, Katara, Haru, and Aang standing inside the
+                barn.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>My mom said you can sleep here tonight. But you should leave in the
+            morning.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Thanks. I'll make sure Appa doesn't eat all your hay.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Appa engulfs a mouthful of hay. Appa pauses, turning to stare dubiously
+                toward Aang before continuing to chew hay. The scene switches to Katara and Haru
+                taking a walk into the woods outside under the setting sun.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I'm sorry about what I said earlier. I didn't know about your father.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>That's okay. It's funny, the way you were talking back in the store? It reminded me
+            of him.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Flattered.</charAction> Thanks.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>My father was very courageous. When the Fire Nation invaded, he and the other
+            earthbenders were outnumbered ten to one. But they fought back anyway.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>He sounds like a great man.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The two approach the top of a steep cliff, gazing out to the setting sun
+                beyond.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>Stops.</charAction> After the attack, they rounded up my father and
+            every other earthbender, and took them away. <charAction>Kneels.</charAction> We haven't
+            seen them since.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>So that's why you hide your earthbending.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>Yeah. Problem is ... <charAction>Close-up, earthbends two stones in a circle above
+                his hand.</charAction> the only way I can feel close to my father now
+                <charAction>Crushes the stones to sand with his hands. The sand blows
+                away.</charAction> is when I practice my bending. He taught me everything I
+            know.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Sits beside Haru, sets her fingertips on her necklace.</charAction> See
+            this necklace? My mother gave it to me.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>It's beautiful.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I lost my mother in a Fire Nation raid. <charAction>Hangs her head, turning
+                away.</charAction> This necklace is all I have left of her.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>It's not enough, is it?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No. <charAction>Hangs her head and turns away.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene switches to Katara and Haru who have continued their walk along
+                the dirt trail. A loud boom sounds and rock and dust blasts from a distant mine
+                entrance. An old man cries out.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Old man">Old man</speaker>
+        <speech>Help, help!</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>The mine!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara and Haru run quickly to the entrance, which has caved in and left a
+                tremendous pile of rocks pinning the old man to the ground on his stomach. Sand
+                continues to pour down, rocks intermittently falling.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Old man">Old man</speaker>
+        <speech>Help me!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Haru braces his back against the mine entrance. Katara pulls the old
+                man.</charAction> Ugh! It's not working! We have to get help!</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>There's no time, pull harder!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Getting an idea.</charAction> Haru. There's a way
+                you can help him.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>Guilty fear.</charAction> I <description>can't.</description></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Please, there's no one around to see you. It's the only way!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Haru leaps away from the falling debris, spinning back to face it as he
+                assumes an earthbending form. With a sudden and strong move, he blasts all the rocks
+                down the tunnel, freeing the old man.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Excitedly.</charAction> Haru! You did it! <charAction>The two take place
+                beside the old man and aid him walking away from the mine.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>At the barn, Katara is sitting up in her bedroll with a lamp in her lap.
+                Sokka is lying on a square bale of hay with his blanket over him, and Aang is
+                sprawled out on Appa's head with Momo lying on his back.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>It was so brave of Haru to use his earthbending to help that old man.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>You must have really inspired him.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I guess so.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Everyone should get some sleep, we're leaving at dawn.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Unhappily.</charAction> Dawn?! Can't we sleep in for once?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Commandingly.</charAction> Absolutely not! This village is crawling with
+            Fire Nation troops. If they discover you're here, Aang, we'll be eating fireballs for
+            breakfast. Goodnight.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Slyly, with a wry smirk.</charAction> I'd rather eat fireballs than
+            nuts.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>
+            <charAction>With finality.</charAction>
+            <description>Goodnight!</description>
+        </speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara and Aang share a few playful chuckles with each other before she
+                blows out the lamplight to get some rest.</description>
+            <description>Fire Nation troops march on a mission through the dead of night. The man in
+                the lead raps on a wooden door. Haru answers the door, suddenly gasping in shock as
+                he sees the troops.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Old man">Old man</speaker>
+        <speech><charAction>Points accusingly.</charAction> That's him! That's the
+            earthbender!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The Fire Nation leader shoves the old man out of the way and approaches
+                Haru. Haru screams as the man forces Haru into his grip and hauls him
+                away.</description>
+            <description>In the morning, Katara carries a jar outside of the barn. She sets it down
+                beside a water pump and proceeds to waterbend, drawing water out of the spigot and
+                into the waiting pot. Picking it up, she spots Haru's mother standing with her back
+                to her, gazing toward the distant ocean. Haru's mother slowly turns around, laying a
+                tearful gaze upon Katara. Katara realizes Haru has been taken and drops the pot, as
+                it shatters to pieces at her feet.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Enters barn to see Aang and Sokka folding blankets;
+                emotionally.</charAction> They took him! They took Haru away!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Surprised.</charAction> What?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Hurriedly.</charAction> The old man turned him in to the Fire Nation -
+            it's all my fault - I forced him into earthbending!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Steps beside her, taking her hand in his and laying his other hand
+                supportively behind her shoulder.</charAction> Slow down, Katara. When did this
+            happen?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Haru's mother said they came for him at midnight.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Then it's too late to track him, he's long gone.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Turns defiantly to the open door, clenches fists.</charAction> We don't
+            need to track him. The Fire Nation is going to take me right to Haru.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Confused.</charAction> And ... why would they do that?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Determined.</charAction> Because they're going to arrest me for
+            earthbending. <charAction>Aang and Sokka share a horrified look.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Scene changes to Sokka and Katara working together to push a boulder
+                overtop an air vent on a rocky road.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I thought you were crazy at first, Katara, but this might work. There are
+            ventilation shafts throughout these mines. All Aang has to do is send an air current
+            from that vent to this one right here. The boulder levitates and
+                <description>ta-da!</description> Fake earthbending.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Props hands off hips, turns to Aang.</charAction> Aang? Did you get all
+            that?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Snapping small puffs of air at a sooty copper fritillary butterfly;
+                dismissively.</charAction> Sure, sure. I got it.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Do you remember your cue?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Continues snapping puffs of air; still dismissive.</charAction> Yeah,
+            yeah. Just relax. You're taking all the fun out of this.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Aggravated.</charAction> By <description>this,</description> do you mean
+            intentionally being captured by a group of ruthless firebenders?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Humored.</charAction> Exactly! That's fun stuff!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Group of firebenders with spears approach.</charAction> Here they come!
+            Get in your places!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang stops playing with the butterfly and Momo tries catching it as it
+                flies away. As the group of spear-wielding guards approach, Katara and Sokka make a
+                show of walking into one another by their stomachs before emphatically
+                shouting.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>While angrily pointing at Katara.</charAction> Get out of my way,
+            pipsqueak! <charAction>The soldiers watch in confusion. One of them even raises an
+                eyebrow.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Angrily hunched over.</charAction> How dare
+            you call me pipsqueak, you giant-eared cretin!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Just as angrily hunched over.</charAction> What did you call
+            me?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Far too dramatically as her hair loopies move with her
+                motion.</charAction> A giant-eared cretin! Look at those things! Do herds of animals
+            use them for shade?! <charAction>Imitates an elephant's ears.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Towers over his sister.</charAction> You better back off!
+                <charAction>Slips his hand by his mouth and mutters.</charAction> Seriously, back
+            off.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>More determined, heightens above her now-cowering brother.</charAction>
+            I will not back off! I bet elephants get together and make fun of how large
+                your ears are!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>That's it! You're going down!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I'll show you who's boss! <charAction>Angrily points at Sokka.</charAction>
+            Earthbending style! <charAction>Over-dramatically leaps toward the boulder, clenching
+                her fist upward to which there is no reaction. Angrily.</charAction> I said,
+            earthbending style!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>At Katara's shout, Aang gasps quietly as he realizes his mistake by missing
+                his cue. The young airbender ceases playing with the butterfly, leaps up, and blasts
+                a strong jet of air into the ventilation duct, suddenly sending the boulder
+                levitating into the air. This reveals Momo behind the boulder, who has his arms
+                raised, licking himself.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Guard">Guard</speaker>
+        <speech><charAction>Points a finger to the lemur; surprised.</charAction> That lemur! He's
+            earthbending!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Katara and Momo each remain in their positions. Katara eyes the man in
+                surprise. Sokka, angrily, waves his arms toward her.</charAction> No, you idiot,
+            it's the girl!</speech>
+    </p>
+    <p>
+        <speaker name="Guard">Guard</speaker>
+        <speech>Oh. <charAction>Blushes shamefully.</charAction> Of course.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka steps beside Katara, laying his hands on her shoulders as the boulder
+                falls to the ground. Katara stands patiently.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I'll hold her. <charAction>Close-up. Whispers to Katara.</charAction> You've got
+            twelve hours to find Haru. We'll be right behind you.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The guards escort Katara away, leaving Aang, Sokka, and Momo to watch as
+                she takes a final glance back. Sokka unhappily tugs at his ears, testing their
+                sizes.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Eyeballs Momo perched off of Aang's shoulder. Points
+                accusingly.</charAction> Momo, you have some big ears!
+                <charAction>Momo folds his ears back, hunches down, and coos in
+                protest.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara is in the back of a Fire Nation transport with other earthbender
+                prisoners. She wears a brown, tattered prison garb over her blue Water Tribe outfit
+                and stares glumly downward. Sokka and Aang each have conical yellow hats in a crowd,
+                attempting to stealthily observe her travel. Katara looks longingly over shoulder as
+                the cart bobs along a pier, heading toward a waiting barge on the
+                ocean.</description>
+            <description>Aang and Sokka chase the barge, riding Appa through the clouds. The
+                immense, smoking, off-shore Fire Nation prison rig is seen just ahead. Close-up of
+                the rig.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Aang stares nervously at the barge carrying Katara to the
+                prison.</charAction> She'll be fine, Aang. Katara knows what she's doing.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>After the barge arrives, six prisoners, including Katara, line up on the
+                deck of the prison. Spear-wielding guards stand at either side. A prison warden
+                approaches.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Smugly.</charAction> Earthbenders. It is my pleasure to welcome you
+            aboard my modest shipyard. I am your warden. I prefer to think of you not as prisoners,
+                <charAction>Quips smartly.</charAction> but as honored guests. And I hope you come
+            to think of me as your humble and caring host. <charAction>Paces
+                nonchalantly.</charAction> You will succeed here, if you simply abide-</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The warden pauses, suddenly interrupted by a prisoner in line coughing.
+                With no forewarning, the warden leaps into the air and aims a blast of fire at the
+                prisoner's legs in anger. The prisoner cowers away for safety as the warden stands
+                defiantly toward the man.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Very angrily.</charAction> What kind of guest dishonors his host by
+            interrupting him?! Take him below! <charAction>Swings his arms. Some guards escort the
+                man away. Mutters.</charAction> One week in solitary will improve his manners.
+                <charAction>Continues smug gait.</charAction> Simply treat me with the courtesy that
+            I give you-</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Approaches Katara, kneeling to stare into her obstinate expression. She
+                crosses her eyebrows, scowling coarsely at the man.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech>And we'll get along <description>famously.</description></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The prisoners are taken on a tour of the facility. Below, fellow prisoners
+                are seen laboring.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech>You will notice, earthbenders, that this rig is made entirely of metal. You are
+            miles away from any rock or earth. <charAction>Katara pauses, glancing over the
+                expansive ocean to the land far away.</charAction> So, if you have any illusions
+            about employing that brutish savagery that passes for bending among you people ...
+                <charAction>Lowly.</charAction> forget them. It is impossible. Good day.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>A guard escorts the prisoners into the prison courtyard. Katara enters last
+                and the metal gates close behind her. Among many earthbender prisoners, Haru takes
+                notice of Katara. Above the courtyard, a watchman and the warden monitor the
+                scene.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>Surprised.</charAction> Katara?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Excitedly. Runs and hugs Haru.</charAction> Haru!</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>Confused.</charAction> What are you doing here?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Somewhat apologetically.</charAction> It's my fault you were captured. I
+            came to rescue you.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>Shocked.</charAction> So, you got yourself arrested?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>It was the only way to find you.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>You've got guts, Katara. I'll give you that. <charAction>Places hand on her
+                shoulder.</charAction> Come on. There's someone I want you to meet.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The two approach an old, gray-bearded man eating dinner among other
+                prisoners.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>Katara. This is my father, Tyro. <charAction>The older man looks up.</charAction>
+            Dad. This is Katara.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Slightly bows.</charAction> It's an honor to meet you.</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech><charAction>Hands Katara a bowl.</charAction> Have some dinner, Katara.
+                <charAction>Katara accepts the bowl, but grimaces.</charAction> It's not as bad as
+            it looks. <charAction>Katara tries a spoonful, but becomes further disgusted. He finds
+                humor in this with a small chuckle.</charAction> It's still pretty bad
+            though.</speech>
+    </p>
+    <p>
+        <speaker name="Prisoner">Prisoner</speaker>
+        <speech><charAction>Walks up and lays a hand on Tyro's shoulder.</charAction> Tyro. The
+            prisoners are complaining there aren't enough blankets to go around.</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>I'll talk to the guards. In the meantime, make sure the elderly are taken care of.
+            The rest of us will simply have to hope for warmer weather.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>If you don't mind me asking, what's your escape plan?</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>Excuse me?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>You know, the plan to get everyone off the rig? What is it? Mutiny,
+            sabotage?</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>The plan? The plan is to survive. Wait out this war. Hope that one day some of us
+            can get back home and forget this ever happened.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Shocked.</charAction> How can you say that? You sound like you've
+            already given up!</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>Katara, I admire your courage. And I envy your youth. But people's lives are at
+            stake here. The warden is a ruthless man, and he won't stand for any rebellion. I'm
+            sorry, but we're powerless.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Obstinately.</charAction> We'll see about that.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara stands up and carries a trash can lid and a ladle, climbing on top
+                of a wooden table. From there, she bangs the ladle against the lid to draw
+                attention.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Earthbenders! You don't know me, but I know of you. Every child in my Water Tribe
+            village was rocked to sleep with stories of the brave Earth Kingdom, and the courageous
+            earthbenders who guard its borders. <charAction>The watchman walks up to talk the
+                warden, but the warden stops him and listens.</charAction> Some of you may think
+            that the Fire Nation has made you powerless. Yes, they have taken away your ability to
+            bend. But they can't take away your courage. And it is your
+            courage they should truly fear! Because it runs deeper than any mine you've been forced
+            to dig, any ocean that keeps you far from home! It is the strength of your hearts that
+            make you who you are. Hearts that will remain unbroken when all rock and stone has
+            eroded away. The time to fight back is now! I can tell you the Avatar has returned! So
+            remember your courage earthbenders, <charAction>Shouts clearly.</charAction> let us
+            fight for our freedom!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara's speech is met with utter silence and a small cough in the
+                background, leaving her to fall into sorrow as she realizes the muted answer she
+                receives. The warden walks away from the courtyard. Later that night while she is
+                sleeping, Aang sneaks into the prison and taps his hand to her shoulder, waking her.
+                Urging her to be quiet, he leads her to the perimeter where Sokka and Appa are
+                waiting to make their escape.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Your twelve hours are up; where's Haru? We've gotta get outta here!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I can't.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Hurriedly.</charAction> We don't have much time. There are guards
+            everywhere. Get on!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Concerned.</charAction> Katara, what's wrong?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I'm not leaving. <charAction>Aang and Sokka share a questionable look.</charAction>
+            I'm not giving up on these people.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Fade to black. Cut to Sokka, Aang, and Katara on the metal
+                perimeter.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>What do you mean you're not leaving?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>We can't abandon these people! There has to be a way to help them.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Maybe she's right. What do you say, Sokka?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I say you're both crazy! <charAction>The trio ducks a searching
+                spotlight.</charAction> Last chance! We need to leave, now!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Sternly.</charAction> No!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Shakes his head dismally.</charAction> I hate when you get like this.
+            Come on, we better hide.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Katara and Sokka flee. Aang whispers to Appa before joining
+                them.</charAction> Go hide.</speech>
+    </p>
+    <p>
+        <speaker name="Captain">Captain</speaker>
+        <speech><charAction>Appa soars overhead to fly away and hide.</charAction> Look!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The two guards who witnessed Appa take to the skies approach the warden on
+                a catwalk.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech>Tell me exactly what you saw.</speech>
+    </p>
+    <p>
+        <speaker name="Captain">Captain</speaker>
+        <speech>Well, sir, it looked like a flying bison.</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Surprised.</charAction> What?</speech>
+    </p>
+    <p>
+        <speaker name="Guard">Guard</speaker>
+        <speech>It was a giant flying buffalo, sir. With an empty saddle.</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech>Which was it? A buffalo or a bison?</speech>
+    </p>
+    <p>
+        <speaker name="Captain">Captain</speaker>
+        <speech>Uh, I'm not sure what the difference is, but that's not really the point, is it,
+            sir?</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Furiously.</charAction> I'll decide what the point is, fool!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The warden throws the first guard overboard. The man screams in horror
+                before finally being silenced by a splash below.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>To the second guard as he straightens up.</charAction> You! Wake up the
+            captain. Search the entire rig! <charAction>Turns to walk away.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Guard">Guard</speaker>
+        <speech>Uh, sir.</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Annoyed.</charAction> What?</speech>
+    </p>
+    <p>
+        <speaker name="Guard">Guard</speaker>
+        <speech><charAction>Somewhat timidly.</charAction> That was ... the captain you just threw
+            overboard, so ...</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Still quite annoyed.</charAction> Then wake up someone I
+                <description>haven't</description> thrown overboard and search the rig! There's
+            something going on here and I don't like it.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut scene; Momo peeps over a wooden crate where the trio is safely hiding
+                behind numerous boxes. Scene opens up to show the three huddled together seated on
+                the metal ground in the darkness.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>We don't have much time. What are we gonna do?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I wish I knew how to make a hurricane!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Both Sokka and Katara provide Aang with assuredly un-entertained facial
+                expressions.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>The warden would run away and we'd steal his keys!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Wouldn't he just take his keys with him?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I'm just tossing ideas around.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I tried talking the earthbenders into fighting back but, it didn't work! If there
+            was just a way to help them help themselves.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>For that they'd need some kind of earth, or some rock. Something they can
+            bend.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Lays her palm to the surface.</charAction> But this entire place is made
+            of metal!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>No, it's not. <charAction>Points to smokestacks.</charAction> Look at the smoke! I
+            bet they're burning coal. In other words, <description>earth.</description></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Morning arrives, the scene gaining light. Sokka and Katara are alone by an
+                air duct. Sokka is peering down into it, while Katara kneels beside it with her
+                hands on its rim.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>It's almost dawn. We're running out of time! You sure this is gonna work?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>It should. These vents reminded me of our little trick back at the village. We're
+            gonna do the same thing, but on a much bigger scale. <charAction>The camera zooms
+                through a visual walkthrough of Sokka's explanation.</charAction> There's a huge
+            deposit of coal at the base of the silo. And the whole system is ventilated. Aang closed
+            off all the vents except one. When he does his airbending the coal only has one place to
+            go, right back here.</speech>
+    </p>
+    <p>
+        <speaker name="Guard">Guard</speaker>
+        <speech>There's the intruder!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The two siblings are suddenly surrounded by a number of spear-wielding Fire
+                Nation guards. The prisoners have gathered a safe distance away from this spectacle,
+                observing what is happening.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Stay back! I'm warning you! <charAction>Pulls out his boomerang, turning
+                back-to-back with his sister.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech><charAction>Roughly.</charAction> Katara, stop! You can't win this fight!</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech>Listen to him well, child. You're one mistake away from dying where you
+            stand.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>A sudden rush of air fills their ears as the facility shakes. The
+                ventilation shaft bursts off its hinges as an immense blast of coal soars into the
+                air, crashing down into a gathered pile. Everyone present is silent, staring in
+                stark surprise at this turn of events. Lastly, Aang leaps out from the barren
+                ventilation shaft, landing atop the coal pile and coughing, covered in soot and
+                dirt. Momo follows him and Katara runs up to the coal, turning to face the
+                earthbenders.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Lifting up a piece of coal.</charAction> Here's your chance,
+            earthbenders! Take it! Your fate is in your own hands!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Haru bolts ahead without hesitation, prepared to bend the waiting coal as a
+                weapon. Tyro throws his hand up, bracing his son's chest to halt his
+                advance.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Bursts out into highly amused laughter.</charAction> Foolish girl. You
+            thought a few inspirational words and some coal would change these people? Look at these
+            blank, hopeless faces. Their spirits were broken a long time ago. <charAction>Katara's
+                expression dims as she does as instructed, staring at the forlorn
+                prisoners.</charAction> Oh, but you still believe in them. How sweet. They're a
+            waste of your energy little girl. You <description>failed.</description></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The warden finishes his speech by turning to take leave of the facility. As
+                he does so, a single piece of coal sails through the air and pelts the back of his
+                head. Outraged, the warden spins back to see who dared to attack him. Haru stands
+                defiantly levitating three pieces of coal above his hand. The warden sends a blast
+                of fire toward Haru, but the fire is blocked, as Tyro raises a wall of coal in his
+                defense.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Guards line up and prepare for battle.</charAction> Show no mercy!
+                <charAction>The guards send a blast of fire as one toward the rebelling
+                prisoners.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech><charAction>The earthbenders work together to haul a sizable mass of coal to block
+                the fire.</charAction> For the Earth Kingdom, attack!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Slamming the coal to the ground; chunks of rock assault the guards. The
+                battle immediately flares, prisoners ducking blasts of fire and countering with
+                fists of coal. Katara and Aang chase after Sokka as he snaps soldiers spears in two
+                with his boomerang, tossing the broken shafts to Momo overhead. Momo continues to
+                collect other pieces of broken spears that are thrown up to him.</description>
+            <description>Tyro and Haru work in unison to compress gathered coal into one lump,
+                slinging this through the doors to make way for their escape. The guards on top fall
+                down.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>Get to the ships! We'll hold them off!</speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech>Do not let them escape!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Generates an air funnel and holds it between his hands; to Katara and
+                Sokka.</charAction> Guys! Throw me some coal!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara and Sokka drop heaps of coal into his funnel, firing the material
+                rapidly at the warden and his fellow benders, knocking them to the ground. Following
+                this, Tyro and two other earthbenders work together to lift coal beneath these
+                adversaries, moving them away from the rig and over the ocean.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden">Warden</speaker>
+        <speech><charAction>Pleading.</charAction> No, please! I can't swim!</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>Don't worry. I hear cowards float. <charAction>Drops their enemies into the
+                ocean.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>On the barge headed to their homes, Haru and Tyro approach Katara on its
+                deck.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>I want to thank you for saving me. For saving us.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Turning to face Haru. Denying.</charAction> All it took was a little
+            coal.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>It wasn't the coal, Katara. It was you. <charAction>Katara
+            blushes.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>Thank you for helping me find my courage, Katara of the Water Tribe. My family and
+            everyone here owes you much.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>So, I guess you're going home now.</speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>Yes. To take back my village. <charAction>Raises his voice to the crowd on the lower
+                deck.</charAction> To take back all of our villages! The Fire Nation will regret the
+            day they set foot on our land! <charAction>Crowd cheers at Tyro's
+            bravado.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>To Katara.</charAction> Come with us.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I can't. Your mission is to take back your home. Ours is to get Aang to the North
+            Pole. <charAction>Gazes over the rail to see Momo join Aang atop Appa's head, floating
+                in the ocean.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech>That's him, isn't it? The Avatar. <charAction>Aang airbends an encased piece of
+                coal. Momo jumps into his lap.</charAction> Katara, thank you for bringing my father
+            back to me. I never thought I'd see him again. I only wish there was some way
+            ...</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I know. <charAction>Reaches for her necklace wistfully, but realizes it is not
+                around her neck and panics.</charAction> My mother's necklace! It's gone!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Back on the prison rig, Zuko stands alone facing the sunset amid coal lying
+                sparsely on the deck. He seizes Katara's necklace in his fingers, lifting it to
+                stare at it grimly.</description>
+        </speech>
+    </p>
+    <p>
+        <speech>
+            <description>Fade to credits.</description>
+        </speech>
+    </p>
+</root>
