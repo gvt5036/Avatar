@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <metadata>
+      <title>Escape from the Spirit World</title>
+   </metadata>
+   <section>
+      <description>The shot opens to Aang on a hill sitting with his hands covering his ears.
+                The camera pans in and Aang wakes up.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">What happened? Where am I?</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">
+         <charAction>Off-camera.</charAction> You are in the Spirit World.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Looks up and smiles.</charAction> Princess Yue!</speech>
+   </section>
+   <section>
+      <description>The shot changes to show the spirit Yue floating in front of the moon. The
+                camera pans toward her.</description>
+   </section>
+   <section>
+      <speech speaker="Yue">Aang, your Avatar Spirit has been injured. If you don't act fast, you will lose your
+            connection to your past lives ... <charAction>Shot changes to Aang looking
+                concerned.</charAction> and the Avatar Cycle will end. <charAction>Shot changes to a
+                side shot of Yue.</charAction> You must find your previous four past lives and
+            reconnect with them.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Camera pans to him.</charAction> How do I do that?</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">
+         <charAction>Off-camera.</charAction> You will find them here, in the Spirit World.
+            But be careful ... Koh will try to steal your face. <charAction>Frontal shot of Aang,
+                whose eyes widen in concern. He subsequently relaxes his face to show no
+                emotion.</charAction> Be careful about what spirits you talk to. <charAction>Frontal
+                shot of Yue.</charAction> Some will help you, but others work for Koh, and they will
+            trick you. <charAction>Camera pans out as Yue fades away.</charAction> Good luck,
+            Aang.</speech>
+   </section>
+   <section>
+      <description>Fade to black.</description>
+   </section>
+   <section>
+      <description>The shot shows a geyser of fire come out from the ground. When the geyser
+                suddenly stops, the camera shows Aang standing behind it, and slowly pans
+                in.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Yelling.</charAction> Roku, where are you? <charAction>A geyser goes off
+                in the trees behind him. He looks around and slowly walks forward. Suddenly, a
+                geyser goes off right in front of him.</charAction> Aaahh!</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Suddenly appears from inside the geyser. Bowing.</charAction> Hello
+            Aang.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm sorry, Roku ... I tried to master the Avatar State ... but I failed.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Mastering the Avatar State takes much spiritual discipline and patience.
+                <charAction>Frontal shot.</charAction> I learned this the hard way.</speech>
+   </section>
+   <section>
+      <description>The camera fades to white and shows an aerial shot of Crescent Island.
+                Roku's blue dragon flies toward the volcano.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Where are we going?</speech>
+   </section>
+   <section>
+      <description>The shot changes to a closer shot of the volcano as Roku's dragon flies
+                down to the temple.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">To the Fire Sage's temple. One-hundred-fifty-four years ago ...</speech>
+   </section>
+   <section>
+      <description>Cut to inside the temple. Aang and Roku are standing in the corner as
+                spirits, while Kaja and a younger Roku sit on the floor meditating.</description>
+   </section>
+   <section>
+      <speech speaker="Kaja">Concentrate on your breath ... Clear you mind of all thoughts ... <charAction>Split
+                screen showing Roku on the bottom and Kaja on the top.</charAction> Enter the Avatar
+            State ...</speech>
+   </section>
+   <section>
+      <description>A message appears on the bottom of the camera: "Fun Fact: Fire Sage Kaja is
+                Fire Sage Shyu's Grandfather" before fading out. Frontal shot of Roku.</description>
+   </section>
+   <section>
+      <speech speaker="Young Roku">
+         <charAction>Thinking.</charAction> Inhale ... and exhale ... I think my leg is
+            falling asleep ... clearing mind ... I hope we're not eating komodo chicken for lunch
+            again ... <charAction>Sweating and gritting his teeth.</charAction> Arrggh, concentrate!
+                <charAction>The camera shakes as he tries to concentrate. He finally stands
+                up.</charAction> I can't do it! I've been in retreat for five months and I'm no
+            closer to mastering the Avatar State than when I arrived!</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Camera cuts to outside the temple.</charAction> But I was impatient, so
+            I decided to use the winter solstice sun to help me ...</speech>
+   </section>
+   <section>
+      <description>Cut to inside the temple. Roku meditates on the floor as a beam of light
+                moves close to him.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">What are you doing?</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">I'm trying to enter the Avatar State using the spiritual energy from the
+            Sun.</speech>
+   </section>
+   <section>
+      <description>The shot shows a red crystal from which the beam of light emanates. Frontal
+                shot of Roku as the circle of light falls on his face. Roku opens his eyes, showing
+                he is in the Avatar State. The camera pans back to show the spirits Aang and Roku
+                watching the scene.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">You did it, Roku! You mastered the Avatar State!</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Well, not exactly ...</speech>
+   </section>
+   <section>
+      <description>Aang looks toward the camera, which pans back to show Kaja.</description>
+   </section>
+   <section>
+      <speech speaker="Kaja">
+         <charAction>Peeking from behind a door.</charAction> Roku, what did you
+            do?!</speech>
+   </section>
+   <section>
+      <description>Cut to an outside-view of the temple. White light emanates from the windows
+                before the roof explodes and a pillar of light beams up into the sky. Cut to Roku
+                standing in a ball of air as he slowly lifts himself from the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>His spirit speaks to Aang.</charAction> I was stuck in the Avatar State.
+                <charAction>Kaja protects himself from the winds.</charAction> I could see my body,
+            but I couldn't control it. <charAction>The volcano on the island erupts.</charAction>
+            Luckily, Fire Sage Kaja was wiser than I, and he knew how to break the Avatar State's
+            hold on me.</speech>
+   </section>
+   <section>
+      <description>Kaja raises the red crystal and directs the beam at Roku's face. Pan in
+                toward Roku as he exits the Avatar State.</description>
+   </section>
+   <section>
+      <speech speaker="Young Roku">What happened? <charAction>He collapses and the camera fades to black. Cut to Roku
+                kneeling on the ground as Kaja stands next to him.</charAction> Cough!
+            Cough!</speech>
+   </section>
+   <section>
+      <speech speaker="Kaja">Looks like we have a lot more training to do ... after you rebuild the
+            temple.</speech>
+   </section>
+   <section>
+      <description>Roku looks up and smiles sheepishly.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>His spirit speaks to Aang.</charAction> I see my own impatience in you,
+            Aang. Do not be too hard on yourself. You will master the
+            Avatar State, as I finally did. <charAction>Camera fades to Roku riding away on his
+                dragon.</charAction> Look for Avatar Kyoshi in the place where Hei Bai
+            sleeps!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Camera fading to black.</charAction> ... what?</speech>
+   </section>
+   <section>
+      <description>The shot shows Hei Bai sitting among a bamboo forest and nibbling on a
+                piece of bamboo.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Off-camera; excited.</charAction> Hei Bai! <charAction>Hugging Hei
+                Bai.</charAction> Roku told me I'd find you here!</speech>
+   </section>
+   <section>
+      <speech speaker="Hei Bai">Rraaaawww!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Stops hugging him.</charAction> I'm happy to see you too. I don't
+            suppose you've seen Avatar Kyoshi around, have you? <charAction>Camera fades to black
+                and cuts to Aang riding on Hei Bai. Pointing.</charAction> There she is!</speech>
+   </section>
+   <section>
+      <description>Cut to Kyoshi standing in the bamboo forest as Aang stands near Hei Bai.
+                She smiles at him.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">It's nice to see you, Aang. Sorry about the whole "wrongfully accused of murder"
+            thing back in Chin Village.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">That's okay.</speech>
+   </section>
+   <section>
+      <description>A box fades onto the bottom of the screen, reading "Fun Fact: Kyoshi lived
+                for 230 years, making her the oldest Avatar in history", before fading
+                away.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">After Chin the Conqueror died, I helped the world live in balance. I accomplished a
+            lot of good, but I also made some mistakes ... <charAction>Fade to white and cut to Ba
+                Sing Se.</charAction> One of my greatest challenges was dealing with a peasant
+            uprising in Ba Sing Se.</speech>
+   </section>
+   <section>
+      <description>Cut to the Royal Earthbender Guards defending the Royal Palace from the
+                peasant mobs.</description>
+   </section>
+   <section>
+      <speech speaker="Angry peasant">Down with the Earth King!</speech>
+   </section>
+   <section>
+      <description>Cut to Ba Sing Se's Upper Ring.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">
+         <charAction>Voice-over.</charAction> The peasants felt that the Earth King's role
+            was outdated and that he did not represent their interests. So they stormed the Upper
+            Ring. <charAction>Cut to outside the Earth Kingdom Royal Palace, where the peasants
+                topple a statue.</charAction> The peasants destroyed priceless historical artifacts
+            and buildings - anything that represented the "old governement
+                <charAction>Sic.</charAction>." <charAction>Cut to inside to the throne
+                room.</charAction> The Earth King summoned me to help him end the
+            revolution.</speech>
+   </section>
+   <section>
+      <description>Cut to a close-up shot of the Earth King. A box fades on top of the screen
+                with the words "Fun Fact: The 46th Earth King is the current Earth King's
+                great-great-great-great grandfather", before fading away.</description>
+   </section>
+   <section>
+      <speech speaker="Earth King">I don't care how you do it, but I want you to squash those unruly peasants!</speech>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">I won't do it.</speech>
+   </section>
+   <section>
+      <speech speaker="Earth King">
+         <charAction>Stands up.</charAction> How dare you defy your King!
+                <charAction>Pointing.</charAction> Guards, arrest Avatar Kyoshi!</speech>
+   </section>
+   <section>
+      <description>Five of the Earth King's guards surround Kyoshi, who plants her feet on the
+                floor and sends the guards flying away with her airbending. Cut to Kyoshi standing
+                before the Earth King at his throne. He leans away from her in shock as she points
+                one of her fans at him in a threatening manner.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">How dare you defy your Avatar! Are you ready to make a
+            compromise?</speech>
+   </section>
+   <section>
+      <speech speaker="Earth King">
+         <charAction>Timidly.</charAction> Yes ...</speech>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">I don't like this revolution either. But everyone in this Kingdom must have a voice
+            if balance is to prevail over tyranny. So I propose this - you will listen to the
+            peasants' grievances and I will protect you interests and Ba Sing Se's cultural
+            heritage. Agreed?</speech>
+   </section>
+   <section>
+      <speech speaker="Earth King">Agreed ...</speech>
+   </section>
+   <section>
+      <description>Cut to Kyoshi observing a line of earthbenders.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">
+         <charAction>Voice-over.</charAction> I immediately set to work training an elite
+            force of Earthbenders ... <charAction>Cut to her elite force scaling a
+                wall.</charAction> They would be silent, precise ... <charAction>Cut to a closer
+                shot of the wall, where a member of her elite force grabs onto it with a rock
+                glove.</charAction> and feared by all. <charAction>Cut to her elite force standing
+                in rows.</charAction> They became known as the Dai Li.</speech>
+   </section>
+   <section>
+      <description>Cut to Aang as the flashback ends.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">You trained the Dai Li? But they're the worst, most corrupt Earthbenders in the
+            world!</speech>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">I thought I was doing the right thing by creating a group that protected cultural
+            history. I had no idea what they would become. Aang, our actions always have an effect:
+            sometimes positive, sometimes negative ... and sometimes not for many lifetimes.
+                <charAction>Cut to her helping Aang onto Hei Bai.</charAction> Hurry! You must find
+            the Waterbender Avatar who came before me.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">But I don't even know his name!</speech>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">His name is Avatar Kuruk. <charAction>She fades away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Fade to black.</description>
+   </section>
+   <section>
+      <description>The shot shows Aang riding through the Spirit World on Hei
+                Bai.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>They pass a faceless monkey spirit.</charAction> We're in the Realm of
+            Koh, Hei Bai ... We better be careful. <charAction>Kuruk lands in front of them and Aang
+                screams.</charAction> Aaahh! <charAction>Falls off Hei Bai and lands in some
+                mud.</charAction> Koh took your face and replaced it with a bear's face!</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Lifts his head to show that he is wearing a polar bear's skin
+                hat.</charAction> Relax kid. I'm not going to hurt you. <charAction>Helps Aang stand
+                up.</charAction> I'm Avatar Kuruk! Nice to finally meet you. Now tell me, have you
+            seen a beautiful woman with long, brown hair around here?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">No, who is she?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">She's my wife. <charAction>Closes his eyes. Fade to him as a young
+                Avatar.</charAction> When I was a young Avatar ... <charAction>Camera pans out to
+                show his younger self lifting a boulder with one hand while an earthbender stands
+                beside him and lifts a boulder with two hands.</charAction> ... I traveled the
+            world, challenging other benders to tests of strength ...</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Speaking inside the flashback and pointing at the camera.</charAction> I
+            challenge you to an Agni Kai!</speech>
+   </section>
+   <section>
+      <description>The shot changes to show him pointing at a Fire Nation
+                civilian.</description>
+   </section>
+   <section>
+      <speech speaker="Fire Nation civilian">Uh, I was just going to the store.</speech>
+   </section>
+   <section>
+      <description>Cut to the Eastern Air Temple.</description>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Voice-over.</charAction> I loved impressing people with my bending
+            prowess. Especially girls.</speech>
+   </section>
+   <section>
+      <description>Camera pans down to show Kuruk creating an air funnel with lotus flowers
+                inside to impress a group of Air Nomad ladies.</description>
+   </section>
+   <section>
+      <speech speaker="Kuruk">Bet you girls have never seen a lotus tornado before!</speech>
+   </section>
+   <section>
+      <speech speaker="Airbender girl #1">It's beautiful!</speech>
+   </section>
+   <section>
+      <speech speaker="Airbender girl #2">I love you, Avatar Kuruk!</speech>
+   </section>
+   <section>
+      <description>Cut to Kuruk riding a wave on a surf board.</description>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Voice-over.</charAction> I was arrogant, proud, and boastful ... I never
+            thought about settling down until I met the love of my life. <charAction>Cut to the
+                Northern Water Tribe.</charAction> We met during the New Moon Celebration, when the
+            sister tribes would come together as one. <charAction>Cut to Kuruk standing amid three
+                women and looking past them.</charAction> It was love at first sight.
+                <charAction>Cut to Ummi.</charAction> Her name was Ummi. She was from the Southern
+            Tribe. And she was the most beautiful woman I'd ever seen. <charAction>Cut to Ummi and
+                Kuruk sitting together in front of the full moon.</charAction> With Ummi in my life,
+            I decided to change my irresponsible ways and settle down.</speech>
+   </section>
+   <section>
+      <description>Cut to Kuruk offering Ummi a betrothal necklace.</description>
+   </section>
+   <section>
+      <speech speaker="Ummi">A betrothal necklace?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">Ummi, will you marry me?</speech>
+   </section>
+   <section>
+      <speech speaker="Ummi">Yes!</speech>
+   </section>
+   <section>
+      <description>They kiss. Cut to the Spirit Oasis.</description>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Voice-over.</charAction> We were to be married in the Spirit Oasis. But
+            on the day of our wedding, tragedy struck.</speech>
+   </section>
+   <section>
+      <description>Ummi glances down at the spirit pond and falls in.</description>
+   </section>
+   <section>
+      <speech speaker="Kuruk">Ummi! No! <charAction>Swims into the spirit pond.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Voice-over.</charAction> Ummi fell into the spirit pond, as if some
+            unseen force pulled her in.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Standing in the middle of the Spirit Oasis as Tui and La circle
+                him.</charAction> She's gone ...</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Voice-over.</charAction> She didn't drown. She disappeared into the
+            Spirit World ... Koh took her to punish me for my past mistakes. <charAction>Cut to Aang
+                and Kuruk in the Spirit World.</charAction> Every year, on the anniversary of our
+            wedding, I traveled <charAction>Sic.</charAction> to the Spirit World hoping to save my
+            wife from Koh. But I failed.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Glances to the side.</charAction> I'm sorry. I know how that feels.
+                <charAction>His eyes widen.</charAction> Wait! I've seen her! <charAction>Cut to
+                Aang's flashback of Koh using Ummi's face.</charAction> Koh still has her! When I
+            was in Koh's lair, he showed me Ummi's face!</speech>
+   </section>
+   <section>
+      <speech speaker="Kuruk">
+         <charAction>Determined.</charAction> Thank you, Aang. My search is not over yet. I
+            will keep hunting Koh until Ummi and I are reunited. <charAction>Runs away.</charAction>
+            Hurry! Avatar Yangchen is waiting for you!</speech>
+   </section>
+   <section>
+      <description>Fade to black.</description>
+   </section>
+   <section>
+      <description>The shot shows Aang and Hei Bai standing at the top of a
+                mountain.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Hello? Avatar Yangchen? Anyone here?</speech>
+   </section>
+   <section>
+      <speech speaker="Yangchen">
+         <charAction>Fades in front of Aang.</charAction> It's an honor to meet you,
+            Aang.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">It's been such an amazing experience to meet my past lives.</speech>
+   </section>
+   <section>
+      <speech speaker="Yangchen">And what did you learn by meeting them?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Well ... I realized that no Avatar is perfect. They all struggled and made mistakes.
+            Like me.</speech>
+   </section>
+   <section>
+      <speech speaker="Yangchen">Very wise.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">But it made me wonder - why is the Avatar Spirit a human in every life? Wouldn't it
+            be better if the Avatar was an all powerful spirit that never died?</speech>
+   </section>
+   <section>
+      <speech speaker="Yangchen">I don't think so. <charAction>Katara, Sokka, Toph, Iroh, and Zuko fade onto the
+                camera.</charAction> The Avatar must be compassionate towards all people ... and the
+            only way to do that is to live with them. <charAction>Fade to a sand sailer dragging
+                Appa away.</charAction> The Avatar must experience sadness ... <charAction>Camera
+                pans to show Aang with tears rolling down his face. Cut to Aang in the Avatar State
+                in the crystal catacombs.</charAction> Anger ... <charAction>Cut to Aang and Katara
+                penguin sledding.</charAction> Joy ... <charAction>Cut to Team Avatar reuniting with
+                Appa.</charAction> and happiness. <charAction>Cut to Yangchen.</charAction> By
+            feeling all these emotions, it helps you understand how precious human life is ... so
+            you will do anything to protect it. If you were an all powerful spirit living on the top
+            of some mountain, you wouldn't have much in common with an ordinary person. So the
+            Avatar continues to take human rebirth. <charAction>Kuruk, Kyoshi, and Roku appear
+                behind her.</charAction> And with each life, learns what it means to be
+            human.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Now that I've reconnected with all of you, does that mean the Avatar Spirit is
+            okay?</speech>
+   </section>
+   <section>
+      <speech speaker="Yangchen">
+         <charAction>The three Avatar spirits behind Yangchen fade away.</charAction> Yes,
+            but your physical body is still injured. You need time to heal. <charAction>Puts her
+                hand on Aang's forehead tattoo and both of their Air Nomad tattoos
+                glow.</charAction> And unfortunately, it seems your ability to enter the Avatar
+            State has been disrupted. You won't be able to rely on your past lives to help you. You
+            must rely on your friends. And when you wake up, you won't remember this journey to the
+            Spirit World. It will be like a forgotten dream. <charAction>Fading away.</charAction>
+            Until we meet again, Aang.</speech>
+   </section>
+   <section>
+      <description>Fade to the words "The End" with a black background.</description>
+   </section>
+</root>
