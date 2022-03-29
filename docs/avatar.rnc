@@ -3,7 +3,7 @@ xml = element xml {characters,nations, animals, locations}
 
 characters = element characters {char+}
     char = element char {name?, origin?, desc?}
-        name = attribute name {"aang"|"katara"|"sokka"}
+        name = attribute name {"aang"|"katara"|"sokka"|"Azula"|"Zuko"|"Iroh"|"Toph"}
         origin = element origin {text}
         desc = element desc {text}
           
@@ -15,3 +15,31 @@ nations = element nations {nation*}
         
 animals = element animals {text}
 locations = element locations {text}
+
+
+
+
+html = element html {head, body}
+    head = element head {title, meta, link}
+        title = element title {text}
+        meta = element meta {text}
+        link = element link {text}
+        
+    body = element body {mixed {(h1, h2, nav, hr, a, h3, div, figure, img, p)*}}
+        h1 = element h1 {text}
+        h2 = element h2 {text}
+        nav = element nav {text}
+        hr = element hr {text}
+        a = element a {mixed (href)}
+            href = attribute href {text}
+        h3 = element h3 {text}
+        div = element div {class}
+            class = attribute class {text}
+        figure = element figure {text}
+        img = element img {src, alt, class}
+            src = attribute src {text}
+            alt = attribute alt {text}
+            #class is under div
+        p = element p {text}
+        
+        
