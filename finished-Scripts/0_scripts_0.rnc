@@ -1,0 +1,21 @@
+start = root
+root = element root {metadata, section+}
+
+metadata = element metadata {title, director+, writer+, date, location+}
+    title = element title {episode, text}
+    episode = attribute episode {xsd:integer}
+    director = element director {text}
+    writer = element writer {text}
+    date = element date {xsd:date}
+    location = element location {nation?, text}
+    nation = attribute nation {"air" | "water" | "earth" | "fire"}
+   
+section = element section {description+ |  speech+}
+description = element description {text}
+
+speech = element speech {speaker, mixed {charAction*}}
+    charAction = element charAction {text}
+    speaker = attribute speaker { text }
+
+        
+          
