@@ -2,7 +2,7 @@
 <xml>
     <characters>
         <char name="aang">
-            <origin>Air Nation (</origin>
+            <origin>Air Nation (Southern Air Temple)</origin>
             <desc>Aang is an Air Nomad who was also the Avatar, master of all four elements. Aang
                 was born 100 years before the events of the first season, but was frozen in an
                 iceberg after running away from his home in the Air Nation. Aang is a male Air Nomad
@@ -34,7 +34,7 @@
                 male in the Southern Water Tribe he was left as their leader, and became responsible
                 for everyone in the tribe. </desc>
         </char>
-        <char name="sokka">
+        <char name="Sokka">
             <origin>Water Nation (Southern Water Tribe)</origin>
             <desc>Sokka is the older brother of Katara and was born in the Southern Water Tribe.
                 Though he does not have any bending powers, he is proficient in physical combat with
@@ -85,7 +85,7 @@
         </char>
     </characters>
     <nations>
-        <nation>
+        <nation name="Water Nation">
             <name>Water Nation</name>
             <desc>The Water Nation consists of two major tribes, the Northern and Southern tribes.
                 The Southern Water Tribe is the less developed of the two, and consists of primative
@@ -99,7 +99,7 @@
                 the remaining waterbenders. The people of the Water Nation were </desc>
             <notChars> Katara, Sokka, Yue</notChars>
         </nation>
-        <nation>
+        <nation name="Earth Nation">
             <name>Earth Nation</name>
             <desc>The Earth Nation, or Earth Kingdom is the largest nation in the world of Avatar.
                 The Earth Kingdom is known for its massive walled cities built by earthbenders,
@@ -107,12 +107,12 @@
                 proud, and stalwart. They rarely sought conflict when possible. On the surface, the
                 Earth Kingdom appeared to be ruled by its king, but in reality most of the Nation's
                 decisions were made by the Dai Li, a group of earthbending masters who acted as
-                police enforcing martial law over Ba Sing Se after becoming corrupt at the hands of
+                police, enforcing martial law over Ba Sing Se after becoming corrupt at the hands of
                 Long Feng. During the events of Avatar, however, this corruption was discovered by
                 Aang and his companions and the Earth King's power was restored,</desc>
             <notChars>Toph, Suki</notChars>
         </nation>
-        <nation>
+        <nation name="Fire Nation">
             <name>Fire Nation</name>
             <desc>The Fire Nation is the second largest of the four nations, and arguably the most
                 powerful. The Fire Nation was led by Fire Lord Ozai, who sought to expand through
@@ -121,11 +121,15 @@
                 They placed a large emphasis on military power and developed a large number of metal
                 war machines that were incredibly advanced for their time.</desc>
         </nation>
-        <nation>
+        <nation name="Air Nation">
             <name> Air Nation</name>
-            <desc/>
+            <desc> The Air Nation is a tribe of nomads and gurus that resided in the four Air
+                Temples in each corner of the world. The Air Nation was typically peaceful and
+                sought spiritual enligntenment as oppeosed to power. The Air Nation was typically
+                peaceful and did not have a standing army. As a result, the Air Nation was easily
+                wiped out by the Fire Nation before the events of the show.</desc>
         </nation>
     </nations>
-    <animals> </animals>
+    <animals></animals>
     <locations> </locations>
 </xml>
