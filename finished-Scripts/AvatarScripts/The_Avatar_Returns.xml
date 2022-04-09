@@ -97,13 +97,13 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Angrily.</charAction> Get out of our village!
-                <description>Now!</description>
+                Now!>
       </speech>
    </section>
    <section>
       <speech speaker="Katara">
          <charAction>Pleading.</charAction> Grandmother, please.
-                <description>Don't</description> let Sokka do this!</speech>
+                Don't> let Sokka do this!</speech>
    </section>
    <section>
       <speech speaker="Kanna">
@@ -118,7 +118,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Demanding.</charAction> Where do you think
-                <description>you're</description> going?</speech>
+                you're> going?</speech>
    </section>
    <section>
       <speech speaker="Katara">
@@ -160,14 +160,14 @@
       <speech speaker="Aang">Guess I'll go back home and look for the airbenders. <charAction>He places one hand
                 on Appa, but is suddenly struck with realization.</charAction> Wow, I haven't
             cleaned my room in a hundred years. Not looking forward to
-                <description>that.</description>
+                that.>
          <charAction>He uses his airbending to hop onto Appa's head.</charAction> It was nice
             meeting everyone.</speech>
    </section>
    <section>
       <speech speaker="Sokka">
          <charAction>Sarcastically, with arms crossed.</charAction> Let's see your bison fly
-            now, <description>air boy.</description>
+            now, air boy.>
       </speech>
    </section>
    <section>
@@ -209,7 +209,7 @@
       <speech speaker="Katara">
          <charAction>Rounding on Kanna and interrupting her, her voice full of empassioned
                 rage.</charAction> You happy now? <charAction>Gestures in the direction Aang took
-                off.</charAction> There goes my <description>one </description>chance at becoming a
+                off.</charAction> There goes my one >chance at becoming a
             waterbender!</speech>
    </section>
    <section>
@@ -477,7 +477,7 @@
    </section>
    <section>
       <speech speaker="Katara">
-         <charAction>Sadly.</charAction> No! Aang, <description>don't</description> do
+         <charAction>Sadly.</charAction> No! Aang, don't> do
             this!</speech>
    </section>
    <section>
@@ -586,7 +586,7 @@
    <section>
       <speech speaker="Katara">
          <charAction>Pointing at the ready canoe.</charAction> There's no way we're going to
-            catch a warship with a <description>canoe.</description>
+            catch a warship with a canoe.>
       </speech>
    </section>
    <section>
@@ -643,7 +643,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>Slyly.</charAction> So, I guess you've never fought an airbender before.
-            I bet I could take you <description>both </description>with my hands tied behind my
+            I bet I could take you both >with my hands tied behind my
             back.</speech>
    </section>
    <section>
@@ -961,7 +961,7 @@
          <charAction>Muttering to himself, as he uses his boomerang to chip the
                 ice.</charAction> I'm just a guy, with a boomerang. <charAction>He frees his left
                 foot.</charAction> I didn't ask for all this flying and
-                <description>magic!</description>
+                magic!>
          <charAction>He manages to break free and races up Appa's tail.</charAction> Yip-yip!
             Yip-yip!</speech>
    </section>
@@ -1009,7 +1009,7 @@
    <section>
       <speech speaker="Zuko">
          <charAction>Holding back rage.</charAction> That "kid", Uncle, just did
-                <description>this.</description>
+                this.>
          <charAction>Cuts to a shot of the damaged ship, the whole front covered in ice and
                 snow.</charAction> I won't underestimate him again. <charAction>Yells his order to
                 the soldiers and points at the piles of snow.</charAction> Dig the ship out and

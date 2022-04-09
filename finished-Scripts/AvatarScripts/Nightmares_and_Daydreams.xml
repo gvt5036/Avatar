@@ -211,7 +211,7 @@
       <speech speaker="Toph">
          <charAction>With chibi face in a speech bubble that appears above her;
                 angrily.</charAction>
-         <description>Go to sleep already!</description>
+         Go to sleep already!>
          <charAction>Clenches her teeth.</charAction>
       </speech>
    </section>
@@ -1038,7 +1038,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>Smiles smugly.</charAction> No, Fire Lord Ozai.
-                <description>You're</description> not wearing any pants.</speech>
+                You're> not wearing any pants.</speech>
    </section>
    <section>
       <description>Ozai looks down and sees Aang is right. He quickly pulls over a shield with

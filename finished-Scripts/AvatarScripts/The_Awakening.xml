@@ -81,7 +81,7 @@
    </section>
    <section>
       <speech speaker="Zuko">I've got a lot on my mind. It's been so long, over three years since I was home. I
-            wonder what's changed. I wonder how <description>I've</description> changed.</speech>
+            wonder what's changed. I wonder how I've> changed.</speech>
    </section>
    <section>
       <speech speaker="Mai">
@@ -280,7 +280,7 @@
    </section>
    <section>
       <speech speaker="Katara">
-         <charAction>Sharply.</charAction> It's <description>Sokka's</description> invasion
+         <charAction>Sharply.</charAction> It's Sokka's> invasion
             plan.</speech>
    </section>
    <section>

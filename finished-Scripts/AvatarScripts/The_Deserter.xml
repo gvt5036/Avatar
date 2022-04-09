@@ -293,7 +293,7 @@
    </section>
    <section>
       <speech speaker="Chey">
-         <description>Was.</description> My name's Chey.</speech>
+         Was.> My name's Chey.</speech>
    </section>
    <section>
       <description>The group lands and makes camp.</description>
@@ -600,7 +600,7 @@
    </section>
    <section>
       <speech speaker="Jeong Jeong">
-         <description>Wider!</description> Now, inhale through the nose and exhale through
+         Wider!> Now, inhale through the nose and exhale through
             the mouth - without talking. Good. Keep going.</speech>
    </section>
    <section>
@@ -668,8 +668,8 @@
    </section>
    <section>
       <speech speaker="Aang">
-         <charAction>Annoyed.</charAction> This is the <description>worst
-            </description>firebending instruction ever! All he does is leave me for hours to
+         <charAction>Annoyed.</charAction> This is the worst
+            >firebending instruction ever! All he does is leave me for hours to
             concentrate or breathe!</speech>
    </section>
    <section>
@@ -694,7 +694,7 @@
                 behind himself. He makes a blast go in the opposite direction.</description>
    </section>
    <section>
-      <speech speaker="Aang">Now <description>that's</description> some firebending!</speech>
+      <speech speaker="Aang">Now that's> some firebending!</speech>
    </section>
    <section>
       <speech speaker="Katara">Aang, you'll hurt yourself!</speech>
@@ -725,8 +725,8 @@
       <description>Sokka tackles Aang.</description>
    </section>
    <section>
-      <speech speaker="Sokka">I told you we shouldn't mess around with this! Look what you did! <description>You
-                burned my sister</description>! <charAction>Katara runs away.</charAction> You
+      <speech speaker="Sokka">I told you we shouldn't mess around with this! Look what you did! You
+                burned my sister>! <charAction>Katara runs away.</charAction> You
             burned my sister! <charAction>As Jeong Jeong walks in.</charAction> This is all your
             fault!</speech>
    </section>

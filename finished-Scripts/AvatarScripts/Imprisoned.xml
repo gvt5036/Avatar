@@ -350,7 +350,7 @@
    </section>
    <section>
       <speech speaker="Haru">
-         <charAction>Guilty fear.</charAction> I <description>can't.</description>
+         <charAction>Guilty fear.</charAction> I can't.>
       </speech>
    </section>
    <section>
@@ -402,7 +402,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>With finality.</charAction>
-         <description>Goodnight!</description>
+         Goodnight!>
       </speech>
    </section>
    <section>
@@ -477,7 +477,7 @@
       <speech speaker="Sokka">I thought you were crazy at first, Katara, but this might work. There are
             ventilation shafts throughout these mines. All Aang has to do is send an air current
             from that vent to this one right here. The boulder levitates and
-                <description>ta-da!</description> Fake earthbending.</speech>
+                ta-da!> Fake earthbending.</speech>
    </section>
    <section>
       <speech speaker="Katara">
@@ -499,7 +499,7 @@
    </section>
    <section>
       <speech speaker="Sokka">
-         <charAction>Aggravated.</charAction> By <description>this,</description> do you mean
+         <charAction>Aggravated.</charAction> By this,> do you mean
             intentionally being captured by a group of ruthless firebenders?</speech>
    </section>
    <section>
@@ -652,7 +652,7 @@
                 crosses her eyebrows, scowling coarsely at the man.</description>
    </section>
    <section>
-      <speech speaker="Warden">And we'll get along <description>famously.</description>
+      <speech speaker="Warden">And we'll get along famously.>
       </speech>
    </section>
    <section>
@@ -891,7 +891,7 @@
    <section>
       <speech speaker="Warden">
          <charAction>Still quite annoyed.</charAction> Then wake up someone I
-                <description>haven't</description> thrown overboard and search the rig! There's
+                haven't> thrown overboard and search the rig! There's
             something going on here and I don't like it.</speech>
    </section>
    <section>
@@ -933,7 +933,7 @@
    </section>
    <section>
       <speech speaker="Aang">No, it's not. <charAction>Points to smokestacks.</charAction> Look at the smoke! I
-            bet they're burning coal. In other words, <description>earth.</description>
+            bet they're burning coal. In other words, earth.>
       </speech>
    </section>
    <section>
@@ -999,7 +999,7 @@
             blank, hopeless faces. Their spirits were broken a long time ago. <charAction>Katara's
                 expression dims as she does as instructed, staring at the forlorn
                 prisoners.</charAction> Oh, but you still believe in them. How sweet. They're a
-            waste of your energy little girl. You <description>failed.</description>
+            waste of your energy little girl. You failed.>
       </speech>
    </section>
    <section>

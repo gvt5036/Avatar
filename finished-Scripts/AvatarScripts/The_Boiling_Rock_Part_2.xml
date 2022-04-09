@@ -997,7 +997,7 @@
                 Hakoda points at it.</description>
    </section>
    <section>
-      <speech speaker="Hakoda">Sorry, warden. Your record is officially<description> broken</description>.
+      <speech speaker="Hakoda">Sorry, warden. Your record is officially broken>.
                 <charAction>The warden struggles against his bindings.</charAction>
       </speech>
    </section>

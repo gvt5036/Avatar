@@ -498,8 +498,8 @@
          <charAction>Unamused.</charAction> Whatever you say.</speech>
    </section>
    <section>
-      <speech speaker="Zuko">If you find them, I'll consider the damage to my ship <description>paid
-                for</description>.</speech>
+      <speech speaker="Zuko">If you find them, I'll consider the damage to my ship paid
+                for>.</speech>
    </section>
    <section>
       <speech speaker="June">

@@ -348,7 +348,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>After a short pause, to Katara and Aang.</charAction> What? You said get
-            a job ... and he's <description>paying double</description>.</speech>
+            a job ... and he's paying double>.</speech>
    </section>
    <section>
       <speech speaker="Fisherman">
@@ -699,7 +699,7 @@
    </section>
    <section>
       <speech speaker="Bujing">
-         <description>I don't</description>. They'll be used as a distraction while we mount
+         I don't>. They'll be used as a distraction while we mount
             an attack from the rear. What better to use as bait than fresh meat?</speech>
    </section>
    <section>
@@ -986,7 +986,7 @@
                 who lowers his head to the floor again.</description>
    </section>
    <section>
-      <speech speaker="Young Zuko">I <description>won't</description> fight you.</speech>
+      <speech speaker="Young Zuko">I won't> fight you.</speech>
    </section>
    <section>
       <speech speaker="Ozai">You will learn respect, <charAction>Zuko pushes himself up on his knees and hands.

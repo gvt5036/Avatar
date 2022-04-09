@@ -205,7 +205,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>Nudges Appa against his front leg with his elbow.</charAction> I
-                <description>said, </description>aren't you boy?</speech>
+                said, >aren't you boy?</speech>
    </section>
    <section>
       <description>Appa puts slightly more enthusiasm behind his response the second time by
@@ -214,7 +214,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Aang smiles over his shoulder at the duo. Sarcastically.</charAction>
-            Yeah, that was <description>real </description>convincing.<charAction>Somewhat
+            Yeah, that was real >convincing.<charAction>Somewhat
                 fearfully.</charAction> Still, hard to argue with a ten-ton magical
             monster.</speech>
    </section>
@@ -666,7 +666,7 @@
                 it.</description>
    </section>
    <section>
-      <speech speaker="Aang">Sokka, what's your problem? <description>Eat!</description>
+      <speech speaker="Aang">Sokka, what's your problem? Eat!>
       </speech>
    </section>
    <section>
@@ -1042,7 +1042,7 @@
    </section>
    <section>
       <speech speaker="Aang">It didn't. You know what I think? You just don't want to come because you're
-                <description>jealous.</description>
+                jealous.>
       </speech>
    </section>
    <section>
@@ -1331,8 +1331,8 @@
    </section>
    <section>
       <speech speaker="Little Girl">
-         <charAction>Annoyed.</charAction> Not that again<description>.
-            Boring</description>!</speech>
+         <charAction>Annoyed.</charAction> Not that again.
+            Boring>!</speech>
    </section>
    <section>
       <speech speaker="Koko">
@@ -1447,7 +1447,7 @@
                 lead.</description>
    </section>
    <section>
-      <speech speaker="Zuko">I want the Avatar <description>alive.</description>
+      <speech speaker="Zuko">I want the Avatar alive.>
       </speech>
    </section>
    <section>

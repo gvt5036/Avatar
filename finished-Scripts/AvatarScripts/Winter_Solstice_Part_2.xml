@@ -112,7 +112,7 @@
    <section>
       <speech speaker="Iroh">
          <charAction>Angrily.</charAction> Have you completely forgotten that the Fire Lord
-                <description>banished you</description>? <charAction>Fearfully.</charAction> What if
+                banished you>? <charAction>Fearfully.</charAction> What if
             you're caught?</speech>
    </section>
    <section>
@@ -1069,7 +1069,7 @@
          <charAction>Weakly.</charAction> Thanks. Where's Shyu?</speech>
    </section>
    <section>
-      <speech speaker="Katara">[ <description>Walking away with Sokka, helping Aang.</description>] I don't
+      <speech speaker="Katara">[ Walking away with Sokka, helping Aang.>] I don't
             know.</speech>
    </section>
    <section>

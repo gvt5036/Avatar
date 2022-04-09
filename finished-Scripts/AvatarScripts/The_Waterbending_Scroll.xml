@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="9">The Waterbending Scroll</title>
@@ -589,8 +590,8 @@
             marketplace.</speech>
    </section>
    <section>
-      <speech speaker="Zuko">It's good to know this trip was a complete waste of time <description>for
-                everyone</description>!</speech>
+      <speech speaker="Zuko">It's good to know this trip was a complete waste of time for
+                everyone!</speech>
    </section>
    <section>
       <speech speaker="Iroh">Quite the contrary. I always say, the only thing better than finding something you
@@ -744,8 +745,8 @@
       <speech speaker="Katara">My mother's necklace! How did you get that?</speech>
    </section>
    <section>
-      <speech speaker="Zuko">I didn't steal it, if that's what you're wondering. <description>Tell
-                me</description> where he is. <charAction>Points at Katara.</charAction>
+      <speech speaker="Zuko">I didn't steal it, if that's what you're wondering. Tell
+                me where he is. <charAction>Points at Katara.</charAction>
       </speech>
    </section>
    <section>
@@ -816,7 +817,7 @@
       <speech speaker="Pirate captain">You give us the scroll.</speech>
    </section>
    <section>
-      <speech speaker="Sokka">You're really gonna hand over <description>the Avatar</description> for a stupid
+      <speech speaker="Sokka">You're really gonna hand over the Avatar for a stupid
             piece of parchment?</speech>
    </section>
    <section>

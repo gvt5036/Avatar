@@ -23,7 +23,7 @@
       </speech>
    </section>
    <section>
-      <speech speaker="Katara">Sokka, you're supposed to put the tarp <description>on top</description> of the
+      <speech speaker="Katara">Sokka, you're supposed to put the tarp on top> of the
             tent. You know, so we don't get rained on? <charAction>Cut to an overhead shot of the
                 two, Sokka gesturing widely as he replies to his sister.</charAction>
       </speech>
@@ -173,8 +173,8 @@
       <speech speaker="Zhang leader">I didn't know the canyon guide took reservations.</speech>
    </section>
    <section>
-      <speech speaker="Gan Jin tribesman">Ha, of course you didn't! That's the ignorance I'd expect from <description>a messy
-                Zhang.</description> So unorganized and ill-prepared for a journey. <charAction>The
+      <speech speaker="Gan Jin tribesman">Ha, of course you didn't! That's the ignorance I'd expect from a messy
+                Zhang.> So unorganized and ill-prepared for a journey. <charAction>The
                 Zhang tribe members yell out in protest behind them. Katara and Aang look at each
                 other worriedly, but turn around to see a large pile of rocks being levitated up and
                 thrown away. The canyon guide stands behind where the rocks used to

@@ -431,7 +431,7 @@
       <speech speaker="Aang">And now we're friends.</speech>
    </section>
    <section>
-      <speech speaker="Zuko">Yeah, we <description>are </description>friends.</speech>
+      <speech speaker="Zuko">Yeah, we are >friends.</speech>
    </section>
    <section>
       <speech speaker="Aang">I can't believe a year ago I was still frozen in a block of ice. The world's so
