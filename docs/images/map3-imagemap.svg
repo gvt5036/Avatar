@@ -2,11 +2,9 @@
 <svg
    version="1.1"
    id="Layer_1"
-   x="0px"
-   y="0px"
-   width="1098"
-   height="802"
+ 
    viewBox="0 0 1098 802"
+   preserveAspectRatio="xMinYMin meet"
    enable-background="new 0 0 1098 802"
    xml:space="preserve"
    sodipodi:docname="avatar-map3-inkscapeMap.svg"
