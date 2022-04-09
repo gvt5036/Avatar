@@ -1,0 +1,56 @@
+start = root
+root = element root {metadata?, p*}
+
+metadata = element metadata {title?}
+    title = element title {text}
+   
+p = element p {speaker*, th?, speech*}
+th = element th {empty}
+speaker = element speaker {name, text}
+    name = attribute name { "Toph"|"Zuko"|"Aang"|"Katara"|"Sokka"|"Suki"|"Iroh"|"Azula"|"Ozai"|
+    
+    "Momo"|"Appa"|"Koala sheep"|"Koi fish"|"Lion turtle"|
+    
+ "Aang, Katara, and Toph"|"Katara and Aang"|"Joo Dees"|"Lo and Li"|"Katara and Sokka"|
+ 
+ "Young Roku"|"Roku"|"Avatar Roku"|"Sozin"|"Gyatso"|
+ 
+    "Mai"|"Ty Lee"|"Yue"|"Pathik"|"Bato"| "Hakoda"|"June"|"Kyoshi"|"Mongke"|"Lu Ten"|"Joo Dee"|"Smellerbee"|"Longshot"|"Pipsqueak"|"Jet"|"Long Feng"|"Kaja"|"Earth King"|"Haru"|"Li"|"Lo"|"King Bumi"|"Bumi"|"Pakku"|"Jeong Jeong"|"Tho"|"Due"|"Ta Min"|"Fong"| "The Hippo"|"The Boulder"|"Zhao"|"Shinu"|
+    
+    "Ghashiun"|"Shuzumu"|"Iio"|"Mother Superior"|"Aunt Wu"|"Tong"|"Koko"|"Oyaji" |"Pong"|"Pao"|"Hei Bai"|"Kuruk"|"Ummi"|"Yangchen" |"Haru's mother"|"Tyro"|"Quon"|"Old Sweepy"| "Brainwasher"|"Michi"|"Yung"|"Ukano"|"Warden Poon"|"Fat"|"Piandao"|"Kanna"|"Oracle"|"Chan"|"Ruon-Jian"|"Yu"|"Xin Fu"|"Lao"|"Poppy"|"Chit Sang"|
+    
+    "Resistance fighter"|"Resistance fighter #1"|"Resistance fighter #2"|"Scout #1"|"Scout #2"|
+    
+    "Scary prisoner"|"Prisoner #2"|"Sensitive ruffian"|"Prisoner"|"Tough prisoner"|
+    
+    "Guard #1"|"Guard #2"|"Bully guard"|"Female guard"|"Male guard"|"Male guard #2"|"Bodyguard #1"| "Bodyguard #2"|"Door guard"|"Gondola guard #1"|"Gondola guard #2"|"Gondola guard #3"|"Gondola guard #4"|
+    
+    "Kyoshi Warrior #1"|"Kyoshi Warrior #2"|
+    
+    "Southern Water Tribe girl"|"Southern Water Tribe boy"|"Village kids"|"Village boy"|
+    
+    "Fire Nation man"|"Unnamed Fire Nation boy"|"Firebenders"|"Fire Nation civilian"|"Old Fire Nation civilian"|"Fire Nation soldier"|"Firebender"|"Fire Sage"|"Fire Navy officer"|"Fire Nation watchman #1"|"Fire Nation watchman #2"|"Ember Island teenager #1"|"Ember Island teenager #2"|"Ember Island teenager #3"|"Fire Nation Man"|
+    
+    "Airbender girl #1"|"Airbender girl #2"|
+    
+    "Villager"|"Villagers"|"Villager #1"|"Villager #2"|"Villager #3"|
+    
+    "Servant"|"Servant #1"|"Servant #2"|
+    
+    "Sandbender #1"|"Sandbender #2"|
+    
+    "Merchant"|"Merchant #1"|"Merchant #2"|
+    
+    "Dai Li agent"|"Joo Dee replacement"|
+    
+    "Trainer"|"Farmer"|"Herbalist"|"Messenger"| "Guard"|"Pet store owner"|"University student"|"Customer"|"Angry peasant"|"Tax collector"|"Old man"|"Warden"|"Captain"|"Eye-patch soldier"|"The Duke"|"Little girl"|"Soldier"|"Weapons store shopkeeper"|"Flyer distribution man"|"Audience"|"Male student #1"|"Male student #2"|"Scribe"|
+    
+    "Older guest"|"Younger guest"|"Guest"|
+    
+    "Bryan Konietzko"|"Bryan"|"Michael Dante DiMartino"|"Mike"
+    }
+speech = element speech {mixed {(description*, charAction*)}}
+    description = element description {text}
+    charAction = element charAction {text}
+        
+          
