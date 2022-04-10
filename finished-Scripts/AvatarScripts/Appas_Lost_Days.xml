@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="36">Appas Lost Days</title>
@@ -474,7 +475,7 @@
       <speech speaker="Suki">What do you want with us?</speech>
    </section>
    <section>
-      <speech speaker="Azula">Who are you? The Avatar's fan girls>?</speech>
+      <speech speaker="Azula">Who are you? The Avatar's fan girls&gt;?</speech>
    </section>
    <section>
       <speech speaker="Ty Lee">

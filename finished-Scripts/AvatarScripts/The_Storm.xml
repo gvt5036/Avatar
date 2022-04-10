@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="12">The Storm</title>
@@ -348,7 +349,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>After a short pause, to Katara and Aang.</charAction> What? You said get
-            a job ... and he's paying double>.</speech>
+            a job ... and he's paying double&gt;.</speech>
    </section>
    <section>
       <speech speaker="Fisherman">
@@ -699,7 +700,7 @@
    </section>
    <section>
       <speech speaker="Bujing">
-         I don't>. They'll be used as a distraction while we mount
+         I don't&gt;. They'll be used as a distraction while we mount
             an attack from the rear. What better to use as bait than fresh meat?</speech>
    </section>
    <section>
@@ -986,7 +987,7 @@
                 who lowers his head to the floor again.</description>
    </section>
    <section>
-      <speech speaker="Young Zuko">I won't> fight you.</speech>
+      <speech speaker="Young Zuko">I won't&gt; fight you.</speech>
    </section>
    <section>
       <speech speaker="Ozai">You will learn respect, <charAction>Zuko pushes himself up on his knees and hands.

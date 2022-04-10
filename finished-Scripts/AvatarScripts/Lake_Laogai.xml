@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="37">Lake Laogai</title>
@@ -998,7 +999,7 @@
    <section>
       <description>Momo flies to the sky and chirps excitedly. Suddenly, Appa flies down.
                 Cut to the overjoyed looks on Team Avatar's faces.</description>
-    </section>
+   </section>
    <section>
       <speech speaker="Aang">Appa!</speech>
    </section>

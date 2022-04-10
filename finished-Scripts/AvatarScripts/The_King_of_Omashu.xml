@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="5">The King of Omashu</title>
@@ -592,7 +593,7 @@
       <speech speaker="Sokka">
          <charAction>Cut to the threesome. Sokka holds his hand for his mouth;
                 whispering.</charAction> We're in serious trouble. This guy is
-                nuts.>
+                nuts.&gt;
       </speech>
    </section>
    <section>

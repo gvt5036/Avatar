@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="2">The Avatar Returns</title>
@@ -97,13 +98,13 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Angrily.</charAction> Get out of our village!
-                Now!>
+                Now!&gt;
       </speech>
    </section>
    <section>
       <speech speaker="Katara">
          <charAction>Pleading.</charAction> Grandmother, please.
-                Don't> let Sokka do this!</speech>
+                Don't&gt; let Sokka do this!</speech>
    </section>
    <section>
       <speech speaker="Kanna">
@@ -118,7 +119,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Demanding.</charAction> Where do you think
-                you're> going?</speech>
+                you're&gt; going?</speech>
    </section>
    <section>
       <speech speaker="Katara">
@@ -160,14 +161,14 @@
       <speech speaker="Aang">Guess I'll go back home and look for the airbenders. <charAction>He places one hand
                 on Appa, but is suddenly struck with realization.</charAction> Wow, I haven't
             cleaned my room in a hundred years. Not looking forward to
-                that.>
+                that.&gt;
          <charAction>He uses his airbending to hop onto Appa's head.</charAction> It was nice
             meeting everyone.</speech>
    </section>
    <section>
       <speech speaker="Sokka">
          <charAction>Sarcastically, with arms crossed.</charAction> Let's see your bison fly
-            now, air boy.>
+            now, air boy.&gt;
       </speech>
    </section>
    <section>
@@ -209,7 +210,7 @@
       <speech speaker="Katara">
          <charAction>Rounding on Kanna and interrupting her, her voice full of empassioned
                 rage.</charAction> You happy now? <charAction>Gestures in the direction Aang took
-                off.</charAction> There goes my one >chance at becoming a
+                off.</charAction> There goes my one &gt;chance at becoming a
             waterbender!</speech>
    </section>
    <section>
@@ -477,7 +478,7 @@
    </section>
    <section>
       <speech speaker="Katara">
-         <charAction>Sadly.</charAction> No! Aang, don't> do
+         <charAction>Sadly.</charAction> No! Aang, don't&gt; do
             this!</speech>
    </section>
    <section>
@@ -586,7 +587,7 @@
    <section>
       <speech speaker="Katara">
          <charAction>Pointing at the ready canoe.</charAction> There's no way we're going to
-            catch a warship with a canoe.>
+            catch a warship with a canoe.&gt;
       </speech>
    </section>
    <section>
@@ -643,7 +644,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>Slyly.</charAction> So, I guess you've never fought an airbender before.
-            I bet I could take you both >with my hands tied behind my
+            I bet I could take you both &gt;with my hands tied behind my
             back.</speech>
    </section>
    <section>
@@ -961,7 +962,7 @@
          <charAction>Muttering to himself, as he uses his boomerang to chip the
                 ice.</charAction> I'm just a guy, with a boomerang. <charAction>He frees his left
                 foot.</charAction> I didn't ask for all this flying and
-                magic!>
+                magic!&gt;
          <charAction>He manages to break free and races up Appa's tail.</charAction> Yip-yip!
             Yip-yip!</speech>
    </section>
@@ -1009,7 +1010,7 @@
    <section>
       <speech speaker="Zuko">
          <charAction>Holding back rage.</charAction> That "kid", Uncle, just did
-                this.>
+                this.&gt;
          <charAction>Cuts to a shot of the damaged ship, the whole front covered in ice and
                 snow.</charAction> I won't underestimate him again. <charAction>Yells his order to
                 the soldiers and points at the piles of snow.</charAction> Dig the ship out and

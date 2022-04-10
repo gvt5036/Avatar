@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="21">The Avatar State</title>
@@ -946,7 +947,7 @@
    <section>
       <speech speaker="Azula">You know, Father blames Uncle for the loss of the North Pole. And he considers you a
             miserable failure for not finding the Avatar! <charAction>Cuts to Zuko, who is panting
-                heavily.</charAction> Why would he want you >back home,
+                heavily.</charAction> Why would he want you &gt;back home,
             except to lock you up <charAction>Cuts back to Azula.</charAction> where you can no
             longer embarrass him?</speech>
    </section>

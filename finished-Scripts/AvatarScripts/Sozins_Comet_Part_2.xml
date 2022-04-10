@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="58">Sozins Comet Part 2</title>
@@ -431,7 +432,7 @@
       <speech speaker="Aang">And now we're friends.</speech>
    </section>
    <section>
-      <speech speaker="Zuko">Yeah, we are >friends.</speech>
+      <speech speaker="Zuko">Yeah, we are &gt;friends.</speech>
    </section>
    <section>
       <speech speaker="Aang">I can't believe a year ago I was still frozen in a block of ice. The world's so

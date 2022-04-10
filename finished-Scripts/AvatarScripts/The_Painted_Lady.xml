@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="43">The Painted Lady</title>
@@ -248,7 +249,7 @@
             every day.</speech>
    </section>
    <section>
-      <speech speaker="Katara">Forty-three> minutes?</speech>
+      <speech speaker="Katara">Forty-three&gt; minutes?</speech>
    </section>
    <section>
       <speech speaker="Sokka">
@@ -258,7 +259,7 @@
             want to make up the time and stay on schedule, we have to wake up early!</speech>
    </section>
    <section>
-      <speech speaker="Toph">Well I'm> not waking up early.</speech>
+      <speech speaker="Toph">Well I'm&gt; not waking up early.</speech>
    </section>
    <section>
       <speech speaker="Sokka">Or we could just cut out all of our eating breaks.</speech>

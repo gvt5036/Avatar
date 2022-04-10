@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="24">The Swamp</title>
@@ -262,7 +263,7 @@
    </section>
    <section>
       <speech speaker="Katara">Maybe you should listen to Aang. Something about this place feels ...
-                alive.>
+                alive.&gt;
       </speech>
    </section>
    <section>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="41">The Awakening</title>
@@ -81,7 +82,7 @@
    </section>
    <section>
       <speech speaker="Zuko">I've got a lot on my mind. It's been so long, over three years since I was home. I
-            wonder what's changed. I wonder how I've> changed.</speech>
+            wonder what's changed. I wonder how I've&gt; changed.</speech>
    </section>
    <section>
       <speech speaker="Mai">
@@ -280,7 +281,7 @@
    </section>
    <section>
       <speech speaker="Katara">
-         <charAction>Sharply.</charAction> It's Sokka's> invasion
+         <charAction>Sharply.</charAction> It's Sokka's&gt; invasion
             plan.</speech>
    </section>
    <section>

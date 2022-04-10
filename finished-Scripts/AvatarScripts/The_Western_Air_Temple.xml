@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="51">The Western Air Temple</title>
@@ -488,7 +489,7 @@
       </speech>
    </section>
    <section>
-      <speech speaker="Aang">I'm not >having Zuko as my teacher!</speech>
+      <speech speaker="Aang">I'm not &gt;having Zuko as my teacher!</speech>
    </section>
    <section>
       <speech speaker="Sokka">You're darn right you're not, buddy.</speech>

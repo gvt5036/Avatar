@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="49">Nightmares and Daydreams</title>
@@ -52,20 +53,19 @@
       <speech speaker="Aang">
          <charAction>Half-heartedly.</charAction> I guess.</speech>
    </section>
-      <section>
-         <description>Everyone else falls asleep. Aang lies down and, as he closes his eyes,
+   <section>
+      <description>Everyone else falls asleep. Aang lies down and, as he closes his eyes,
                     the camera zooms in on his face.</description>
-      </section>
-      <section>
-         <description>Scene briefly fades to black before changing to a large Fire Nation
+   </section>
+   <section>
+      <description>Scene briefly fades to black before changing to a large Fire Nation
                     insignia, which is revealed to be a door when the camera zooms back. The door
                     busts open, revealing a boy with large hair, a headband, and a yellow jump suit,
                     with his face turned the other side. He enters the room with a series of
                     dramatic gestures. It is revealed that this boy is Aang in strange attire. Aang
                     quickly jumps on to a rock tower. Cut to wider shot of Aang standing on the rock
                     tower, surrounded by floating broken pillars.</description>
-      </section>
-   
+   </section>
    <section>
       <speech speaker="Aang">
          <charAction>He makes some fast and dramatic ninja-like moves as he
@@ -210,7 +210,7 @@
       <speech speaker="Toph">
          <charAction>With chibi face in a speech bubble that appears above her;
                 angrily.</charAction>
-         Go to sleep already!>
+         Go to sleep already!&gt;
          <charAction>Clenches her teeth.</charAction>
       </speech>
    </section>
@@ -1037,7 +1037,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>Smiles smugly.</charAction> No, Fire Lord Ozai.
-                You're> not wearing any pants.</speech>
+                You're&gt; not wearing any pants.</speech>
    </section>
    <section>
       <description>Ozai looks down and sees Aang is right. He quickly pulls over a shield with

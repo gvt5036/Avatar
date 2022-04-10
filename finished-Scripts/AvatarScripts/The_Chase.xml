@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="28">The Chase</title>
@@ -253,7 +254,7 @@
    <section>
       <speech speaker="Katara">
          <charAction>Furiously.</charAction>
-         "Sugar queen">?! <charAction>Toph uses earthbending to close
+         "Sugar queen"&gt;?! <charAction>Toph uses earthbending to close
                 the door of the tent.</charAction> D-did you just slam the door in my face?! How can
             you be so infuriating?!</speech>
    </section>
@@ -277,7 +278,7 @@
    <section>
       <speech speaker="Katara">"Both"?! <charAction>Rapidly turns to face Aang, her expression crazed and her eyes
                 bloodshot.</charAction>
-         I'm completely calm!!>
+         I'm completely calm!!&gt;
       </speech>
    </section>
    <section>

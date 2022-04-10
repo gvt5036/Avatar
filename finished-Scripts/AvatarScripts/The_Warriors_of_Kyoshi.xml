@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="4">The Warriors of Kyoshi</title>
@@ -205,7 +206,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>Nudges Appa against his front leg with his elbow.</charAction> I
-                said, >aren't you boy?</speech>
+                said, &gt;aren't you boy?</speech>
    </section>
    <section>
       <description>Appa puts slightly more enthusiasm behind his response the second time by
@@ -214,7 +215,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Aang smiles over his shoulder at the duo. Sarcastically.</charAction>
-            Yeah, that was real >convincing.<charAction>Somewhat
+            Yeah, that was real &gt;convincing.<charAction>Somewhat
                 fearfully.</charAction> Still, hard to argue with a ten-ton magical
             monster.</speech>
    </section>
@@ -666,7 +667,7 @@
                 it.</description>
    </section>
    <section>
-      <speech speaker="Aang">Sokka, what's your problem? Eat!>
+      <speech speaker="Aang">Sokka, what's your problem? Eat!&gt;
       </speech>
    </section>
    <section>
@@ -1042,7 +1043,7 @@
    </section>
    <section>
       <speech speaker="Aang">It didn't. You know what I think? You just don't want to come because you're
-                jealous.>
+                jealous.&gt;
       </speech>
    </section>
    <section>
@@ -1332,7 +1333,7 @@
    <section>
       <speech speaker="Little Girl">
          <charAction>Annoyed.</charAction> Not that again.
-            Boring>!</speech>
+            Boring&gt;!</speech>
    </section>
    <section>
       <speech speaker="Koko">
@@ -1447,7 +1448,7 @@
                 lead.</description>
    </section>
    <section>
-      <speech speaker="Zuko">I want the Avatar alive.>
+      <speech speaker="Zuko">I want the Avatar alive.&gt;
       </speech>
    </section>
    <section>
