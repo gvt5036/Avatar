@@ -10,7 +10,7 @@ metadata = element metadata {title, director+, writer+, date, location+}
     location = element location {nation?, text}
     nation = attribute nation {"air" | "water" | "earth" | "fire"}
    
-section = element section {description+ |  speech+}
+section = element section {(section | description |  speech)+}
 description = element description {text}
 
 speech = element speech {speaker, mixed {charAction*}}
