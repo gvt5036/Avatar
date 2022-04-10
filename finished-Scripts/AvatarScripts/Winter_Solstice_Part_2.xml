@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="8">Winter Solstice Part 2</title>
@@ -112,7 +113,7 @@
    <section>
       <speech speaker="Iroh">
          <charAction>Angrily.</charAction> Have you completely forgotten that the Fire Lord
-                banished you>? <charAction>Fearfully.</charAction> What if
+                banished you&gt;? <charAction>Fearfully.</charAction> What if
             you're caught?</speech>
    </section>
    <section>
@@ -1069,7 +1070,7 @@
          <charAction>Weakly.</charAction> Thanks. Where's Shyu?</speech>
    </section>
    <section>
-      <speech speaker="Katara">[ Walking away with Sokka, helping Aang.>] I don't
+      <speech speaker="Katara">[ Walking away with Sokka, helping Aang.&gt;] I don't
             know.</speech>
    </section>
    <section>

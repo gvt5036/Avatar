@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="54">The Boiling Rock Part 2</title>
@@ -997,7 +998,7 @@
                 Hakoda points at it.</description>
    </section>
    <section>
-      <speech speaker="Hakoda">Sorry, warden. Your record is officially broken>.
+      <speech speaker="Hakoda">Sorry, warden. Your record is officially broken&gt;.
                 <charAction>The warden struggles against his bindings.</charAction>
       </speech>
    </section>

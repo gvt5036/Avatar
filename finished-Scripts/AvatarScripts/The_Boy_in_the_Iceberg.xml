@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="1">The Boy in the Iceberg</title>
@@ -157,7 +158,7 @@
    <section>
       <speech speaker="Katara">
          <charAction>A touch of bitterness in her voice.</charAction> You call that
-                left?>
+                left?&gt;
       </speech>
    </section>
    <section>
@@ -209,7 +210,7 @@
    </section>
    <section>
       <speech speaker="Katara">Ever since mom died, <charAction>Points to herself.</charAction>
-         I've been doing all the work around camp while you've> been
+         I've been doing all the work around camp while you've&gt; been
             off playing soldier!</speech>
    </section>
    <section>
@@ -226,7 +227,7 @@
          <charAction>Close-up of a rage-fueled Katara as she continues her outburst, a finger
                 pointed in Sokka's face.</charAction> I even wash all the clothes! Have you ever
             smelled your dirty socks? Let me tell you, not
-            pleasant!>
+            pleasant!&gt;
       </speech>
    </section>
    <section>
@@ -240,7 +241,7 @@
    </section>
    <section>
       <speech speaker="Katara">No that's it! I'm done helping you! From now on, you're on your
-                own!>
+                own!&gt;
       </speech>
    </section>
    <section>
@@ -263,7 +264,7 @@
    </section>
    <section>
       <speech speaker="Katara">
-         <charAction>Astonished.</charAction> You mean I >did
+         <charAction>Astonished.</charAction> You mean I &gt;did
             that?</speech>
    </section>
    <section>
@@ -503,7 +504,7 @@
       <speech speaker="Sokka">
          <charAction>Pointing his spear accusingly again at Aang who is surprised to see the
                 thing.</charAction>
-         Don't >answer that! Did you see that crazy bolt of light?! He
+         Don't &gt;answer that! Did you see that crazy bolt of light?! He
             was probably trying to signal the Fire Navy!</speech>
    </section>
    <section>
@@ -750,7 +751,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Mockingly states his disbelief.</charAction> Ya know, last time I
-            checked, humans can't fly!>
+            checked, humans can't fly!&gt;
       </speech>
    </section>
    <section>
@@ -794,7 +795,7 @@
    <section>
       <speech speaker="Katara">
          <charAction>Offering her hand to pull him out of the snow.</charAction> That was
-                amazing!>
+                amazing!&gt;
       </speech>
    </section>
    <section>
@@ -962,7 +963,7 @@
       <speech speaker="Katara">
          <charAction>Runs up to Sokka as the children leave. In a worried tone.</charAction>
             Have you seen Aang? Gran-Gran said he disappeared over an
-                hour> ago.</speech>
+                hour&gt; ago.</speech>
    </section>
    <section>
       <description>Aang appears from an outhouse igloo, pulling his pants up a bit
@@ -1002,7 +1003,7 @@
          <charAction>Yelling angrily.</charAction> Stop! Stop it right now! <charAction>The
                 laughter of the children is stifled immediately and Appa turns his head to look at
                 Sokka, who accusingly directs his anger to Aang.</charAction> What's wrong with
-            you?! We don't have time for fun and games with the War> going
+            you?! We don't have time for fun and games with the War&gt; going
             on!</speech>
    </section>
    <section>
@@ -1083,7 +1084,7 @@
    <section>
       <speech speaker="Katara">Maybe, but we haven't had contact with our sister tribe in a long time. It's not
             exactly "turn right at the second glacier". It's on the other side of the
-                world>.</speech>
+                world&gt;.</speech>
    </section>
    <section>
       <speech speaker="Aang">But you forget, I have a flying bison. <charAction>He happily points at
@@ -1141,7 +1142,7 @@
    <section>
       <speech speaker="Aang">
          <charAction>In awe.</charAction> Whoa! What is
-            that?>
+            that?&gt;
       </speech>
    </section>
    <section>
@@ -1181,7 +1182,7 @@
          <charAction>Uncertain.</charAction> I don't know. A few days, maybe?</speech>
    </section>
    <section>
-      <speech speaker="Katara">I think it was more like a hundred years!>
+      <speech speaker="Katara">I think it was more like a hundred years!&gt;
       </speech>
    </section>
    <section>

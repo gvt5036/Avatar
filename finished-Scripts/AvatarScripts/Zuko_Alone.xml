@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="27">Zuko Alone</title>
@@ -957,7 +958,7 @@
    <section>
       <speech speaker="Young Azula">
          <charAction>Tauntingly.</charAction> Who's going to make me?
-                Mom?>
+                Mom?&gt;
       </speech>
    </section>
    <section>

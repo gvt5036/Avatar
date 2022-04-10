@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="3">The Southern Air Temple</title>
@@ -166,7 +167,7 @@
    <section>
       <speech speaker="Zhao">
          <charAction>In disbelief.</charAction> Really? You must regale me with all of
-                the thrilling> details. <charAction>Smirks while he gets
+                the thrilling&gt; details. <charAction>Smirks while he gets
                 into Zuko's face.</charAction> Join me for a drink?</speech>
    </section>
    <section>
@@ -195,7 +196,7 @@
    <section>
       <speech speaker="Sokka">
          <charAction>Annoyed.</charAction> Hey, stomach? Be quiet, all right?
-                I'm trying> to find us some food.</speech>
+                I'm trying&gt; to find us some food.</speech>
    </section>
    <section>
       <description>Sokka starts to go through the luggage and gets out a bag. He looks at it

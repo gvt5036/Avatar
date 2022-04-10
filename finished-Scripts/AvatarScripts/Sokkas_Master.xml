@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="44">Sokkas Master</title>
@@ -30,7 +31,7 @@
    </section>
    <section>
       <speech speaker="Sokka">Oh man, <charAction>Close-up. Standing.</charAction> you've never
-            >not seen anything like this.</speech>
+            &gt;not seen anything like this.</speech>
    </section>
    <section>
       <description>The others, minus Toph, stand up next to him. Cut to panning shot as the
@@ -285,7 +286,7 @@
       <speech speaker="Sokka">
          <charAction>Close-up.</charAction> Ooh! <charAction>Walks to the sword. Side-view of
                 Sokka inspecting the sword.</charAction>
-         That's> what Sokka's talking about.</speech>
+         That's&gt; what Sokka's talking about.</speech>
    </section>
    <section>
       <speech speaker="Weapons store shopkeeper">You have a good eye. <charAction>Aerial view of Sokka as shopkeeper
@@ -900,25 +901,25 @@
       <description>Cut to a shot of the gang running over to the edge of the crater created
                 the night before. Cut to a shot of the group, their backs to the camera, as they
                 stare at the meteorite at the bottom of the crater.</description>
-      </section>
+   </section>
    <section>
-         <description>The camera zooms in on the meteorite before cutting to an overhead shot
+      <description>The camera zooms in on the meteorite before cutting to an overhead shot
                     of Iroh sitting in his cell, looking through the bars in the ceiling. Cut to a
                     close-up of Iroh's eyes. They are closed for a brief moment before opening. Iroh
                     leans forward and puts his head on the floor. The camera cuts to a shot of
                     Iroh's legs rising into the air and tilts down as Iroh stands on his hands.
                     Close-up of Iroh sweating heavily, as he begins to perform hand-stand
                     push-ups.</description>
-      </section>
-      <section>
-         <description>The camera cuts to outside the cell as it zooms out. The scene cuts to
+   </section>
+   <section>
+      <description>The camera cuts to outside the cell as it zooms out. The scene cuts to
                     a shot of Sokka, Aang, and Katara pushing the meteorite up the slope to
                     Piandao's castle. Toph is behind the meteorite, pushing it forward with her
                     earthbending. Fade to an overhead shot of the group and the meteorite at the
                     large doors. Sokka runs to the doors. Cut to behind Sokka as he bangs both
                     knockers frantically. Piandao opens one of the doors almost immediately and
                     steps out.</description>
-      </section>
+   </section>
    <section>
       <speech speaker="Piandao">Who's this‌?</speech>
    </section>
@@ -958,13 +959,13 @@
                 can be seen behind him. Cut to a shot from inside a trough of water as Piandao dips
                 the blade in. The blade makes the water bubble and boil as it hisses and cools,
                 turning black. </description>
-      </section>
+   </section>
    <section>
-         <description>Fade to a shot of the outside of the main building, the camera tilting
+      <description>Fade to a shot of the outside of the main building, the camera tilting
                     down to the open doors. Cut to a shot of the inside. Sokka is seated in front of
                     Piandao. Aang, Katara, and Toph sit behind Sokka while Fat stands behind
                     Piandao, holding Sokka's sword.</description>
-      </section>
+   </section>
    <section>
       <speech speaker="Piandao">Sokka, when you first arrived, you were so unsure. You even seemed down on yourself.
                 <charAction>Frontal view of Piandao as the camera pans across to the right revealing

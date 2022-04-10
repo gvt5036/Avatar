@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="42">The Headband</title>
@@ -347,7 +348,7 @@
    </section>
    <section>
       <speech speaker="Zuko">I'm going in for a visit. You're going to stand guard here, and no
-                one> is going to know about this. <charAction>Zuko releases the guard,
+                one&gt; is going to know about this. <charAction>Zuko releases the guard,
                 enters Iroh's cell, and approaches him.</charAction> Uncle, it's me.
                 <charAction>Iroh, sitting on the floor, turns away from Zuko with a scowl on his
                 face.</charAction>

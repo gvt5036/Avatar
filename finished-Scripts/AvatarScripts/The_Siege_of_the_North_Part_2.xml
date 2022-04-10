@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="20">The Siege of the North Part 2</title>
@@ -350,7 +351,7 @@
             Actually it's quite the other way round. <charAction>In an instant, Koh turns and bolts
                 to Aang, stopping just short of the young Avatar; with an angry blue ogre-like face
                 with red eyes and upright fangs.</charAction>
-         Someone's going to kill them!>
+         Someone's going to kill them!&gt;
          <charAction>Aang closes his eyes briefly before opening them to look at
                 Koh.</charAction>
       </speech>

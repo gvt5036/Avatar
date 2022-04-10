@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="56">The Ember Island Players</title>
@@ -51,7 +52,7 @@
    </section>
    <section>
       <speech speaker="Sokka">Listen to this ... <charAction>Turns the poster toward him.</charAction>
-                "The Boy in the Iceberg> is a new production from
+                "The Boy in the Iceberg&gt; is a new production from
             acclaimed playwright Pu-on Tim, <charAction>Cut to a close shot of the poster as the
                 camera pans up.</charAction> who scoured the globe gathering information on the
             Avatar, from the icy South Pole to the heart of Ba Sing Se. <charAction>Shot changes to
@@ -64,7 +65,7 @@
    <section>
       <speech speaker="Zuko">
          <charAction>Recalling a memory.</charAction> Ugh! My mother used to take us to see
-            them. They butchered Love Amongst the Dragons> every
+            them. They butchered Love Amongst the Dragons&gt; every
             year!</speech>
    </section>
    <section>

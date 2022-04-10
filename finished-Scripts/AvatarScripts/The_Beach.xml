@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="45">The Beach</title>
@@ -793,7 +794,7 @@
    <section>
       <speech speaker="Ruon-Jian">
          <charAction>Frontal view as Zuko walks away.</charAction> Have fun by yourself,
-                loser boy>.</speech>
+                loser boy&gt;.</speech>
    </section>
    <section>
       <speech speaker="Chan">Nice.</speech>

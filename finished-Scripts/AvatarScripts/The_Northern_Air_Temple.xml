@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
    <metadata>
       <title episode="17">The Northern Air Temple</title>
@@ -70,7 +71,7 @@
    <section>
       <speech speaker="Storyteller">
          <charAction>Holds out his cap.</charAction> Tell it to the cap,
-                boy.>
+                boy.&gt;
       </speech>
    </section>
    <section>
