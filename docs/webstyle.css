@@ -35,6 +35,13 @@ section.map {
 
 h1 {
     text-align: center;
+    margin-left: 14rem;
+    margin-right:14rem;
+    background-color: #B4DFFE;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 /* for scroll bar */
 body::-webkit-scrollbar {
