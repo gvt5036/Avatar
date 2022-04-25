@@ -1,7 +1,7 @@
 start = root
 root = element root {metadata, section+}
 
-metadata = element metadata {title, director+, writer+, date, location+}
+metadata = element metadata {title, director+, writer+, date}
     title = element title {episode, text}
     episode = attribute episode {xsd:integer}
     director = element director {text}
