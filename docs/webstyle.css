@@ -95,5 +95,45 @@ main {
 
 .fa-primary,
 .fa-secondary {
-    transition: var(--transition-speed);
-}
+    transition: var(--transition-speed);}
+    
+/* Image tom-foolery */
+
+section {background: powderblue;}
+
+img {float: left;
+  max-width:185px;
+  width:50%;
+  display: block;
+  margin-left: 230px;}
+  
+p {float: right;
+  max-width:500px;
+  width:50%;
+  display: block;
+  margin-right: 230px;
+  text-align: justify;
+  line-height: 1.5;}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
