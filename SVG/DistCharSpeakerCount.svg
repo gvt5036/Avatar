@@ -1,0 +1,1112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710 400" preserveAspectRatio="xMinYMin meet">
+    <defs>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb(255,255,0);stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="225,0 230, 0 230, -90 225, -92" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="145,0 150, 0 150, -110 145, -112" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="465,0 470, 0 470, -110 465, -112" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="515,0 520, 0 520, -140 515, -142" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="375,0 380, 0 380, -90 375, -92" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="55,0 60, 0 60, -120 55, -122" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="555,0 560, 0 560, -100 555, -102" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="565,0 570, 0 570, -120 565, -122" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="535,0 540, 0 540, -100 535, -102" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="65,0 70, 0 70, -120 65, -122" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="345,0 350, 0 350, -90 345, -92" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="485,0 490, 0 490, -210 485, -212" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="195,0 200, 0 200, -140 195, -142" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="335,0 340, 0 340, -150 335, -152" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="25,0 30, 0 30, -130 25, -132" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="285,0 290, 0 290, -170 285, -172" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="395,0 400, 0 400, -120 395, -122" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="525,0 530, 0 530, -140 525, -142" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="445,0 450, 0 450, -100 445, -102" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="455,0 460, 0 460, -140 455, -142" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="155,0 160, 0 160, -140 155, -142" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="235,0 240, 0 240, -120 235, -122" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="95,0 100, 0 100, -220 95, -222" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="495,0 500, 0 500, -110 495, -112" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="15,0 20, 0 20, -190 15, -192" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="185,0 190, 0 190, -170 185, -172" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="575,0 580, 0 580, -180 575, -182" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="245,0 250, 0 250, -90 245, -92" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="35,0 40, 0 40, -70 35, -72" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="385,0 390, 0 390, -60 385, -62" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="275,0 280, 0 280, -170 275, -172" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="435,0 440, 0 440, -130 435, -132" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="295,0 300, 0 300, -220 295, -222" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="45,0 50, 0 50, -210 45, -212" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="505,0 510, 0 510, -240 505, -242" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="5,0 10, 0 10, -220 5, -222" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="75,0 80, 0 80, -170 75, -172" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="305,0 310, 0 310, -170 305, -172" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="355,0 360, 0 360, -210 355, -212" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="255,0 260, 0 260, -160 255, -162" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="165,0 170, 0 170, -180 165, -182" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="365,0 370, 0 370, -230 365, -232" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="405,0 410, 0 410, -170 405, -172" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="105,0 110, 0 110, -80 105, -82" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="175,0 180, 0 180, -180 175, -182" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="135,0 140, 0 140, -120 135, -122" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="425,0 430, 0 430, -70 425, -72" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="415,0 420, 0 420, -130 415, -132" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="85,0 90, 0 90, -150 85, -152" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="265,0 270, 0 270, -230 265, -232" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="545,0 550, 0 550, -90 545, -92" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="325,0 330, 0 330, -90 325, -92" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="205,0 210, 0 210, -130 205, -132" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="215,0 220, 0 220, -250 215, -252" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="475,0 480, 0 480, -150 475, -152" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="315,0 320, 0 320, -190 315, -192" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="115,0 120, 0 120, -190 115, -192" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+        <g transform="translate(30, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="125,0 130, 0 130, -150 125, -152" fill="url(#grad2)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-20" y="-94" font-size="20" font-family="georgia">5</text>
+            <text x="-30" y="-194" font-size="20" font-family="georgia">10</text>
+            <text x="-30" y="-294" font-size="20" font-family="georgia">15</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="155" y="-320" font-size="20" font-family="georgia">Distinct Characters Per Episode</text>
+        </g>
+    </g>
+</svg>
