@@ -41,7 +41,6 @@ body::-webkit-scrollbar-thumb {
 
 section {background: powderblue;}
 
-
   
 p {float: right;
   max-width:500px;
@@ -50,6 +49,10 @@ p {float: right;
   margin-right: 230px;
   text-align: justify;
   line-height: 1.5;}
+
+h1 {
+    background-color: #B4DFFE;
+}
  
 h3 {float: right;
   max-width:500px;
@@ -69,7 +72,15 @@ h3 {float: right;
     padding-bottom: 0.5rem;
     height: 1400px;}
 
-
+.text {text-align: center;
+    margin-left: 14rem;
+    margin-right:14rem;
+    background-color: #B4DFFE;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: 250px;}
 
 
 
