@@ -1,53 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 680" preserveAspectRatio="xMinYMin meet">
     <defs>
-        <linearGradient id="grad2" x1="0%" y1="10%" x2="100%" y2="0%">
+        <linearGradient id="horiz1" x1="0%" y1="10%" x2="100%" y2="0%">
             <stop offset="0%" style="stop-color:rgb(234, 57, 26);stop-opacity:1"/>
             <stop offset="100%" style="stop-color:rgb(248, 130, 110);stop-opacity:1"/>
         </linearGradient>
-        <linearGradient id="grad1" x1="0%" y1="10%" x2="100%" y2="0%">
+        <linearGradient id="horiz2" x1="0%" y1="10%" x2="100%" y2="0%">
             <stop offset="0%" style="stop-color:rgb(110, 180, 248);stop-opacity:1"/>
             <stop offset="100%" style="stop-color:rgb(78, 138, 198);stop-opacity:1"/>
         </linearGradient>
-        <linearGradient id="RedSquare" x1="0%" y1="0%" x2="100%" y2="100%">
+        <linearGradient id="horizRedSquare" x1="0%" y1="0%" x2="100%" y2="100%">
             <stop offset="0%" style="stop-color:rgb(228, 113, 102);stop-opacity:1"/>
             <stop offset="100%" style="stop-color:rgb(170, 61, 47);stop-opacity:1"/>
         </linearGradient>
-        <linearGradient id="BlueSquare" x1="0%" y1="0%" x2="100%" y2="100%">
+        <linearGradient id="horizBlueSquare" x1="0%" y1="0%" x2="100%" y2="100%">
             <stop offset="0%" style="stop-color:rgb(102, 169, 228);stop-opacity:1"/>
             <stop offset="100%" style="stop-color:rgb(58, 122, 178);stop-opacity:1"/>
         </linearGradient>
     </defs>
     <g>
         <g transform="translate(73 580)"><!--Aang-->
-            <rect x="0" y="-490" width="397.6" height="40" fill="url(#grad2)"/>
-            <rect x="397.6" y="-490" width="302.4" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-490" width="397.6" height="40" fill="url(#horiz1)"/>
+            <rect x="397.6" y="-490" width="302.4" height="40" fill="url(#horiz2)"/>
             <line x1="397.6" x2="397.6" y1="-490" y2="-450" stroke="black"/><!--Sokka-->
-            <rect x="0" y="-440" width="388.22" height="40" fill="url(#grad2)"/>
-            <rect x="388.22" y="-440" width="311.78" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-440" width="388.22" height="40" fill="url(#horiz1)"/>
+            <rect x="388.22" y="-440" width="311.78" height="40" fill="url(#horiz2)"/>
             <line x1="388.22" x2="388.22" y1="-440" y2="-400" stroke="black"/><!--Katara-->
-            <rect x="0" y="-390" width="404.74" height="40" fill="url(#grad2)"/>
-            <rect x="404.74" y="-390" width="295.26" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-390" width="404.74" height="40" fill="url(#horiz1)"/>
+            <rect x="404.74" y="-390" width="295.26" height="40" fill="url(#horiz2)"/>
             <line x1="404.74" x2="404.74" y1="-390" y2="-350" stroke="black"/><!--Zuko-->
-            <rect x="0" y="-340" width="383.04" height="40" fill="url(#grad2)"/>
-            <rect x="383.04" y="-340" width="316.96" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-340" width="383.04" height="40" fill="url(#horiz1)"/>
+            <rect x="383.04" y="-340" width="316.96" height="40" fill="url(#horiz2)"/>
             <line x1="383.04" x2="383.04" y1="-340" y2="-300" stroke="black"/><!--Toph-->
-            <rect x="0" y="-290" width="400.96" height="40" fill="url(#grad2)"/>
-            <rect x="400.96" y="-290" width="299.04" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-290" width="400.96" height="40" fill="url(#horiz1)"/>
+            <rect x="400.96" y="-290" width="299.04" height="40" fill="url(#horiz2)"/>
             <line x1="400.96" x2="400.96" y1="-290" y2="-250" stroke="black"/><!--Iroh-->
-            <rect x="0" y="-240" width="373.31" height="40" fill="url(#grad2)"/>
-            <rect x="373.31" y="-240" width="326.69" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-240" width="373.31" height="40" fill="url(#horiz1)"/>
+            <rect x="373.31" y="-240" width="326.69" height="40" fill="url(#horiz2)"/>
             <line x1="373.31" x2="373.31" y1="-240" y2="-200" stroke="black"/><!--Azula-->
-            <rect x="0" y="-190" width="364.49" height="40" fill="url(#grad2)"/>
-            <rect x="364.49" y="-190" width="335.51" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-190" width="364.49" height="40" fill="url(#horiz1)"/>
+            <rect x="364.49" y="-190" width="335.51" height="40" fill="url(#horiz2)"/>
             <line x1="364.49" x2="364.49" y1="-190" y2="-150" stroke="black"/><!--Jet-->
-            <rect x="0" y="-140" width="480.9" height="40" fill="url(#grad2)"/>
-            <rect x="480.9" y="-140" width="219.1" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-140" width="480.9" height="40" fill="url(#horiz1)"/>
+            <rect x="480.9" y="-140" width="219.1" height="40" fill="url(#horiz2)"/>
             <line x1="480.9" x2="480.9" y1="-140" y2="-100" stroke="black"/><!--Zhao-->
-            <rect x="0" y="-90" width="386.05" height="40" fill="url(#grad2)"/>
-            <rect x="386.05" y="-90" width="313.95" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-90" width="386.05" height="40" fill="url(#horiz1)"/>
+            <rect x="386.05" y="-90" width="313.95" height="40" fill="url(#horiz2)"/>
             <line x1="386.05" x2="386.05" y1="-90" y2="-50" stroke="black"/><!--Suki-->
-            <rect x="0" y="-40" width="396.62" height="40" fill="url(#grad2)"/>
-            <rect x="396.62" y="-40" width="303.38" height="40" fill="url(#grad1)"/>
+            <rect x="0" y="-40" width="396.62" height="40" fill="url(#horiz1)"/>
+            <rect x="396.62" y="-40" width="303.38" height="40" fill="url(#horiz2)"/>
             <line x1="396.62" x2="396.62" y1="-40" y2="0" stroke="black"/>
             <line x1="0" x2="700" y1="-500" y2="-500" stroke="black" stroke-width="6"/>
             <line x1="0" x2="700" y1="10" y2="10" stroke="black" stroke-width="6"/>
@@ -85,8 +85,8 @@
             <text x="-51" y="-18" font-size="20">Suki</text>
             <text x="220" y="-518" font-size="25">Speech</text>
             <text x="355" y="-518" font-size="25">Action</text>
-            <rect x="430" y="-538" width="25" height="25" stroke="black" fill="url(#BlueSquare)"/>
-            <rect x="300" y="-538" width="25" height="25" stroke="black" fill="url(#RedSquare)"/>
+            <rect x="430" y="-538" width="25" height="25" stroke="black" fill="url(#horizBlueSquare)"/>
+            <rect x="300" y="-538" width="25" height="25" stroke="black" fill="url(#horizRedSquare)"/>
             <text x="155" y="-550" font-size="30">Speech Count vs Action Count</text>
             <g>
                 <line x1="8.8" x2="13.8" y1="0" y2="0" stroke="black" stroke-width="2" transform="translate(-8 -153) rotate(90 350 0)"/>
