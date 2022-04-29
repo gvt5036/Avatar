@@ -11,37 +11,40 @@
         <nav class="navbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a href="index.html" class="nav-link">
-                        <img src="images/fireSymbol.svg" alt="fire symbol" />
-                        <span class="link-text">Home</span>
-                    </a>
+                    <figure><a href="index.html" class="nav-link">
+                            <img src="images/fireSymbol.svg" style="width:45%" />
+                            <span class="link-text">Home</span>
+                        </a></figure>
                 </li>
                 <li class="nav-item">
-                    <a href="about.html" class="nav-link">
-                        <img src="images/waterSymbol.svg" alt="water symbol" />
-                        <span class="link-text">About</span>
-                    </a>
+                    <figure><a href="about.html" class="nav-link">
+                            <img src="images/waterSymbol.svg" style="width:45%" />
+                            <span class="link-text">About</span>
+                        </a></figure>
                 </li>
                 <li class="nav-item">
-                    <a href="characters.html" class="nav-link">
-                        <img src="images/airSymbol.svg" alt="air symbol" />
-                        <span class="link-text">Characters</span>
-                    </a>
+                    <figure><a href="characters.html" class="nav-link">
+                            <img src="images/airSymbol.svg" style="width:45%" />
+                            <span class="link-text">Characters</span>
+                        </a></figure>
                 </li>
                 <li class="nav-item">
-                    <a href="graphics.html" class="nav-link">
-                        <img src="images/earthSymbol.svg" alt="earth symbol" />
-                        <span class="link-text">Graphics</span>
-                    </a>
+                    <figure><a href="graphics.html" class="nav-link">
+                            <img src="images/earthSymbol.svg" style="width:45%" />
+                            <span class="link-text">Graphics</span>
+                        </a></figure>
                 </li>
             </ul>
         </nav>
-        <main>
+        <main class="graphics-main">
             <h4 id="nav"><a href="INSERT PAGE"><img src="INSERT IMAGE TO REPRESENT SECTION"/></a></h4>
             <!--Nav bar for graphics section^^^-->
+            <div class="graphics-container">
             <h1>Graphics</h1>
-<p>On this page we are showing all of our compiled data from running xquery code and transforming the outputted data into SVG graphic representations. We looked at a range of things that include speech count per epidsode, character actions per epsode, number of characters per episode, and adjectives used by the different nations that are within the story of Avatar The Last Airbender. All of this work could not have been done without the prior XML/Regex preparations and Schema code to assure that Xquery inputs would give us accurate numbers for all of these graphic elements.  </p>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1130 500" preserveAspectRatio="xMinYMin meet">
+<h5>On this page we are showing all of our compiled data from running xquery code and transforming the outputted data into SVG graphic representations. We looked at a range of things that include speech count per episode, character actions per episode, number of characters per episode, and adjectives used by the different nations that are within the story of Avatar The Last Airbender. All of this work could not have been done without the prior XML/Regex preparations and Schema code to assure that Xquery inputs would give us accurate numbers for all of these graphic elements.  </h5>
+            
+<div class="SVGcontent">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 370" preserveAspectRatio="xMinYMin meet">
                 <defs>
                     <linearGradient id="Spk1" x1="0%" y1="0%" x2="0%" y2="100%">
                         <stop offset="40%" style="stop-color:rgb(111, 128, 242);stop-opacity:1"/>
@@ -1153,11 +1156,11 @@
                     </g>
                 </g>
             </svg>
-<p>Gathering the speech count per episode is useful for understanding the amount of information being produced in the epeisodes. Some episodes have significantly smaller speech counts. Pulling this data allows us to then critically analyze why specific episodes have a higher or lower speech count. </p>
-            <!--speech per episode-->
+<h5>Gathering the speech count per episode is useful for understanding the amount of information being produced in the episodes. Some episodes have significantly smaller speech counts. Pulling this data allows us to then critically analyze why specific episodes have a higher or lower speech count. </h5>           
+<!--speech per episode-->
             <!--Insert Caption Here-->
 
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1130 500" preserveAspectRatio="xMinYMin meet">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 370" preserveAspectRatio="xMinYMin meet">
                 <defs>
                     <linearGradient id="Action1" x1="0%" y1="0%" x2="0%" y2="100%">
                         <stop offset="40%" style="stop-color:rgb(162, 217, 127 );stop-opacity:1"/>
@@ -2269,11 +2272,11 @@
                     </g>
                 </g>
             </svg>
-<p>Similar to the reason we pulled the speech count per episode data this data gave us an idea of how much character interaction was occurring in specific episodes. If we wanted to we could then look deeper into the reasoning bhind some episodes have higher or lower counts of character interaction. Interestingly enough there seems to be a relationship between the two data sets. When looking at how the graphs are shaped the columns on each graph are making the same shape. </p>
+<h5> to the reason we pulled the speech count per episode data this data gave us an idea of how much character interaction was occurring in specific episodes. If we wanted to we could then look deeper into the reasoning behind some episodes have higher or lower counts of character interaction. Interestingly enough there seems to be a relationship between the two data sets. When looking at how the graphs are shaped the columns on each graph are making the same shape. </h5>
             <!--action per episode-->
             <!--Insert Caption Here-->
 
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1130 500" preserveAspectRatio="xMinYMin meet">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 370" preserveAspectRatio="xMinYMin meet">
                 <defs>
                     <linearGradient id="Dist1" x1="0%" y1="0%" x2="0%" y2="100%">
                         <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1"/>
@@ -3385,11 +3388,11 @@
                     </g>
                 </g>
             </svg>
-            <p>The purpose of pulling this data is to get a general idea of how many characters are interacting in a given episode. Having this data allowed us to see a relation between number of characters and speeches/charactions in the three books. It also played a role in understanding how the episodes were driven. Whether they were considered developmental in the sense that there are many characters interactin creating a world for the viewer, or if it is filler that furthers the understanding of already known characters and their relationships.</p>
+            <h5>The purpose of pulling this data is to get a general idea of how many characters are interacting in a given episode. Having this data allowed us to see a relation between number of characters and speeches/charActions in the three books. It also played a role in understanding how the episodes were driven. Whether they were considered developmental in the sense that there are many characters interacting creating a world for the viewer, or if it is filler that furthers the understanding of already known characters and their relationships.</h5>
             <!--Distinct Characters per episode-->
             <!--Insert Caption Here-->
 
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1460 680" preserveAspectRatio="xMinYMin meet">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 580" preserveAspectRatio="xMinYMin meet">
                 <defs>
                     <linearGradient id="horiz1" x1="0%" y1="10%" x2="100%" y2="0%">
                         <stop offset="0%" style="stop-color:rgb(234, 57, 26);stop-opacity:1"/>
@@ -3542,11 +3545,11 @@
                     </g>
                 </g>
             </svg>
-            <p>This chart uses xquery to pull all the speech and charaction elements in our xml. It is then split up by which character is performing these speeches and actions. The results are what would be expected from a character importance basis. Having the main characters of the stroy drastically out weigh those that are of less importance. Another aspect of this graph that became an outlier of the rest of the graphic is `Jet's` results. Their speeches more than doubled the charactions that took place within the three books.</p>
+            <h5>This chart uses xquery to pull all the speech and charAction elements in our xml. It is then split up by which character is performing these speeches and actions. The results are what would be expected from a character importance basis. Having the main characters of the stroy drastically out weigh those that are of less importance. Another aspect of this graph that became an outlier of the rest of the graphic is `Jet's` results. Their speeches more than doubled the character's that took place within the three books.</h5>
             <!--Horizontal Speech v Action-->
             <!--Insert Caption Here-->
 
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350 600" preserveAspectRatio="xMinYMin meet">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 500" preserveAspectRatio="xMinYMin meet">
                 <defs>
                     <linearGradient id="RedFront" x1="0%" y1="0%" x2="0%" y2="100%">
                         <stop offset="0%" style="stop-color:rgb(228, 113, 102);stop-opacity:1"/>
@@ -8738,12 +8741,13 @@
                     </g>
                 </g>
             </svg>
-<p>Just another way of observing the Speech vs Action data set.</p>
+<h5>Just another way of observing the Speech vs Action data set.</h5>
+
             <!--Speech v Action (Bar graph) may or may not want a description for this-->
             <!--Insert Caption Here-->
-            
+            <div class="pi-container">
             <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
-    id="chart-bcab573f-2d32-4d4f-850c-e7be468ca68a" class="pygal-chart" viewBox="0 0 1400 600" preserveAspectRatio="xMinYMin meet">
+    id="chart-bcab573f-2d32-4d4f-850c-e7be468ca68a" class="pygal-chart" viewBox="0 0 800 600" preserveAspectRatio="xMinYMin meet">
     <!--Generated with pygal 3.0.0 (etree) ©Kozea 2012-2016 on 2022-04-25-->
     <!--http://pygal.org-->
     <!--http://github.com/Kozea/pygal-->
@@ -9219,12 +9223,12 @@
         <g transform="translate(790, 56)" class="legends"/>
     </g>
             </svg>
-
+            </div>
             <!--Air Nation Top Adjectives-->
             <!--Insert Caption Here-->
 
             <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
-    id="chart-4aa8aa68-c44e-4dde-9d27-2a4bfada7cd5" class="pygal-chart" viewBox="0 0 1400 600" preserveAspectRatio="xMinYMin meet">
+    id="chart-4aa8aa68-c44e-4dde-9d27-2a4bfada7cd5" class="pygal-chart" viewBox="0 0 800 600" preserveAspectRatio="xMinYMin meet">
     <!--Generated with pygal 3.0.0 (etree) ©Kozea 2012-2016 on 2022-04-25-->
     <!--http://pygal.org-->
     <!--http://github.com/Kozea/pygal-->
@@ -9705,7 +9709,7 @@
             <!--Insert Caption Here-->
 
             <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
-    id="chart-943b745e-2cec-46a6-a84d-76b5e3cc6e20" class="pygal-chart" viewBox="0 0 1400 600" preserveAspectRatio="xMinYMin meet">
+    id="chart-943b745e-2cec-46a6-a84d-76b5e3cc6e20" class="pygal-chart" viewBox="0 0 800 600" preserveAspectRatio="xMinYMin meet">
     <!--Generated with pygal 3.0.0 (etree) ©Kozea 2012-2016 on 2022-04-25-->
     <!--http://pygal.org-->
     <!--http://github.com/Kozea/pygal-->
@@ -10201,7 +10205,7 @@
             <!--Insert Caption Here-->
 
             <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
-    id="chart-8d40d0df-a12f-4c90-9130-802dbd29a0df" class="pygal-chart" viewBox="0 0 1400 600" preserveAspectRatio="xMinYMin meet">
+    id="chart-8d40d0df-a12f-4c90-9130-802dbd29a0df" class="pygal-chart" viewBox="0 0 800 600" preserveAspectRatio="xMinYMin meet">
     <!--Generated with pygal 3.0.0 (etree) ©Kozea 2012-2016 on 2022-04-25-->
     <!--http://pygal.org-->
     <!--http://github.com/Kozea/pygal-->
@@ -10680,7 +10684,7 @@
 
             <!--Fire Nation Top Adjectives-->
             <!--Insert Caption Here-->
-
+            </div></div> 
         </main>
     </body>
 </html>
