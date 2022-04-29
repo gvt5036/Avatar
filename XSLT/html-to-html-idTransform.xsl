@@ -28,5 +28,12 @@
         </head>
     </xsl:template>
     
+    <xsl:template match="table">
+        <h3><xsl:apply-templates select="tr[2]/td[1]/text()"/></h3>
+        <xsl:apply-templates select="tr[2]/td[2]/ul"/>
+    </xsl:template>
+    
+    
+    
     
 </xsl:stylesheet>
