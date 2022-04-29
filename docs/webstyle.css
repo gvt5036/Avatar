@@ -175,7 +175,40 @@ h3 {float: right;
 
 
 
+/*__________________________________________________*/
+/*Graphics Section*/
+.graphics-main {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 50px;
+}
 
+
+.graphics-container {
+    text-align: center;
+    opacity: 94%;
+    background-color: #B4DFFE;
+    width: 70%;
+}
+
+.SVGcontent {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    background-color: #B4DFFE;
+    padding-bottom: 50px;
+}
+
+.graphics-container h5{
+    line-height: 1.5;
+    font-size: larger;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding-bottom: 60px;
+}
 
 
 
