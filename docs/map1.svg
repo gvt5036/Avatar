@@ -1,49 +1,3 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-    <head>
-        <title>Home</title>
-        <meta charset="UTF-8" />
-        <meta name="author" content="My Name" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" type="text/css" href="webstyle.css" />
-
-    </head>
-    <body>
-        <nav class="navbar">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <figure><a href="index.html" class="nav-link">
-                            <img src="images/fireSymbol.svg" style="width:45%" />
-                            <span class="link-text">Home</span>
-                        </a></figure>
-                </li>
-                <li class="nav-item">
-                    <figure><a href="about.html" class="nav-link">
-                            <img src="images/waterSymbol.svg" style="width:45%" />
-                            <span class="link-text">About</span>
-                        </a></figure>
-                </li>
-                <li class="nav-item">
-                    <figure><a href="characters.html" class="nav-link">
-                            <img src="images/airSymbol.svg" style="width:45%" />
-                            <span class="link-text">Characters</span>
-                        </a></figure>
-                </li>
-                <li class="nav-item">
-                    <figure><a href="graphics.html" class="nav-link">
-                            <img src="images/earthSymbol.svg" style="width:45%" />
-                            <span class="link-text">Graphics</span>
-                        </a></figure>
-                </li>
-            </ul>
-        </nav>
-        <main>
-            <h1>Avatar: The Last Airbender</h1>
-            <div class="map">
-                <!--<img src="images2.svg" style="width:70%" />-->
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
@@ -752,21 +706,3 @@
      cx="350.33746"
      cy="155.09009"
      r="7.6160316" /></a></svg>
-
-
-
-
-                <iframe  src="map/BaSingSe.html" name="iframe_a"/>
-
-            </div>
-            <div class="text">
-                
-                <p>Welcome to the Avatar Project! Avatar: The Last Airbender is an animated series
-                    about the Avatar, named Aang, and his friends Sokka, Katara, and Toph. They are
-                    destined to save the world from the Fire Nation and by doing so, restoring
-                    harmony to the world. Our goal for this project is to further analyze the
-                    relationships of the characters and...</p>
-            </div>
-        </main>
-    </body>
-</html>
