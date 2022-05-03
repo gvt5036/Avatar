@@ -43,9 +43,6 @@ svg.imageMap{
 figure{
     width: 80%;
 }
-navbar figure img{
-    max-width:20px;
-}
 /* __________________________________________________________________________________________________________________________________________________________ */
 /* for scroll bar */
 body::-webkit-scrollbar {
@@ -60,15 +57,6 @@ body::-webkit-scrollbar-thumb {
 /* __________________________________________________________________________________________________________________________________________________________ */   
 /* Image tom-foolery */
 
-.readable {
-  display: flex;
-  justify-content: center;
-  padding: 50px;
-  margin: 20px;
-  
-  
-}
-
 img.src {
       width: 300px;
   border: 15px solid green;
@@ -76,7 +64,14 @@ img.src {
   margin: 20px;
 }
 
-p {
+
+nav {
+height: 500px;
+
+}
+
+/*
+nav {
     width: 300px;
 background: #B4DFFE;
   padding: 50px;
@@ -86,10 +81,7 @@ background: #B4DFFE;
    text-align: justify;
   line-height: 1.5;
 }
-
-
-
-
+*/
 
 
 /*  NONSENSE
@@ -124,7 +116,7 @@ p {
  */
 
 
-
+/*
 h1 {
     background-color: #B4DFFE;
 }
@@ -136,44 +128,66 @@ h3 {float: right;
   margin-right: 230px;
   text-align: justify;
   line-height: 1.5;}
-  
-  
-  
-  
-  
-  
-  
-  
+  */
   
 
-.about-descript {text-align: center;
-    margin-left: 14rem;
-    margin-right:14rem;
-    background-color: #B4DFFE;
-    padding-left: 5rem;
-    padding-right: 5rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    height: 1400px;}
 
-.text {text-align: center;
-    background-color: #B4DFFE;
-    margin-left: 14rem;
-    margin-right:14rem;
-    padding-left: 5rem;
-    padding-right: 5rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    height: 250px;}
 
-.about-heading h1{
+
+
+
+
+/*_____________________________________________________________________________________________________________________*/
+/*CSS Rework*/
+
+
+/*Main*/
+
+.home-header{
     text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
+
+.graphics-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
 }
 
 
+/*__________________________________________________*/
+/*About Page*/
+.about-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
 
+.about-descript {
+    text-align: center;
+    margin-left: 19rem;
+    margin-right:19rem;
+    background-color: #B4DFFE;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: auto;
+    opacity: 94%;
+    margin-bottom: 30px;
+}
 
-
+.about-descript p{
+    line-height: 1.5;
+    font-size: larger;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    padding-bottom: 17px;
+}
 
 /*__________________________________________________*/
 /*Graphics Section*/
@@ -211,9 +225,156 @@ h3 {float: right;
 }
 
 
+/*__________________________________________________*/
+/*Characters*/
+
+.character-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
+
+.character-main{
+    flex-wrap: wrap;
+}
+
+.char-gallery{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.char-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.char-pic {
+    margin: 3rem;
+    height: 300px;
+    width: 250px;
+    margin-bottom: 60px;
+    border-radius: 8px;
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/aang3.jpg');
+    background-size: cover;
+    position: relative;
+    color: black;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.char-pic h1{
+    background-color: #B4DFFE;
+    height: 30px;
+    margin-top: 310px;
+    padding: 8px 15px 8px 15px;
+    opacity: 80%;
+}
+
+.char-pic:nth-child(2){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/katara2.jpg');
+}
+
+.char-pic:nth-child(3){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/sokka.jpg');
+}
+
+.char-pic:nth-child(4){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/toph2.png');
+}
+
+.char-pic:nth-child(5){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/zuko2.jpg');
+}
+
+.char-pic:nth-child(6){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/UncleIroh.jpg');
+}
+
+.char-pic:nth-child(7){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/azula2.jpg');
+}
+
+.char-box h1{
+    text-decoration: none;
+    color: black;
+}
+
+.char-pic{
+    border-radius: 4px;
+}
 
 
+.indChar-main{
+    align-items: center;
+}
 
+.indChar-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    height: 40px;
+}
 
+.indChar-container{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    margin: 20px;
+}
 
+.char-image{
+    display: flex;
+    max-height: 500px;
+    object-fit: contain;
+    flex: 1;
+    background-color: #B4DFFE;
+    opacity: 94%;
+    margin-right: 10px;
+}
 
+.indChar-para{
+    max-height: 500px;
+    background-color: #B4DFFE;
+    font-size: x-large;
+    opacity: 94%;
+    flex: 1;
+    margin-left: 10px;
+}
+
+.indChar-para p{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
