@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/avatar-queries/nationActions" version="1" owner="gvt5036" group="gvt5036" mode="755" created="2022-04-28T23:30:04.311Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Fire.txt" skip="no" owner="gvt5036" group="gvt5036" mode="644" created="2022-04-28T23:30:18.038Z" modified="2022-04-28T23:32:29.401Z" filename="Fire.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Water.txt" skip="no" owner="gvt5036" group="gvt5036" mode="644" created="2022-04-28T23:30:19.856Z" modified="2022-04-28T23:32:32.326Z" filename="Water.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Earth.txt" skip="no" owner="gvt5036" group="gvt5036" mode="644" created="2022-04-28T23:30:28.748Z" modified="2022-04-28T23:32:43.624Z" filename="Earth.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Air.txt" skip="no" owner="gvt5036" group="gvt5036" mode="644" created="2022-04-28T23:30:29.988Z" modified="2022-04-28T23:32:45.281Z" filename="Air.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

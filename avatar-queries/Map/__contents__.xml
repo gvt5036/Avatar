@@ -1,0 +1,177 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/avatar-queries/Map" version="1" owner="jjg6486" group="jjg6486" mode="755" created="2022-04-28T19:14:09.56Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="FoggySwamp.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.745Z" modified="2022-04-29T00:22:57.089Z" filename="FoggySwamp.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AgnaQela.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.749Z" modified="2022-04-29T00:22:57.091Z" filename="AgnaQela.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SeedyMerchantsPier.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.754Z" modified="2022-04-29T00:22:57.094Z" filename="SeedyMerchantsPier.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ScorchedForest.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.757Z" modified="2022-04-29T00:22:57.096Z" filename="ScorchedForest.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SenlinVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.766Z" modified="2022-04-29T00:22:57.099Z" filename="SenlinVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PlainsVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.822Z" modified="2022-04-29T00:22:57.101Z" filename="PlainsVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WanShiTongsLibrary.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.212Z" modified="2022-04-29T00:22:56.94Z" filename="WanShiTongsLibrary.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireNationCircus.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.251Z" modified="2022-04-29T00:22:56.943Z" filename="FireNationCircus.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="KyoshiIsland.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.256Z" modified="2022-04-29T00:22:56.946Z" filename="KyoshiIsland.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BaSingSe.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.376Z" modified="2022-04-29T00:22:56.949Z" filename="BaSingSe.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ChinVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.38Z" modified="2022-04-29T00:22:56.952Z" filename="ChinVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Abbey.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.384Z" modified="2022-04-29T00:22:56.955Z" filename="Abbey.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="QuarryCampsite.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.39Z" modified="2022-04-29T00:22:56.958Z" filename="QuarryCampsite.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MiningVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.394Z" modified="2022-04-29T00:22:56.961Z" filename="MiningVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TreetopHideout.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.4Z" modified="2022-04-29T00:22:56.965Z" filename="TreetopHideout.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="LakeLaogai.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.404Z" modified="2022-04-29T00:22:56.968Z" filename="LakeLaogai.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BlackCliffs.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.407Z" modified="2022-04-29T00:22:56.97Z" filename="BlackCliffs.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Omashu.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.412Z" modified="2022-04-29T00:22:56.973Z" filename="Omashu.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ShuJing.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.423Z" modified="2022-04-29T00:22:56.976Z" filename="ShuJing.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Tavern.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.44Z" modified="2022-04-29T00:22:56.979Z" filename="Tavern.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WulongForest.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.453Z" modified="2022-04-29T00:22:56.982Z" filename="WulongForest.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireNationCapital.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.458Z" modified="2022-04-29T00:22:56.985Z" filename="FireNationCapital.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireNationPalace.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.465Z" modified="2022-04-29T00:22:56.988Z" filename="FireNationPalace.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SouthernWaterTribe.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.486Z" modified="2022-04-29T00:22:56.991Z" filename="SouthernWaterTribe.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NorthPole.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.542Z" modified="2022-04-29T00:22:56.994Z" filename="NorthPole.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EarthKingdomBase.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.557Z" modified="2022-04-29T00:22:56.997Z" filename="EarthKingdomBase.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ChameleonBay.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.56Z" modified="2022-04-29T00:22:57Z" filename="ChameleonBay.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SerpentsPass.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.564Z" modified="2022-04-29T00:22:57.003Z" filename="SerpentsPass.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CrescentIsland.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.568Z" modified="2022-04-29T00:22:57.006Z" filename="CrescentIsland.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EmberIsland.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.571Z" modified="2022-04-29T00:22:57.009Z" filename="EmberIsland.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaoling.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.574Z" modified="2022-04-29T00:22:57.011Z" filename="Gaoling.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PohuaiStronghold.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.577Z" modified="2022-04-29T00:22:57.014Z" filename="PohuaiStronghold.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Taku.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.584Z" modified="2022-04-29T00:22:57.017Z" filename="Taku.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WesternAirTemple.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.592Z" modified="2022-04-29T00:22:57.02Z" filename="WesternAirTemple.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BoilingRock.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.608Z" modified="2022-04-29T00:22:57.023Z" filename="BoilingRock.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CaveofTwoLovers.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.612Z" modified="2022-04-29T00:22:57.026Z" filename="CaveofTwoLovers.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="KolauMountainRange.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.614Z" modified="2022-04-29T00:22:57.028Z" filename="KolauMountainRange.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TuZin.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.617Z" modified="2022-04-29T00:22:57.031Z" filename="TuZin.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CrystalCatacombs.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.621Z" modified="2022-04-29T00:22:57.034Z" filename="CrystalCatacombs.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SiWongDesert.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.625Z" modified="2022-04-29T00:22:57.037Z" filename="SiWongDesert.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MistyPalmsOasis.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.628Z" modified="2022-04-29T00:22:57.039Z" filename="MistyPalmsOasis.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireNationColonialVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.631Z" modified="2022-04-29T00:22:57.042Z" filename="FireNationColonialVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SunWarriorsAncientCity.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.635Z" modified="2022-04-29T00:22:57.045Z" filename="SunWarriorsAncientCity.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MakapuVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.639Z" modified="2022-04-29T00:22:57.051Z" filename="MakapuVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="GreatDivide.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.643Z" modified="2022-04-29T00:22:57.054Z" filename="GreatDivide.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="EasternAirTemple.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.654Z" modified="2022-04-29T00:22:57.056Z" filename="EasternAirTemple.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeachCave.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.659Z" modified="2022-04-29T00:22:57.059Z" filename="BeachCave.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireNationBazar.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.663Z" modified="2022-04-29T00:22:57.061Z" filename="FireNationBazar.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireNationSchool.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.668Z" modified="2022-04-29T00:22:57.064Z" filename="FireNationSchool.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NorthernAirTemple.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.673Z" modified="2022-04-29T00:22:57.066Z" filename="NorthernAirTemple.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="JangHui.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.677Z" modified="2022-04-29T00:22:57.069Z" filename="JangHui.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HamasVillage.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.68Z" modified="2022-04-29T00:22:57.071Z" filename="HamasVillage.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FireFountainCity.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.686Z" modified="2022-04-29T00:22:57.074Z" filename="FireFountainCity.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SerpantsPass.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.691Z" modified="2022-04-29T00:22:57.076Z" filename="SerpantsPass.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NorthernWaterTribe.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.695Z" modified="2022-04-29T00:22:57.079Z" filename="NorthernWaterTribe.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheSouthernAirTemple.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.701Z" modified="2022-04-29T00:22:57.082Z" filename="TheSouthernAirTemple.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="WhaleTailIsland.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.711Z" modified="2022-04-29T00:22:57.084Z" filename="WhaleTailIsland.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HarborTown.html" skip="no" owner="jjg6486" group="jjg6486" mode="644" created="2022-04-28T19:22:18.742Z" modified="2022-04-29T00:22:57.087Z" filename="HarborTown.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
