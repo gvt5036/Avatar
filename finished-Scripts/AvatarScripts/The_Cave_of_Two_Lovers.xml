@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="22">The Cave of Two Lovers</title>
+      <director>Lauren MacMullan</director>
+      <writer>Joshua Hamilton</writer>
+      <date>2006-03-24</date>
+      <location nation="earth">Cave of Two Lovers</location>
+      <location nation="earth">Kolau Mountain Range</location>
+   </metadata>
+   <section>
+      <description>The episode opens to show a cliff with a small body of water, where Team
+                Avatar is residing. The camera pans downward and cuts to where Sokka is relaxing
+                peacefully, floating on a large leaf in the water with Momo sleeping on his stomach,
+                while Katara and Aang are facing each other while practicing
+                waterbending.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>With his hair covering his eyes.</charAction> You guys are going to be
+            done soon, right? We have a lot of ground to cover if we're going to make it to Omashu
+            today.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Rises from her hunched-over position; turns to face Sokka
+                smugly.</charAction> What? Like you're ready to go right now, naked guy?
+                <charAction>Smiles at him smugly.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I could be ready in two minutes. Seriously, <charAction>Pulls back the hair covering
+                his eyes.</charAction> whenever.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">So you were showing me the octopus form?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Turns her attention back to Aang.</charAction> Right, let me see your
+            stance.</speech>
+   </section>
+   <section>
+      <description>Aang assumes a defensive stance. After careful consideration, Katara walks
+                over to him.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Walks under his right arm.</charAction> Your arms are too far apart.
+                <charAction>Positions his arms closer together.</charAction> See, if you move them
+            closer together, you protect your center. You got it?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Blushing.</charAction> Oh, yea ... thanks.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Walks away and assumes a fighting stance.</charAction> Okay, let's see
+            what you got.</speech>
+   </section>
+   <section>
+      <description>Aang bends the water, creating a globule which eventually transforms into
+                eight whip-like water tentacles. He carefully maneuvers them, fending off shards of
+                ice that Katara repeatedly sends at him by throwing them away or dodging them. At
+                length, he manipulates one of the tentacles, curling it around her leg, gripping it
+                firmly and pulling on it.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Proudly.</charAction> You make a fine octopus, Pupil Aang.</speech>
+   </section>
+   <section>
+      <description>The camera cuts to where Aang dances playfully, suspended in a globule of
+                water shaped like an actual octopus. Suddenly, music can be heard in the distance.
+                The group witnesses a strange group of nomads playing music on instruments and
+                singing, approaching them.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Singing.</charAction> Da, da, da. Don't fall in love with the traveling
+            girl. She'll leave you broke and brokenhearted. <charAction>Cuts to shot of the team
+                standing in the lake. Sokka unexpectedly falls off his leaf into the water. Cuts to
+                nomads. Chong stops singing and points at the group.</charAction> Hey, river
+            people!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">We're not river people.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Puzzled.</charAction> You're not? Well then what kind of people are
+            you?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Just ... people.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Aren't we all, brother?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Walks over and says accusingly.</charAction> Who are you?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">I'm Chong and this is my wife, Lily. We're nomads, happy to go wherever the wind
+            takes us! <charAction>He suddenly strums his lute-like instrument in a crazy fashion
+                much like a rock star strums crazily on their guitar.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Starts out with a somewhat puzzled tone, but changes it to an excited
+                one.</charAction> You guys are nomads? That's great! I'm a nomad!</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Just as excitedly.</charAction> Hey, me too!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Blankly.</charAction> I know ... you just said that.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Oh. <charAction>Noticing Sokka.</charAction> Nice underwear ...</speech>
+   </section>
+   <section>
+      <description>Cut to close shot of Sokka, who is only wearing his swimsuit; Aang and
+                Katara are standing behind him. Sokka's eyes bulge at the sudden realization that he
+                is wearing very little in front of complete strangers. He grabs Momo and places him
+                strategically over his underwear and slides rapidly off the screen. The scene
+                switches to a forest landscape, where Zuko and Iroh are now living as fugitives. The
+                camera shows a close-up of Iroh's face, as he gasps and stares in awe at a red and
+                white flower. Cuts to full view of him and an area behind him.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Emerging from the bushes, now sporting short, black hair.</charAction> I
+            didn't find anything to eat! I can't live like this! I wasn't meant to be a fugitive.
+                <charAction>Raises fists in the air and yells at the sky.</charAction> This is
+            impossible! <charAction>Looking over at Iroh.</charAction> Uncle, what are you
+            doing?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Cuts to Iroh who dotes over the flower. Zuko appears behind
+                him.</charAction> You're looking at the rare white dragon bush. Its leaves make a
+            tea so delicious, it's heartbreaking. That, or it's the white jade, which is
+            poisonous.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">We need food, not tea. I'm going fishing. <charAction>Walks
+            away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Dreamily.</charAction> Hmm ... delectable tea? <charAction>More
+                suspiciously.</charAction> Or deadly poison?</speech>
+   </section>
+   <section>
+      <description>The scene switches to where Team Avatar and the band of nomads are lounging
+                nearby Appa, whose fur is braided. Chong is casually strumming his lute. Sokka
+                approaches.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Wearing a wreath of pink flowers on his head.</charAction> Hey, Sokka,
+            you should hear some of these stories. These guys have been everywhere!</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Stops playing.</charAction> Well not everywhere, Little Arrowhead. But
+            where we haven't been, we've heard about through stories and songs.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">They said they'll take us to see a giant night crawler!</speech>
+   </section>
+   <section>
+      <speech speaker="Moku">
+         <charAction>Lying on the ground; in a dreamy voice.</charAction> On the way, there's
+            a waterfall that creates a never-ending rainbow!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Look, I hate to be the wet blanket here, but since Katara is busy, I guess it's up
+            to me.</speech>
+   </section>
+   <section>
+      <description>Katara shoots him a glare as Lily braids her hair.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">We need to get to Omashu. No sidetracks, no worms and definitely no
+            rainbows.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Wow, sounds like someone has a case of destination fever. You're worried too much
+            about where you're going.</speech>
+   </section>
+   <section>
+      <speech speaker="Lily">You got to focus less on the "where" and more on the "going". <charAction>She makes
+                gestures with her hand, accidentally tugging on Katara's
+            braid.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Impatiently.</charAction> O. Ma. Shu!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka's right. We need to find King Bumi, so Aang can learn earthbending somewhere
+            safe.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Sounds like you're headed to Omashu.</speech>
+   </section>
+   <section>
+      <description>Sokka smacks his forehead in frustration.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">There's an old story about a secret pass right through the mountains.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Is this real or a legend?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Oh, it's a real legend. And it's as old as earthbending itself. <charAction>Begins
+                strumming his lute and singing.</charAction> Two lovers, forbidden from one another,
+            the war divides their people and the mountain divides them apart! Built a path to be
+            together! <charAction>Stops playing.</charAction> Yeah, I forget the next couple of
+            lines, but then it goes ... <charAction>Resumes singing.</charAction> Secret tunnel!
+            Secret tunnel! Through the mountains, secret, secret, secret, secret tunnel!
+            Yeah!</speech>
+   </section>
+   <section>
+      <description>A shot showing everyone around Appa, including the nomads. who had been
+                dancing and clapping.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Unamused while folding his arms.</charAction> I think we'll just stick
+            with flying. We've dealt with the Fire Nation before. We'll be fine.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Yeah, thanks for the help, but Appa hates going underground. <charAction>Flashing a
+                smile.</charAction> And we need to do whatever makes Appa most comfortable
+            ...</speech>
+   </section>
+   <section>
+      <description>The scene changes to a mountainous cliffside where Fire Nation soldiers are
+                attacking the team by launching fireballs at them as they desperately try to escape
+                on Appa.</description>
+   </section>
+   <section>
+      <speech speaker="Commander">
+         <charAction>Pointing at the trio on Appa.</charAction> Launch!</speech>
+   </section>
+   <section>
+      <description>Several catapults are activated, launching an assault of fireballs at the
+                team, who manages to narrowly avoid them.</description>
+   </section>
+   <section>
+      <speech speaker="Team Avatar">Ahhhh!</speech>
+   </section>
+   <section>
+      <description>The scene cuts to the trio, covered in ash and scorch marks, casually
+                strolling past the nomads.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Pointing forward.</charAction> Secret love cave, let's go.</speech>
+   </section>
+   <section>
+      <description>The scene switches to the forest, where Zuko has arrived from his fishing
+                expedition. When the camera pans upward, it is revealed that he has only managed to
+                spear a single, tiny fish which flaps about helplessly on the large branch he used
+                for a fishing pole. Cuts to Iroh hunched over, his back to the camera.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Zuko, <charAction>Cut to a wide, overhead shot of Zuko standing behind
+                Iroh.</charAction> remember that plant I thought might be tea?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Shocked.</charAction> You didn't ...</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">I did ... <charAction>Turns around.</charAction> and it wasn't. <charAction>Reveals
+                himself to be swollen and covered in red marks.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Cut back to Zuko who drops the branch out of shock.</charAction>
+            Ahh!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Surprisingly calmly.</charAction> When the rash spreads to my throat, I
+            will stop breathing. <charAction>Excitedly.</charAction> But look what I found.
+                <charAction>Iroh holds out his arm to reveal berries.</charAction> These are bacui
+            berries, known to cure the poison of the white jade.
+                <charAction>Unenthusiastically.</charAction> That, or maka'ole berries that cause
+            blindness.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Grabbing branch of berries and hurling it into the bushes.</charAction>
+            We're not taking any more chances with these plants! We need to get help.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">But where are we going to go? <charAction>Kneeling down and scratching his rash
+                vigorously.</charAction> We're enemies of the Earth Kingdom and fugitives from the
+            Fire Nation. <charAction>Camera zooms in on his reddened leg.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">If the Earth Kingdom discovers us, they'll have us killed.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Rises.</charAction> But if the Fire Nation discovers us, we'll be turned
+            over to Azula.</speech>
+   </section>
+   <section>
+      <description>They look at each other and pause briefly.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Nodding and walking away with Iroh.</charAction> Earth Kingdom it
+            is.</speech>
+   </section>
+   <section>
+      <description>The scene changes to where Team Avatar and the band of nomads are
+                journeying to the tunnels along a wide street surrounded by the ruins of a
+                temple.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">How far are we from the tunnel?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Actually, it's not just one tunnel. The lovers didn't want anyone to find out about
+            their love, so they built a whole labyrinth!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Halts in his tracks; in shock.</charAction> Labyrinth?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Casually.</charAction> Oh, I'm sure we'll figure it out.</speech>
+   </section>
+   <section>
+      <speech speaker="Lily">All you need to do is trust in love ... according to the curse.</speech>
+   </section>
+   <section>
+      <description>Sokka, who had resumed walking, halts once more. The others pass by him.
+                After several moments, he flinches in terror.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>In a somewhat whining voice.</charAction> Curse!</speech>
+   </section>
+   <section>
+      <description>Camera pans to the dark entrance of the cave.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">Hey-hey! We're here!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Cuts to shot of inscription on the side of the cave
+                entrance.</charAction> What exactly is this curse?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">The curse says that only those who trust in love can make it through the caves.
+            Otherwise, you'll be trapped in them forever.</speech>
+   </section>
+   <section>
+      <speech speaker="Lily">And die.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Oh yeah, and die. <charAction>Brightening.</charAction> Hey, I just remembered the
+            rest of that song! <charAction>Stands before the entrance and strums lute, while singing
+                an ominous line in a low voice.</charAction> And die!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's it! There's no way we're going through some cursed hole!</speech>
+   </section>
+   <section>
+      <speech speaker="Moku">
+         <charAction>Turns head to observe gray smoke rising from the horizon, which he
+                proceeds to point at.</charAction> Hey, someone's making a big campfire!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>In a serious tone.</charAction> That's no campfire, Moku.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Grimly.</charAction> It's Fire Nation. They're tracking us.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Making sure he understands.</charAction> So all you need to do is trust
+            in love to get through these caves?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">That is correct, Master Arrowhead.</speech>
+   </section>
+   <section>
+      <description>Aang turns to stare at Katara, who has her back to him. Her clothes and
+                hair sway slightly as a breeze passes by. The camera closes up to his face, his eyes
+                shining in adoration.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Smiling.</charAction> We can make it.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Gesturing to the cave; somewhat commanding.</charAction> Everyone into
+            the hole!</speech>
+   </section>
+   <section>
+      <description>They all begin to enter the cave. Cuts to a close-up of Appa as he groans.
+                Several Fire Nation tanks rumble across the terrain toward the entrance of the
+                tunnel and pause once they reach the mouth of the cave.</description>
+   </section>
+   <section>
+      <speech speaker="Commander">Hold on! It's too dangerous. Haven't you heard the song? Just close them in. The
+            mountain will take care of the rest.</speech>
+   </section>
+   <section>
+      <description>The tanks fire rotating grappling hooks from canisters into the tunnel and
+                release them after a few moments, unleashing a myriad of boulders. The scene
+                switches to where the group has begun navigating their way through the tunnels only
+                to turn and witness the entrance being closed off. Appa begins to frantically paw
+                the walls of the tunnel.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">It's okay, Appa. We'll be fine. I hope.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">We will be fine. All we need is a plan. Chong, how long do those torches
+            last?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Casually.</charAction> Uh, about two hours each.</speech>
+   </section>
+   <section>
+      <speech speaker="Lily">
+         <charAction>Lighting the rest of the torches in her hand.</charAction> And we have
+            five torches, so that's ten hours!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Grabbing torches and stomping out the fire.</charAction> It doesn't work
+            like that if they're all lit at the same time!</speech>
+   </section>
+   <section>
+      <speech speaker="Lily">Oh, right.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I'm going to make a map to keep track of exactly where we've been. Then we should be
+            able to solve it like a maze and get through.</speech>
+   </section>
+   <section>
+      <description>Katara and Aang look at each other with unsure expressions. The scene
+                changes to a village. Camera cuts to a hospital before switching to the inside of
+                the building. One doctor is treating a man with what appears to be a cupping
+                treatment. The man grits his teeth in pain. The camera pans over to where a girl is
+                treating Iroh's allergic reaction. Zuko is seated on a bench.</description>
+   </section>
+   <section>
+      <speech speaker="Song">
+         <charAction>Wringing cloth.</charAction> You two must not be from around here. We
+            know better than to touch the White Jade, much less make it into tea and drink it.
+                <charAction>Flicks Iroh's hand away when he scratches his
+            rash.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>The girl moves away from the camera's eye, revealing Iroh to be in an
+                even worse condition than before with the rash having spread to his face and his
+                cheeks swollen.</charAction> Whoops!</speech>
+   </section>
+   <section>
+      <speech speaker="Song">So where are you traveling from?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Nervously; rises from his seat as she moves his hand down so she could
+                wash it.</charAction> Yes, we're travelers.</speech>
+   </section>
+   <section>
+      <speech speaker="Song">Do you have names?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Names? Of course we have names. <charAction>Song turns to see Iroh scratching and
+                glares at him, before slapping his hand away.</charAction> I'm, uh ... Lee and this
+            is my Uncle, uh ... Mushi?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Shoots him angry look. Cuts to shot of Song taking a lotion from a jar.
+                She begins slathering it over the inflamed areas.</charAction> Yes, my nephew was
+            named after his father, so we just call him Junior. <charAction>Leans over to the side
+                to give Zuko a pleased smile.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Zuko glares angrily at Iroh and moves his finger across his neck signaling
+                that he's dead meat, but abruptly halts and puts his hands behind his back when Song
+                turns to look at him.</description>
+   </section>
+   <section>
+      <speech speaker="Song">Mushi and Junior, huh. My name is Song. You two look like you could use a good meal.
+                <charAction>Slaps Iroh's hand away when he goes to scratch his rash.</charAction>
+            Why don't you stay for dinner?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Looking away.</charAction> Sorry, but we need to be moving on.</speech>
+   </section>
+   <section>
+      <speech speaker="Song">
+         <charAction>Screwing the cap back on the lid.</charAction> That's too bad.
+                <charAction>Gives an innocent smile.</charAction> My mom always makes too much roast
+            duck.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Excitedly.</charAction> Where do you live exactly?</speech>
+   </section>
+   <section>
+      <description>The scene changes to the dark tunnel where Sokka is standing with a map in
+                his hands, the map taking up most of the screen. He tilts it to the side a few times
+                before drawing it closer to him.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka, this is the tenth dead end you've led us to.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">This doesn't make sense. We already came through this way.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">We don't need a map. <charAction>Sokka passes by him.</charAction> We just need
+            love. The little guy knows it.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Yeah, but I wouldn't mind a map also.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Cuts to an overhead shot of the group standing in the dark cave before
+                switching to Sokka who looks up from the map.</charAction> There's something strange
+            here. There's only one explanation. <charAction>Cuts to shot of the rest of the group
+                before switching to Sokka who turns to face the camera.</charAction> The tunnels are
+            changing.</speech>
+   </section>
+   <section>
+      <description>A wave of surprise passes over everyone as the tunnels shake. The scene
+                cuts to nighttime to a house. Cuts to a shot of an open-wall dining room where Zuko
+                and Iroh are sitting around Song's kitchen table.</description>
+   </section>
+   <section>
+      <speech speaker="Song's mother">
+         <charAction>Setting down a platter of roast duck and taking a seat.</charAction> My
+            daughter tells me you're refugees. We were once refugees ourselves.</speech>
+   </section>
+   <section>
+      <speech speaker="Song">
+         <charAction>Sadly.</charAction> When I was a little girl, the Fire Nation raided our
+            farming village. All the men were taken away. That was the last time I saw my
+            father.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Close-up of the prince.</charAction> I haven't seen my father in many
+            years.</speech>
+   </section>
+   <section>
+      <speech speaker="Song">
+         <charAction>Sorrowfully.</charAction> Oh, is he fighting in the War?</speech>
+   </section>
+   <section>
+      <description>Zuko hesitates. Iroh is seen slurping up a bowl of noodles.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Sets down dish.</charAction> Yeah. <charAction>Looks away in
+                dismay.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The scene changes to the cave.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Frantically.</charAction> The tunnels, they're a-changin'. It must be
+            the curse! I knew we shouldn't have come down here!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sarcastically.</charAction> Right, if only we listened to you.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hold up a hand in warning.</charAction> Everyone be quiet.
+            Listen.</speech>
+   </section>
+   <section>
+      <description>Cuts to shot of Sokka looking into the dark tunnel, his back to the camera.
+                A low snarl can be heard from within the darkness of the tunnel. Momo flees from his
+                shoulder. Sokka suspiciously holds the torch up to the tunnel to inspect the strange
+                sound. Suddenly, a wolfbat flies from the darkness of the cave toward the camera,
+                causing everyone to panic.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">It's a giant flying thing with teeth!</speech>
+   </section>
+   <section>
+      <speech speaker="Moku">
+         <charAction>The creature lands. Off-camera.</charAction> No! It's a
+            wolfbat!</speech>
+   </section>
+   <section>
+      <description>The wolfbat takes off again. In a frenzy, Sokka swats at the creature with
+                the lit torch. Several hot cinders are thrown about and land on Appa's skin. Yelping
+                in pain, the bison begins running around the tunnel, releasing a discharge of rocks
+                and debris. Aang quickly airbends Sokka and the band of nomads out of the way of the
+                falling rocks. He races toward Katara and pushes her out of the way. The camera cuts
+                to where he and Katara rise from the impact and witness the division of the tunnel.
+                Meanwhile, Sokka attempts to dig his way through the barrier that divides the two
+                groups.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">Yeah, it's no use. We're separated. But at least you have us!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Horrified.</charAction> Nooooo!</speech>
+   </section>
+   <section>
+      <description>He resumes digging through the rocks only to have a pile of debris fall on
+                him. The scene changes to where Zuko is sitting on Song's front porch. Song comes
+                outside and sits beside him.</description>
+   </section>
+   <section>
+      <speech speaker="Song">Can I join you? I know what you've been through. We've all been through it.
+                <charAction>Witnessing Zuko's scar.</charAction> The Fire Nation has hurt
+            you.</speech>
+   </section>
+   <section>
+      <description>She reaches out to touch his scar only to have Zuko push her hand
+                away.</description>
+   </section>
+   <section>
+      <speech speaker="Song">
+         <charAction>Compassionately.</charAction> It's okay. They've hurt me, too.
+                <charAction>Pulls up pants leg to reveal burn scars on her
+            leg.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Zuko casts her a surprised look upon seeing this. The scene cuts to where
+                Chong and his group are singing much to Sokka's annoyance.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Singing as he and the nomads pass the angry warrior.</charAction> Oh,
+            don't let the cave-in get you down! <charAction>Cuts to shot of him.</charAction> Don't
+            let the falling rocks turn your smile into a frown! <charAction>He goes off-screen and
+                Moku passes by, nudging Sokka.</charAction> When the tunnels are darkest, that's
+            when you need a clown, hey! <charAction>Re-enters.</charAction> Don't let the cave-in
+            get you down, Sokka!</speech>
+   </section>
+   <section>
+      <description>Sokka scowls at this. The scene changes to Aang and Katara who are making
+                their way through the tunnels.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Cheerfully.</charAction> Aang, look!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Running up to a solid rock door.</charAction> We found the
+            exit!</speech>
+   </section>
+   <section>
+      <description>The two struggle to open it. Appa is seen in the background, snorting and
+                preparing to charge. The two look at each other in alarm before running away as Appa
+                charges at the door forcefully. Cuts to the opposite side of the entrance as the
+                door creaks open and to a wider shot of the room as the stone doorway loosens and
+                rolls off to the side. Katara jumps into the room only to have her look of hope
+                change into one of disappointment.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">This isn't the exit.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Walking to her side.</charAction> No. It's a tomb.</speech>
+   </section>
+   <section>
+      <description>The camera zooms out on the ominous looking tomb, Appa grunting behind the
+                duo.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">It must be the two lovers from the legend; that's who's buried here.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">These pictures tell their story.</speech>
+   </section>
+   <section>
+      <description>Katara gestures with the torch toward at the panels along the tomb,
+                speaking about each one in turn. Aang and Katara exchanged glances and Katara
+                narrates the story. The first image is that of a mountain.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Voice-over.</charAction> They met on top of the mountain that divided
+            their two villages ...</speech>
+   </section>
+   <section>
+      <description>Two figures, a man dressed in red and a woman in blue, meet atop the
+                mountain. They take each other's hands, though they swiftly let go, and a Chinese
+                character appears.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Voice-over.</charAction> The villages were enemies, so they could not be
+            together ... <charAction>Character flashes red as the background turns grim and
+                dark.</charAction> but their love was strong and they found a way.</speech>
+   </section>
+   <section>
+      <description>Two hills appear; on the closer one is the man, while the woman kneels on
+                the one farther away. Though their faces cannot be seen in detail, it is obvious
+                that they long for the other.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Voice-over.</charAction> The two lovers learned earthbending from the
+            badgermoles; they became the first earthbenders.</speech>
+   </section>
+   <section>
+      <description>The painting of a badgermole is shown, as well as that of the young couple
+                beginning to create the labyrinth.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Voice-over.</charAction> They built elaborate tunnels, so they could
+            meet secretly. <charAction>The pattern of a labyrinth appears.</charAction> Anyone who
+            tried to follow them would be forever in the labyrinth. <charAction>The couple
+                kisses.</charAction> But, one day, the man didn't come <charAction>Cuts to a shot of
+                the woman alone, looking startled.</charAction> - he'd died in the war between the
+            two villages. <charAction>Arrows fly by the screen. The woman is seen weeping by a
+                grave.</charAction> Devastated, the woman unleashed a terrible display of her
+            earthbending power - she could have destroyed them all ... <charAction>The woman is seen
+                displaying her immense earthbending power.</charAction> but, instead, she declared
+            the war over. <charAction>Cuts to shot of the woman standing on a hill surrounded by the
+                two villages.</charAction> Both villages helped her build a new city where they
+            would live together in peace. <charAction>Shows picture of the current-day
+                Omashu.</charAction> The woman's name was Oma and the man's name was Shu.
+                <charAction>The characters for "Oma" appear followed by the character for "Shu".
+                Flashback ends.</charAction> The great city was named Omashu as a monument to their
+            love.</speech>
+   </section>
+   <section>
+      <description>The two look at each other momentarily before turning around.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Reading the inscription on the relief in the wall.</charAction> Love is
+            brightest <charAction>Cuts to shot of a carving of the couple kissing.</charAction> in
+            the dark.</speech>
+   </section>
+   <section>
+      <description>Meanwhile, on the other side of the cave, Sokka glares at the map while
+                Momo comically perches on the top of his head. The map takes up most of the shot
+                until Sokka lowers it. </description>
+   </section>
+   <section>
+      <speech speaker="Moku">Oh, great! Your plans have led us to another dead end!</speech>
+   </section>
+   <section>
+      <description>Cuts to overhead shot of the entire group standing before a wall of rubble,
+                before switching to Sokka and Moku, with Sokka glaring accusingly at the
+                nomad.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Defensively.</charAction> At least I'm thinking of ideas and trying to
+            get us out of here, Moku.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Whoa, whoa, wait a minute. We're thinking of ideas‌&gt;?
+            Because I've had an idea for, like, an hour now.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Angrily; spreads arms out dramatically.</charAction> Yes! We're all
+            thinking of ideas!</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Well, then listen to this: If love is the key out of here, then all we need to do is
+            play a love song! <charAction>Begins playing song much to Sokka's
+            dismay.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Meanwhile, in the tomb of the two lovers, Katara studies the portrait of
+                the two lovers and the inscription while Aang stands off to side.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">How are we going to find our way out of these tunnels?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I have a crazy idea.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Curiously.</charAction> What?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hesitant. Walks away, slightly embarrassed.</charAction> Never mind.
+            It's too crazy.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Katara, what is it?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I was thinking ... the curse says we'll be trapped in here forever unless we trust
+            in love ...</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Right ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Turns to face him and gestures to the portrait.</charAction> And here,
+            it says, "Love is brightest in the dark," and has a picture of them kissing.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Utterly confused and lost.</charAction> Where are you going with
+            this?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Shyly, blushing.</charAction> Well, what if we ... kissed?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Very surprised.</charAction> Us ...
+            kissing‌&gt;?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">See? It was a crazy idea.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Dreamily.</charAction> Us ... kissing ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Fake-jokingly.</charAction> Us kissing. What was I thinking? Can you
+            imagine that‌&gt;?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Fake-jokingly.</charAction> Yeah. <charAction>Awkwardly
+                laughs.</charAction> I definitely wouldn't want to kiss you!
+                <charAction>Beat.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Insulted.</charAction> Oh, well! I didn't realize it was such a horrible
+            option. <charAction>Angrily.</charAction> Sorry I suggested it!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Realizing his mistake.</charAction> No, no, I mean ... if there was a
+            choice between kissing you and dying ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Disgusted.</charAction> Ugh!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Desperately.</charAction> What? I'm saying is I would rather kiss you
+            than die - that's a compliment.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Enraged.</charAction> Well, I'm not sure which I'd rather do!
+                <charAction>Slams the torch into his hand and storms away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Miserably.</charAction> What is wrong with me ...</speech>
+   </section>
+   <section>
+      <description>He walks away, the screen darkening in his wake. The scene changes to where
+                Chong and his nomads are playing love songs, the camera panning down to show the
+                group walking past.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Singing.</charAction> Even if you're lost, you can't lose the love
+            because it's in your heart ...</speech>
+   </section>
+   <section>
+      <description>Sokka slaps his forehead once more. The scene changes where we now see Zuko
+                and Iroh preparing to depart from Song's house. They stand outside, dozens of
+                fireflies in the air.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Thank you for the duck. It was excellent.</speech>
+   </section>
+   <section>
+      <speech speaker="Song's mother">You're welcome. It brings me pleasure to see someone eat my cooking with such ...
+            gusto.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Pats his stomach in a contented manner.</charAction> Much
+            practice.</speech>
+   </section>
+   <section>
+      <description>Zuko turns to leave.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Junior, where are your manners? You need to thank these nice people.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Turns and bows.</charAction> Thank you.</speech>
+   </section>
+   <section>
+      <speech speaker="Song">I know you don't think there's any hope left in the world, but there is hope. The
+            Avatar has returned.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Bitterly.</charAction> I know.</speech>
+   </section>
+   <section>
+      <description>He leaves, but stops as he comes across an ostrich horse. Quietly, he walks
+                over to the animal, unfastens it from its post and leads it away. The camera cuts to
+                a shot from Song's front yard. Zuko appears on screen, riding the
+                animal.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">What are you doing? These people just showed you great kindness.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">They're about to show us a little more kindness. Well?</speech>
+   </section>
+   <section>
+      <description>Disappointed and reluctant, Iroh mounts the ostrich horse and the two ride
+                away, leaving Song upset. She quietly closes the screen door to the house. The scene
+                switches to the cave where Aang and Katara are still wandering about hopelessly,
+                their torch ready to burn out at any moment.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">We're going to run out of light any second now, aren't we?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I think so ...</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Then, what are we going to do?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">What can we do?</speech>
+   </section>
+   <section>
+      <description>She silently walks over and grabs hold of his hand. Aang smiles up at her.
+                The camera cuts to a close-up of Katara's face. The two are seen leaning into one
+                another as the last of the torch light fades. Suddenly, the ceiling of the cave
+                lights up revealing thousands of glowing crystals gleaming overhead. Meanwhile,
+                Sokka and the band of nomads are journeying through the cave when they hear low
+                growls. The camera zooms in on a dark tunnel where several wolfbats come into the
+                light, racing toward them. Sokka waves his hands frantically in an attempt to scare
+                them off. The creatures fly straight past him.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">Hey! You saved us, Sokka!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">No, they were trying to get away from something!</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">From what?</speech>
+   </section>
+   <section>
+      <description>The caves rumble. Cuts to an overhead shot of the group as a wall of rock
+                crumbles. Without warning, two giant badgermoles burst through the caves, causing
+                the group to panic. One badgermole closes its hands together in a prayerful manner,
+                closing off a tunnel behind it with earthbending. The camera shifts right across the
+                group and cuts to the other badgermole which pounds the ground with its paws and
+                raises a wall of earth, blocking off the exits. Cuts to an overhead shot of the cave
+                where one badgermole is seen using earthbending to create a split in the earth
+                between the nomads and Sokka.</description>
+      <description>Cuts to Sokka who tries to avoid the badgermole's swipes. He is blown back
+                several feet and starts hastily backing away, his fingers hitting a string on the
+                lute in the process, producing a musical note. Cuts to a close-up of a badgermole
+                who cocks its head curiously. The creatures quiet down as he picks up the lute and
+                begins playing a tune.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">Hey, those things are music lovers!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Singing nervously.</charAction> Badgermoles coming toward me. Come on
+            guys, help me out!</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Singing.</charAction> The big, bad badgermoles who earthbend the
+            tunnels, hate the wolfbats, but love the sounds!</speech>
+   </section>
+   <section>
+      <description>The scene switches to Aang and Katara who are standing underneath the
+                ceiling of glowing crystals, their hands linked.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">They're made of some kind of crystal. They must only light up in the dark.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">That's how the two lovers found each other. <charAction>Gestures with her hand along
+                the ceiling.</charAction> They just put out their lights and followed the crystals.
+                <charAction>Sees the exit.</charAction> That must be the way out! <charAction>The
+                two hug.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">So, uh ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Let's go!</speech>
+   </section>
+   <section>
+      <description>She runs toward the exit. Aang stares after her before shaking his head and
+                smiling. He and Appa follow close behind. They make their way out of the cave and
+                into the outdoors. Appa bounds out of the tunnel and flops onto his back, tongue
+                lolling out in content.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">What about Sokka?</speech>
+   </section>
+   <section>
+      <description>The two seem a bit concerned at first, but a rumbling is heard. Cuts to an
+                overhead shot of the exit where at that moment, Sokka and the band of nomads emerge
+                from the cave, riding atop badgermoles. Debris flies everywhere and Aang and Katara
+                shield themselves from the rubble. The camera pans upward to Sokka riding atop one
+                of the creatures, waving, Momo flying about.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka!</speech>
+   </section>
+   <section>
+      <description>Cuts to overhead shot of the cave, the camera panning to the left. Sokka
+                dismounts the badgermole and approaches Katara.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">How did you guys get out?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Just like the legend said, we let love lead the way. <charAction>Smiles
+                sheepishly.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Really? We let huge, ferocious beasts lead our way.</speech>
+   </section>
+   <section>
+      <description>He turns to the badgermoles and waves to them as they slowly plod their way
+                into the cave again. Two walls of rock rise up where the badgermoles re-entered the
+                cave. The camera pans to where Momo is seemingly communicating with Appa, telling
+                him of his journey through the caves. Appa seemingly roars in response to the lemur.
+                Katara is seen hugging her brother.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Why is your forehead all red?</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">
+         <charAction>Talking about Aang.</charAction> Nobody react to what I'm about to tell
+            you: I think that kid might be the Avatar!</speech>
+   </section>
+   <section>
+      <description>Sokka smacks his forehead, enlarging the red spot while Chong looks at him
+                in curiosity. Meanwhile, Aang confronts the other nomads.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">So are you guys going to come to Omashu with us?</speech>
+   </section>
+   <section>
+      <speech speaker="Moku">Nope.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Okay. Thanks for everything, Moku.</speech>
+   </section>
+   <section>
+      <description>The band of nomads begins walking away. The camera pans to where Chong is
+                seen placing a necklace of flowers around Sokka's neck.</description>
+   </section>
+   <section>
+      <speech speaker="Chong">Sokka, I hope you learned a little something about not letting the plans get in the
+            way of the journey. <charAction>Hugs him.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Irritated yet blushing.</charAction> Just play your songs.</speech>
+   </section>
+   <section>
+      <speech speaker="Chong">Hey! Good plan! <charAction>Begins playing his lute and singing. Cuts to shot of
+                Team Avatar.</charAction> Even if you're lost, you can't lose the love because it's
+            in your heart. Da, da, da ...</speech>
+   </section>
+   <section>
+      <description>While Chong is singing, Aang shoots a look at Katara, Sokka crosses his
+                arms and Katara blushes. The camera pans upward and fades to a scene later in the
+                day where the trio is heading up the mountainside to Omashu.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>From afar.</charAction> The journey was long and annoying, but now you
+            get to see what it's really about: the destination. <charAction>Close-up of
+                him.</charAction> I present to you the Earth Kingdom city of O- <charAction>Pauses
+                abruptly.</charAction> Oh no ...</speech>
+   </section>
+   <section>
+      <description>The camera shifts to behind him where they soon discover that Omashu has
+                been captured and placed under Fire Nation rule. Ominous music is heard as a
+                close-up of the entrance draped with a Fire Nation flag is shown.</description>
+   </section>
+   <section>
+      <description>Fades to credits.</description>
+   </section>
+</root>

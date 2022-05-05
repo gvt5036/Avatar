@@ -1,0 +1,1327 @@
+<root>
+    <metadata>
+        <title>The Puppetmaster</title>
+    </metadata>
+    <p>
+        <speaker name="Avatar Roku">Avatar Roku</speaker>
+        <speech><charAction>Narrating a preview.</charAction> Previously on Avatar ...</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>You're looking at the only waterbender in the whole South Pole. This ship has
+            haunted my tribe when Gran-Gran was a little girl. It was part of the Fire Nation's
+            first attacks.</speech>
+    </p>
+    <p>
+        <speaker name="Yue">Yue</speaker>
+        <speech>The legend said the moon was the first waterbender. Our ancestor saw how it pushed
+            and pulled the tides, and learned how to do it themselves.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I always noticed my waterbending is stronger at night.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>What are you doing?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I'm making my own water!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The episode opens to a waxing gibbous moon glowing in the night sky. The
+                scene cuts to a shot of a field of fire lilies, a mountain in the distance. Cuts to
+                a forested area, where Team Avatar is camping out among the trees. The darkness of
+                the night gives the landscape an ominous feeling.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Telling a ghost story.</charAction> Suddenly, they heard something down
+            the hall in the dark. Oooh ... It came into the torchlight ... and they knew the blade
+            of Wing Fung was haunted! <charAction>Draws sword, stands up and points it toward the
+                fire; yells dramatically.</charAction> Ooh-aaah!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to shot of the entire group sitting around the campfire. Aang is lying
+                down, Katara is hunched over in a sitting position and Toph sits casually, all three
+                looking unamused.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Unimpressed.</charAction> I think I like "the man with a sword for a
+            hand" better.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>Water Tribe slumber parties must stink.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No, wait! I've got one! And this is a true Southern Water Tribe story.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Sitting down.</charAction> Is this one of those "a friend of my cousin
+            knew some guy that this happened to" stories?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No, it happened to Mom.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Upon hearing this, Sokka stiffens. Cuts to Aang, who sits up to listen
+                intently.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>One winter when Mom was a girl, a snowstorm buried the whole village for weeks. A
+            month later, Mom noticed she hadn't seen her friend Nini since the storm. So Mom and
+            some others went to check on Nini's family. When they got there, no one was home.
+                <charAction>Cuts to ground-level shot of the group sitting around the fire, the
+                camera panning slightly to the right.</charAction> Just a fire flickering in the
+            fireplace. While the men went out to search, Mom stayed in the house. When she was
+            alone, she heard a voice. <charAction>In a scary voice.</charAction> "It's so cold and I
+            can't get warm!" <charAction>Sokka stiffens in fear.</charAction> Mom turned and saw
+            Nini standing by the fire. She was blue like she was frozen. Mom ran outside for help,
+            but when everyone came back, Nini was gone.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang uses Momo's ears to cover his face in fear. The camera shifts to show
+                Sokka hiding behind a gnarled tree stump.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Peering from behind a tree trunk.</charAction> Where'd she go?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No one knows. Nini's house stands empty to this day, but sometimes, people see smoke
+            coming up from the chimney, like little Nini is still trying to get warm.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera zooms out to where the gang is all huddled by the fire.
+                Suddenly, Toph straightens up and places her hands on the ground.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Gasping.</charAction> Wait! Guys, did you hear that? <charAction>Aang,
+                Katara, and Sokka clutch each other tightly, too stiff to move, with Toph standing
+                alertly.</charAction> I hear people under the mountain. And they're
+            screaming.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka, assuming Toph is joking, relaxes his grip.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Pfft! Nice try.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Cuts to shot of the campsite viewed through the ominous-looking tree
+                branches.</charAction> No, I'm serious. I hear something.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>You're probably just jumpy from the ghost stories ...</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>It just ... stopped.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Cuts back to him and Katara, still hugging, Sokka sitting close
+                by.</charAction> All right, now I'm getting scared.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Off-camera from behind group.</charAction> Hello, children.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Everyone screams in terror upon hearing the strange woman's voice and
+                scrambles from the ground. An elderly woman emerges from the shadows.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Sorry to frighten you. My name is Hama. <charAction>Cuts to side-view of the
+                campsite.</charAction> You children shouldn't be out in the forest by yourselves at
+            night. <charAction>Cuts to ground-level shot of Hama standing over the
+                fire.</charAction> I have an inn nearby. Why don't you come back there for some
+            spiced tea and warm beds?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Sheepishly, places arm behind head.</charAction> Yes, please.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Hama smiles and begins walking away. The scene changes to a village, her
+                local inn lying atop a small hill. Cuts to inside the building, where tea is being
+                poured into a teacup. Cuts to shot of the group sitting around the kitchen
+                table.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Thanks for letting us stay here tonight. You have a lovely inn.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Sets teapot down.</charAction> Aren't you sweet? <charAction>Walks over
+                to her seat and sits down.</charAction> You know you should be careful. People have
+            been disappearing in those woods you were camping in.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>What do you mean "disappearing"?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Sets her teacup down.</charAction> When the moon turns full, people walk
+            in and they don't come out. <charAction>Stand up and holds up her teapot; cheerfully
+                smiling.</charAction> Who wants more tea?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to shot of the group, who has by now fallen completely silent, the
+                camera panning to the right to show all of them sitting around the
+                table.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Don't worry, you'll all be completely safe here. <charAction>Clasps hands together
+                and smiles.</charAction> Why don't I show you to your rooms and you can get a good
+            night's rest?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene changes to Sokka's room, where he is lying in bed with Momo
+                asleep on the floor. Cuts to shot of him in bed as he rolls over. A creaking noise
+                comes from outside, frightening him. He draws his sword quickly while Momo scampers
+                under the covers.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I know, Momo. <charAction>Places sword back inside holster and sets it
+                down.</charAction> This place is creepy! <charAction>Lies back down on the pillow
+                and pulls the covers over him.</charAction> I don't know if I'm gonna be able to
+            fall asleep!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene switches over to later in the night, where Sokka is fast asleep
+                in his bed, snoring and drooling on his pillow. As it fades to the morning, he is
+                lying sideways, next to the bed, though still fast asleep. Cut to a close-up of his
+                face as a shadow approaches him. He slowly awakens, rubbing his eye.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Off-camera.</charAction> Wakey, wakey! <charAction>Cuts to shot of the
+                innkeeper, standing brightly over him.</charAction> Time to go shopping!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara appears by her side, dressed and happily smiling. The camera shifts
+                counter-clockwise, showing Sokka later in the day, dressed in his ordinary clothes,
+                standing in the marketplace where Hama has just made her purchase. A friendly old
+                man smiles and waves to her as she walks away.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>That Mr. Yao seems to have a thing for you. Maybe we should go back and see if he'll
+            give us some free komodo sausages?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Seriously.</charAction> You would have me use my feminine charms to take
+            advantage of that poor man? <charAction>Cheerfully.</charAction> I think you and I are
+            going to get along swimmingly!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The two walk off-camera with Katara smiling at this remark. The scene
+                switches over to two villagers having a conversation by a stand.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Villager">Villager</speaker>
+        <speech>You won't have any ash bananas till next week?</speech>
+    </p>
+    <p>
+        <speaker name="Shop owner">Shop owner</speaker>
+        <speech>Well, I have to send the boy to Hing Wa Island to get them, and it's a two-day
+            trip.</speech>
+    </p>
+    <p>
+        <speaker name="Villager">Villager</speaker>
+        <speech>Oh, right. Tomorrow's the full moon.</speech>
+    </p>
+    <p>
+        <speaker name="Shop owner">Shop owner</speaker>
+        <speech><charAction>In a lowered voice.</charAction> Exactly. I can't lose another delivery
+            boy in the woods.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to shot of Aang, Sokka, and Toph walking through the marketplace. Aang
+                carrying a package slung over his shoulder, Sokka carrying a package attached to his
+                sword, while Toph carries a large, round basket on her head.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>People disappearing in the woods, weird stuff happening during full moons? This just
+            reeks of Spirit World shenanigans.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I bet if we take a little walk around town, we'll find out what these people did to
+            the environment to make the spirits mad.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Makes gesture with his hand.</charAction> And then you can sew up this
+            little mystery lickety-split, Avatar style!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Proudly.</charAction> Helping people ... that's what I do.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to overhead shot of the group standing in the marketplace as he, Sokka
+                and Toph approach Katara and Hama.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Why don't you take all those things back to the inn? I just have to run a couple
+            more errands. I'll be back in a little while.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Walks up to her.</charAction> This is a mysterious little town you have
+            here.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Extremely close-up. Ominously.</charAction> Mysterious town for
+            mysterious children.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She smiles creepily and saunters away, leaving Sokka feeling suspicious.
+                The scene changes to a shot of Hama's inn, starting outside, before moving inside,
+                where the gang is unpacking groceries. Sokka walks over to a counter and sets his
+                basket down.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>That Hama seems a little strange. Like she knows something, or she's hiding
+            something.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Unpacking items.</charAction> That's ridiculous. She's a nice woman who
+            took us in and gave us a place to stay. <charAction>Picks up cabbage.</charAction> She
+            kinda reminds me of Gran-Gran.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>But what did she mean by that comment, "mysterious children"?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Gee, I don't know. Maybe because she found four strange kids camping in the woods at
+            night? Isn't that a little mysterious?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I'm gonna take a look around. <charAction>Walks away and up a flight of wooden
+                stairs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Appears along with the others at the bottom of the
+                stairwell.</charAction> Sokka! Sokka, what are you doing? <charAction>Off-camera as
+                Sokka peers around the inn.</charAction> You can't just snoop around someone's
+            house.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>It'll be fine.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Off-camera while Sokka peers into a room.</charAction> She could be home
+            any minute.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Walking down hallway with the rest of the team.</charAction> Sokka,
+            you're gonna get us all in trouble and this is just plain rude!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Tugging on a cupboard door.</charAction> I'm not finished yet.
+                <charAction>Grunts, as he tries to pull it free.</charAction> Come on ...</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The cupboard suddenly opens, revealing several wooden puppets stowed
+                inside. The dolls fall forward, held together only by their strings. Everyone gasps;
+                Sokka withdraws his sword, backs up and points it straight at the
+                puppets.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Okay, that's pretty creepy.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Walks over and closes the cupboard; a bit weirded out.</charAction> So
+            she's got a hobby. There's nothing weird about that. <charAction>Angrily.</charAction>
+            Sokka, you've looked enough. <charAction>Off-camera as Sokka ascends into the
+                attic.</charAction> Hama will be back soon.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Just an ordinary puppet-loving innkeeper, huh? Well then why does she have a locked
+            door up here?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Annoyed.</charAction> Probably to keep people like you from snooping
+            through her stuff!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>We'll see. <charAction>Peers through the keyhole into the room. Cuts to shot of the
+                attic from his perspective. Through the keyhole, a small room can be seen, with a
+                chest lying on the ground in the middle. The camera zooms in on the
+                chest.</charAction> It's empty, except for a little chest.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>Maybe it's treasure!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka grows excited, his eyes growing wide, and uses his sword to pick the
+                lock.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Approaches him.</charAction> Sokka, what are you doing? You're breaking
+            into a private room!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I have to see what's in there.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The door unlocks and creaks open. The four step cautiously inside; Sokka
+                puts away his sword and approaches the small chest.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>We shouldn't be doing this.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka picks up the chest and tries to pry it open, only to discover it is
+                locked.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Maybe there's a key here somewhere ...</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>Ooh! Hand it over!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She takes the chest, removes her meteor bracelet from her arm and
+                earthbends it into the shape of a small key, which she sticks into the keyhole of
+                the chest.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Eagerly.</charAction> Come on, come on!</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Annoyed; Katara appears from behind her, peering nervously over her
+                shoulder.</charAction> This isn't as easy as it looks!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Nervously.</charAction> Guys, I don't know about this ...</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>This is crazy! I'm leaving!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Suit yourself! Do it, Toph!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara turns to leave the moment Toph signals that she has successfully
+                opened the chest, holding her thumb up. All four eagerly surround the box in a
+                comical fashion, anticipating what they will find inside.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Off-camera from behind them.</charAction> I'll tell you what's in the
+            box.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>All, except Toph, scream and turn sharply to find Hama standing in the
+                doorway. Cuts to shot of the group, still looking stunned, except Toph. Sokka
+                guiltily hands her the box. Cuts to shot from inside the chest, as Hama lifts the
+                lid and reaches her hand inside. Cuts to close-up of Sokka, his eyes wide in
+                anxiousness, and a shot of Hama still in the process of lifting the object. Cuts to
+                shot of the team standing together from her perspective. Her left arm appears
+                on-screen, a blue whale tooth comb in her hand. Cuts to shot of her holding the
+                comb, smiling.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Surprised.</charAction> An old comb?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>It's my greatest treasure. It's the last thing I own from growing up in the Southern
+            Water Tribe.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera zooms in on Katara and Sokka, who stare at her in
+                astonishment.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Stunned.</charAction> You're from the Southern Water Tribe?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Sets down comb.</charAction> Just like you.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>How did you know?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>I heard you talking around your campfire.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>But why didn't you tell us?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>I wanted to surprise you! I bought all this food today so I could fix you a big
+            Water Tribe dinner. Of course, I can't get all the ingredients I need here, but ocean
+            kumquats are a lot like sea prunes if you stew them long enough.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Sticking his tongue out in disgust.</charAction> Great ...</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I knew I felt a bond with you right away.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>And I knew you were keeping a secret, so I guess we're both right.
+                <charAction>Grimaces as Katara hits him in the arm.</charAction> But I'm sorry we
+            were sneaking around.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Apology accepted. <charAction>Turns to the side and motions with her
+                hand.</charAction> Now, let's get cooking!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene changes to later that night, where Aang races from the inn to the
+                barn located toward the back of the property. Cuts to overhead shot of inside the
+                barn, where Appa and Momo lie. The doors creak open and Aang steps inside. Cuts to
+                ground-level shot of him standing before the bison, tossing a cabbage-like vegetable
+                into Appa's mouth. Momo dances in front of the bison's face and chitters, irritated.
+                Appa opens his mouth and releases the cabbage, which Momo grabs. The lemur skitters
+                away. Cuts to shot of Hama's kitchen table, as she sets down a bowl of soup. Cuts to
+                shot of the entire room, the team and the innkeeper sitting around the table. Sokka
+                is seen chewing on a food item, as Hama takes her seat at the head of the
+                table.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Whispering to Toph.</charAction> I'd steer clear of the sea
+            prunes.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>I thought they were ocean kumquats.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Close enough.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Who wants five flavor soup?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>All four raise their hands in acceptance. Hama situates her hands over the
+                bowl and suddenly uses waterbending to summon a globule of soup and fill each of
+                their bowls. Cuts to shot of the team looking at the spectacle in astonishment, the
+                camera panning to the right. Four streams of soup land gracefully into each of their
+                bowls.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Delighted.</charAction> You're a waterbender! <charAction>Faces Hama in
+                delight.</charAction> I've never met another waterbender from our tribe!</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Cuts to side-view of her; sadly.</charAction> That's because the Fire
+            Nation wiped them all out. I was the last one ...</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cuts to shot of Sokka and Katara, Katara clasping her hands together, an
+                expression of pity on her face.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>So how did you end up out here?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Grimly.</charAction> I was stolen from my home.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene fades to a flashback of a much younger Hama peacefully sauntering
+                through her Southern Water Tribe village.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> It was over sixty years ago when the raids
+            started.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She approaches her friend, Kanna, and they share a laugh before they notice
+                ashen snow falling from the sky. The two race to the shores, where five Fire Nation
+                ships are rapidly approaching the tribe. Five fireballs are launched from trebuchets
+                and strike the village. Fire Nation soldiers swarm the area, battling the
+                waterbenders, who desperately attempt to fend them off.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> They came again and again, each time rounding
+            up more of our waterbenders and taking them captive.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The battle scene fades to another scene, where Hama and several other
+                waterbenders use waterbending to capsize a Fire Nation vessel.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> We did our best to hold them off, but our
+            numbers dwindled as the raids continued.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>As she is narrating, Water Tribe civilians who aided in the suspension of
+                the vessel are seen slowly fading, signaling their capture by the Fire Nation. The
+                camera rotates around her and zooms out, revealing dozens of firebenders surrounding
+                her.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> Finally, I too was captured.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The younger Hama is seen being led by Fire Nation soldiers onto one of
+                their naval vessels, having now been captured herself.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> I was led away in chains. The last waterbender
+            of the Southern Water Tribe.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>A final scene shows her looking out onto her tribe's members, including her
+                friend, Kanna, in tears as the bow creaks upward. The flashback ends. Now in present
+                time, Katara is seen walking over to Hama and placing her arms around her shoulder
+                comfortingly.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>They put us in terrible prisons here in the Fire Nation. I was the only one who
+            managed to escape.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>How did you get away? And why did you stay in the Fire Nation?</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>I'm sorry. It's too painful to talk about anymore.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>We completely understand. We lost our mother in a raid.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Sympathetically.</charAction> Oh, you poor things.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang and Sokka cast their heads down solemnly.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I can't tell you what it means to meet you. It's an honor. You're a hero.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>I never thought I'd meet another Southern waterbender. I'd like to teach you what I
+            know so you can carry on the Southern tradition when I'm gone.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Yes! Yes, of course! To learn about my heritage, it would mean everything to
+            me.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She bows to her newfound friend, who smiles warmly. The scene changes to
+                the next day, where Hama and Katara are strolling on the outskirts of Hama's
+                village.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Growing up in the South Pole, waterbenders are totally at home surrounded by snow
+            and ice and seas. But as you probably noticed on your travels, that isn't the case
+            wherever you go.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I know! When we were stranded in the desert, I felt like there was almost nothing I
+            could do.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Stops walking.</charAction> That's why you have to learn to control
+            water wherever it exists.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I've even used my own sweat for waterbending.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Smiling.</charAction> That's very resourceful, Katara. You're thinking
+            like a true master. But did you know you could even pull water out of thin air?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>In a quick movement of her right arm, Hama uses waterbending to manipulate
+                the water vapor in the air, liquefying it and coating her fingertips.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>You have got to keep an open mind, Katara. <charAction>The water around her
+                fingertips freezes, creating ice claws.</charAction> There's water in places you
+            never think about.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She proceeds to fire the small daggers at a nearby tree, while Katara looks
+                on in amazement.</description>
+            <description>Meanwhile, Aang, Sokka, and Toph are wandering about the landscape
+                surrounding the village, trying to uncover any signs of disruption that would anger
+                the spirits.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>This has got to be the nicest natural setting in the Fire Nation. I don't see
+            anything that would make a spirit mad around here.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera focuses on Toph and Sokka. Toph is standing casually near where
+                Sokka is deeply inhaling the aroma of a bundle of flowers.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>Maybe the Moon Spirit just turned mean.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Angrily.</charAction> The Moon Spirit is a gentle, loving lady. She
+            rules the sky with compassion and ... lunar goodness!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Catches sight of a villager walking past.</charAction> Excuse me, sir.
+            Can you tell us anything about the spirit that's been stealing people?</speech>
+    </p>
+    <p>
+        <speaker name="Villager">Villager</speaker>
+        <speech>Only one man ever saw it and lived and that's Old Man Ding.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>Where does Old Man Ding live?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene changes to a field of fire lilies, where Hama continues to tutor
+                Katara in waterbending.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Wow, these flowers are beautiful.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>They're called fire lilies. They only bloom a few weeks a year, but they're one of
+            my favorite things about living here. And like all plants and all living things, they're
+            filled with water.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I met a waterbender who lived in a swamp and could control the vines by bending the
+            water inside.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>You can take it even further.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>In a sharp, swiveling motion, she draws water from dozens of the
+                surrounding fire lilies and slices a nearby rock clean through.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>That was incredible! <charAction>Sees the wilted lilies.</charAction> It's a shame
+            about the lilies, though.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>They're just flowers. When you're a waterbender in a strange land, you do what you
+            must to survive. Tonight I'll teach you the ultimate technique of waterbending. It can
+            only be done during the full moon, when your bending is at its peak.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Cautiously.</charAction> But isn't that dangerous? I thought people have
+            been disappearing around here during the full moon.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Oh, Katara. Two master waterbenders beneath a full moon? <charAction>Begins walking
+                away.</charAction> I don't think we have anything to worry about.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The two exit the field. The scene fades to later that night, where Aang,
+                Sokka, and Toph are approaching Old Man Ding, who is boarding up his
+                windows.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Old Man Ding?</speech>
+    </p>
+    <p>
+        <speaker name="Ding">Ding</speaker>
+        <speech>Huh? <charAction>Accidentally hammers his thumb.</charAction> Ow, dang blame it!
+            What? Can't you see I'm busy? Got a full moon rising. And why does everyone call me
+            that? I'm not that old! <charAction>Attempts to lift a wooden plank off the ground, but
+                fails to do so. Sighs.</charAction> Well, I'm young at heart.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang approaches and helps Ding lift the board.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Ding">Ding</speaker>
+        <speech>Not ready to get snapped up by some moon monster yet at least.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Proceeds to nail the board to the window frame.</charAction> We wanted
+            to ask you about that.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Did you get a good look at the spirit that took you?</speech>
+    </p>
+    <p>
+        <speaker name="Ding">Ding</speaker>
+        <speech>Didn't see no spirit, just felt something come over me, like I was possessed. Forced
+            me to start walking toward the mountain. <charAction>Points to the
+                mountain.</charAction> I tried to fight it, but I couldn't control my own limbs. It
+            just about had me into a cave up there. <charAction>Imitates a walking
+                puppet.</charAction> And I looked up at the moon for what I thought would be my last
+            glimpse of light. <charAction>Cuts to shot of the trio, Sokka quivering in
+                fear.</charAction> But then the sun started to rise and I got control of myself
+            again! I just high-tailed it away from that mountain as quick as I could!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Why would a spirit want to take people to a mountain?</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>Oh no! <charAction>Sokka and Aang assume defensive positions.</charAction> I did
+            hear people screaming under the mountain. The missing villagers must still be
+            there!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>They all stare at the mountain. The scene changes to where Aang, Sokka, and
+                Toph are racing through the dark forest in search of the imprisoned
+                villagers.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Feels the ground with her hand.</charAction> I can hear them. They're
+            this way!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The trio proceeds to sprint toward the mountain. Meanwhile, Hama and Katara
+                venture into the moonlit forest.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>Can you feel the power the full moon brings?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She inhales deeply through her nose and stretches her arms outward, flexing
+                her limbs which causes her veins to bulge out, while Katara looks on in
+                disgust.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>For generations it has blessed waterbenders with its glow, allowing us to do
+            incredible things!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera depicts a shot of her standing beneath the full
+                moon.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Extreme close-up; in a sinister tone.</charAction> I've never felt more
+            alive.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene changes to Aang, Sokka, and Toph, who have arrived at the
+                mountain and are standing before the mouth of the cave.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>This is the place.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I can't see anything down there.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Grabs Sokka's hand.</charAction> That's why you have me. Let's
+            go!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The three descend into the dark cave and approach a solid metal door,
+                torches nearby. Using metalbending, Toph breaks it down, while the trio proceeds to
+                make their way through the tunnel, Aang and Sokka lighting their path with the
+                torches. They arrive to see several villagers chained to the walls of the
+                cave.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Male prisoner #1">Male prisoner #1</speaker>
+        <speech>We're saved!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Toph unfastens her meteor bracelet and begins to unlock the prisoners'
+                shackles.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I didn't know spirits made prisons like this. Who brought you here?</speech>
+    </p>
+    <p>
+        <speaker name="Female prisoner">Female prisoner</speaker>
+        <speech>It was no spirit.</speech>
+    </p>
+    <p>
+        <speaker name="Male prisoner #2">Male prisoner #2</speaker>
+        <speech>It was a witch!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>A witch? What do you mean?</speech>
+    </p>
+    <p>
+        <speaker name="Female prisoner">Female prisoner</speaker>
+        <speech><charAction>Speaking, as Toph unlocks her shackles.</charAction> She seems like a
+            normal old woman, but she controls people like some dark puppetmaster!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Gritting.</charAction> Hama!</speech>
+    </p>
+    <p>
+        <speaker name="Male prisoner #1">Male prisoner #1</speaker>
+        <speech>Yes, the innkeeper!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I knew there was something creepy about her!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>We have to stop Hama!</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>I'll get these people out of here. You go!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang and Sokka flee from the scene, while Toph stays behind. The scene
+                switches to the forest. A cat owl hoots and flies away. The camera focuses on Hama
+                and Katara, their backs facing the camera, the wind blowing their hair slightly,
+                looking toward the moon.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>What I'm about to show you, <charAction>Cuts to close-up of Hama glaring
+                menacingly.</charAction> I discovered in that wretched Fire Nation prison.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene fades to a flashback of a younger Hama imprisoned within a cage.
+                She peers through the bars of her cell and looks down mournfully. The camera zooms
+                out to the entire prison room.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> The guards were always very careful to keep any
+            water away from us. They piped in dry air and had us suspended away from the ground.
+            Before giving us any water, they would bind our hands and feet so we couldn't bend.
+                <charAction>A side-view is shown of Fire Nation guards giving water to a tied up
+                prisoner.</charAction> Any sign of trouble was met with cruel retribution.
+                <charAction>Cuts to shot of the full moon in the sky during present
+                day.</charAction> And yet each month, I felt the full moon enriching me with its
+            energy. <charAction>Cuts to shot of Hama.</charAction> There had to be something I could
+            do to escape. <charAction>Scene fades to flashback of the prison.</charAction> Then I
+            realized that where there is life, there is water. <charAction>A younger Hama is shown
+                bending the water inside an elephant rat that had wandered its way into her
+                cage.</charAction> The rats that scurried across the floor of my cage were nothing
+            more than skins filled with liquid and I passed years developing the skill that would
+            lead to my escape. <charAction>A close-up is shown of Hama smiling at her discovery. The
+                scene fades back to present day. Ominously.</charAction> Bloodbending.
+                <charAction>Cut to a scared Katara.</charAction> Controlling the water in another
+            body, <charAction>Cut to ground shot of both Hama and Katara.</charAction> enforcing
+            your own will over theirs. <charAction>The scene fades back to a flashback of young Hama
+                controlling a horde of rats using bloodbending.</charAction> Once I had mastered the
+            rats, I was ready for the men.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera switches over to show a Fire Nation guard strolling past the
+                cages when a sudden feeling comes over him. Using bloodbending, Hama forces the
+                guard to grab hold of his keys and unlock her cell, thus marking her
+                escape.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Voice-over.</charAction> And during the next full moon, I walked free
+            for the first time in decades. <charAction>The guard attempts to get up, but Hama
+                quickly forces him back down to the ground. She walks unsteadily away.</charAction>
+            My cell unlocked by the very guards assigned to keep me in. <charAction>Scene changes
+                back to present day; camera focuses on a close-up of Hama.</charAction> Once you
+            perfect this technique, you can control anything or <charAction>Looks at Katara from the
+                corner of her eyes sadistically.</charAction> anyone.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Unsure.</charAction> But ... to reach inside someone and control them?
+                <charAction>Casts unsure glance off to the side.</charAction> I don't know if I want
+            that kind of power.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Camera zooms out to the two standing in the forest.</charAction> The
+            choice is not yours. The power exists. And it's your duty to use the gifts you've been
+            given to win this war. <charAction>Closes up to Hama.</charAction> Katara, they tried to
+            wipe us out, our entire culture, your mother!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Close-up of her face.</charAction> I know.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Camera changes back to Hama.</charAction> Then you should understand
+            what I'm talking about! We're the last two waterbenders of the Southern Tribe.
+                <charAction>Camera focuses on Katara; off-camera.</charAction> We have to fight
+            these people whenever we can, wherever they are, with any means necessary!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Widens eyes in realization.</charAction> It's you ...
+                <charAction>Angrily.</charAction> You're the one who's been making people disappear
+            during the full moons!</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Close-up of her face, as she tilts her head downward.</charAction> They
+            threw me in prison to rot, along with my brothers and sisters! They deserve the same!
+            You must carry on my work!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Points to Hama, stretching out her left hand.</charAction> I won't! I
+            won't use bloodbending and I won't allow you to keep terrorizing this town!
+                <charAction>Her hand suddenly twists to one side. She tries desperately to stop it,
+                but fails to do so.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Now using bloodbending to subdue to her.</charAction> You should've
+            learned the technique before you turned against me! <charAction>Forces Katara into a
+                strained position.</charAction> It's impossible to fight your way out of my grip! I
+            control every muscle, every vein in your body!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>With swift motions of her hands and arms, Hama uses bloodbending to twist
+                Katara around and throw her from side to side. She positions Katara directly before
+                her and uses a downward motion of her hand to force her into a submissive
+                state.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Tearfully.</charAction> Stop! Please ...</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Hama laughs cruelly and keeps Katara subdued. The shot is showing the full
+                moon slowly fades to a close-up of Katara's face as she is crying. Several moments
+                pass as the young waterbender begins to break free from Hama's grip. Hama stares in
+                shock as Katara inhales deeply and rises, now free from her grasp.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Determined.</charAction> You're not the only one who draws power from
+            the moon! <charAction>Assumes a fighting stance.</charAction> My bending is more
+            powerful than yours, Hama. Your technique is useless on me!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>A waterbending duel ensues between the two. Katara pulls a ring of water
+                around her waist and sends the stream of water at Hama, who halts it and sends it
+                back to Katara. In a swift spinning motion, Katara sends the stream toward Hama
+                again, who draws water from nearby trees, deflects the attack and sends a highly
+                pressurized water jet at her. Katara uses her hands to block the attack,
+                disintegrating the water into droplets. Upon seeing Katara's bending prowess, Hama
+                becomes shocked, allowing for her opponent to use waterbending to knock her to the
+                ground.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Shouts.</charAction> Aahhh!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka and Aang approach the scene as Hama rises to her knees.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>We know what you've been doing, Hama!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Give up! <charAction>Takes a fighting stance.</charAction> You're
+            outnumbered!</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>No! <charAction>Rising.</charAction> You've outnumbered yourselves.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She begins bloodbending Aang and Sokka, who yell in fear, and sends them in
+                Katara's direction. Katara pushes them out of her way and draws water from the
+                ground, sending a stream at Hama, who in turn draws water from a vine and uses a
+                water wheel to deflect the attack.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Unwillingly draws his sword.</charAction> Katara, look out!
+                <charAction>Forced to walk like a puppet, while waving the blade back and forth
+                rapidly.</charAction> It's like my brain has a mind of its own! Stop it arm, stop
+            it!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara pulls up a ring of water and pushes Sokka away.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>This feels weird!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Using waterbending to freeze him to a nearby tree.</charAction> I'm
+            sorry, Aang!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>It's okay!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She catches sight of Sokka, still under Hama's power, unwillingly prepared
+                to strike her with his sword. She draws water from a vine and freezes his sword and
+                hand to a tree as well.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech><charAction>Sinisterly.</charAction> Don't hurt your friends, Katara! And don't let
+            them hurt each other!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She uses bloodbending to break Aang and Sokka free from their ice
+                encasement and send them colliding straight into one another with Sokka's sword
+                pointing straight at Aang.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Horrified.</charAction> No!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang and Sokka abruptly halt in their tracks and look at their hands in
+                confusion. The camera focuses in on Hama, who has suddenly stiffened, and cuts to
+                Katara, an unsure look on her face as she uses bloodbending to subdue the elder.
+                Focusing first on Hama, who grunts in discomfort, the camera turns to show the
+                imprisoned villagers and Toph approaching the scene before cutting to moments later
+                when the elderly waterbender is arrested, handcuffs placed around her
+                wrists.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Male prisoner #1">Male prisoner #1</speaker>
+        <speech>You're going to be locked away forever.</speech>
+    </p>
+    <p>
+        <speaker name="Hama">Hama</speaker>
+        <speech>My work is done. <charAction>Turns to Katara.</charAction> Congratulations, Katara.
+            You're a bloodbender.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera focuses on Katara, who is clearly distressed and breaks down in
+                tears. Hama is shown laughing evilly as she is dragged away by the villagers. The
+                camera returns to focus on Katara, who is crying underneath the full moon as Aang,
+                arm around her, and Sokka, hand on her back, attempt to comfort her. Fades to
+                credits.</description>
+        </speech>
+    </p>
+</root>

@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="39">The Guru</title>
+      <director>Giancarlo Volpe</director>
+      <writer>Michael Dante DiMartino</writer>
+      <writer>Bryan Konietzko</writer>
+      <date>2006-12-01</date>
+      <location nation="earth">Chameleon Bay</location>
+      <location nation="earth">Ba Sing Se</location>
+      <location nation="air">Eastern Air Temple</location>
+   </metadata>
+   <section>
+      <description>The episode starts with a view of the exterior of Zuko and Iroh's
+                apartment. Cut to the interior. Iroh is preparing food when Zuko
+                awakens.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">What's that smell?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">It's jook. I'm sure you wouldn't like it.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Sniffs.</charAction> Actually, it smells delicious. I'd love a bowl,
+            Uncle. <charAction>Holds a bowl up.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Now that your fever is gone, you seem different somehow.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Optimistically.</charAction> It's a new day. We've got a new apartment,
+            new furniture, and today's the grand opening of your new tea shop. <charAction>Moves to
+                a table and sits.</charAction> Things are looking up, Uncle. <charAction>Starts
+                drinking the jook. Iroh's shocked expression changes to a
+            smile.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Aang and Sokka fly on Appa to a Water Tribe camp, where Hakoda
+                is.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">You haven't seen your dad in over two years. You must be so excited!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Almost throwing up.</charAction> I know I should be, but, I just feel
+            sick to my stomach. <charAction>Holds his stomach.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Don't be nervous. He's going to be so happy to see you! <charAction>He puts his hand
+                on Sokka's shoulder who smiles.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">So what about you? Are you nervous to meet this guru?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Not at all. I'm ready to master the Avatar State. I'll do whatever it takes.
+                <charAction>Sokka gets off Appa.</charAction> See you in a week. Yip yip!</speech>
+   </section>
+   <section>
+      <description>Aang and Appa fly away. Sokka arrives at the camp, where all the warriors
+                greet him warmly.</description>
+   </section>
+   <section>
+      <speech speaker="Water Tribe warrior">Sokka, good to see you.</speech>
+   </section>
+   <section>
+      <description>He looks and sees the main tent. Inside, Hakoda, Sokka's father, is looking
+                at a map with more warriors, including Bato, now with scars on his arm. Bato nudges
+                Hakoda and Hakoda becomes happy upon seeing Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Hakoda">Sokka.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Hi, Dad.</speech>
+   </section>
+   <section>
+      <description>The two embrace. Back at the Earth King's Royal Palace, the "Kyoshi
+                Warriors", Azula, Mai, and Ty Lee in disguise, sit before King Kuei.</description>
+   </section>
+   <section>
+      <speech speaker="Kuei">Look Bosco! The Kyoshi Warriors are here to protect us! Aren't you excited?
+                <charAction>Bosco yawns.</charAction> It's been a difficult week for me. My most
+            trusted advisor, Long Feng, and his Dai Li agents tried to take control of Ba Sing Se
+            from me.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">It's terrible when you can't trust the people who are closest to you.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Pets Bosco.</charAction> But there is good news. As we speak, the
+            Council of Five is meeting to plan an invasion of the Fire Nation this summer, on the
+            day of a solar eclipse.</speech>
+   </section>
+   <section>
+      <description>For a second, Azula's eyes slightly widen with shock and worry upon hearing
+                this, but she quickly hides it.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">Really? Now that sounds like a fascinating and brilliant plan. <charAction>Glances
+                off as Mai and Ty Lee look at each other.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Cut to the Council of Five meeting, where Katara and Momo are
+                present.</description>
+   </section>
+   <section>
+      <speech speaker="General How">General Fong's base will serve as the launching point for the attack. In exactly two
+            months, the army and navy will invade the Fire Nation on the Day of Black Sun.</speech>
+   </section>
+   <section>
+      <description>Momo jumps on the map and begins knocking over the pieces.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Or we could send in Momo to do some damage! <charAction>Chuckles. The Council of
+                Five are unamused.</charAction> 'Cause, the ... sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="General How">
+         <charAction>Uses earthbending to stand the pieces back up, scaring
+                Momo.</charAction> All we need is the Earth King's seal in order to execute the
+            plan. <charAction>Sends the scroll across the table to Katara.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I'll get these scrolls to him right away. Thank you, General How.</speech>
+   </section>
+   <section>
+      <description>Aang continues his journey to the Eastern Air Temple. He spots Guru Pathik,
+                who is meditating, and lands Appa.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Uhhh ... hello? You're Guru Pathik, right? <charAction>Aang approaches
+                Pathik.</charAction> The person who attached the note to Appa's horn?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Indeed. I was a spiritual brother of your people and a personal friend of Monk
+            Gyatso. <charAction>Aang looks slightly surprised to hear this.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">In your note, <charAction>Aang sits.</charAction> you said you could teach me how to
+            gain control of the Avatar State. How?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">You must gain balance within yourself, before you can bring balance to the world.
+            And the first step to gaining balance begins with this. <charAction>Hands Aang a yellow
+                beverage in a wooden cup.</charAction> Drink up!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Takes it and looks at it. Drinks it and quickly spits it out to his left
+                in disgust.</charAction> Uggh! It tastes like onion and banana juice!</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">That's because it is! <charAction>Pathik empties another bowl and holds it over his
+                head.</charAction> Yum yum!</speech>
+   </section>
+   <section>
+      <description>Aang blinks in disbelief. Meanwhile, Xin Fu and Master Yu are working to
+                bring Toph back to the Beifong Estate.</description>
+   </section>
+   <section>
+      <speech speaker="Yu">I believe we need to go right!</speech>
+   </section>
+   <section>
+      <speech speaker="Xin Fu">What are you talking about? The Beifong Estate's this way!</speech>
+   </section>
+   <section>
+      <speech speaker="Yu">I'm quite certain you're mistaken.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Banging at the cell.</charAction> Hey! Can you two old ladies quit your
+            bickering for a second? <charAction>Cut to inside the cell.</charAction> I got to go to
+            the bathroom!</speech>
+   </section>
+   <section>
+      <speech speaker="Yu">Oooh ... uhhh, okay, but make it quick! <charAction>Getting up with a key in
+                hand.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Xin Fu">
+         <charAction>Stopping Yu.</charAction> What's wrong with you?</speech>
+   </section>
+   <section>
+      <speech speaker="Yu">Ooh, very sneaky Toph! Nice try, but you can't trick me! <charAction>Sits
+                down.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Let me out of here so I can kick both your butts!</speech>
+   </section>
+   <section>
+      <speech speaker="Xin Fu">Quit your banging! <charAction>Bangs the metal box.</charAction> You might think
+            you're the greatest earthbender in the world, but even you can't bend metal!</speech>
+   </section>
+   <section>
+      <description>Toph looks sad as she places her hand on a side of the metal box. The scene
+                cuts to that night, and where Azula, Mai and Ty Lee are staying which is a small
+                building in the Upper Ring. Mai and Ty Lee are removing their make-up. A smiling Ty
+                Lee is looking in a mirror. She is wiping the last traces of her Kyoshi makeup from
+                her face. Mai is seated next to Ty Lee, still working on her own face.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">We have been presented with an extraordinary opportunity, girls.</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">Mai finally gets to wear make-up that's not totally depressing? <charAction>Azula
+                walks past toward a window.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>With large, dark splotches of black makeup dripping down her eyes;
+                Sarcastically.</charAction> Ha, ha.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">I'm talking about conquering the whole Earth Kingdom. <charAction>The two girls turn
+                with shocked looks.</charAction> For one hundred years, the Fire Nation has hammered
+            away at Ba Sing Se from the outside. <charAction>Walks away from the girls and smirks
+                while looking out of a window.</charAction> But now we're on the inside, and we can
+            take it by ourselves.</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">
+         <charAction>Admiringly.</charAction> Gosh, you're so confident. I really admire that
+            about you.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">From the inside, we're in perfect position to organize a coup and overthrow the
+            Earth King. The key is the Dai Li. Whoever controls the Dai Li <charAction>Turns back
+                into the room.</charAction> controls Ba Sing Se.</speech>
+   </section>
+   <section>
+      <description>Back to the Eastern Air Temple at a creek.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">In order to master the Avatar State, you must open all the chakras. Aang, tell me
+            everything you know about chakras.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Rubs eyes.</charAction> What are chakras?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">
+         <charAction>Disappointedly.</charAction> Oh, I see. I guess we'll start with the
+            basics. <charAction>As he explains he points to the water and the moss
+                within.</charAction> The water flows through this creek, much like the energy flows
+            through your body. As you see, there are several pools where the water swirls around
+            before flowing on. These pools are like our chakras.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">So chakras are pools of spiraling energy in our bodies?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Exactly. If nothing else were around, this creek would flow pure and clear. However,
+            life is messy, and things tend to fall in the creek. And then what happens?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">The creek can't flow?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Yes. But, if we open the ponds between the pools ... <charAction>He removes moss
+                blocking the exit for the water.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">The energy flows! <charAction>The water that was blocked by the moss becomes clear.
+                Aang and Pathik smile at each other.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>In another part of the temple, a cavern.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">There are seven chakras that go up the body. Each pool of energy has a purpose, and
+            can be blocked by a specific kind of emotional muck. Be warned, opening the chakras is
+            an intense experience, and once you begin the process, you cannot stop until all seven
+            are open. Are you ready?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Momentarily looks down.</charAction> I'll do whatever it takes.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">First we will open the Earth Chakra, located at the base of the spine. It deals with
+            survival, and is blocked by fear. What are you most afraid of? Let your fears become
+            clear to you.</speech>
+   </section>
+   <section>
+      <description>Aang sees images of things that cause him great fear, including the Blue
+                Spirit attacking him, General Fong sinking Katara into the ground, himself merging
+                with La at the North Pole, Fire Lord Ozai, and Sozin's Comet, which make him
+                scream.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">Aang, your vision is not real. You are concerned for your survival, but you must
+            surrender those fears. Let your fears flow down the creek. <charAction>Aang clears the
+                image away.</charAction> You have opened your Earth Chakra! <charAction>Aang wipes
+                sweat off his forehead.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Later, behind a waterfall.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">Next is the ...</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Water Chakra?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Brilliant! Maybe one day you will be a guru too! This chakra deals with pleasure and
+            is blocked by guilt. Now, look at all the guilt with burdens you so. What do you blame
+            yourself for?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Sees the image of him leaving home.</charAction> I ran away.
+                <charAction>Sees images of him in the Avatar State at General Fong's
+                base.</charAction> I hurt all of those people.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Accept the reality that these things happened, but do not let them cloud and poison
+            your energy. If you are to be a positive influence on the world, you need to forgive
+            yourself. <charAction>Aang takes a deep, focused breath, opening his Water
+                Chakra.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Scene cuts to the next day at the Water Tribe camp.</description>
+   </section>
+   <section>
+      <speech speaker="Hakoda">This bay leads directly to the outskirts of Ba Sing Se. We've been using these
+            tangle mines to stop the Fire Nation ships from getting through.</speech>
+   </section>
+   <section>
+      <speech speaker="Bato">
+         <charAction>Filling the mine with skunk fish and seaweed before moving
+                away.</charAction> Your father invented tangle mines himself.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Destructive? Buoyant? And ... <charAction>Sniffs and immediately becomes
+                disgusted.</charAction> Aggh, ehhh! Terrible smelling!</speech>
+   </section>
+   <section>
+      <speech speaker="Hakoda">Very perceptive. The mines are filled with skunk fish and seaweed. When a ship
+            detonates the mine, the seaweed tangles up the propeller and the foul smell forces
+            people to abandon the ship. I call it the "stink and sink."</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Laughs.</charAction> Good one, Dad!</speech>
+   </section>
+   <section>
+      <speech speaker="Bato">
+         <charAction>Nearby, unamused.</charAction> You're definitely your father's
+            son.</speech>
+   </section>
+   <section>
+      <speech speaker="Warrior">
+         <charAction>Approaching.</charAction> Hakoda, our scouts have spotted four Fire
+            Nation ships!</speech>
+   </section>
+   <section>
+      <speech speaker="Hakoda">Bato, get these mines loaded up! The rest of you men, prepare for battle!</speech>
+   </section>
+   <section>
+      <description>The warriors run off to prepare as Sokka looks around before looking back
+                to his father.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Uhhh ... what should I do, Dad?</speech>
+   </section>
+   <section>
+      <speech speaker="Hakoda">Aren't you listening? I said, "The rest of you men, get ready for battle".</speech>
+   </section>
+   <section>
+      <description>Sokka smiles, nods, and departs. Hakoda smiles proudly. Back in Ba Sing Se,
+                at the Jasmine Dragon. Zuko and Iroh observe the happenings standing at the
+                back.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Who thought when we came to this city as refugees, that I'd end up owning my own tea
+            shop? Follow your passion, Zuko, and life will reward you.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Congratulations, Uncle.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">I am very thankful.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">You deserve it. The Jasmine Dragon will be the best tea shop in the city.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">No. I'm thankful because you decided to share this special day with me. It means
+            more than you know. <charAction>The two embrace.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Now let's make these people some tea! <charAction>Walks away to the
+                back.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Overjoyed.</charAction> Yes, let's make some tea!</speech>
+   </section>
+   <section>
+      <description>Back to the Eastern Air Temple, Aang and Pathik sit on a
+                ledge.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">Third is the Fire Chakra, located in the stomach.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Holding his stomach.</charAction> My Fire Chakra would like to eat
+            something other than onion-banana juice.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">
+         <charAction>Chuckles.</charAction> Good one! Moving on. This chakra deals with
+            willpower, and is blocked by shame. What are you ashamed of? <charAction>Cuts to Aang's
+                vision of his first attempt at firebending, which resulted in him accidentally
+                burning Katara's hands.</charAction> What are your biggest disappointments in
+            yourself?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm never going to firebend again. I can't.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">You will never find balance if you deny this part of your life. You are the Avatar
+            and therefore, you are a firebender. <charAction>Aang breathes deeply.</charAction> Hmmm
+            ... that chakra opened less like a flowing creek, and more like a ... burping
+            bison.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Loud belch.</charAction> Tastes like onions and bananas, but strangely
+            something else. Pickles? <charAction>Pathik shrugs, and hums as if to say "I don't
+                know".</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back at the palace, two Dai Li agents hide on two pillars and secretly spy
+                on a conversation between Mai and Ty Lee. The former is sitting on the stairs and
+                the latter is practicing chi blocking and acrobatics.</description>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>Sighs.</charAction> I'm tired of wearing this girly disguise. I don't
+            know how anyone could fight in this.</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">Maybe that's why it was so easy to beat the Kyoshi Warriors and take their clothes.
+                <charAction>Punches the air, imitating her chi blocking.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Mai">How much longer do we have to serve the Earth King? If I have to clean up one more
+            pile of bear poop, I'm going to throw up.</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">
+         <charAction>Walks on her hands.</charAction> Princess Azula promised we would go
+            back to the Fire Nation as soon as we captured the Avatar. We just have to be
+            patient.</speech>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>Stands up.</charAction> Shush up! Do you want the whole palace to know
+            we're Fire Nation?</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">Sorry!</speech>
+   </section>
+   <section>
+      <description>The agents smile and climb away. Azula, who was hiding behind another
+                pillar, walks up to them.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">Good work, girls. I'm sure the Dai Li will deliver the message.</speech>
+   </section>
+   <section>
+      <description>Back at the Air Temple.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">The fourth chakra is located in the heart. It deals with love and is blocked by
+            grief. <charAction>Aang smiles and looks at a Air Nomad statue nearby before looking
+                sad.</charAction> Lay all your grief out in front of you.</speech>
+   </section>
+   <section>
+      <description>Aang sees images of many airbenders, including Gyatso and Yangchen. He
+                smiles upon seeing them, but becomes saddened as they start to vanish into
+                smoke.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">You have indeed felt a great loss. <charAction>The airbenders appear floating in the
+                clouds.</charAction> But love is a form of energy, and it swirls all around us.
+                <charAction>Aang is lifted into the air and sees the Air Nomads floating in the
+                smoke.</charAction> The Air Nomads' love for you has not left this world. It is
+            still inside of your heart, and is reborn in the form of new love.</speech>
+   </section>
+   <section>
+      <description>The smoke in front of Aang forms a face and shows the first thing he saw
+                upon waking up from his iceberg: Katara. Back in the real world, Aang is starting to
+                cry tears of joy.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">Let the pain flow away. <charAction>Aang wipes away his tears.</charAction> Very
+            good.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Choking up.</charAction> Can I have some onion-banana juice,
+            please?</speech>
+   </section>
+   <section>
+      <description>Inside another part of the temple.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">The fifth in the chain is the Sound Chakra, located in the throat. It deals with
+            truth and is blocked by lies. The ones we tell ourselves.</speech>
+   </section>
+   <section>
+      <description>Aang flashes back to when he, Katara, and Sokka first began their journey
+                to the North Pole.</description>
+   </section>
+   <section>
+      <speech speaker="Katara (flashback)">Why didn't you tell us you were the Avatar?</speech>
+   </section>
+   <section>
+      <description>Back to the real world, Aang finds himself answering the
+                question.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Because I never wanted to be.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">You cannot lie about your own nature. You must accept that you are the Avatar.
+                <charAction>Aang inhales and, seeing an image of himself on a cliff looking down at
+                the ground, exhales, and accepts his nature.</charAction> Very good, Aang. You have
+            opened the chakra of truth.</speech>
+   </section>
+   <section>
+      <description>Outside the temple interior.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">The sixth pool of energy is the light chakra, located in the center of the forehead.
+            It deals with insight and is blocked by illusion. The greatest illusion of this world is
+            the illusion of separation. Things you think are separate and different are actually one
+            in the same.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>An image is shown of the world, with the four nations' territories
+                marked.</charAction> Like the four nations.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">
+         <charAction>The image changes so the territories become the same color.</charAction>
+            Yes. We are all one people, <charAction>The territories become separate
+                again.</charAction> but we live as if divided.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">We're all connected. Everything is connected.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">That's right! Even the separation of the four elements is an illusion. If you open
+            your mind, you will see that all the elements are one. Four parts of the same whole.
+            Even metal is just a part of earth that has been purified and refined.</speech>
+   </section>
+   <section>
+      <description>As Pathik speaks, the camera fades to Xin Fu and Yu trying to take Toph
+                home. She feels around the metal cage with seismic sense and feels tiny particles of
+                earth in the metal. She smiles, exhales deeply and begins to push against the
+                metal.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Struggling.</charAction> Come on, metal. Budge! <charAction>She punches
+                a hole in the metal and shakes her hand in pain.</charAction> Wooo! Toph, you
+            rule.</speech>
+   </section>
+   <section>
+      <description>She takes another punch as we cut back to Ba Sing Se. Katara walks by the
+                Jasmine Dragon.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">What do you say, Momo? A cup of tea before we get back to the king?
+                <charAction>Arrives at the shop.</charAction> Table for two, please.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Uncle! I need two jasmine, one green, and one lychee!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">I'm brewing as fast as I can!</speech>
+   </section>
+   <section>
+      <description>Katara notices Zuko and Iroh. Stunned, she runs away from the
+                shop.</description>
+   </section>
+   <section>
+      <description>The scene returns to Aang and Pathik, who sit at the top of the temple at
+                night.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">This is the last chakra, isn't it?</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Yes. Once you open this chakra, you will be able to go in and out of the Avatar
+            State at will and when you are in the Avatar State, you will have complete control and
+            awareness of all your actions.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Smiles with determination.</charAction> Let's do this.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">The Thought Chakra is located at the crown of the head. It deals with pure cosmic
+            energy, and is blocked by earthly attachment. Meditate on what attaches you to this
+            world. <charAction>Images of Katara appear before Aang.</charAction> Now, let all of
+            those attachments go. Let them flow down the river, forgotten.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Coming out of his meditation.</charAction> What? Why would I let go of
+            Katara? I ... I love her!</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Learn to let her go, or you cannot let the pure cosmic energy flow in from the
+            universe.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Why would I choose cosmic energy over Katara? <charAction>Aang throws his hands
+                up.</charAction> How could it be a bad thing that I feel an attachment to her? Three
+            chakras ago that was a good thing!</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">You must learn to let go. <charAction>Aang contemplates
+            worriedly.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back at the palace, Katara runs to inform the Earth King, only to encounter
+                the "Kyoshi Warriors".</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Thank goodness you're here, Suki. Something terrible is going on. The Fire Nation
+            has infiltrated the city, I just saw Prince Zuko and his uncle! <charAction>Azula widens
+                her eyes in surprise and smiles slyly.</charAction> We have to tell the Earth King
+            right away!</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">Oh, don't worry, I'll be sure to let him know.</speech>
+   </section>
+   <section>
+      <description>Katara notices "Suki" has gold eyes and is shocked upon realization that
+                the "Kyoshi Warriors" are actually Azula, Mai, and Ty Lee. She prepares to attack,
+                but Ty Lee quickly jumps forward and blocks her chi.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>While the three girls gather around the fallen Katara; pans to camera
+                looking up to the three girls.</charAction> So, Zuzu's in the city, too? I think
+            it's time for a family reunion. <charAction>Momo flies off.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back at the temple.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm sorry, but I can't let go of Katara.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Aang, to master the Avatar State, you must open all the chakras. Surrender
+            yourself.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Okay, I'll try.</speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">Now think of your attachments and let them go. Let the pure cosmic energy
+            flow.</speech>
+   </section>
+   <section>
+      <description>Aang sees an image of him letting Katara go, and a bridge that will lead
+                him to Avatar State mastery. His image looks down, smiles at the bridge, and walks
+                up to the Avatar Spirit, which is an enlarged image of himself in the Avatar State.
+                The Avatar Spirit is holding a ball of energy, and Aang walks directly inside of it.
+                As he does so, his tatooes glow, and he closes his eyes. Right before he is able to
+                completely open the final chakra and master the Avatar State, however, he hears a
+                shriek from Katara and sees a vision of her in chains. At this, he jumps out of the
+                energy sphere and runs away from the Avatar Spirit. The energy bridge that lead him
+                there slowly vanishes behind him until it catches up and falls from underneath him,
+                causing his image to plummet toward Earth. This cuts his connection to the Avatar
+                State, which forces him back to reality.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Katara's in danger! I have to go! <charAction>Prepares to
+            exit.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Pathik">No, Aang! By choosing attachment, you have locked the chakra! If you leave now, you
+            won't be able to go into the Avatar State at all!</speech>
+   </section>
+   <section>
+      <description>Aang hesitates but leaves anyway, leaving Pathik concerned and
+                disappointed. Meanwhile, the journey to take Toph back to her home is stopped when
+                Xin Fu and Yu hear a loud noise. They go to investigate, and notice a hole in the
+                cage and that Toph is gone.</description>
+   </section>
+   <section>
+      <speech speaker="Yu">It's another one her tricks!</speech>
+   </section>
+   <section>
+      <speech speaker="Xin Fu">There's a giant hole in the box! How is that a trick!?</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>From behind them.</charAction> It's not! It's the real deal!</speech>
+   </section>
+   <section>
+      <description>She earthbends the two men together, throws them in the cage, and
+                metalbends the cage shut.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Jumps on top of the box.</charAction> I am the greatest earthbender in
+            the world! Don't you two dunderheads ever forget it! <charAction>Stomps on the box and
+                exits using earth surfing.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Xin Fu">
+         <charAction>Inside the box.</charAction> I'm going to be stuck in here forever with
+            you, aren't I?</speech>
+   </section>
+   <section>
+      <speech speaker="Yu">I have to go the bathroom. <charAction>Xin Fu groans and slams his head against the
+                box.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back at the Water Tribe camp, Hakoda approaches Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Hakoda">Ready to go knock some Fire Nation heads?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You don't know how much this means to me, Dad. I'll make you proud and I'll finally
+            prove to you what a great warrior I am.</speech>
+   </section>
+   <section>
+      <speech speaker="Hakoda">
+         <charAction>Placing his hand on Sokka's shoulder.</charAction> Sokka, you don't have
+            to prove anything to me. I'm already proud of you and I've always known you're a great
+            warrior.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Really?</speech>
+   </section>
+   <section>
+      <speech speaker="Hakoda">Why do you think I trusted you to look after our tribe when I left?</speech>
+   </section>
+   <section>
+      <description>Just as the two are boarding the ship, Aang and Appa appear. Aang shows a
+                clear look of concern.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">This can't be good news.</speech>
+   </section>
+   <section>
+      <description>Aang and Sokka depart. Just as they're leaving, Sokka looks back at Hakoda,
+                who looks back and grins. Back in Ba Sing Se, Azula is led into a prison by two Dai
+                Li agents. She is taken to Long Feng's cell.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">What is this about? Your agents show up in the middle of the night and drag me down
+            here? You will not treat a Kyoshi Warrior this way!</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">But you're not a Kyoshi Warrior, are you, <charAction>Standing.</charAction>
+            Princess Azula of the Fire Nation?</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">What do you want?</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">I want to make a deal. It's time that I regain control of Ba Sing Se and you have
+            something I need.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">Oh?</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">The Earth King's trust.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">Why should I help you?</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">Because I can get you the Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>Smirks.</charAction> I'm listening ...</speech>
+   </section>
+   <section>
+      <description>Long Feng smiles. Back at the Jasmine Dragon, a royal messenger
+                enters.</description>
+   </section>
+   <section>
+      <speech speaker="Royal messenger">A message from the Royal Palace.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Reads through, becomes shocked, and smiles.</charAction> I ... I can't
+            believe it!</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">What is it, Uncle?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Excited.</charAction> Great news! We've been invited to serve tea to the
+            Earth King! <charAction>Runs off.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Zuko smiles as he continues sweeping. Back in the prison hold, the door to
+                Long Feng's cell is closed. Azula leaves Long Feng's presence and gives a smirk.
+                Fade to credits.</description>
+   </section>
+</root>

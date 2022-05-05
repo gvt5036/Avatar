@@ -1,0 +1,1112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 400" preserveAspectRatio="xMinYMin meet">
+    <defs>
+        <linearGradient id="Spk1" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="40%" style="stop-color:rgb(111, 128, 242);stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb(45, 57, 139);stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="225,0 230, 0 230, -154 225, -156" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="145,0 150, 0 150, -125 145, -127" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="465,0 470, 0 470, -185 465, -187" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="515,0 520, 0 520, -210 515, -212" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="375,0 380, 0 380, -151 375, -153" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="55,0 60, 0 60, -188 55, -190" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="555,0 560, 0 560, -143 555, -145" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="565,0 570, 0 570, -180 565, -182" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="535,0 540, 0 540, -188 535, -190" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="65,0 70, 0 70, -242 65, -244" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="345,0 350, 0 350, -165 345, -167" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="485,0 490, 0 490, -208 485, -210" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="195,0 200, 0 200, -99 195, -101" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="335,0 340, 0 340, -247 335, -249" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="25,0 30, 0 30, -195 25, -197" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="285,0 290, 0 290, -201 285, -203" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="395,0 400, 0 400, -176 395, -178" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="525,0 530, 0 530, -178 525, -180" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="445,0 450, 0 450, -142 445, -144" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="455,0 460, 0 460, -113 455, -115" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="155,0 160, 0 160, -157 155, -159" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="235,0 240, 0 240, -186 235, -188" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="95,0 100, 0 100, -169 95, -171" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="495,0 500, 0 500, -136 495, -138" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="15,0 20, 0 20, -168 15, -170" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="185,0 190, 0 190, -175 185, -177" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="575,0 580, 0 580, -150 575, -152" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="245,0 250, 0 250, -183 245, -185" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="35,0 40, 0 40, -140 35, -142" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="385,0 390, 0 390, -156 385, -158" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="275,0 280, 0 280, -182 275, -184" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="435,0 440, 0 440, -184 435, -186" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="295,0 300, 0 300, -151 295, -153" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="45,0 50, 0 50, -202 45, -204" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="505,0 510, 0 510, -126 505, -128" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="5,0 10, 0 10, -65 5, -67" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="75,0 80, 0 80, -195 75, -197" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="305,0 310, 0 310, -172 305, -174" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="355,0 360, 0 360, -148 355, -150" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="255,0 260, 0 260, -141 255, -143" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="165,0 170, 0 170, -150 165, -152" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="365,0 370, 0 370, -164 365, -166" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="405,0 410, 0 410, -155 405, -157" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="105,0 110, 0 110, -142 105, -144" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="175,0 180, 0 180, -188 175, -190" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="135,0 140, 0 140, -118 135, -120" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="425,0 430, 0 430, -175 425, -177" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="415,0 420, 0 420, -175 415, -177" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="85,0 90, 0 90, -170 85, -172" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="265,0 270, 0 270, -126 265, -128" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="545,0 550, 0 550, -157 545, -159" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="325,0 330, 0 330, -176 325, -178" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="205,0 210, 0 210, -210 205, -212" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="215,0 220, 0 220, -190 215, -192" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="475,0 480, 0 480, -167 475, -169" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="315,0 320, 0 320, -197 315, -199" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="115,0 120, 0 120, -139 115, -141" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+        <g transform="translate(50, 336)">
+            <polygon transform="scale(-1, 1) translate(-590,-2)" points="125,0 130, 0 130, -68 125, -70" fill="url(#Spk1)" stroke="black"/>
+            <line x1="0" x2="600" y1="-2.5" y2="-2.5" stroke-width="5" stroke="black"/>
+            <line x1="-3" x2="600" y1="-308" y2="-308" stroke-width="5" stroke="black"/>
+            <line x1="0" x2="0" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="597" x2="597" y1="0" y2="-305" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-100" y2="-100" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-200" y2="-200" stroke-width="5" stroke="black"/>
+            <line x1="-5" x2="5" y1="-300" y2="-300" stroke-width="5" stroke="black"/>
+            <text x="-40" y="-94" font-size="20" font-family="georgia">100</text>
+            <text x="-45" y="-194" font-size="20" font-family="georgia">200</text>
+            <text x="-45" y="-294" font-size="20" font-family="georgia">300</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="100" y="20">Book 1</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="300" y="20">Book 2</text>
+            <text transform="translate(-10, 0)" font-size="15" font-family="georgia" x="500" y="20">Book 3</text>
+            <line x1="208" x2="208" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <line x1="408" x2="408" y1="-11" y2="8" stroke-width="3" stroke="black"/>
+            <text x="177" y="-320" font-size="20" font-family="georgia">Speech Count Per Episode</text>
+        </g>
+    </g>
+</svg>

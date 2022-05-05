@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="25">Avatar Day</title>
+      <director>Lauren MacMullan</director>
+      <writer>John O' Bryan</writer>
+      <date>2006-04-28</date>
+      <location nation="earth">Chin Village</location>
+      <location nation="earth">Kyoshi Island</location>
+   </metadata>
+   <section>
+      <description>The episode begins by showing a coast before panning down to in the middle
+                of a forest where the gang is asleep, except for Momo. Switch to a view from inside
+                Sokka's open mouth, looking out. A spider has set up its web over his mouth. Momo
+                discovers the spider and inspects it with great interest. When a flies lands on the
+                web, Momo tries to grab it. As he plunges his hand completely in Sokka's mouth,
+                Sokka opens his eyes immediately in surprise. He shoots up and starts to spit out
+                the remains of the spider and its web.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Angrily.</charAction> What are you doing in my mouth? <charAction>Momo
+                chitters happily while lying upside down on Sokka's belly, chewing on the fly he
+                "rescued" from the spider's web.</charAction> Momo, you need to be a little more
+            sensitive to my boundaries.</speech>
+   </section>
+   <section>
+      <description>The lemur seems to notice something else on his left. He completely ignores
+                Sokka's comment and climbs on his face, where he erects himself and pricks up his
+                ears to determine what it is he heard. He chitters loudly, waking up Katara, who was
+                sleeping on a nearby sawed off tree trunk.</description>
+      <description>Switch to Aang, who is still sleeping soundly on Appa's forearm. He wakes
+                up as the ground begins to shake. Kahchi, sitting atop a rhino, jumps out of the
+                thicket. Katara gasps as two more emerge from the bushes on the other side of the
+                camp.</description>
+   </section>
+   <section>
+      <speech speaker="Mongke">
+         <charAction>Shouting from up above as he looks over the campsite.</charAction> Give
+            up! You're completely surrounded!</speech>
+   </section>
+   <section>
+      <description>An overview shot of the campsite shows that four rhinos are circling around
+                the gang.</description>
+      <description>Close-up of Vachir, as he fires two flaming arrows toward Sokka, who was
+                trying to crawl away like a caterpillar in his sleeping bag. The arrows pin the back
+                of the sleeping bag to the ground while Sokka crawls out. He moves out of the path
+                of a third arrow just in time.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Crawling toward Appa.</charAction> Come on! Come on! Come on!</speech>
+   </section>
+   <section>
+      <description>Sokka climbs aboard Appa, where Aang's already waiting for him. Switch to a
+                closer shot of Katara, as she also makes her way toward Appa. Just before she
+                reaches him, she stops in her tracks and turns around.</description>
+      <description>Kahchi spins his Guan Dao around and plants it in the sawed of tree trunk
+                Katara was sleeping on a bit earlier. Next to the tree trunk lie some of Team
+                Avatar's supplies.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">My scrolls!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Shocked.</charAction> My staff!</speech>
+   </section>
+   <section>
+      <description>He jumps off Appa's head, while Sokka just manages to get on.</description>
+      <description>Switch to the Guan Dao blade into the stump, right next to a wooden box.
+                The camera pans to the right to reveal Katara charging Kahchi with a water whip. She
+                freezes the blade solid to the trunk, giving her the opportunity to grab the box of
+                scrolls. She heads back toward Appa just as Kahchi manages to break his weapon free
+                of the ice.</description>
+      <description>Cut to Ogodei, who is swinging his chains around. He throws them around a
+                tree and pulls it down to impede Aang's progress toward his staff. It has no effect,
+                as Aang just somersaults over the fallen tree.</description>
+      <description>Close-up of Yeh-Lu, as he ignites one of the hand grenades hanging on his
+                belt. He throws it at Aang, who has reached his staff by now. The explosive lands
+                right beside him, but the fuse is still burning. Aang swirls his staff around and
+                knocks the explosive out of the way and into the woods. Aang propels himself into
+                the air with airbending while the bomb explodes. He lands on Appa's
+                head.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Yip yip!</speech>
+   </section>
+   <section>
+      <description>Appa rises from the ground, leaving the Rough Rhinos behind. Mongke shoots
+                a fire ball at them as they fly over. Katara and Sokka quickly duck and cover their
+                heads, as the fire ball just misses them. As Sokka erects again, he notices
+                something on the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Stretching out his arm over the saddle as if he wants to grab
+                it.</charAction> Wait, my boomerang!</speech>
+   </section>
+   <section>
+      <description>The camera zooms out on Sokka's boomerang, which still lies in the middle
+                of their besieged camp.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Grabbing Sokka's arm.</charAction> There's no time!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Annoyed.</charAction> Oh, I see, <charAction>Turning to
+                Katara.</charAction> so there's time to get your scrolls <charAction>Turning toward
+                Aang.</charAction> and time to get your staff, <charAction>Looking back at Katara
+                with his hand on his chest.</charAction> but no time for my boomerang?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Cheerfully.</charAction> That's correct!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Bowing his head in defeat by this totally honest answer.</charAction>
+            Oh.</speech>
+   </section>
+   <section>
+      <description>Cut to a shot of Mongke, who angrily turns his head as Appa disappears at
+                the horizon.</description>
+      <description>Screen changes to a small village at the edge of a cliff, surrounded by
+                open, green fields. Appa landed nearby a small, wooden house.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To a sulking Sokka.</charAction> Sorry about your boomerang,
+            Sokka.</speech>
+   </section>
+   <section>
+      <description>Camera moves back to show how Sokka sits on the ground in a gloomy mood.
+                Katara is buying supplies is the background.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sadly.</charAction> I feel like I've lost part of my identity.
+                <charAction>He jumps up and moves Aang's hat slightly so that he can point at Aang's
+                arrow.</charAction> Imagine if you lost your arrow, or Katara lost her ...
+                <charAction>Makes a hair loopies gesture with a somewhat bored look.</charAction>
+            hair loopies.</speech>
+   </section>
+   <section>
+      <description>He slowly saunters over to the stall, where Katara gives him a loving hug
+                in order to comfort him before she holding her hands in front of herself while
+                smiling lovely at Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Merchant">Here's your produce, ponytail guy.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>He picks up the basket full of supplies, looking dejected at the
+                nickname.</charAction> I used to be boomerang guy ...</speech>
+   </section>
+   <section>
+      <description>Aang and Katara follow Sokka with looks of sympathy as he walks away. The
+                merchant heads toward Katara, who gives him some money.</description>
+   </section>
+   <section>
+      <speech speaker="Merchant">
+         <charAction>Surprised, after inspecting the money.</charAction> Hey, Water Tribe
+            money!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I hope that's okay.</speech>
+   </section>
+   <section>
+      <speech speaker="Merchant">
+         <charAction>Clutching the coin.</charAction> So long as it's money. <charAction>The
+                merchant closes his shop, while Katara walks over to Aang, who is trying to console
+                a crying Sokka as the camera pans up to show just the merchant's head.</charAction>
+            Have a nice Avatar Day!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Interested.</charAction> Avatar Day?</speech>
+   </section>
+   <section>
+      <speech speaker="Merchant">
+         <charAction>Turning around while waving.</charAction> You guys are going to the
+            festival, right?</speech>
+   </section>
+   <section>
+      <description>They all look at each other for a moment, trying to figure out what to do.
+                Aang and Katara smile at each other, while tears still run over Sokka's
+                face.</description>
+      <description>The camera pans down to reveal an overview shot of Chin Village. Switch to
+                a shot of several festive, green lanterns hanging over the street. The shot tilts
+                down. Aang, Katara, and Sokka are standing in the middle of the busy street, looking
+                around in interest.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">There's a holiday for the Avatar. Who knew?</speech>
+   </section>
+   <section>
+      <description>They turn around as a large effigy of Avatar Kyoshi rolls by.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Pointing at the float.</charAction> Look! They made a giant Kyoshi
+            float!</speech>
+   </section>
+   <section>
+      <description>They run to the side. Switch to a close-up of Kyoshi's head. Aang, Sokka
+                and Katara emerge from a side street.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">And here comes Avatar Roku! <charAction>Roku effigy rolls by.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Overview shot of the main square that is packed with people. The giant
+                float of Kyoshi and Roku are being pulled to the middle.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Having a huge festival in your honor is great, but frankly, it's just nice to be
+            appreciated.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">And it's nice to appreciate their deep-fried festival food! <charAction>He takes a
+                huge bite out of the food-item he is holding.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Pointing at a giant float of Aang coming down the street.</charAction>
+            Aang, look!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">That's the biggest me I've ever seen!</speech>
+   </section>
+   <section>
+      <description>Close-up as Aang's float pulls up besides that of the other two Avatars on
+                the main square. The camera pans to the right of the floats as a villager carrying a
+                torch comes running down the street.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Now a torch, that's a nice prop. It's bright, dangerous ...
+                <charAction>Sniffs.</charAction> smells manly. But I'm not sure I could carry it
+            off.</speech>
+   </section>
+   <section>
+      <description>Sokka takes another bite of his food as Katara points at the
+                runner.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Surprised.</charAction> Hey, what's that guy doing?</speech>
+   </section>
+   <section>
+      <description>With a loud scream, the runner jumps through the effigy of Kyoshi, causing
+                it to catch fire. The fire spreads rapidly over the whole effigy.</description>
+   </section>
+   <section>
+      <speech speaker="Villagers">
+         <charAction>Chanting as Kyoshi's effigy is consumed by the flames.</charAction> Down
+            with the Avatar! </speech>
+   </section>
+   <section>
+      <description>The villagers continue chanting while the runner sets fire to the Roku
+                effigy next. The camera zooms in on Aang, Katara, and Sokka, who are utterly shocked
+                by the turn of events. Sokka's mouth falls open and food drips out.</description>
+      <description>Cut to a shot of another town atop a hill. As two people are walking down
+                the quiet street, a shadowy figure quickly passes them by on the roof. The Blue
+                Spirit lands in front of the two people and unsheathes his dual dao swords as he
+                jumps at the man carrying two baskets, suspended on a long pole. He swiftly cuts the
+                baskets off in one fluid motion. The terrified man cowers back, as the Blue Spirit
+                moves in to collect his prize. He hangs the baskets over his shoulders and heads for
+                the woman, who is carrying a large piece of fruit on her head. The Blue Spirit
+                snatches the fruit off her head and disappears as swiftly as he had come. The man
+                and woman are left in confusion as to what just happened.</description>
+      <description>Switch to a scene in the forest. The camera follows the descent of a fly
+                that is snatched out of the air by a chameleon resting on a branch. The Blue Spirit
+                is making his way through the thicket. The mask of the Blue Spirit is placed in a
+                hollow part at the base of a tree. Zuko peeks around the trunk. The camera zooms
+                toward a cavern where Iroh is sitting. He looks up when Zuko drops the barrels of
+                food at his feet.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Wondering.</charAction> Where did you get these?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Angrily, while walking away.</charAction> What does it matter where they
+            came from?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Seriously.</charAction> Mmmm ... <charAction>Takes a bite out of one of
+                the cupcakes Zuko brought. The jam drips of his chin. In delight.</charAction> ...
+            mmmm!</speech>
+   </section>
+   <section>
+      <description>Switch back to the burning effigies of the Avatars in Chin Village as the
+                chants continue. The mayor signals to the torch-bearer, who is now on the roof, to
+                throw his torch. The torch-bearer grins as he takes aim and throws his torch with a
+                grunt right into the right eye of Aang's float. The crowd cheers in approval, while
+                Aang looks at his own effigy burn with a look of pain on his face, closing his own
+                right eye. Katara runs to the front and uses her waterbending to extinguish the
+                flames with water from two large pots nearby.</description>
+   </section>
+   <section>
+      <speech speaker="Villager">
+         <charAction>Angrily pointing an accusing finger at Katara.</charAction> That party
+            pooper's ruining Avatar Day!</speech>
+   </section>
+   <section>
+      <description>Aang looks angrily at the villager. He airbends himself to the top of his
+                own float and lands on the left shoulder of his still smoking effigy.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Angered.</charAction> That party pooper's my friend! <charAction>He
+                takes off his hat and throws it away to reveal his arrow.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Pointing in shock at Aang.</charAction> It's the Avatar
+            himself!</speech>
+   </section>
+   <section>
+      <speech speaker="Villager">
+         <charAction>Scared.</charAction> It's going to kill us with its awesome Avatar
+            powers!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">No, I'm not, I ...</speech>
+   </section>
+   <section>
+      <description>Aang raises his hand. Several villagers run for cover in fear. The villager
+                that spoke earlier throws himself into the audience. Aang looks at his hand and
+                quickly hides it behind his back.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Crawling back on his feet.</charAction> I suggest you leave!
+                <charAction>He waves them away with a gesture of his hand.</charAction> You're not
+            welcome here, Avatar!</speech>
+   </section>
+   <section>
+      <description>Katara turns to face the mayor.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Why not? Aang helps people.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Landing beside Katara.</charAction> It's true! I'm on your
+            side.</speech>
+   </section>
+   <section>
+      <description>Camera zooms in slowly on the mayor.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Calmly.</charAction> I find that hard to swallow, <charAction>Raising
+                his voice.</charAction> considering what you did to us in your past life! It was
+            Avatar Kyoshi; she murdered our glorious leader, Chin the Great.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Utterly shocked.</charAction> You think that I ... murdered
+            someone?</speech>
+   </section>
+   <section>
+      <speech speaker="Villager #2">
+         <charAction>Lisping and slurring.</charAction> We used to be a great society before
+            you killed our leader. <charAction>Pointing at himself as the camera zooms in on
+                him.</charAction> Now look at us!</speech>
+   </section>
+   <section>
+      <description>The villagers next to him look at him in disgust.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Frightened by the appearances of the old man.</charAction> Huh!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Katara places her arms on Aang's shoulders and starts to defend
+                him.</charAction> Aang would never do something like that. No Avatar would.
+                <charAction>Shaking her head in disapproval before pointing an accusing finger at
+                the villagers.</charAction> And it's not fair for you all to question his
+            honor!</speech>
+   </section>
+   <section>
+      <speech speaker="Villager #3">
+         <charAction>Raising his arm to emphasize his remark.</charAction> Let's tell her
+            what we all think of the Avatar's "honor"!</speech>
+   </section>
+   <section>
+      <description>He turns around to shake his rear at Aang and blows a raspberry; the
+                villagers cheer in approval.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Give me a chance to clear my name!</speech>
+   </section>
+   <section>
+      <speech speaker="Tong">The only way to prove your innocence is to stand trial.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Confidently.</charAction> I'll gladly stand trial!</speech>
+   </section>
+   <section>
+      <speech speaker="Tong">You'll have to follow all our rules. That includes paying bail.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">No problem.</speech>
+   </section>
+   <section>
+      <description>Close-up of Aang's face. His confident look quickly disappears as the
+                camera cuts to the next shot, where he is cuffed with his hands and head stuck in a
+                wooden panel and thrown behind bars. Katara holds her hand before her eyes in shame
+                while Sokka leans against the prison bars. His arms are crossed and he looks annoyed
+                at Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Apologetically.</charAction> How was I supposed to know they wouldn't
+            take Water Tribe money?</speech>
+   </section>
+   <section>
+      <description>Cut to a panning down shot of the panoramic view of the village. The frame
+                freezes for a moment on the open prison courtyard, where Aang's tunic is clearly
+                visible. Switch to a shot from inside the prison, where Sokka, Katara, and Momo are
+                still standing before the chained up Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">So some people don't like you, big deal! There's a whole nation of firebenders who
+            hate you. Now let's bust you out of here!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I can't.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Upbeat.</charAction> Sure you can! A little <charAction>Theatrically
+                jumps back and pretends to airbend by blowing air. Katara looks ashamed for her
+                brother. He moves to the back of the room to "cut" the air.</charAction>
+            swish-swish-swish! <charAction>He makes a grotesque movement with his arm before
+                thrusting his face in the camera.</charAction> Airbending slice! <charAction>He
+                resumes his place beside Katara, who is still looking annoyed by her brother. He
+                makes a circular motion with his hands and points toward the door.</charAction> And
+            we're on our way!</speech>
+   </section>
+   <section>
+      <description>Aang looks at Sokka with big eyes.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Slightly mocking.</charAction> I think what "Master Swish" is trying to
+            say <charAction>Serious tone as she looks at Aang.</charAction> is that you're supposed
+            to be out saving the world. You can't do that locked up in here.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Unhappy.</charAction> I can't do that with people thinking I'm a
+            murderer either. I need you guys to help prove my innocence.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">How're we gonna to do that? The crime happened over three hundred years
+            ago.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cunningly.</charAction> That's okay, Sokka. For some reason, I thought
+            you were an expert detective.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Content.</charAction> Well, I guess I could be classified as
+            such.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Aiding Aang by playing Sokka's ego.</charAction> Yeah! Back home, he was
+            famous for solving the mystery of the missing seal jerky.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Bragging.</charAction> Everyone wanted to blame it on the polar leopard,
+            but I figured out it was Old Man Jarko wearing polar leopard boots! <charAction>Katara
+                holds her hand to her brow, annoyed by Sokka's monologue.</charAction> See, a real
+            eight hundred-pound polar leopard would have left much deeper tracks. <charAction>Aang
+                is making fun of Sokka, Katara holds her hand to her mouth to refrain herself from
+                bursting out in laughs.</charAction> Okay, I guess I am pretty good.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">So, you'll help me with my case?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Pretends to ponder about the question. Katara stares at him, trying to
+                figure out what he is doing.</charAction> Fine! But I'm going to need some new
+            props. <charAction>The camera spins around. When it stops again, Sokka is wearing a hat
+                with a monocle.</charAction> I'm ready. <charAction>Katara looks surprised at his
+                new outfit and giggles. Sokka extends his monocle to investigate her.</charAction>
+            What?</speech>
+   </section>
+   <section>
+      <description>Cut to a wagon being pulled by an ostrich horse through the forest. An
+                Earth Kingdom soldier sits in the front, holding the reins. Switch to the inside of
+                the wagon, where a wealthy man in playing with his chest full of gold pieces. He is
+                thrown to the front when the cart suddenly stops. The man looks around in fear,
+                quickly closing and locking the chest with the precious metal. His scared eyes shift
+                from side to side to as he hears rumbling noises outside. He clutches the chest
+                protectively. The cold sweat is dripping down his face. He sighs in relieve as the
+                noise died down, but he swiftly cowers back in fear as two swords pierce the top of
+                the cart. A fist comes crashing down through the ceiling. When the aghast man looks
+                up, he sees that it were the blades of the Blue Spirit that wrecked his cart. He
+                anxiously holds up his treasury toward the Blue Spirit, while trying to stay away
+                from him as far as possible. The Blue Spirit snatches it out of his hands and
+                disappears, leaving the surprised man. The camera moves back to reveal the shocked
+                man in his chart and the unconscious soldier on the ground.</description>
+      <description>Cut back to a panoramic view of Chin Village, lying at the edge of the tall
+                cliff and surrounded by pastures of green. Switch to on overview shot of a patch of
+                sand, right outside the village wall. Three people are standing nearby a small
+                shrine.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">This is the crime scene. <charAction>Cut to Sokka, who inquisitively looks around.
+                He gazes directly into the camera lens through his magnifying glass, making his left
+                eye appear huge. He moves on to investigate the walls of the shrine, while the mayor
+                is standing at the edge of the cliff, pointing down at something.</charAction> This
+            is the footprint of the killer, Kyoshi. <charAction>Sokka quickly squats beside the
+                footprint to take a closer look at it.</charAction> It was at sunset, 370 years ago
+            today, that she emerged from the temple, and struck down Chin the Great. After that
+            tragic day, we built this statue to immortalize our great leader. <charAction>They all
+                look up at a statue of Chin the Great, who has a raised left hand in
+                triumph.</charAction> Feel free to appreciate it.</speech>
+   </section>
+   <section>
+      <description>The mayor leaves Katara and Sokka alone to investigate things further.
+                Sokka moves in to examine the statue from every possible angle, while Katara looks
+                curiously at him. Sokka is investigating the base of the statue, when something
+                catches his attention. He looks through his magnifying monocle in order to take a
+                better look at the right foot of the statue. His eyes widen as he makes a discovery.
+                He swiftly runs over to the shrine that is facing the statue and examines the stone
+                it is made of.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">This temple and this statue were cut from the same stone. <charAction>Runs back over
+                to the statue.</charAction> And we know that the statue was built after Chin
+            died.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Excitedly drawing her conclusions.</charAction> So if they were built at
+            the same time, that means–</speech>
+   </section>
+   <section>
+      <description>Sokka interrupts her before she can reach a conclusion.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shouting.</charAction> Shhh! I wanna solve it! <charAction>Pointing at
+                the temple.</charAction> That means Kyoshi never set foot in this temple!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">That's a big hole in the mayor's story, <charAction>Disappointed.</charAction> but
+            it's not enough to prove Aang's innocence.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You're right. <charAction>Blows soap bubbles with his dragon shaped pipe, while
+                thinking about their next course of action.</charAction> We need to go to Kyoshi
+            Island.</speech>
+   </section>
+   <section>
+      <description>Katara walks in the frame, looking at his pipe.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Surprised.</charAction> Where did you get that?</speech>
+   </section>
+   <section>
+      <description>Cut to the prison in which Aang is being held. An elephant rat sniffles his
+                way over to an acorn. He picks it up and jumps away. Aang, still cuffed, leans
+                dispirited against the wall of the prison. A low voice emerges from the shadows at
+                the other side of the prison.</description>
+   </section>
+   <section>
+      <speech speaker="Scary prisoner">You got a bald head. <charAction>Aang looks up in wonder to see who is talking.
+                Switch to Aang's angle of view. A man is standing in the shadows, only his outline
+                is visible.</charAction> Some nice tattoos. <charAction>The man emerges from the
+                shadows. He has a strong build, earrings in both ears, and his body has a large
+                snake tattoo that covers the top of his chest and down his right arm. He suddenly
+                charges Aang, letting out a load growl. He is stopped in his tracks by the chains
+                around his neck. Aang slides down the wall in fear, while the man addresses him
+                calmly.</charAction> You're going to fit in real well around here.</speech>
+   </section>
+   <section>
+      <description>Aang smiles awkwardly as the man balls his fist.</description>
+      <description>Switch to an overview of Kyoshi Island. A man in the watchtower signals the
+                approach of Appa by ringing a bell. Cut to a shot of Oyaji's house as Appa's shadow
+                slides over it. The man looks up. Two laughing, little children pass him on their
+                way to great Appa and his riders. Appa lands right in front of the large, wooden
+                statue of Kyoshi which is completely rebuilt. When Appa touches the ground, everyone
+                in the village has gathered around to great them. They are all clapping as The
+                foaming mouth guy makes it to the front. He sees Appa and all he can do is squeal.
+                He gestures toward Appa in wonder, before letting out a load squeal and starts to
+                foam before fainting. Some of the villagers look at him while doing his thing,
+                feeling awkwardly. Sokka waves at the people. Koko, who was standing in the front
+                with her hands raised high, notices that something is off.</description>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>Angrily stamping her foot on the ground.</charAction> Where's
+            Aangy?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Gently breaks the news to Koko.</charAction> He couldn't be here,
+            Koko.</speech>
+   </section>
+   <section>
+      <description>The villagers sigh in disappointment.</description>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>Nagging.</charAction> I wanted to see Aangy ...</speech>
+   </section>
+   <section>
+      <description>The foaming mouth guy woozily stands up again, staggering a bit. He looks
+                from left to right, wipes the foam of his face and pulls his tunic over his head,
+                before subtly sneaking away. The rest of the villagers do the same with the
+                exception of Oyaji.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Oyaji! Aang is in jail. The town of Chin says he murdered their leader in a past
+            life.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">They say it was Kyoshi.</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Shocked.</charAction> Kyoshi? That's crazy talk! I'll take you to her
+            shrine. Maybe something there will help you clear her name.</speech>
+   </section>
+   <section>
+      <description>The threesome is walking up a gentle slope.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>With feigned casualness.</charAction> So, uh ... what's Suki up to? Is
+            she around?</speech>
+   </section>
+   <section>
+      <description>Sokka looks around while Katara gives him a loving smile.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">Actually, she and the other warriors left to fight in the war. You kids had a big
+            impact on Suki. She said you inspired her and she wanted to help change the
+            world.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>He disappointedly slants his eyes.</charAction> Oh, well ... that's
+            great.</speech>
+   </section>
+   <section>
+      <description>They walk under a large paifang gate toward a temple at the top of a
+                hill.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">This temple was converted into a shrine to Kyoshi. The clerics tell us these relics
+            are still connected to her spirit. That's her kimono.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Approvingly.</charAction> She had exquisite taste.</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">Please don't touch!</speech>
+   </section>
+   <section>
+      <description>Katara quickly lets go of the robe.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">These fans ... <charAction>He picks up one of the fans and waves it back and
+                forth.</charAction> They were her weapons, no?</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Sternly.</charAction> Also refrain from touching the fans.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Squatting beside a really big pair of brown boots.</charAction> These
+            were her boots? Her feet must have been enormous!</speech>
+   </section>
+   <section>
+      <description>Momo peeks out one of them. Katara looks surprised to see him
+                there.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Proudly.</charAction> The biggest of any Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Realizing something.</charAction> Wait a minute ... big feet?
+                <charAction>A flashback shows the much smaller footprint they saw at the edge of the
+                cliff outside Chin Village.</charAction> Little footprint? <charAction>She happily
+                exclaims her findings.</charAction> There's no way–</speech>
+   </section>
+   <section>
+      <description>Sokka clears his throat to cut her off.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Annoyed.</charAction> Special outfit? Hat and pipe? These things mean
+            anything to you?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Sarcastically.</charAction> You're right. I'm sorry. <charAction>She
+                bows slightly in a mocking gesture.</charAction> Please.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Dramatically raises his hand in the air.</charAction> Aha!
+                <charAction>Showing his own boots to Oyaji.</charAction> There's no way Kyoshi could
+            have made that footprint. <charAction>Moves toward Katara to explain everything to
+                her.</charAction> And therefore there is nothing linking her to the crime
+            scene.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Unimpressed.</charAction> Brilliant, Sokka. <charAction>Rolls her
+                eyes.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Cut back to an overview shot of Chin Village at sundown. Aang is sitting in
+                a circle with three other inmates.</description>
+   </section>
+   <section>
+      <speech speaker="Scary prisoner">
+         <charAction>In a very friendly voice that does not stroke with his scary
+                appearances.</charAction> This girl you're talking about? She'll come around. You
+            just gotta hang in there.</speech>
+   </section>
+   <section>
+      <description>Aang removes his head and hands out of the wooden panel.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Hopeful.</charAction> You think so?</speech>
+   </section>
+   <section>
+      <speech speaker="Scary prisoner">Sure.</speech>
+   </section>
+   <section>
+      <speech speaker="Prisoner #2">Yeah.</speech>
+   </section>
+   <section>
+      <speech speaker="Sensitive ruffian">You're a catch.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Doubtful.</charAction> I don't know ...</speech>
+   </section>
+   <section>
+      <description>He rests his head on the board.</description>
+   </section>
+   <section>
+      <speech speaker="Scary prisoner">Hey! You're smart, handsome, funny. Not to mention you're the Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Smiling sincerely.</charAction> You guys are great.</speech>
+   </section>
+   <section>
+      <speech speaker="Sensitive ruffian">
+         <charAction>Tears stream down his face while he talk in a very soft
+                voice.</charAction> Don't be afraid to tell her how you feel. <charAction>He dries
+                his tears and sniffs.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Switch back to Kyoshi's shrine at Kyoshi Island. Oyaji brings Sokka's and
+                Katara's attention to a painting that depicts Kyoshi and some of the
+                villagers.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">This piece is called "The Birth of Kyoshi". <charAction>Sokka investigates the
+                painting thoroughly.</charAction> It was painted at sunrise on this day this island
+            was founded. Why, it was today in fact, three hundred and seventy years ago.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sokka spins around in shock, spitting out some of the bubbles he
+                swallowed. Very surprised.</charAction> Three hundred and seventy years? Wait,
+                <charAction>He grabs Oyaji by his collar.</charAction> are you sure it was
+            today?</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">Oh, seeing how it's Kyoshi Day, yes, <charAction>He pulls himself free from Sokka's
+                grasp and throws him back a little.</charAction> I'm sure.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Staring at the painting again.</charAction> This ceremony didn't take
+            place at sunrise. It took place at sunset.
+                <charAction>Addresses Katara.</charAction> Look at the shadows.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">They point east. So the sun must have been in the west.</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">So what?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shoves Katara out of the way as she yelps.</charAction> If Kyoshi was in
+            the ceremony at sunset, she couldn't have been in Chin committing the crime. She has an
+            alibi! <charAction>Points his pipe dramatically toward the camera upon making his
+                conclusion.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Katara grabs the pipe out of his hand and slams him hard on the head with
+                it causing him to fall down.</description>
+      <description>Cut to a far off shot of Chin Village by night. The camera moves in slowly
+                and keeps zooming forward, even when the picture changes to inside the prison. Sokka
+                and Katara confront the mayor with their findings, while Aang listens intently at
+                the bars.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Honorable Mayor, we've prepared a solid defense for the Avatar. We did an
+            investigation and found some very strong evidence.</speech>
+   </section>
+   <section>
+      <description>While Katara talks, a broadly smiling Sokka leans in toward Aang and points
+                at himself to emphasize that he was the one that discovered the evidence. Aang
+                flashes his teeth in return.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">Evidence? <charAction>Dismissive.</charAction> Hmph! That's not how our court system
+            works.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Then how can I prove my innocence?</speech>
+   </section>
+   <section>
+      <speech speaker="Tong">Simple. I say what happened <charAction>He points to himself, before pointing to
+                Aang.</charAction>, then you say what happened, and then I decide who's right.
+                <charAction>Everyone gasps at once, horrified by this news.</charAction> That's why
+            we call it justice. Because it's "just us."</speech>
+   </section>
+   <section>
+      <description>The mayor exits the room, laughing maniacally, leaving Sokka, Katara and
+                Aang standing there with their mouths wide open in shock.</description>
+      <description>Cut to an overview of the amphitheater, the statue of Chin and the temple
+                on the edge of the cliff. Switch to a back shot of the mayor. The camera pans to the
+                left to reveal that every villager has gathered in the amphitheater. Katara and
+                Sokka are seen sitting at the front.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Emotionally.</charAction> Everyone loved Chin the Great because he was
+            so great. Then the Avatar showed up and killed him, and that's how it happened.</speech>
+   </section>
+   <section>
+      <description>He walks away with a giant smile on his face.</description>
+   </section>
+   <section>
+      <speech speaker="Guard">
+         <charAction>Very deep, monotone voice.</charAction> The accused will now present its
+            argument.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Raises his hand before his mouth to say some quiet, encouraging
+                words.</charAction> You can do it, Aang. Just remember the evidence.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Still tied up, unsure.</charAction> Right ... evidence. <charAction>He
+                shifts his eyes to the left while he is trying to remember what to say.
+                Enthusiastically.</charAction> Ladies and gentlemen ... I'm about to tell you what
+            really happened. And I will prove it with facts. Fact number one. <charAction>Raises his
+                finger to count along but blanks out.</charAction> Uhhh ...</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Whispers.</charAction> The footprint!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Oh, yeah. You see ... I have very large feet. <charAction>The camera tilts down to
+                reveal his small feet. The villagers are unimpressed by his argument.</charAction>
+            Furthermore ... your temple matches your statue. <charAction>The villagers look from one
+                to the other, not knowing where Aang is going with this.</charAction> But ... I was
+            in a painting at sunset. <charAction>He quickly ends his exposition with a big
+                smile.</charAction> So, there you have it, I'm not guilty.</speech>
+   </section>
+   <section>
+      <description>The camera switches view from Aang to the unimpressed crowd, to pan further
+                down toward Sokka and Katara, both with big smiles on their faces, but their eyes
+                reveal that they are fake. Sokka gives Aang a "thumbs up" gesture. Momo sits on
+                Katara's lap, looking very confused.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Mumbles to Katara while they continue to smile.</charAction> He's
+            dead.</speech>
+   </section>
+   <section>
+      <description>Cut to Zuko's and Iroh's hideout in the forest. Zuko sits next to the
+                campfire as Iroh walks into the cave to inspect a new tea set.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Looks like you did some serious shopping. <charAction>He picks up a big,
+                gold-colored teapot.</charAction> But where did you get the money?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Lazily resting against a tree trunk.</charAction> Do you like your new
+            teapot?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">To be honest with you <charAction>He puts the pot down.</charAction>, the best tea
+            tastes delicious whether it comes in a porcelain pot or a tin cup. <charAction>Iroh
+                walks over to Zuko and squats down beside him.</charAction> I know we've had some
+            difficult times lately. We've had to struggle just to get by. <charAction>Places a hand
+                on Zuko's shoulder who closes his eyes as if he was holding something
+                back.</charAction> But it's nothing to be ashamed of. There is a simple honor in
+            poverty.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">There's no honor for me without the Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Zuko ... <charAction>Sighs.</charAction> Even if you did capture the Avatar, I'm not
+            so sure it would solve our problems. Not now.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Turns away from his uncle.</charAction> Then there is no hope at
+            all.</speech>
+   </section>
+   <section>
+      <description>Zuko wants to stand up and leave the cave, but Iroh grabs him by the
+                shoulders and sits him down.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">No, Zuko! You must never give in to despair. Allow yourself to slip down that road
+            and you surrender to your lowest instincts. <charAction>Zuko bows his head as he listens
+                to his uncle's wisdom.</charAction> In the darkest times, hope is something you give
+            yourself. That is the meaning of inner strength.</speech>
+   </section>
+   <section>
+      <description>Zuko turns to face his uncle, who looks back at him with a sad look upon
+                his face. Abruptly, Zuko pulls free from Iroh's grasp and heads out into the
+                forest.</description>
+      <description>Switch back to an overview shot of Chin Village.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Mayor Tong, I'd like for the court to hear one last testimony.</speech>
+   </section>
+   <section>
+      <speech speaker="Tong">I've already told you, it's just me and the accused. You can't call any
+            witnesses!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">This isn't just any witness. I'm going to call ... <charAction>Spreads her
+                arms.</charAction> Avatar Kyoshi herself!</speech>
+   </section>
+   <section>
+      <description>The villagers murmur among themselves while someone exits the temple. The
+                guard escorts Aang in Kyoshi costume, to the front.</description>
+      <description>Close-up a skeptical looking mayor. As Katara sits back down, Sokka leans
+                toward her, pointing at Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Whispering.</charAction> What are you doing?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hopeful.</charAction> Well, she is Aang's past life. Maybe wearing her
+            stuff will trigger something.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Plays with his magnifying glass.</charAction> I do believe in the power
+            of stuff.</speech>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Angry.</charAction> This is a mockery of Chin Law!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Pleading.</charAction> Please! If you could just wait one more second,
+            I'm sure Kyoshi will be here!</speech>
+   </section>
+   <section>
+      <description>Switch to Aang who is standing in the middle of the square, hiding his face
+                behind one of Kyoshi's fans. He peeks over the fan.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Higher pitch.</charAction> Hey, everybody! Avatar Kyoshi here.
+                <charAction>Rapidly blinks his eyes.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Walking over to Aang.</charAction> This is ridiculous!
+                <charAction>Points at Aang while he addresses the audience.</charAction> For the
+            murder of Chin the Great, this court finds the Avatar–</speech>
+   </section>
+   <section>
+      <description>Aang looks down in defeat, but is suddenly engulfed in a tornado of earth.
+                Tong holds on to his hat to prevent it from being blown away. The sky darkens and
+                when the tornado dies down, Aang is gone and the spirit of Kyoshi has taken his
+                place.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">I killed Chin the Conqueror. <charAction>A flashback shows how Chin earthbends an
+                earth column beneath one of his subjects as he was offering something to Chin.
+                Voice-over.</charAction> A horrible tyrant, Chin was expanding his army to all
+            corners of the continent.</speech>
+   </section>
+   <section>
+      <description>A close-up of Chin the Great fades to a shot of a map, where the trail of
+                his campaign can be seen. He had concurred everything save to Ba Sing Se. The scene
+                switches to a large army standing by the shores of the sea, ready to attack when
+                given the order.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">When they came to the neck of the peninsula where we lived, he demanded our
+            immediate surrender. <charAction>Kyoshi calmly walks toward him to face his
+                challenge.</charAction> I warned him that I would not sit passively while he took
+            our home. But he did not back down.</speech>
+   </section>
+   <section>
+      <description>Chin and Kyoshi stand face to face. Kyoshi is around a foot bigger than
+                him. Chin takes a fighting stance, but Kyoshi is unimpressed. She grabs one of her
+                fans and points it at him. A powerful gust of wind washes over the surprised Chin
+                and strips him of all his clothes, except for his underwear.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">On that day, we split from the mainland.</speech>
+   </section>
+   <section>
+      <description>Close-up of Avatar Kyoshi as her eyes glow for a second, signaling the
+                Avatar State. She jumps up and stretches one of her fans to the left as she lands. A
+                powerful fissure rips through the earth and explodes at the edge of the cliff. She
+                repeats that move to the right now with the same effect. Kyoshi calmly closes her
+                fans and slams them into the ground, causing the whole peninsula to shake. Chin
+                still stands in his earthbending stance.</description>
+      <description>The camera shoots from inside the ground as it opens up to reveal how
+                Kyoshi made a large crack in the earth. With a series of wide arm movements, she
+                bends the lava up from underneath the landmass to sever it completely. As the wall
+                of lava dies down again, chunks of rock fall to the ground. Kyoshi spins around and
+                creates a powerful gale right beside Chin, blowing part of his army away and making
+                the rest run away in fear. An overview shot shown how lava has seeped into the sea
+                and how the island is being blown away from the mainland. Chin holds on to his hat
+                as he watches the island go. He screams in anger while the rocks under him start to
+                cave. An overview shot reveal how he plummets to his death in the waters
+                below.</description>
+      <description>The overview shot in the flashback fades for the present day overview shot
+                of that same cliff where now a temple is build.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi">I created Kyoshi Island so my people could be safe from invaders.</speech>
+   </section>
+   <section>
+      <description>She slants her eyes and is engulfed by the sand tornado once more. Tong
+                kneels to the ground and covers his head. While the sandstorm keeps spinning around
+                Kyoshi, the darkness is lifted. Sokka holds Katara protectively in his arms while
+                she clings on to Momo. When the tornado disappears, Aang is standing there once
+                again, swaying from side to side. Katara catches him right before he
+                collapses.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Confused.</charAction> So, what just happened?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Awkwardly.</charAction> Uhhh ... you kind of confessed. Sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="Tong">
+         <charAction>Standing up in the background.</charAction> And I find you ...
+                <charAction>He brushes himself off and points at Aang.</charAction> Guilty! Bring
+            out the Wheel of Punishment!</speech>
+   </section>
+   <section>
+      <description>The villagers break out into cheers as they hear the sentence. Momo looks
+                around, before covering up his eyes with his tail.</description>
+      <description>Cut to Iroh who is bending over the supplies.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">Uncle ... <charAction>Switch to a close-up of Iroh with Zuko on the
+                background.</charAction> I thought a lot about what you said.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Iroh's sad expression clears up as he hears Zuko talk.</charAction> You
+            did? Good, good.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">It's helped me realize something. We no longer have anything to gain by traveling
+            together. <charAction>Iroh's brightened expression quickly disappears
+                again.</charAction> I need to find my own way.</speech>
+   </section>
+   <section>
+      <description>Iroh bows his head in sorrow. Zuko looks at his uncle for a moment before
+                grabbing his backpack and walking away. The camera zooms in on Iroh's
+                face.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Calling after Zuko.</charAction> Wait!</speech>
+   </section>
+   <section>
+      <description>Iroh hands Zuko the reins of the ostrich horse. Zuko mounts it, looks at
+                his uncle one last time and heads off, leaving a broken Iroh.</description>
+      <description>Switch back to a panning down shot of Chin Village where Aang stands before
+                the Wheel of Punishment.</description>
+   </section>
+   <section>
+      <speech speaker="Guard">
+         <charAction>Deep, monotonous voice.</charAction> The accused will now spin the Wheel
+            of Punishment to determine his sentence.</speech>
+   </section>
+   <section>
+      <description>Aang turns to looks at Sokka and Katara who are giving him glances of
+                sympathy.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I said I would face justice, so I will.</speech>
+   </section>
+   <section>
+      <description>He gives a good spin on the wheel. The camera pans down the
+                amphitheater.</description>
+   </section>
+   <section>
+      <speech speaker="Villager">
+         <charAction>Hoping.</charAction> Come on, torture machine!</speech>
+   </section>
+   <section>
+      <speech speaker="Villager #2">Eaten by bears!</speech>
+   </section>
+   <section>
+      <speech speaker="Villager #3">Razor pit!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Begging.</charAction> Community service! Please stop on community
+            service!</speech>
+   </section>
+   <section>
+      <description>Sokka and Katara look very worried as the wheel starts to slow down. It
+                passes by "strangled by a platypus bear" and "eaten by sharks." Aang anxiously
+                awaits his punishment. The wheel comes to a halt.</description>
+   </section>
+   <section>
+      <speech speaker="Guard">
+         <charAction>Monotone.</charAction> Looks like it's "boiled in oil."</speech>
+   </section>
+   <section>
+      <description>The villagers cheer loudly, while Aang looks scared and Katara and Sokka
+                who are just absolutely shocked.</description>
+      <description>Suddenly a lit bomb bounces into the scene and detonates into the temple.
+                The blast makes the whole amphitheater shake. Sokka and Katara raise their arms to
+                protect their faces from the blast.</description>
+      <description>Everyone looks up when Mongke starts to talk.</description>
+   </section>
+   <section>
+      <speech speaker="Mongke">We've come to claim this village for the Fire Lord!
+                <charAction>Close-up.</charAction> Now show me your leader so I may ...
+                <charAction>Kahchi swings his Guan Dao back and forth, slicing through the statue of
+                Chin the Great. While it crumbles down, Mongke continues with a grin.</charAction>
+            dethrone him!</speech>
+   </section>
+   <section>
+      <speech speaker="Villager">That's him over there!</speech>
+   </section>
+   <section>
+      <description>A scared villager points immediately toward the mayor. The mayor squeals
+                and hides behind the Wheel of Punishment.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">Ahhh! <charAction>Commanding.</charAction> You, Avatar, do something!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Apathetically.</charAction> Gee, I'd love to help, but I'm supposed to
+            be boiled in oil.</speech>
+   </section>
+   <section>
+      <description>The mayor tips the wheel one slot further. It now rests on a picture of a
+                sweeping man.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">There, community service! Now serve our community and get rid of those
+            rhinos!</speech>
+   </section>
+   <section>
+      <description>Aang smiles as he rushes forward and jumps out of his Kyoshi costume to
+                face Kahchi, who readies his weapon. A he charges Aang, Aang opens his fans. He
+                quickly spins out of the rhino's path and uses his airbending to lift Kahchi out of
+                his saddle and blows him off the cliff with another gust.</description>
+      <description>Kahchi's rhino still proceeds toward the mayor, who peeping over the wheel
+                and quickly hides behind it as he sees the rhino coming toward him. He squeaks in
+                fear when the rhino's horns embedded themselves into the wheel, missing the mayor's
+                vital part by inches.</description>
+      <description>Aang turns to face Mongke who does not look pleased with the defeat of
+                Kahchi.</description>
+   </section>
+   <section>
+      <speech speaker="Mongke">
+         <charAction>Raising his hand while shouting his command.</charAction> Rough Rhinos,
+            to the town!</speech>
+   </section>
+   <section>
+      <description>Vachir shoots three burning arrows at the down setting fire to the roof of
+                a nearby building. Mongke uses his firebending to burn down another house. Lit
+                arrows keep raining down on the rooftops. Close-up of Yeh-Lu as he rides by a hay
+                wagon and drops some lit bombs in it. The wagon explodes, destroying the house next
+                to it. Ogodei rides past another house and pulls down its support beams with his
+                chains.</description>
+      <description>Close-up as he lets out a loud scream and spins his chains above his head.
+                He throws them at Katara who easily deflects them with a water whip. The chains wind
+                themselves around Ogodei. She hits the rhino on the rear with another whip of her
+                water and the animal dashes away with Ogodei on it.</description>
+      <description>Sokka comes down a stair between two members of the Rough Rhinos. He
+                adjusts his monocle so it would reflect the sunlight right into the eyes of Vachir.
+                The archer turns and blindly shoots a burning arrow at Sokka. The arrow pierces his
+                hat and embeds itself in the saddlebag of Yeh-Lu that is filled with bombs. Sokka
+                smiles and ducks for cover. Yeh-Lu notices what is going on and tosses the saddlebag
+                away, but it is too late. The force of the blast smacks him and his rhino into a
+                nearby wall. As Sokka covers his head to protect himself against the flying debris,
+                Yeh-Lu's helmet rolls by. Another bag lands right beside Sokka, his boomerang is
+                sticking out of it.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Raises his arms in the air and exclaims ecstatically.</charAction>
+            Boomerang! You do always come back!</speech>
+   </section>
+   <section>
+      <description>Sokka notices that Vachir is aiming at him. He quickly weighs his options
+                and throws his dragon-shaped pipe at the archer. The pipe slides over the burning
+                arrow and extinguishes the fire. While Vachir looks surprised at his extinguished
+                arrow, Katara sneaks up behind him and cuts his saddle cord with her waterbending.
+                Vachir slides down, but his foot is still stuck in his saddle, so he is dragged away
+                by his rhino when Katara whips it on its rear.</description>
+      <description>Switch to Aang who is having a standoff with Mongke in an alley. Mongke
+                uses his firebending to increase his speed as he charges Aang. Aang jumps over him
+                and is forced to raise an air shield to protect himself from Mongke's fire blast. He
+                loses his fans and headdress as he slides down. Aang creates an air scooter and they
+                charge each other again. He avoids Mongke's fire blast by quickly riding under the
+                rhino's belly and emerges behind Mongke. He directs a powerful gale at the colonel,
+                but he slides to the side to evade it. They charge at each other a third time, this
+                time with Aang on foot again. When Mongke fires a powerful blast that consumes the
+                whole alley, Aang jumps up and propels himself right through the blast using
+                airbending, feet first. He crashes right into Mongke, sending him flying through a
+                wooden fence.</description>
+      <description>Cut to a scene of fireworks. Later that night, fireworks go off in the
+                village.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">From now on, we'll celebrate a new Avatar Day in honor of the day Avatar Aang
+                <charAction>Camera pans down to show Katara, Aang, and Sokka, each holding a bowl
+                and grinning happily.</charAction> saved us from the Rough Rhino Invasion.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Looks questioningly into his bowl.</charAction> What is this?</speech>
+   </section>
+   <section>
+      <description>A close-up of the bowl reveals several Aang-shaped pieces of
+                dough.</description>
+   </section>
+   <section>
+      <speech speaker="Tong">That's our new festival food! Un-fried dough. May we eat it and be reminded of how
+            on this day the Avatar was not boiled in oil.</speech>
+   </section>
+   <section>
+      <description>The villagers cheer, but the gang gives each other some uncertain looks.
+                They each pick up a dough cookie. Cut to a closer shot of Katara as her cookie
+                droops in her fingers.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Happy Avatar Day, everyone!</speech>
+   </section>
+   <section>
+      <description>Uncertainly, she chews it down. She looks down at her bowl, confused of
+                what to make of it. The camera pans to the right to show how Aang also sticks a
+                cookie in his mouth, although half of it is still dangling out of his
+                mouth.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Stares skeptically at his dough-cookie.</charAction> This is by far the
+            worst town we've ever been to.</speech>
+   </section>
+   <section>
+      <description>While Aang slurps the rest of his cookie inside his mouth, Sokka finally
+                eats his and stares skeptically again at the next cookie.</description>
+   </section>
+   <section>
+      <description>Fades to credits.</description>
+   </section>
+</root>

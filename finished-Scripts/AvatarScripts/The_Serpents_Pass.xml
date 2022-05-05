@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="32">The Serpents Pass</title>
+      <director>Ethan Spaulding</director>
+      <writer>Michael Dante DiMartino</writer>
+      <writer>Joshua Hamilton</writer>
+      <date>2006-09-15</date>
+      <location nation="earth">Serpant's Pass</location>
+   </metadata>
+   <section>
+      <description>The team is situated at the waterfall pond. Sokka is surveying a map. Toph
+                is sitting with her feet in the water, moving it back and forth. Aang is swimming
+                while Katara is located at the top of the lake near the waterfall. Aang goes
+                underwater for a moment and bends an ice cube around himself for
+                amusement.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Excitedly.</charAction> Waterbending bomb! Yeah! <charAction>Jumps into
+                the water.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The splash sends Aang out of the water, breaks his ice prison, and soaks
+                Sokka, Toph, and the maps which he tried to protect.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sarcastically.</charAction> Sure, five thousand year-old maps from the
+            spirit library. Just splash some water on 'em.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sorry. <charAction>Wrings her hair dry and bends the water off the
+            map.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">So, did you figure out what route we're going to take?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Okay, we just got out of the desert, so we must be around here. And we need to go to
+            Ba Sing Se, which is here. It looks like the only passage connecting the south to the
+            north is this sliver of land called the Serpent's Pass.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">You sure that's the best way to go?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's the only way. I mean, it's not like we have Appa to fly us there.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Quietly.</charAction> Shush up about Appa. Can't you at least try to be
+            sensitive?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Katara, it's okay. I know I was upset about losing Appa before, but I just want to
+            focus on getting to Ba Sing Se and telling the Earth King about the solar
+            eclipse.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Surprised.</charAction> Oh ... well, okay. I'm glad you're doing
+            better.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Then to Ba Sing Se we go. No more distractions.</speech>
+   </section>
+   <section>
+      <description>Suddenly, three refugees arrive.</description>
+   </section>
+   <section>
+      <speech speaker="Than">Hello there, fellow refugees!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">So, you guys are headed to Ba Sing Se, too?</speech>
+   </section>
+   <section>
+      <speech speaker="Than">Sure are. We're trying to get there before my wife Ying has her baby.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Great! We can travel through the Serpent's Pass together.</speech>
+   </section>
+   <section>
+      <description>The three refugees look up in shock.</description>
+   </section>
+   <section>
+      <speech speaker="Ying">The Serpent's Pass? Only the truly desperate take that deadly route!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Deadly route. <charAction>Punches Sokka in the arm.</charAction> Great pick,
+            Sokka!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Well, we are desperate.</speech>
+   </section>
+   <section>
+      <speech speaker="Than">You should come with us to Full Moon Bay. Ferries take refugees across the lake.
+            It's the fastest way to Ba Sing Se.</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">And it's hidden, so the Fire Nation can't find it.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Hmm ... peaceful ferry ride or deadly pass?</speech>
+   </section>
+   <section>
+      <description>At Full Moon Bay.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">I can't believe how many people's lives have been uprooted by the Fire
+            Nation.</speech>
+   </section>
+   <section>
+      <speech speaker="Than">We're all looking for a better life, safe behind the walls of Ba Sing Se.</speech>
+   </section>
+   <section>
+      <description>A ferry departs. Zuko and Iroh are on board.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Who would have thought after all these years, I'd return to the scene of my greatest
+            military disgrace ... <charAction>Turns away for a second before turning back with a
+                floral hat on his head.</charAction> as a tourist!</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Look around. We're not tourists, we're refugees. <charAction>Sips food and spits it
+                out.</charAction> Ugh! I'm sick of eating rotten food, sleeping in the dirt. I'm
+            tired of living like this!</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">Aren't we all? My name's Jet and these are my Freedom Fighters, Smellerbee and
+            Longshot.</speech>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">Hey. <charAction>Longshot nods.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Hello.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">Here's the deal. I hear the captain's eating like a king while the refugees have to
+            feed off his scraps. Doesn't seem fair, does it?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">What sort of king is he eating like?</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">The fat, happy kind. <charAction>At this, Iroh's mouth hangs open as he starts to
+                drool.</charAction> You want to help us "liberate" some food?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Tosses the bowl of rotten food into the water.</charAction> I'm
+            in.</speech>
+   </section>
+   <section>
+      <description>Jet smirks. </description>
+      <description>Back at the station.</description>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">I told you already ... no vegetables on the ferry! One cabbage slug could destroy
+            the entire ecosystem of Ba Sing Se! Security!</speech>
+   </section>
+   <section>
+      <description>A platypus bear destroys the cabbage cart.</description>
+   </section>
+   <section>
+      <speech speaker="Cabbage merchant">Ahhh! My cabbages! <charAction>He is carried away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Next!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Um, four tickets for the ferry to Ba Sing Se, please.</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Passports?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Uh ... no one told us we had to have passports.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Don't you know who this is? He's the Avatar!</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Ah, I see fifty Avatars a day and, by the way, not a very impressive costume.
+                <charAction>The screen pans to show several impostors; notices Momo.</charAction>
+            Besides, no animals allowed. Do I need to call security?</speech>
+   </section>
+   <section>
+      <description>The platypus bear chomps down on the cabbage. Momo hides in
+                fear.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">That won't be necessary.</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Next!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">I'll take care of this. My name is Toph Beifong, and I'll need four tickets.
+                <charAction>Presents her passport.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Ah, the golden seal of the flying boar! It is my pleasure to help anyone of the
+            Beifong family.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">It is your pleasure. As you can see, I am blind and these three imbeciles are my
+            valets. <charAction>Sweeps her arm behind her, presenting her friends to the hesitant
+                clerk.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">But, the animal-</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">-is my seeing-eye lemur.</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Well, normally it's only one ticket per passport, but this document is so official
+            ... I guess it's worth four tickets. <charAction>Stamps an approval seal on the
+                tickets.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Thank you very much.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">All right, we scammed that lady good!</speech>
+   </section>
+   <section>
+      <description>Suddenly, a security guard, actually Suki without makeup, grabs
+                Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">Tickets and passports please.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Is there a problem?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Yeah, I got a problem with you! I've seen your type before. Probably sarcastic,
+            think you're hilarious and let me guess, you're traveling with the Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Do I know you?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">You mean you don't remember? Maybe you'll remember this! <charAction>Kisses Sokka on
+                the cheek.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Suki! <charAction>Embraces her.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Sokka, it's good to see you!</speech>
+   </section>
+   <section>
+      <description>Later, in a different location of the station. The gang and Suki
+                talk.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">You look so different without your makeup! And the new outfit.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">That crabby lady makes all the security guards wear them. And look at you,
+            sleeveless guy. Been working out?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Ahhh, I'll grab a tree branch and do a few chin touches every now and then. Nothing
+            major.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Are the other Kyoshi Warriors around?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Yeah. After you left Kyoshi, we wanted to find a way to help people. We ended up
+            escorting some refugees and we've been here ever since. <charAction>Momo jumps up next
+                to her.</charAction> Hi, Momo! Good to see you too! <charAction>Scratches his head
+                near his ear.</charAction> So why are you guys getting tickets for the ferry?
+            Wouldn't you just fly across on Appa?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Appa is missing. We hope to find him in Ba Sing Se.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">I'm so sorry to hear that. <charAction>To Aang.</charAction> Are you doing
+            okay?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm doing fine. Would everybody stop worrying about me?</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">Avatar Aang, you have to help us! Someone took all of our belongings; our passports,
+            our tickets, everything's gone!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'll talk to the lady for you.</speech>
+   </section>
+   <section>
+      <description>Back at the desk.</description>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">No passports, no tickets! <charAction>Stamps a "denied" stamp on Aang's
+                forehead.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">But she's pregnant and all of her stuff was stolen! You have to make an
+            exception!</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">No exceptions! If I just gave away tickets willy-nilly to anyone, there would be no
+            more order! You know what that means, no more civilization!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">What if we gave them our tickets?</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">No!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">But ...</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket lady">Next!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Don't worry, you'll get to the city safely. I'll lead you through the Serpent's
+            Pass.</speech>
+   </section>
+   <section>
+      <description>Moments later.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I can't believe we gave up our tickets and now we're going through the Serpent's
+            Pass.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">I can't believe you're still complaining about it.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>In her normal Kyoshi Warrior attire.</charAction> I'm coming
+            too!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Are you sure that's a good idea?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Sokka, I thought you'd want me to come.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I do, it's just–</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Just what?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Nothing. I'm glad you're coming.</speech>
+   </section>
+   <section>
+      <description>Outside, at the pass.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">This is the Serpent's Pass? I thought it would be a little more wind-y, you know,
+            like a serpent. Huh, I guess they misnamed it.</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">Look at this writing! How awful!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">What does it say?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">It says, "abandon hope".</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">How can we abandon hope? It's all we have!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I don't know. The monks used to say that hope was just a distraction, so maybe we do
+            need to abandon it.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">What are you talking about?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Hope is not going to get us into Ba Sing Se and it's not going to help find Appa. We
+            need to focus on what we're doing right now and that's getting across this
+            path.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Okay, if you say so.</speech>
+   </section>
+   <section>
+      <description>Within the pass.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">The Fire Nation controls the western lake. Rumor has it they're working on something
+            big on the other side of it and don't want anyone to find out what it is.</speech>
+   </section>
+   <section>
+      <description>They all pass by a sailing Fire Nation ship. A part of the rock gives out,
+                causing Than to fall. Toph stops it from falling and lifts him back up with
+                earthbending.</description>
+   </section>
+   <section>
+      <speech speaker="Than">I'm okay! <charAction>The rock falls to the water, which the Fire Nation ship
+                notices. It fires.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">They've spotted us! Let's go, let's go!</speech>
+   </section>
+   <section>
+      <description>Aang gets on his glider and deflects the fireball back. Another fireball
+                hits the mountain, causing several pieces of rock over Suki to fall. Sokka pushes
+                her out of the way. Toph bends out a part of the mountain to keep the rocks from
+                falling on Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Suki, are you okay? You have to be more careful! Come on!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Pretending to be Sokka.</charAction> "Thanks for saving my life, Toph."
+            Hey, no problem, Sokka.</speech>
+   </section>
+   <section>
+      <description>Hours later, at sunset, the travelers set up their camp. Sokka approaches
+                Suki.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Suki, you shouldn't sleep there. Who knows how stable this ledge is, it could give
+            away at any moment! <charAction>Moves her sleeping bag.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Sokka, I'm fine, stop worrying!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You're right, you're right, you're perfectly capable of taking care of yourself!
+            Wait! Oh, never mind, I thought I saw a spider, but, you're fine.</speech>
+   </section>
+   <section>
+      <description>Back on the ferry. Zuko, Jet, and Smellerbee sneak up to the food storage
+                area. Jet breaks the door open with his twin tiger hook swords, and he and Zuko take
+                some food.</description>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">Guard's coming!</speech>
+   </section>
+   <section>
+      <description>Longshot fires an arrow with a rope attached to it, allowing the three to
+                slide down it. Longshot pulls it away before the guard notices. Back at the pass,
+                Aang is standing at the edge of the rock, looking out at the ocean, blankly. Katara
+                approaches him.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">You know, it's okay to miss Appa. <charAction>Aang remains silent.</charAction>
+            What's going on with you? In the desert, all you cared about was finding Appa and now
+            it's like you don't care about him at all.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You saw what I did out there. I was so angry about losing Appa that I couldn't
+            control myself. I hated feeling like that.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But now you're not letting yourself feel anything. I know sometimes it hurts more to
+            hope and it hurts more to care. But you have to promise me that you won't stop caring.
+                <charAction> Holds out her arms.</charAction> Come on, you need a hug.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Bows before her.</charAction> Thank you for your concern, Katara.
+                <charAction>Exits.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Katara shows visible concern.</description>
+      <description>In another part of the Pass, Sokka stands by himself, until Suki
+                approaches.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">It's a beautiful moon.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Yeah, it really is.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Look, I know you're just trying to help, but I can take care of myself.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I know you can.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Then why are you acting so overprotective?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's so hard to lose someone you care about. Something happened at the North Pole
+            and I couldn't protect someone. I don't want anything like that to ever happen
+            again.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">I lost someone I care about. He didn't die, he just went away. I only had a few days
+            to get to know him, but he was smart and brave and funny ...</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Jealous.</charAction> Who is this guy? Is he taller than me?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">No, he's about your height.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Is he better-looking?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">It is you, stupid!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Oh!</speech>
+   </section>
+   <section>
+      <description>The two prepare to kiss, but Sokka pulls back at the last
+                moment.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I can't.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">I'm sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">No, you shouldn't be. <charAction>Exits.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back on the ferry. Jet passes out food to other travelers. The other
+                Freedom Fighters, Zuko, and Iroh sit together.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">So, Smellerbee. That's an unusual name for a young man.</speech>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">Maybe it's because I'm not a man ... I'm a girl! <charAction>Walks
+                away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Calling out to her.</charAction> Oh, now I see. It's a beautiful name
+            for a lovely girl!</speech>
+   </section>
+   <section>
+      <description>Longshot approaches Smellerbee and gestures at her.</description>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">I know, you're right. As long as I'm confident with who I am, it doesn't matter what
+            other people think. Thanks, Longshot.</speech>
+   </section>
+   <section>
+      <description>Longshot nods at her. Jet approaches Zuko and Iroh.</description>
+   </section>
+   <section>
+      <speech speaker="Jet">From what I heard, people eat like this every night in Ba Sing Se. I can't wait to
+            set my eyes on that giant wall.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">It is a magnificent sight.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">So you've been there before?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Once. When I was a ... different man.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">I've done some things in my past that I'm not proud of, but that's why I'm going to
+            Ba Sing Se: for a new beginning. A second chance.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">That's very noble of you. I believe people can change their lives if they want to. I
+            believe in second chances.</speech>
+   </section>
+   <section>
+      <description>Back at the Serpent's Pass. The travelers notice that a section of the pass
+                is below the sea level, and not able to be navigated.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Everyone single file! <charAction>She divides the water, allowing everyone to walk
+                through the drowned out path.</charAction> Aang, I need help! <charAction>Aang helps
+                by creating an air bubble.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Momo's curiosity is aroused by the fish. He dives in the water, only to
+                return back when he sees a large shadow. The rest of them notice.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">What is that thing?</speech>
+   </section>
+   <section>
+      <description>The shadow breaks through the water, breaking the divide. Toph quickly uses
+                her earthbending to raise the ground they are standing on above the water. The
+                shadow is actually a large serpent, which appears from the water with a
+                shriek.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I think I just figured out why they call it the Serpent's Pass! Suki, you know about
+            giant sea monsters, make it go away!</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Just because I live near the unagi doesn't mean I'm an expert!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Holds up Momo.</charAction> Oh great and powerful sea serpent, please
+            accept this humble and tasty offering. Thank you.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Blasts the Serpent back with a burst of air.</charAction> I'll distract
+            it. Katara, get everyone across! <charAction>Takes off on his
+            glider.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Katara freezes the water to create an ice trail. Everyone except for Toph
+                crosses. Katara tries to ice up the serpent, but it fails.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Toph, come on, it's just ice!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Feels the ice but her sense of sight is restricted.</charAction>
+            Actually, I'm going to stay on my little island, where I can see! <charAction>The
+                serpent takes out half the island.</charAction> Okay, I'm coming! <charAction>Slowly
+                crosses the ice.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You're doing great! Just follow the sound of my voice!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">It's hard to ignore.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You're almost there!</speech>
+   </section>
+   <section>
+      <description>The serpent slams down the ice trail, dropping Toph into a struggle to stay
+                above water.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Help! I can't swim!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I'm coming, Toph!</speech>
+   </section>
+   <section>
+      <description>Before he can do anything, Suki jumps in for the save.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Help!</speech>
+   </section>
+   <section>
+      <description>Toph falls below the water, but Suki pulls her up before she
+                drowns.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Thinking it is Sokka.</charAction> Oh Sokka, you saved me!
+                <charAction>Kisses Suki on the cheek.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Actually, it's me.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Oh ... well ... <charAction>Chuckles. Embarrassed.</charAction> you can go ahead and
+            let me drown now.</speech>
+   </section>
+   <section>
+      <description>Meanwhile, the serpent is caught in a whirlpool created by Aang and Katara.
+                The force of it slams the serpent into the mountain, causing it to fall back below
+                water. Upon seeing the two return, the rest of the travelers cheer. Moments later,
+                near Ba Sing Se's wall.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">There's the wall! Now it's nothing but smooth sailing to Ba Sing Se.</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">
+         <charAction>Groans in pain.</charAction> Oh no!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">What's wrong?</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">The baby's coming!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Panicked.</charAction> What? Now? Can't you hold it in or
+            something?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka, calm down. I helped Gran-Gran deliver lots of babies back home.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">This isn't the same as delivering an arctic seal! This is a real ... human ...
+            thing!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">It's called a baby and I helped her deliver plenty of those, too. Aang, get some
+            rags. Sokka, water. Toph, I need you to make an earth tent, a big one. <charAction>Toph
+                earthbends the rock to form a tent.</charAction> Suki, come with me.</speech>
+   </section>
+   <section>
+      <description>Back on the ferry. Jet approaches Zuko.</description>
+   </section>
+   <section>
+      <speech speaker="Jet">You know, as soon as I saw your scar, I knew exactly who you were. You're an
+            outcast, like me. And us outcasts have to stick together. We have to watch each other's
+            backs. Because no one else will.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">I've realized lately that being on your own isn't always the best path.</speech>
+   </section>
+   <section>
+      <description>The ferry closes in on the walls. </description>
+      <description>Back at the pass. Ying is breathing heavily as the baby delivery
+                continues.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">You're doing great, Ying. Sokka, where's that water? Now get ready to push. One ...
+            two ... <charAction>Sokka enters.</charAction> ... three, push!</speech>
+   </section>
+   <section>
+      <description>Ying groans; Sokka passes out. Moments later, the baby arrives and begins
+                to cry. Aang, Toph, and Sokka are all outside the tent.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>From inside the tent.</charAction> It's a girl!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">So, you want to go see the baby, or are you going to faint like an old lady
+            again?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">No, no, I'm good this time. <charAction>Toph and Sokka enter the
+            tent.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang, you have to come see this.</speech>
+   </section>
+   <section>
+      <description>Aang enters to see the new life.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">She sounds healthy.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">She's beautiful.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's so ... squishy looking.</speech>
+   </section>
+   <section>
+      <description>Aang begins to smile.</description>
+   </section>
+   <section>
+      <speech speaker="Than">What should we name her?</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">I want our daughter's name to be unique. I want it to mean something.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Sheds some tears.</charAction> I've been going through a really hard
+            time lately. But you've made me ... hopeful again.</speech>
+   </section>
+   <section>
+      <speech speaker="Ying">I know what I want to name our baby now. Hope.</speech>
+   </section>
+   <section>
+      <speech speaker="Than">That's a perfect name. Hope.</speech>
+   </section>
+   <section>
+      <description>Outside the tent. Aang meets with Katara. Suki, Sokka, and Toph stand next
+                to the tent.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I thought I was trying to be strong. But really I was just running away from my
+            feelings. Seeing this family together, so full of happiness and love, it's reminded me
+            how I feel about Appa ... and how I feel about you.</speech>
+   </section>
+   <section>
+      <description>Katara sheds some tears. Aang and Katara embrace, Katara's eyes still
+                watering. The other three approach.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I promise, I'll find Appa as fast as I can. I just really need to do this.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">See you in the big city.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Say hi to that big fuzzball for me. <charAction>Punches Aang in the
+                arm.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">You'll find him, Aang.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I know. Thank you, Katara. You ready, Momo? <charAction>Aang and Momo fly off. The
+                rest wave goodbye.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Suki approaches Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">Sokka, it's been really great to see you again.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Whoa, hold on. Why does it sound like you're saying goodbye?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">I came along because I wanted to make sure you got through the Serpent's Pass
+            safely. But now I need to get back to the other Kyoshi Warriors.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">So you came along to protect me?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Listen, I'm really sorry about last night. We were talking ... and saying things ...
+            and I just got carried away and before I knew it -</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Kisses Suki.</charAction> You talk too much.</speech>
+   </section>
+   <section>
+      <description>The two share a deep kiss. Aang and Momo fly to the top of the Outer Wall
+                of Ba Sing Se. However, Aang quickly notices a large drill with a Fire Nation
+                insignia, heading for the wall.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Sorry Momo, Appa's going to have to wait.</speech>
+   </section>
+   <section>
+      <description>Fade to credits.</description>
+   </section>
+</root>

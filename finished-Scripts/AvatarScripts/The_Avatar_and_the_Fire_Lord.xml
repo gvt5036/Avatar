@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="46">The Avatar and the Fire Lord</title>
+      <director>Ethan Spaulding</director>
+      <writer>Elizabeth Welch Ehasz</writer>
+      <date>2007-10-26</date>
+      <location nation="fire">Fire Nation Palace</location>
+      <!--Flashback episode-->
+   </metadata>
+   <section>
+      <description>The episode opens with Avatar Roku emerging from behind a small wall of
+                fire, and is speaking to Aang in a dream.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Aang, it's time you learn of my history with Fire Lord Sozin. <charAction>Cut to a
+                close-up of Aang's face in his dream, before cutting back to Roku.</charAction> You
+            need to understand how the war began, if you want to know how to end it. <charAction>Cut
+                to an overhead shot of Roku's island.</charAction> Meet me on my home island on the
+            day of the summer solstice.</speech>
+   </section>
+   <section>
+      <description>Scene changes to Aang, asleep, as he rolls over onto his
+                side.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Talking in his sleep.</charAction> Okay, Roku.</speech>
+   </section>
+   <section>
+      <description>Scene changes to Zuko, who is asleep as well, as sounds of footsteps wake
+                him up, and he rushes to the hall to investigate. He opens the door, and sees a
+                cloaked individual walk down the hall and disappear. Zuko begins to go after the
+                individual, but notices a scroll lying on the floor. A surprised Zuko picks up the
+                scroll and reads it.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Reading the scroll.</charAction> You need to know the story of your
+            great-grandfather's demise. It will reveal your own destiny. <charAction>He closes the
+                scroll, and stares down the hallway.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Shot cuts to a view from the opposite end of the hallway. Zuko is still
+                standing outside his bedroom. Scene changes to a blue, cloud filled sky. A very
+                large cloud moves quickly forward. Cut to the inside of the cloud, as Aang, standing
+                on Appa's, bends the elements around the bison to create a cloud, to camouflage.
+                Katara and Sokka look over Appa's saddle for a better look.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">There it is. That's Roku's home.</speech>
+   </section>
+   <section>
+      <description>Cut to an overhead shot of the island, as Appa lands. Cut to a shot of Team
+                Avatar descending from Appa.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Confused.</charAction> But, there's nothing here.</speech>
+   </section>
+   <section>
+      <description>Toph jumps from Appa's saddle, as her feet touch the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Yes, there is. An entire village, hundreds of houses ... <charAction>A strong breeze
+                moves a layer of ash along the ground, brushing past their feet.</charAction> all
+            completely buried in ash.</speech>
+   </section>
+   <section>
+      <description>The scene changes to an overhead of Hari Bulkan. Cut to a hall, full of
+                paintings of previous Fire Lords. Zuko stands before one of the portraits, as Azula
+                passes by Zuko.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">It's never too early for a sitting with the court painter, Zuko. Make sure he gets
+            your good side.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Wait, I need to ask you something. <charAction>Azula stops walking.</charAction>
+            What do you remember about our great-grandfather's history?</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>She sighs.</charAction> Oh, Zuko, it's so strange how your mind works.
+                <charAction>Cut to an overhead shot of the hall, as Azula tells Zuko about Sozin's
+                history.</charAction> Fire Lord Sozin began the war, of course. <charAction>Cut to
+                Fire Lord Sozin's portrait, as it pans from the bottom to the top.</charAction> He
+            spent his early years secretly preparing for it. He was as patient as he was clever. He
+            famously waited for the comet, later renamed Sozin's Comet, and used its power to launch
+            his full-scale invasion of the world. <charAction>Cut back to Zuko and
+                Azula.</charAction> In the end, he died a very old and successful man.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">But how did he die?</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>Turning toward Zuko.</charAction> Didn't you pay
+                any attention in school, Zuko? He died peacefully, in his
+            sleep. <charAction>Cut to a shot of the full room, as Azula walks away.</charAction> He
+            was ancient.</speech>
+   </section>
+   <section>
+      <description>Zuko stares, frustrated. Scene changes back to Roku's island. Team Avatar
+                is sitting on the tip of a hardened wave of lava. Cut to Aang from the back, who is
+                facing the ocean, and is meditating. Cut to him from the front, as his arrows glow,
+                and he is shown sitting on a mountain top, surrounded by clouds, in the Spirit
+                World. Fang, who is carrying Roku, flies near him, as he stands up, and Roku smiles
+                at Aang. The scene cuts to Zuko in his room, lying on his back on his bed. He rolls
+                over on his side and stares at the scroll. He picks it up and reads it to himself
+                again.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">What does it mean?</speech>
+   </section>
+   <section>
+      <description>Annoyed, he tosses the scroll aside, as it lands on a lantern. The light
+                from the lantern shines through the parchment, and it reveals a secret message on
+                the scroll. Zuko gasps and grabs the scroll from atop the lantern, and reads the
+                secret message aloud.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Reading.</charAction> The Fire Sages keep the secret history in the
+            Dragonbone Catacombs.</speech>
+   </section>
+   <section>
+      <description>Cut to a close-up of Zuko's eyes, as he finishes reading the secret
+                message. Zuko quickly turns to leave. Cut to a dark temple. A Fire Sage walks
+                through a courtyard, and stops over a large medallion fashioned in the shape of a
+                flower in the middle of the courtyard. He crouches low, and delivers a blast of fire
+                into the center of the medallion. It begins to open a hidden passage, under the
+                courtyard of the temple. The Sage goes into the passage through the steps. Zuko
+                hides and waits behind a pillar. When no one is around, Zuko goes to the secret
+                passage, and bends a blast of fire into the medallion. The passage opens, and a
+                spiral staircase is revealed along with a very large secret chamber. Zuko travels
+                through the chamber and down a hall lined with bones of dragons, all lined up along
+                the walls of the hall. He comes to an ornate door with a metal sculpture of Fire
+                Lord Sozin on it. The chest of the sculpture has a Fire Nation emblem. Zuko places
+                his left hand over the emblem, and bends a fire blast. The fire fills the door, and
+                comes out from the statue's eyes, nose and mouth. Zuko enters the room, pulls his
+                cloak from his head, and raises his lantern to look around the dark chamber, and
+                sees that the room is filled with artifacts and various vessels. A large statue of a
+                dragon sits in the middle of the room. Under the dragon's head, Zuko finds Fire Lord
+                Sozin's history.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Reading aloud.</charAction> The final testimony of Fire Lord
+            Sozin.</speech>
+   </section>
+   <section>
+      <description>As Zuko picks the scroll, the scene changes to Roku lending Aang a hand to
+                climb on Fang.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Come, Aang.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>He climbs on Fang, who flies off.</charAction> Where're we
+            going?</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">To visit my past. <charAction>He smiles at Aang, as Aang grins widely.</charAction>
+            Our shared past.</speech>
+   </section>
+   <section>
+      <description>Scene changes to the room, where Zuko is reading from the
+                scroll.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Narrating his history.</charAction> As I feel my own life dimming, I
+            can't help but think of a time when everything was so much brighter.</speech>
+   </section>
+   <section>
+      <description>Scene changes to a lush Fire Nation courtyard in a flashback. Two young
+                firebenders are dueling. The young men, Prince Sozin and Roku, exchange fire
+                blasts.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">I remember my friend.</speech>
+   </section>
+   <section>
+      <description>While they duel, Sozin notices that Roku's feet are close to a tree root.
+                Sozin smiles, and using this to his advantage, he steps up his attack to drive Roku
+                back, causing Roku to trip over the root and fall back. As Roku falls, Sozin grabs
+                Roku by the shirt to keep him from falling. While he holds him, he raises his hand
+                as if to fire blast, but instead he lets Roku fall to the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Looks like I win again, Roku. <charAction>Extends a hand to help Roku to his
+                feet.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Are you kidding? <charAction>Takes Sozin's hands and gets up.</charAction> The tree
+            root did all the work. <charAction>After getting up, he pats Sozin on his
+                shoulders.</charAction> Nice one, Sozin.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Surprised.</charAction> You were friends with Fire Lord Sozin‌?</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Back then, he was just Prince Sozin. <charAction>Cut to a
+                close-up of Roku's face.</charAction> And he was my best friend.</speech>
+   </section>
+   <section>
+      <description>As Roku and Sozin leave the courtyard, a young Fire Nation lady goes by. As
+                she walks past the friends, Roku stares at her and blushes, which Sozin
+                notices.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Nudging Roku.</charAction> Say something to her.</speech>
+   </section>
+   <section>
+      <description>Roku walks after the young lady. He raises his hand and attempts to greet
+                the lady, who also slightly blushes, but is overcome by embarrassment. He sighs,
+                puts his hands on his head, and falls down. Sozin sits down next to him and
+                sprinkles blades of grass on Roku's face. Shot cuts to the older Roku and Aang,
+                watching Roku's history.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Love is hard when you are young.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You don't have to tell me.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Putting his hand over Aang's shoulder.</charAction> Don't worry, it gets
+            better. <charAction>He turns back and walks, along with Aang.</charAction> Now, come
+            with me. <charAction>Cut to a celebration on a courtyard.</charAction> We have a party
+            to attend.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Wait, whose party is it?</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Cut to the young Roku and Prince Sozin.</charAction> Sozin and I shared
+            many things, including a birthday.</speech>
+   </section>
+   <section>
+      <description>Roku and Prince Sozin walk down from the stairs. As they walk down the
+                stairs, the camera focuses on two young women in the crowd, one of whom is the lady
+                whom Roku has a crush on, Ta Min. She looks at Roku, before looking down and
+                blushes. Her friend leans over her shoulder and giggles. Roku notices the lady and
+                blushes, while he continues down the stairs. Distracted, Roku falls down the stairs,
+                but Sozin quickly grabs Roku by the wrist. Roku composes himself and blushes again
+                from embarrassment, as Sozin laughs at his friend. The crowd suddenly grows quiet,
+                as a group of Fire Sages enter the courtyard. They walk toward Prince Sozin and
+                Roku, as Sozin hurries down the stairs to meet them.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Did something happen to my father?</speech>
+   </section>
+   <section>
+      <speech speaker="Fire Sage">No, Prince Sozin. We are not here for you. <charAction>Shot cuts to the Fire Sage
+                talking.</charAction> We're here to announce the identity of the next Avatar.
+                <charAction>The crowd whispers, as the shot cut to Roku and Sozin, both in shock.
+                Cut again to a close-up of the Sages. The Sages bow to the new Avatar.</charAction>
+            It is our honor to serve you, Avatar Roku.</speech>
+   </section>
+   <section>
+      <description>Cut to a close-up of Roku, standing with his jaw dropped, bewildered. The
+                camera shows the crowd on the ground, all bowing. Sozin, who is still in shock
+                himself, looks around at the crowd, and quickly turns to kneel before Roku. Scene
+                changes to Zuko sitting in the chamber, reading Sozin's history.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Soon the day came when my friend Roku had to leave the Fire Nation and face his
+            destiny as the Avatar. <charAction>Cut to a close-up of Zuko's face, as he
+                reads.</charAction> He needed to travel the world so he could master the other
+            elements.</speech>
+   </section>
+   <section>
+      <description>Scene changes to a close-up of a young Roku from the side, sitting in his
+                room, with a dejected look on his face, as Prince Sozin stands near the
+                doorway.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Hey, why aren't you packed yet, all-powerful Avatar?</speech>
+   </section>
+   <section>
+      <description>Roku does not respond to his friend's question, and continues to stare
+                down. Sozin looks down sympathetically. Suddenly, he smiles.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Sozin leaps in the room, attempting to demonstrate examples of all the
+                bending disciplines.</charAction> Come on, show me how it's done using all four
+            kinds of bending.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">I started packing, but then the Fire Sages told me I won't need any worldly
+            possessions anymore.</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">Oh. <charAction>He sits down near Roku.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Roku">It happened so fast. Everything's gonna be different now.</speech>
+   </section>
+   <section>
+      <description>Cut to a shot of the two friends from the side, as Sozin removes his Crown
+                Prince headpiece and gives it to Roku.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Here, hope you're at least allowed to have this. <charAction>Shot cuts to a close-up
+                of the headpiece.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Roku">But this is a royal artifact. <charAction>Cut to a shot of the friends from
+                behind.</charAction> It's supposed to be worn by the Crown Prince.</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">I want you to have it.</speech>
+   </section>
+   <section>
+      <description>As Roku takes the headpiece, cut to a close-up of his top knot, as he
+                slides the pin. Camera pans below to show Roku smiling, as he and Sozin get up, and
+                bow to each other. Scene changes to Zuko reading from the scroll. </description>
+      <description>Cut to a close-up of Sokka, and Katara, both looking disturbed. Shot cuts
+                to Aang standing up on the rock he has been meditating on, his eyes still closed.
+                Aang moves to a squat and begins to groan, before smiling with relief. Cut back to
+                the siblings, with Katara looking more disturbed than before.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Do they have bathrooms in the Spirit World?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Raises his forefinger.</charAction> As a matter of fact, they do
+            not.</speech>
+   </section>
+   <section>
+      <description>Shot cuts to Aang smiling, still peculiarly perched, before cutting again
+                to Aang riding on Fang in the Spirit World. Shot cuts to an overhead shot of the two
+                flying on the dragon, as Aang notices they are going to a familiar
+                place.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Excited.</charAction> Hey, we're almost at the Southern Air
+            Temple!</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">This was the first stop on my Avatar journey.</speech>
+   </section>
+   <section>
+      <description>Shot cuts to show the Patola Mountains with the Southern Air Temple in the
+                distance. Fang flies through the mountain range.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">It was the place where I was trained to master airbending.</speech>
+   </section>
+   <section>
+      <description>Cut to a line of young Air Nomad monks. The camera pans right to show
+                Avatar Roku at the end of the line. Roku is airbending his long black hair at
+                another young monk's face, who, irritated, bends it back at Roku. Roku responds by
+                nudging the monk with his shoulder.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">And also where I met an old friend of yours: Monk Gyatso.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">No way!</speech>
+   </section>
+   <section>
+      <description>Cut to an aerial shot of the airbenders on a grassy ledge. An older Air
+                Nomad leads the students, and launches off the side of the ledge. The students line
+                up by twos to follow their teacher. Cut to Gyatso and Roku soaring through the air
+                on their gliders.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Hey, Gyatso, you wanna see a new glider trick? <charAction>He flies up and loops
+                twice.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Gyatso">
+         <charAction>Laughing.</charAction> Check this out! <charAction>He flips himself over
+                and stands on top of his glider. Cut to Aang and Roku.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">He's air surfing! I can't believe I never thought of that.</speech>
+   </section>
+   <section>
+      <description>Cut back to Gyatso, as he loses his balance on the glider, but as he falls,
+                Roku catches him on the back of his glider. Roku is unable to control the glider,
+                and the both go down toward the other young monks, who are now back on the grassy
+                ledge. Cut to the other students looking up at the falling airbenders, as they panic
+                and try to run. Cut to Roku and Gyatso, flying low, about to crash. They crash,
+                leaving a large cloud of dust. Cut to the young monks knocked over, and scattered
+                about. Roku's hair is in his face. Gyatso airbends it back while Roku lifts his
+                head. They both grin widely, and Roku pats Gyatso on his shoulder. Cut to a close-up
+                of Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Smiling and surprised.</charAction> That's amazing! I can't believe you
+            were friends with Monk Gyatso just like I was!</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Camera pans back to show Roku.</charAction> Some friendships are so
+            strong, <charAction>He closes his eyes.</charAction> they can even transcend
+            lifetimes.</speech>
+   </section>
+   <section>
+      <description>As Fang flies off, the scene changes to the Northern Water Tribe, where, in
+                the distance, two individuals are standing on a plateau of ice. Cut to a close-up of
+                an older Roku.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">After my years mastering airbending, I traveled to the Northern Water
+            Tribe.</speech>
+   </section>
+   <section>
+      <description>Cut to Taqukaq, who bends a large water drill from the ocean waters behind
+                him. It thrusts forward, knocking Roku, and a part of the plateau, into the
+                water.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Waterbending was especially challenging for me. But in time, I mastered it as
+            well.</speech>
+   </section>
+   <section>
+      <description>Cut to a shot of the water, as Roku emerges from it, and bends an enormous
+                wave of water directly at his master standing on the glacier. The blast completely
+                destroys the glacier, and carries his master all the way back to a Northern Water
+                Tribe building. His master sits up, and shakes his head. Cut to Roku, standing on an
+                ice float, as he smiles. Scene changes to Roku, standing shirtless, and wearing
+                Earth Kingdom clothing from the waist. He moves his arms in quick motions across his
+                body to bend a large piece of earth, riding up the side of a mountain.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">I moved on to the Earth Kingdom.</speech>
+   </section>
+   <section>
+      <description>Cut to Roku racing up the slope, as another earthbender catches up to him.
+                Cut to a brief shot of the earthbender, before cutting back to Roku, as they compete
+                for speed.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">My earthbending master, Sud, was uncompromising, stubborn, and blunt ...</speech>
+   </section>
+   <section>
+      <description>The two benders race into thick brush and trees, as they disappear from
+                view. Cut to the top of the mountain overlooking a valley.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">... And a lifelong friend.</speech>
+   </section>
+   <section>
+      <description>As Sud comes to the finishing point, quickly brings his landmass to a halt.
+                He thrusts his fists into the air, cheering for himself. The look on his face
+                changes quickly to shock when he realizes that Roku not only beat him to the top,
+                but he also had enough time to seat himself and pour them both tea. Cut back to Sud
+                as he smiles at his pupil. Cut to a side shot of Roku and Sud. They both drink from
+                their teacups. Scene changes to a close-up of Roku's head dress and slowly pans down
+                to show his face in an extreme close-up.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">It was bitter work ... <charAction>The camera pans back to Roku, as he moves his
+                arms to bend the different elements.</charAction> but the results were worth it.
+                <charAction>He starts by waterbending, before moving on to earthbending,
+                firebending, and finally, airbending. The camera zooms out to an aerial view of Roku
+                at the center of the four elements.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Scene changes to Zuko, still reading Sozin's history in the chamber. An
+                extreme close-up shows his eyes quivering with each word he reads.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Twelve long years passed before I saw my friend again. When Roku returned, he was a
+            fully realized Avatar, and I had changed as well.</speech>
+   </section>
+   <section>
+      <description>A wall of flames appears, as the scene changes to Sozin sitting in his
+                throne room. Roku walks down a long red carpet toward Sozin.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Sozin! Or should I say, Fire Lord!</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Scene changes to Sozin from below him. Serious.</charAction>
+            Customarily, my subjects bow before greeting me. <charAction>He walks down from his
+                throne.</charAction> But you're the exception. <charAction>He smiles and hugs
+                Roku.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Cut to the older Roku and Aang watching from behind.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">After all these years, he was still my best friend. <charAction>Scene changes to a
+                wedding ceremony and celebration in a Fire Nation courtyard, with many guests
+                attending. Cut to Roku, on whose right is Sozin, holding a scroll.</charAction> And
+            a few months later, he was my best man.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>As Roku lifts the veil.</charAction> Roku, it's that girl who didn't
+            even know you're alive!</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Ta Min. I was persistent. <charAction>She stands up near Roku.</charAction> When
+            love is real, it finds a way. <charAction>The attendees clap, as the newly-wed couple
+                bow their heads. Cut to a shot of the couple from the side, as Aang and Roku
+                watch.</charAction> And being the Avatar doesn't hurt your chances with the ladies,
+            either.</speech>
+   </section>
+   <section>
+      <description>Scene changes to Zuko.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">On wedding days, we look to the future with optimism and joy. <charAction>Fade to
+                Sozin in deep thought.</charAction> I had my own vision for a brighter
+            future.</speech>
+   </section>
+   <section>
+      <description>Cut to Roku and Ta Min receiving and thanking guests. Sozin walks up behind
+                the couple.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Leaning toward Ta Min.</charAction> Excuse me. May I borrow him for a
+            moment‌?</speech>
+   </section>
+   <section>
+      <speech speaker="Ta Min">It's not very traditional, but, okay.</speech>
+   </section>
+   <section>
+      <description>Cut to Roku and Sozin on a balcony.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">What's on your mind?</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Raises his fist slightly.</charAction> I've been thinking hard about the
+            state of the world lately.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Putting his arm over Sozin's shoulder.</charAction> Sozin, it is my
+            wedding! Have a cookie, dance with someone, lighten up!</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Smiling slightly.</charAction> I know, I know, but just hear me out.
+                <charAction>Roku bows in agreement. Cut to a shadowed side-shot of the balcony as
+                they walk.</charAction> Right from the start, I was destined to be Fire Lord. And
+            although we didn't always know it, you were destined to be the Avatar. <charAction>Cut
+                to a close-up side-shot of the two. Roku stops as Sozin continues on.</charAction>
+            It's an amazing stroke of fate we know each other so well, isn't it? Together, we could
+            do ... anything.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>The camera pans toward Roku. Now serious.</charAction> Yeah, we
+            could.</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Cut to a shot of the Fire Nation from the balcony.</charAction> Our
+            nation is enjoying an unprecedented time of peace and wealth. Our people are happy, and
+            we're so fortunate in so many ways.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Concerned.</charAction> Where are you going with this?</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">I've been thinking, we should share this prosperity with the rest of the world.
+                <charAction>Cut to a shocked Roku with the camera closing in on him.</charAction> In
+            our hands is the most successful empire in history. <charAction>Back to a close-up of
+                Sozin.</charAction> It's time we expanded it.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">No! The four nations are meant to be just that: four.</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Cut to Sozin.</charAction> Roku, you haven't even stopped to consider
+            the possibilities.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Cut to a close-up side-shot of Roku.</charAction> There are no
+            possibilities. This is the last I want to hear <charAction>Closes his eyes.</charAction>
+            about this. <charAction>He walks away from the balcony, with an angry expression on his
+                face.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>His spirit speaks to Aang.</charAction> That was my first real test as
+            the Avatar. Unfortunately, it was many years before I learned <charAction>Cut to a
+                extreme close-up of Sozin.</charAction> that Sozin <charAction>Sozin narrows his
+                eyes. Fade to a back-shot of Fang flying with Roku.</charAction> had gone ahead with
+            his plan, despite my warning.</speech>
+   </section>
+   <section>
+      <description>Scene changes to Roku flying over a body of water on Fang, as he approaches
+                land. As Roku flies over, he sees an Earth Nation dock, but as the camera pans up,
+                he sees an Earth Nation fortress with plumes of smoke rising from inside, with the
+                Fire Nation insignia strewn over the original Earth Kingdom symbol, covering it. The
+                camera zooms in to an extreme close-up of the Fire Nation banner. Cut to Roku who
+                widens his eyes in shock by his discovery. Scene changes to Roku, bursting through
+                the doors of Fire Lord Sozin's throne room with steam coming out. Cut to an overhead
+                shot of Roku's shadow in the doorway cast on the long red carpet.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Angry.</charAction> I've seen the colonies, Sozin. <charAction>Points at
+                Sozin.</charAction> How dare you occupy Earth Kingdom territory!</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">
+         <charAction>Cut to Sozin, as Roku walks up to him.</charAction> How dare you, a
+            citizen of the Fire Nation, address your Fire Lord this way. <charAction>Cut to a
+                close-up of Sozin's face from the side.</charAction> Your loyalty is to our nation
+            first. Anything less makes you a traitor.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Don't do this, Sozin. Don't challenge me. It will only end badly. It's
+            over.</speech>
+   </section>
+   <section>
+      <description>As Roku turns back and starts to leave, Sozin, full of rage, jumps from his
+                throne and delivers an immensely powerful fire stream. As the flames go out, Roku is
+                nowhere to be seen. Sozin widens his eyes in suprise, expression becoming blank as
+                he looks around. Suddenly, Roku bursts from the ground behind Sozin, revealing that
+                he has burrowed into the ground with earthbending to defend from Sozin's attack.
+                Before Sozin can turn back, Roku delivers a powerful air blast at the Fire Lord,
+                which causes him to slam on the gates of the room. As Sozin falls down, Roku
+                immediately earthbends a pillar of earth that lifts Sozin into the air and pins him
+                by the back of his robes to the ceiling. Cut to a close-up of Avatar Roku, as he
+                brings his hands together in front of his face, and enters the Avatar State. Cut to
+                a shot of the entire throne room, as Roku breaks the pillars of the throne room. Cut
+                to an aerial shot of the palace, as it is destroyed. Cut to Sozin, uncovering his
+                face. Roku airbends an air spout, and raises himself to Sozin.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">I'm sparing you, Sozin. <charAction>Cut to a frontal shot of Roku.</charAction> I'm
+            letting you go in the name of our past friendship. But I warn you. <charAction>Cut to a
+                extreme close up of Roku.</charAction> Even a single step out of line will result in
+            your permanent end.</speech>
+   </section>
+   <section>
+      <description>Sozin stares at Roku, his face still full of anger. Suddenly, his
+                expression drops, and he hangs his head in defeat. Roku turns, and rides the cyclone
+                quickly away from Sozin. Scene changes to an aerial shot of Roku's island at
+                night.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Sozin and I didn't speak or see each other for twenty-five years after our battle.
+                <charAction>Cut to Roku's house.</charAction> I spent most of my spare time here, at
+            my home.</speech>
+   </section>
+   <section>
+      <description>Cut to an overhead shot of an elderly Roku and Ta Min sleeping, as a loud
+                noise awakes Roku and he leaps out from the bed, and looks through the window. Cut
+                to a shot of the window, as large fireballs falling from the sky, and crashing into
+                the island. Roku and his wife flee the room, but as they do so, Roku's headpiece
+                falls to the floor, and is left behind. Roku emerges from the house to find the air
+                filled with smoke and ash. Coughing, Roku and his wife shield their faces. A worried
+                Roku looks at the erupting volcano in the island.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Let's go! <charAction>He catches his wife's hand, and airbends smoke and ash in
+                their way, creating a path, as both run through the path he
+            created.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Scene changes to the town, as the townspeople run through the streets to
+                escape the waves of smoke and ash that now pour through the streets. Cut to Roku's
+                home, as Fang flies up from behind the house. He narrowly escapes as an ash flow
+                completely buries the house. Cut to a wide shot of Roku, with his face covered,
+                leading his wife and many townspeople to safety. Ash continues to fall as we see a
+                swell of lava ooze from the mouth of the volcano. Cut to a close-up of Roku still
+                running. He looks to his wife, as shot cuts to her running. He lets go of her hand,
+                and motions her to go on without him. With her arm still outstretched, she looks at
+                him, and runs to safety. She continues to look back, desperately hoping Roku will
+                grab her hand. Ta Min runs off with many of the townspeople. Roku turns to face the
+                advancing smoke, and airbends a huge dome of protection around himself. Cut to the
+                townspeople in boats, as they see the air dome. Cut to the worried faces of the
+                people, including Ta Min. Scene changes to the volcano erupting in the island from
+                the Fire Nation palace, as camera zooms back to show an elderly Fire Lord Sozin
+                watching from his balcony.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Roku's island was a hundred miles away. But I could still feel it rumbling and see
+            the black plume of smoke. I had never seen anything like this catastrophe.</speech>
+   </section>
+   <section>
+      <description>Cut to Sozin's face, before cutting to an aerial shot of the volcano. Large
+                columns of black smoke billow from the summit, as lightning strikes above the
+                volcano and the earth rumbles from the disaster. Cut to a close-up of a landslide
+                quickly approaching the town, destroying it completely. Roku earthbends a gigantic
+                wall, and rides the wall to meet the falling earth, and stop it. As he succeeds in
+                stopping it, the volcano ejects a massive wave of lava. The flow breeches the wall
+                of earth, causing Roku to flee to the bottom of the summit. He cuts into the earth
+                using his earthbending, creating a channel to divert the lava into the surrounding
+                ocean, away from the town. Cut to an aerial shot of the island, as the channel fills
+                with lava, and empties into the ocean. Cut to Roku and Aang watching the destruction
+                from a distance.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">This is amazing, Roku! You're battling a volcano, and you're winning.</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Unfortunately, my success didn't last long, Aang. There was no way I could do it
+            all.</speech>
+   </section>
+   <section>
+      <description>Shot cuts to Roku looking up the top of the volcano. As the camera pans up
+                and focuses on the mouth of the volcano, it violently expels another giant wave of
+                lava. Roku runs toward the volcano, and leaps. Roku blows a powerful blast of air
+                from his mouth at the lava, which cools and hardens, as Roku lands on it. Suddenly,
+                a blast of poisonous gas spouts to his right, he turns and covers his face. He turns
+                to the jet, airbending it away. Suddenly lava appears on his right, which he
+                airbends, and quickly another jet of gases blasts to his left, and he quickly
+                airbends it as well.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>To Aang.</charAction> Battling the elements was hard enough. I had to do
+            it while I could barely breathe. The poisonous, volcanic gases were
+            overwhelming.</speech>
+   </section>
+   <section>
+      <description>Cut to an overhead shot of the sky directly over the eruption. Lightning
+                crashes around the crater as Fang comes, flying. The summit emits another lava
+                fountain. Fang pulls back, narrowly escaping the blast, and roars.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Airbends a jet of gases.</charAction> It's all right Fang!
+                <charAction>Coughs.</charAction> Get out of here! I'm fine!</speech>
+   </section>
+   <section>
+      <description>Roku turns his body from side to side, and enters the Avatar State. With a
+                powerful blow from his fist, Roku earthbends a tremor through the volcano, breaking
+                out the back side of the crater, which lessens the lava flow. As the lava flows
+                down, the second volcano erupts, as Roku, no longer in the Avatar State, hopelessly
+                drops his head. Cut to a view of Roku from behind, as Sozin, on a blue dragon,
+                appears.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Need a hand, old friend?</speech>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>A surprised Roku turns back.</charAction> Sozin?</speech>
+   </section>
+   <section>
+      <speech speaker="Sozin">There's not a moment to waste.</speech>
+   </section>
+   <section>
+      <description>Cut to an aerial view of the two volcanoes. Sozin and Roku ride on the Fire
+                Lord's dragon's back to the second volcano. Cut to Roku bending the fire fountain
+                down into the crater. Cut to Sozin balanced on the mouth of the vent, as he cools
+                the lava by absorbing the heat, passing it through himself, and redirects out
+                through his other hand. The scene pans out to show the silhouettes of the two
+                friends, controlling the disaster. Cut to the townspeople in the boats, as they see
+                the volcanoes erupting. Cut to a shot of Ta Min, with an anxious expression on her
+                face. The scene cuts back to Roku and Sozin on the edge of the crater. Lightning
+                blasts above Sozin, as the earth beneath him becomes unstable. He begins to fall
+                back off the side of the volcano, but Roku quickly earthbends an earth shelf to
+                catch Sozin. Stable again, Sozin looks to Roku for a moment. Suddenly, the earth
+                violently shakes and another surge of ash and rock shoot from the crater, and the
+                two turn to run.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Don't breathe the toxic gas.</speech>
+   </section>
+   <section>
+      <description>As the two run, a jet of toxic gas shoots up directly next to Sozin. Roku
+                quickly airbends it away to protect Sozin. Suddenly gas erupts directly into Roku's
+                face, causing him to be disoriented.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">
+         <charAction>Shaking, Cut to Roku's point of view. He lifts his hands to look at
+                them, as they blur out of focus.</charAction> It's too much.</speech>
+   </section>
+   <section>
+      <description>Overwhelmed by the poisons, Roku falls to his knees. He looks up toward
+                Sozin, and holds out his hand for help.</description>
+   </section>
+   <section>
+      <speech speaker="Roku">Please.</speech>
+   </section>
+   <section>
+      <description>Cut to Roku's point of view again.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">Without you, all my plans are suddenly possible. <charAction>Cut to
+                Roku.</charAction> I have a vision for the future, Roku.</speech>
+   </section>
+   <section>
+      <description>Sozin's dragon appears. As Roku kneels, Sozin mounts the dragon and flies
+                away. Cut to Roku, on the side of the volcano. He is surrounded by toxic gas, and
+                behind him a surge of rock and ash flows swiftly toward him. Cut to a shot of the
+                black clouds billowing from the island, as Sozin's dragon emerges from the plumes.
+                The camera zooms to an extreme close-up of Sozin's eye. Shot cuts to Roku, from the
+                back, still on his knees. He is coughing, and is unable to get to his feet. Fang
+                appears from the right, and flies above him. Cut to a close-up of Roku from the
+                side, as he looks up toward his dragon. Cut to an aerial view of the debris, rapidly
+                approaching Avatar Roku. With the rock avalanche just moments away from swallowing
+                Roku, Fang flies down, and wraps himself around Roku. The wave of ash and rubble
+                cover the two completely, killing both of them. Fade to a bright light, as the
+                camera pans to show an arched window frame. A baby's cries can be heard. The camera
+                pans down to show a smiling born infant.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Who's ... wait, that's me, isn't it? <charAction>Cut to a long shot of three Air
+                Nomads. A nun holds up the baby to the light while two people, presumably the
+                infant's parents, stand in the shadows.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Roku">Make sense of our past, Aang. <charAction>Cut to Roku and Aang.</charAction> And you
+            will bring peace, and restore balance in the world. <charAction>He slowly
+                disappears.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Roku? Roku!</speech>
+   </section>
+   <section>
+      <description>Aang walks out of the flashback into whiteness as the scene changes to Zuko
+                reading in the Dragonbone Catacombs.</description>
+   </section>
+   <section>
+      <speech speaker="Sozin">With Roku gone, and the great comet returning, the timing was perfect to change the
+            world. <charAction>Cut to Sozin, standing on a balcony, from the behind, looking at his
+                soldiers and the Fire Navy ships.</charAction> I knew the next Avatar would be born
+            an Air Nomad. So I wiped out the Air Temples. <charAction>Scene changes to a burning
+                temple. The camera slowly fades into an extreme close-up of Sozin's
+                face.</charAction> But somehow, the new Avatar eluded me. <charAction>Scene changes
+                to Fire Navy ships searching in the polar regions.</charAction> I wasted the
+            remainder of my life searching in vain. <charAction>Cut to underside of the
+                ship.</charAction> I know he's hiding out there somewhere. <charAction>Camera pans
+                below to show the iceberg Aang was trapped in.</charAction> The Fire Nation's
+            greatest threat ... the last airbender.</speech>
+   </section>
+   <section>
+      <description>Fade to a close-up of the scroll Zuko is reading.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">That can't be it! Where's the rest of it? <charAction>He searches the scroll to find
+                more information.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Zuko puts the scroll down and stands up, as the camera pans out. Scene
+                changes to the Fire Nation prison, where Iroh is imprisoned. Cut to Zuko from the
+                behind, slamming the door to the cell behind him as he enters. Cut to Iroh sitting
+                with his head down.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Angrily.</charAction> You sent this, didn't you? I found the secret
+            history, which by the way should be renamed history most people already know! The note
+            said that I needed to know about my great-grandfather's death, but he was still alive in
+            the end.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Looking up at Zuko.</charAction> No. He wasn't.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Confused.</charAction> What are you talking about?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">You have more than one great-grandfather, Prince Zuko. Sozin was your father's
+            grandfather. <charAction>Cut to a bewildered Zuko.</charAction> Your mother's
+            grandfather was Avatar Roku.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Shocked.</charAction> Why are you telling me this?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Because understanding the struggle between your two great-grandfathers can help you
+            better understand the battle within yourself. <charAction>Zuko sits down, with his head
+                facing down.</charAction> Evil and good are always at war inside you, Zuko. It is
+            your nature, your legacy. But, there is a bright side. <charAction>Zuko looks
+                up.</charAction> What happened generations ago can be resolved now, by you. Because
+            of your legacy, you alone can cleanse the sins of our family and the Fire Nation. Born
+            in you, along with all the strife, is the power to restore balance to the
+            world.</speech>
+   </section>
+   <section>
+      <description>Cut to a bundle inside of a brick wall. Iroh removes a brick and reaches
+                for the bundle. Cut to Iroh slowly unwrapping the bundle, revealing the once-lost
+                headdress, while he walks toward Zuko.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">This is a royal artifact. It's supposed to be worn <charAction>Zuko
+                stands.</charAction> by the Crown Prince.</speech>
+   </section>
+   <section>
+      <description>Zuko takes the headdress from Iroh's hand, and holds the artifact, as the
+                shot cuts to Zuko from the behind, standing outside of Iroh's cell. Iroh stands
+                quietly, looking at his nephew. Cut to a shot of the hardened lava wave the gang had
+                been sitting on. Cut to a shot of Sokka, Katara, and Toph all facing Aang as the
+                camera pans down.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">You mean, after all Roku and Sozin went through together, even after Roku showed him
+            mercy, Sozin betrayed him like that‌?</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Cut to Toph.</charAction> It's like these people are born bad.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut to Aang from the side, with Sokka standing near him.</charAction>
+            No, that's wrong. I don't think that was the point of what Roku showed me at
+            all.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shrugging.</charAction> Then what was the
+            point?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut to Katara, Toph and Sokka from the behind, as Aang
+                speaks.</charAction> Roku was just as much Fire Nation as Sozin was, right? If
+            anything, their story proves anyone's capable of great good and great evil.
+                <charAction>Cut to an aerial shot of the hardened lava wave.</charAction> Everyone,
+            even the Fire Lord and the Fire Nation have to be treated like they're worth giving a
+            chance. <charAction>Shot cuts to a close-up of Aang's face.</charAction> And I also
+            think it was about friendships.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Camera pans to Toph, and cuts to a close-up of her face.</charAction> Do
+            you really think friendships can last more than one lifetime?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Catching Toph's hand.</charAction> I don't see why not.</speech>
+   </section>
+   <section>
+      <description>Katara catches Toph's other hand.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Well, scientifically speaking, there's no way to prove that ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Annoyed.</charAction> Oh, Sokka, just hold hands.</speech>
+   </section>
+   <section>
+      <description>Sokka stops talking, and without moving, he thrusts out his hand to hold
+                Katara's. Shot cuts to an aerial shot of Team Avatar, holding hands, and looking out
+                toward the ocean. Fade to credits.</description>
+   </section>
+</root>

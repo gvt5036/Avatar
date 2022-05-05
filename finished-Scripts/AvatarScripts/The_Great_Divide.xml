@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="11">The Great Divide</title>
+      <director>Giancarlo Volpe</director>
+      <writer>John O' Bryan</writer>
+      <date>2005-05-20</date>
+      <location nation="earth">Great Divide</location>
+   </metadata>
+   <section>
+      <description>Opening shot of the sun setting behind some tall rock outcroppings. The sky
+                is mostly cloudy and the clouds reflect the light of the dying sun. Pan down to show
+                a patched up tent being jostled about from the inside. A rolled up tarp lies next to
+                the tent. Sokka is inside a tent, trying to assemble it. Sokka can be heard grunting
+                and fussing about as he tries to finish setting up the shelter. Katara walks in the
+                frame, her back to the camera, with a pile of fire wood in her arms.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Um, aren't you forgetting the tarp?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Right, got it ... <charAction>Tosses the wrapped up tarp inside the
+                tent.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka, you're supposed to put the tarp on top&gt; of the
+            tent. You know, so we don't get rained on? <charAction>Cut to an overhead shot of the
+                two, Sokka gesturing widely as he replies to his sister.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Ordinarily, you'd be right, but seeing how it's the dry season, you're not. Besides
+            that tarp makes a pretty warm blanket.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But what if it does rain?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Spreading his arms wide in exasperation.</charAction> What if it
+            doesn't? Then I would have put up the tarp for nothing.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">You're infuriating!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Katara, why don't you worry about gathering firewood, because that kindling is
+            looking pretty sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Angrily.</charAction> Well, if you don't like my firewood-
+                <charAction>Throws the sticks at Sokka who shields himself from the wood. He stands
+                in anger after the hail of sticks subsides.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Angrily.</charAction> Fine by me, if you're not gonna do your job-
+                <charAction>He tears the tent down and the two stare at each other angrily as Aang
+                approaches.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Okay, I got the grub if you guys got the- <charAction>The siblings turn away from
+                each other in anger with their arms folded.</charAction> hey, where's the campfire?
+            And what happened to the tent?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Why don't you ask Miss Know-It-All, Queen of the Twigs.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Oh yeah? Well, you're Mister Lazy Bum, King of the <charAction>Picks up and throws a
+                twig at Sokka's head.</charAction> Tents! <charAction>Sokka turns around, looking
+                angrily at her.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Laughs.</charAction> Okay, listen guys, harsh words won't solve
+            problems, action will. Why don't you just switch jobs?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sounds good.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>At the same time.</charAction> Whatever.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Grinning while gloating.</charAction> You see that? Settling feuds and
+            making peace, all in a day's work for the Avatar. <charAction>Turns his head to see Momo
+                and Appa fighting over a watermelon. Momo continuously tries to fly away with it,
+                while Appa pins it down. Aang takes the melon and uses airbending to slice it. Momo
+                seems to be complaining about how he got the much smaller half and Appa got the
+                bigger half.</charAction> Come on, Momo, that's fair. Appa's got five stomachs.
+                <charAction>Appa eats his half of the melon.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The scene fades to show the group standing on the edge of a huge
+                canyon.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">There it is, guys, The Great Divide.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>In awe.</charAction> Wow, I could just stare at it forever.
+                <charAction>Zoom backward to show Sokka in the foreground.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Okay, I've seen enough.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">How can you not be fascinated Sokka? This is the largest canyon in the entire
+            world.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Then I'm sure we'll be able to see it very clearly from the air while we fly
+            away.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">
+         <charAction>Shoving past Sokka.</charAction> If you're looking for the canyon guide,
+            I was here first!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Ooh, canyon guide? Sounds informative.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">Believe me, he's more than a tour guide, he's an earthbender, <charAction>Oblivious
+                to the fact that Sokka is behind him, mocking him.</charAction> and the only way in
+            and out of the canyon is with his help, and he's taking my
+            tribe across next.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Calm down, we know you're next.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">You wouldn't be so calm if the Fire Nation destroyed your home and forced you&gt; to
+            flee! My whole tribe has to walk thousands of miles to the capital city of Ba Sing
+            Se.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">You're a refugee!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">Huh, tell me something I don't know.</speech>
+   </section>
+   <section>
+      <description>A large group of poorly dressed people is shown walking toward
+                them.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Is that your tribe?</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">It most certainly is not! That's the Zhang tribe, a bunch of low-life thieves.
+            They've been the enemies of my tribe for a hundred years. <charAction>Whistles to
+                them.</charAction> Hey, Zhangs! I'm saving a spot for my tribe so don't even think
+            about stealing it!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Where are the rest of the Gan Jin? Still tidying up their camp site?</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">Yes, but they sent me ahead of them to hold a spot.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">I didn't know the canyon guide took reservations.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">Ha, of course you didn't! That's the ignorance I'd expect from a messy
+                Zhang.&gt; So unorganized and ill-prepared for a journey. <charAction>The
+                Zhang tribe members yell out in protest behind them. Katara and Aang look at each
+                other worriedly, but turn around to see a large pile of rocks being levitated up and
+                thrown away. The canyon guide stands behind where the rocks used to
+            be.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">Sorry about the wait, youngsters. Who's ready to cross this here canyon?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Uh, one of them, I think. <charAction>Camera pans left to reveal the Zhang and the
+                scout.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">
+         <charAction>Rushing forward.</charAction> I was here first, my party's on their
+            way.</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">I can't guide people who aren't here. <charAction>Cut to a wider shot showing the
+                Zhang filing past the three kids and the fuming Gan Jin scout.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">
+         <charAction>Mockingly.</charAction> Guess you guys will have to make the trip
+            tomorrow.</speech>
+   </section>
+   <section>
+      <description>The shot shifts to a close-up the scout, whose eyes twitch in anger. The
+                camera zooms backward and pans left to reveal another tribe entering the canyon
+                entrance area. The scout points to them in triumph.</description>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">Wait, here they come! <charAction>A group of clean, finely dressed people are shown
+                coming toward them.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">
+         <charAction>To the canyon guide.</charAction> You're not seriously gonna cave into
+            these spoiled Gan Jins? I mean we're refugees too! And we've got sick people that need
+            shelter.</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">I ... uh ... well ...</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin tribesman">We've got old people who are weary from traveling.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Sick people get priority over old people.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Maybe you Zhangs wouldn't have so many sick people if you weren't such
+            slobs.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">If you Gan Jins weren't so clean, you wouldn't live to be so old.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Over the two arguing tribes.</charAction> Well Aang, ready to put your
+            peace-making skills to the test?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I don't know, a fight over chores is one thing, but these people have been feuding
+            for a hundred years.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Stepping forward.</charAction> Everybody listen up! This is the Avatar,
+            and if you give him a chance, I'm sure he can come up with a compromise that will make
+            everyone happy.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Uh, you could share the earthbender and travel
+            together?</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Absolutely not! We'd rather be taken by the Fire Nation than travel with those
+            stinking thieves!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">We wouldn't travel with those pompous fools anyway! <charAction>The two tribes begin
+                to shout at each other again.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Shouting.</charAction> All right here's the deal, you're all going down
+            together and Appa here will fly your sick and elderly across! Does that seem fair?
+                <charAction>Both leaders nod in agreement, and the scene fades to show the sick and
+                elderly boarding Appa.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To Appa.</charAction> Sorry, Appa, you'll have to do this on your
+            own.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Aang, this feuding tribe stuff is serious business. Are you sure it's a good idea
+            getting involved in this?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Grinning broadly.</charAction> To tell you the truth, I'm not sure. But
+            when have I ever been?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">He's the Avatar, Sokka, making peace between people is his job.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Dismayed.</charAction> His job's gonna make us cross this whole canyon
+            on foot isn't it? <charAction>Cut to an overhead wide shot of the two tribes and the
+                others.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">Okay, now comes the bad news. <charAction>Cut to a frontal shot of the
+                guide.</charAction> No food allowed in the canyon, it attracts <charAction>He makes
+                motions with his hands to illustrate the skittery monsters that might lurk in the
+                canyon.</charAction>
+            dangerous predators. <charAction>Both tribes yell out in
+                protest.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin Leader">No food?! This is ridiculous.</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">Oh, you babies can go a day without food? Would you rather be hungry, or dead?
+                <charAction>He raises an earth pillar to tower over the rest. He continues, cupping
+                his hands to his mouth to amplify his voice.</charAction> Now, we're heading down in
+            ten minutes. All food better be in your gut or in the garbage!</speech>
+   </section>
+   <section>
+      <description>The Zhang tribe quickly whips out and shoves food into their mouths, which
+                stands in stark contrast to the Gan Jin tribe, who eat slowly with
+                chopsticks.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To the people on Appa.</charAction> Appa's going to take good care of
+            you 'till we get there. <charAction>To Appa.</charAction> See you on the other side,
+            buddy! Yip yip! <charAction>Appa roars and takes off. The camera fades to show both
+                groups of people climbing down into the canyon. The tour guide earthbends to form a
+                bridge in a gap in the path.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Nice bending!</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">The job's much more than bending, kid. Folks want information. <charAction>Turns to
+                the travelers.</charAction> Many of you are probably wondering how canyons are
+            formed. Experts tell us this canyon was most likely carved into the ground by earth
+            spirits who were angry at local farmers for not offering them a proper
+            sacrifice.</speech>
+   </section>
+   <section>
+      <description>Katara and Sokka look up in fear as an avalanche of rocks comes falling
+                toward them, and the canyon guide earthbends it away from them.</description>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">He he he, guess the spirits are still angry! Hope you all brought
+            sacrifices.</speech>
+   </section>
+   <section>
+      <description>Cut to a wide shot of the canyon floor and the canyon wall on the right
+                side of the screen. The view pans slowly rightward before cutting to a closer,
+                overhead shot of the group now at the bottom of the switchback trail. They have just
+                entered the canyon floor. The guide stands in front of the two tribes and the kids.
+                Katara, Aang, and Sokka look at each other in exasperation and the scene fades to
+                show them standing at the bottom of the canyon next to a huge boulder.</description>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">Okay, everyone stand clear of the wall. <charAction>He throws the boulder and
+                destroys the bridge he had made earlier.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Why'd you do that?</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">These people are fleeing the Fire Nation, aren't they? Gotta make sure we can't be
+            followed. We'll be safe now. <charAction>Yells out, as he is picked up by a huge animal.
+                Aang blows away the dust to reveal a canyon crawler.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">We gotta help him! <charAction>He throws his boomerang at the crawler, which drops
+                the canyon guide and comes after Sokka instead.</charAction> Okay, now we gotta help
+                me! <charAction>Katara comes to his aid and does a water
+                whip on the crawler, but she is quickly thrown aside. Aang jumps down and sends a
+                multiple blasts of air at the crawler and drives it away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To the canyon guide.</charAction> What was that?</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">
+         <charAction>On the ground.</charAction> Canyon crawler. <charAction>Groans in
+                pain.</charAction> And there's sure to be more!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Your arms, they're broken!</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">Without my arms, I got no bending. In other words-</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">We're trapped in this canyon.</speech>
+   </section>
+   <section>
+      <description>The camera fades to show them grouped together.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I thought the whole point of ditching our food was so we wouldn't have to deal with
+            things like canyon crawlers.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">It's the Zhangs! They took food down here even after the canyon guide told them not
+            to.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">What? If there's anyone who can't go without food for a day, it's you pampered Gan
+            Jins!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">I hope you're happy. We're stuck in this canyon with no way out.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Why don't you thank yourself, food hider?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Look, sticking together is the only way to-</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">I'm not walking another step with the likes of them!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Now there's something we can agree on.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To the canyon guide.</charAction> Any ideas?</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">No bendng ... we need to get out of this canyon ... I won't die down here! I won't
+            become part of the food chain!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">See! We're going to become part of the food chain because of you! <charAction>Points
+                to Zhangs.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Sure, unjustly blame the Zhangs like you always do!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Gladly.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Angrily.</charAction> Enough! I thought I could help you guys get along,
+            but I guess that's not gonna happen. <charAction>Jumps onto a tall rock.</charAction> We
+            should split up, Gan Jins on this side and Zhangs on that side. We'll travel in two
+            separate lines. <charAction>The two leaders nod at each other and start walking. Aang
+                jumps down to Sokka and Katara.</charAction> Sokka, you go with the Zhangs and
+            Katara, you go with the Gan Jins. See if you can find out why they hate each other so
+            much.</speech>
+   </section>
+   <section>
+      <description>They split up and the camera pans to show them walking separately. The
+                scene changes to show Sokka in the Zhang camp.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">So, you guys aren't going to put up your tarps?</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">What for? Its the dry season.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Exactly!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Besides, we like to use the tarp as a blanket.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Smiling.</charAction> Finally, someone gets it!</speech>
+   </section>
+   <section>
+      <description>Katara is shown at the Gan Jin camp, where they are putting up tarps over
+                their tents.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">You really think it'll rain?</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">No, but you can never be too careful, right?</speech>
+   </section>
+   <section>
+      <description>Katara smiles and the camera fades to nightfall, where they are sitting
+                around their campfire. The Gan Jin leader looks around and pulls a piece of bread
+                out of his sleeve. Katara looks stunned to see all the other tribe members doing the
+                same.</description>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Would you care for some bread, Katara?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">So it was you guys who had food!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Oh come now, you really think that tribe of thieves isn't smuggling food? Why should
+            my people go hungry when the sneaky Zhangs are stuffing their faces?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hesitates.</charAction> Well, I guess it's okay if everyone's doing it.
+                <charAction>Takes the bread and eats it.</charAction> So, why does your tribe hate
+            the Zhangs so much?</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">You seem like a smart girl Katara, I bet you would enjoy hearing some history.
+                <charAction>Fades to show a large gate with a finely dressed man running toward it.
+                Voice-over.</charAction> The patriarch of our tribe, Jin Wei, was an earthbender
+            warrior who was assigned an important duty, transporting our sacred orb from the great
+            eastern gate, to the great western gate. Taking the orb from the east to the west
+            represents the sun's rising and setting. It was our tribe's ancient redemption ritual.
+            But as he approached the gate, Jin Wei was attacked by one of the Zhang, a vermin named
+            Wei Jin, who looked at the orb with envy. That coward Wei Jin knocked Jin Wei to the
+            ground, and stole our sacred orb. <charAction>Camera goes back to the Gan Jin leader's
+                face.</charAction> Our people have never forgotten. You can never trust a
+            Zhang.</speech>
+   </section>
+   <section>
+      <description>Katara glares at the Zhang's camp and the scene fades to show the Zhang
+                tribe and Sokka sitting around the campfire.</description>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">
+         <charAction>To Sokka.</charAction> Care for some meat?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Would I! <charAction>Takes the meat and bites down hungrily.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">I know what you must be thinking, we're horrible for endangering everybody by
+            bringing food down here.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Hm-hmm.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">The Gan Jin think so badly of us, they probably assumed we brought food in and
+            decided to bring food in themselves. That's why we brought food in.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Still eating.</charAction> Hmm.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Our conflict with the Gan Jin goes back over a hundred years. <charAction>Fades to
+                show a poorly-dressed man running through a large gate. Voice-over.</charAction> Our
+            forefather Wei Jin was leaving the western gate of our village, when he saw a figure in
+            the distance. It was a man of the Gan Jin tribe, Jin Wei, collapsed on the ground. Noble
+            Wei Jin stopped to help him. Jin Wei was transporting a sacred orb, a very powerful
+            relic used in his tribe's redemption ritual. Wei Jin tried to tend to the man's wounds
+            but Jin Wei insisted the orb was more important, and asked him to take it back to his
+            tribe. Kind Wei Jin promised to send help for the man as soon as he could, but as Wei
+            Jin crossed the border to return the orb into Gan Jin territory, he was arrested.
+            Instead of thanking him for his kind and selfless deed, they sentenced him to twenty
+            long years in prison. <charAction>Back to Zhang leader.</charAction> We Zhangs will
+            never forget that injustice.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's just terrible. <charAction>Looks at her piece of meat.</charAction> You gonna
+            finish that?</speech>
+   </section>
+   <section>
+      <description>Fades to show Aang sitting with Momo far from both camps.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Sure would be nice to be sitting around one of those campfires, telling stories and
+            laughing. Its okay Momo, we'll be out of here soon enough, and then we can eat our
+            weight in leechi nuts! <charAction>Momo jumps up and snatches a bug out of the air, he
+                eats part of it before offering the rest to Aang.</charAction> Nah, I'll wait for
+            the leechi nuts.</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">
+         <charAction>Slowly approaching Aang.</charAction> Lonely isn't it, being
+            impartial?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I wish I could help these people get along, but it just seems impossible. Anyhow, I
+            guess our biggest problem is getting out of here.</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">I'm not so sure the two problems are unrelated.</speech>
+   </section>
+   <section>
+      <description>Aang looks away sadly and the scene fades to show the two tribes traveling
+                again in daylight.</description>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">All clear, we're almost to the other side.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Jumps down to Katara and Sokka.</charAction> Katara, Sokka, will these
+            people cooperate long enough to get out of the canyon?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I don't think so, Aang, the Zhangs really wronged the Gan Jins. They ambushed Jin
+            Wei and stole the sacred orb.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">What are you talking about?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Yeah Katara, what are you talking about? Wei Jin didn't steal the orb, he was
+            returning it to their village gate and was wrongfully punished by the Gan Jin.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Not punished enough if you ask me.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Over Sokka's frustrated growls.</charAction> Okay, okay I get it! Now I
+            need your help, I need everyone together at the base of the canyon wall. <charAction>He
+                takes off on his glider and the scene fades to show him landing between the two
+                tribes.</charAction> Please everyone, as soon as we get out of here we can eat and
+            then go our separate ways, but I need you all to put your heads together and figure out
+            a way up this cliff.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Maybe the Zhang can climb the wall with their long disgusting fingernails.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Oh sorry, I forgot that to the Gan Jin unclipped fingernails is a crime punishable
+            by twenty years in jail!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Why, you dirty thief!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">You pompous fool!</speech>
+   </section>
+   <section>
+      <description>The tribes began to argue loudly again, accompanied by Katara and
+                Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Shouting.</charAction> Guys, focus! How many times do I have to say it?
+            Harsh words won't solve problems, action will!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Perhaps the Avatar is right.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Yes, perhaps he is. <charAction>Aang grins happily at this.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Harsh words will never solve our problems.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Action will!</speech>
+   </section>
+   <section>
+      <description>They both draw their swords and Aang yells in surprise, as they clash their
+                swords.</description>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">To the death! And let this be the end of this rivalry!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You know, I take it back. Harsh words aren't so bad!</speech>
+   </section>
+   <section>
+      <description>The two leaders ignore him as they begin to fight. They are evenly matched,
+                and continue until Aang blows them apart with a strong gust of air. The two tribes
+                go flying backward, revealing a large amount of hidden food.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Shocked.</charAction> Is that ... food? Everyone smuggled food down
+            here? Unbelievable! You guys put our lives in danger because you couldn't go without a
+            snack for a day? You're all awful! <charAction>He looks in wonder at a custard tart, and
+                his stomach growls.</charAction> So hungry. Is that an egg custard in that tart?
+                <charAction>He turns to see dozens of canyon crawlers approaching, and they all try
+                to flee.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Oh no, that's a lot of canyon crawlers.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Taking out his boomerang.</charAction> We barely survived one!</speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">They're coming back for me! They've had a taste and they're coming back for
+            me!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka, wait. <charAction>Stops him as he runs forward.</charAction> I don't care
+            about this stupid feud, I just want us to get out of here alive.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Me too. I only took their side 'cause they fed me.</speech>
+   </section>
+   <section>
+      <description>The camera cuts to show Aang fighting off the canyon crawlers, and soon has
+                them all in a pile. The crawlers pick themselves up and target the refugees. Though
+                Aang, Katara, Sokka, and the tribe leaders fight hard to hold them off, they are
+                vastly out numbered. Aang looks around to see the crawlers eating the food out of
+                the bags.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Shouting.</charAction> Everybody, watch me and do what I do!
+                <charAction>He distracts a crawler with a piece of food, leaps on its back, and
+                throws a bag over its snout. The two tribes mimic him, working
+                together.</charAction> Now follow me! We're riding out of this hole!
+                <charAction>Aang ties a huge bag of food onto a stick and uses it to guide the
+                crawlers up the canyon wall.</charAction> Everyone, get off!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">
+         <charAction>Jumping off a crawler.</charAction> We made it!</speech>
+   </section>
+   <section>
+      <description>As soon as all the people have made it up the cliff, Aang throws the bag
+                back down, and the crawlers follow.</description>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">I never thought a Gan Jin could get his hands dirty like that.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">And I never knew you Zhangs were so reliable in a pinch.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Perhaps we're not so different after all. <charAction>They both smile at each other
+                and Aang sighs in relief.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Too bad we can't rewrite history. You thieves stole our sacred orb from Jin Wei!
+                <charAction>Draws his sword.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">
+         <charAction>Draws her sword.</charAction> You tyrants unjustly imprisoned Wei Jin
+            for twenty long years!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Sighs in frustration.</charAction> Wait a second ... Jin Wei? Wei Jin? I
+            know those guys!</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">Yes, yes, we're all aware of the story.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">No, I mean I really knew them. I might not look it, but
+            I'm a hundred and twelve years old. I was there one hundred years ago on the day you're
+            talking about. <charAction>Scene fades to show the two men facing each other.
+                Voice-over.</charAction> There seems to be a lot of confusion about what happened.
+            First of all, Jin Wei and Wei Jin weren't enemies. They were brothers, twins in fact,
+            and they were eight; and most importantly, they were just playing a game! The sacred orb
+            from the legend, that was the ball! And the eastern and western gates were the goal
+            posts. Jin Wei had the ball and was running toward the goal when he fell and fumbled it.
+            Wei Jin didn't steal the ball, he picked it up and started running it toward the other
+            goal, but he stepped out of bounds, so the official put him in the penalty box. Not for
+            twenty long years but for two short minutes. <charAction>Fades back to
+                Aang.</charAction> There was no stealing and no putting anyone in imprison, it was
+            just a game.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">You're saying the sacred orb was actually a sacred ball?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Nope, just a regular ball.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin man">What about our tribe's redemption ritual?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">That's what the game was called, redemption. As soon as you got the ball from one
+            end to the other, everyone would yell "redemption"! <charAction>The tribe leaders look
+                at each other skeptically.</charAction> Don't get me wrong, Wei Jin was kind of a
+            slob and Jin Wei was a little stuffy, that much is true. But they respected each other's
+            differences enough to share the same playing field.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">
+         <charAction>To the Gan Jin leader.</charAction> I suppose it's time we forget the
+            past.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">
+         <charAction>Bowing.</charAction> And look to the future.</speech>
+   </section>
+   <section>
+      <description>The Zhang leader bows back and Aang looks at them happily. The scene fades
+                to show them standing with Appa.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Good to see you, boy. Did you miss me? <charAction>Appa licks Aang as the Gan Jin
+                leader approaches.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">I cannot thank you enough, Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Covered in Appa's slobber.</charAction> Well, you know I try.</speech>
+   </section>
+   <section>
+      <speech speaker="Gan Jin leader">
+         <charAction>Recoils in disgust.</charAction> Ugh!</speech>
+   </section>
+   <section>
+      <description>Fades to show the two tribes standing together.</description>
+   </section>
+   <section>
+      <speech speaker="Zhang leader">Let us travel to the Earth Kingdom capital as one tribe. <charAction>Both tribes
+                cheer as they start walking.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Canyon guide">
+         <charAction>Running forward.</charAction> I'm going too! I'm sick of this
+            place!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's some luck you knew Jin Wei and Wei Jin.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You could call it luck. Or you could call it lying.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Flabbergasted.</charAction> What?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I made the whole thing up.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Shocked.</charAction> You did not! <charAction>In devilish
+                admiration.</charAction> That is so wrong.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Now where is that custard tart? I'm starving!</speech>
+   </section>
+   <section>
+      <description>Fades to credits.</description>
+   </section>
+</root>

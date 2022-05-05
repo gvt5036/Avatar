@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="33">The Drill</title>
+      <director>Giancarlo Volpe</director>
+      <writer>Michael Dante DiMartino</writer>
+      <writer>Bryan Konietzko</writer>
+      <date>2006-09-15</date>
+      <location nation="earth">Ba Sing Se</location>
+   </metadata>
+   <section>
+      <description>The episode opens where several Fire Nation tanks rumble across the
+                terrain, a large metal mechanism following close behind. The camera zooms out to a
+                shot of the Fire Nation drill slowly moving its way toward the Outer Wall of Ba Sing
+                Se. Several sections of the drill extend forward, releasing steam as spikes are
+                driven into the ground. The drill's command module ascends where inside are Princess
+                Azula, her friends, Mai and Ty Lee, War Minister Qin and several operators of the
+                drill.</description>
+   </section>
+   <section>
+      <speech speaker="Qin">This drill is a feat of scientific ingenuity and raw destructive power. Once it
+            tunnels through the wall, our troops will storm their city. The Earth Kingdom will
+            finally fall, and you can claim Ba Sing Se in the name of your father. Nothing can stop
+            us.</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">
+         <charAction>Looking through the telescope.</charAction> Hmmm, what about those
+            muscle-y guys down there?</speech>
+   </section>
+   <section>
+      <description>She peers through a periscope at several Earth Kingdom troops using
+                earthbending to create large trenches, Fire Nation forces following them in hot
+                pursuit.</description>
+   </section>
+   <section>
+      <speech speaker="Qin">
+         <charAction>Strikes the periscope roughly alarming Ty Lee.</charAction> Please. The
+            drill's metal shell is impervious to any earthbending attack.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">Oh, I'm sure it is, War Minister Qin, but just to be on the safe side ...
+                <charAction>Sharply while looking at the two girls.</charAction> Mai and Ty Lee,
+            take the earthbenders out!</speech>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>Swinging a knife around her finger; relieved.</charAction> Finally,
+            something to do. <charAction>Rises and walks out.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The scene changes to where Katara, Sokka and Toph are escorting Than and
+                his family to the city. Aang appears, flying in on his glider with Momo behind him.
+                He lands, Momo perched on his shoulder.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Surprised.</charAction> Aang, what are you doing here? I thought you
+            were looking for Appa.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I was, but something stopped me. Something big.</speech>
+   </section>
+   <section>
+      <description>The scene switches to the base of the Outer Wall where Aang and Toph use
+                earthbending to transport everyone up the wall.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Now what's so big that Appa has to wait?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Camera zooms out to drill.</charAction> That.</speech>
+   </section>
+   <section>
+      <description>The group arrives at the top of the Outer Wall.</description>
+   </section>
+   <section>
+      <speech speaker="Ying">
+         <charAction>Despairingly.</charAction> We made it to Ba Sing Se and we're still not
+            safe. No one is! <charAction>Huddles with family members.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Earthbender guard">What are you people doing here? Civilians aren't allowed on the wall!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm the Avatar. Take me to whoever is in charge.</speech>
+   </section>
+   <section>
+      <description>The scene changes to a portion of the Outer Wall where a roof rises
+                overhead, supported by tall arches. An Earth Kingdom general sits behind a
+                desk.</description>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Happily.</charAction> It is an honor to welcome you to the Outer Wall,
+            young Avatar, but your help is not needed.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Not needed?</speech>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Calmly.</charAction>
+            Not needed. I have the situation under control. I assure you
+            the Fire Nation cannot penetrate this wall. Many have tried to break through it, but
+            none have succeeded.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">What about the Dragon of the West? He got in.</speech>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Slightly taken aback.</charAction> Well ... uh, technically yes, but he
+            was quickly expunged. <charAction>Confidently.</charAction> Nevertheless, that is why
+            the city is named Ba Sing Se. It's the "impenetrable city". They don't call it Na Sing
+            Se. <charAction>Laughs, but subsequently turns serious.</charAction> That means
+            "penetrable city."</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Yeah, thanks for the tour, but we still got the drill problem.</speech>
+   </section>
+   <section>
+      <speech speaker="General Sung">Not for long. To stop it, I've sent an elite platoon of earthbenders called the
+            Terra Team.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's a good group name. Very catchy.</speech>
+   </section>
+   <section>
+      <description>The scene cuts to where the Terra Team is launching their assault on the
+                Fire Nation drill. They manage to overthrow one tank and get closer to the
+                drill.</description>
+   </section>
+   <section>
+      <speech speaker="Terra Team leader">Ready ... attack!</speech>
+   </section>
+   <section>
+      <description>The earthbenders wedge large earth spikes into the metal shell of the drill
+                to halt it. However, the drill's segments separate, reducing the columns to
+                crumbles. The Terra Team narrowly manages to conjure earth shields to defend
+                themselves against an assault of flying daggers hurled by Mai. She and Ty Lee are
+                seen sliding down the shell of the drill. The scene cuts to the side of the drill
+                where Ty Lee lands gracefully onto the ground. She effortlessly manages to defeat
+                the earthbenders through an acrobatic display, utilizing chi blocking.</description>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Upon witnessing the defeat of the Terra Team.</charAction> We're doomed!
+                <charAction>Flails arms in panic.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Slaps him across the face.</charAction> Get a hold of yourself,
+            man!</speech>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Rubbing cheek.</charAction> You're right. I'm sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Maybe you'd like the Avatar's help now?</speech>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Meekly stands before the Avatar. Humbly.</charAction> Yes,
+            please.</speech>
+   </section>
+   <section>
+      <description>The scene changes to where Aang and the rest are overlooking the wall at
+                the drill.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">The question is, how are we going to stop that thing? <charAction>All turn their
+                heads to Sokka.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Why are you all looking at me?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You're the idea guy.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Complaining.</charAction> So I'm the only one who can ever come up with
+            a plan? That's a lot of pressure.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">And also the complaining guy.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That part I don't mind.</speech>
+   </section>
+   <section>
+      <description>The scene changes to where a ticket woman is inspecting Zuko and Iroh's
+                tickets.</description>
+   </section>
+   <section>
+      <speech speaker="Ticket woman">So, Mr. Lee and Mr. ummm ... Mushy, is it?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">It's pronounced Mushi.</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket woman">
+         <charAction>Annoyed.</charAction> You telling me how to do my job?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Approaches the ticket booth.</charAction> Uh, no, no. But may I just say
+            you're like a flower in bloom. Your beauty is intoxicating.</speech>
+   </section>
+   <section>
+      <speech speaker="Ticket woman">
+         <charAction>Flirtatiously.</charAction> You're pretty easy on the eyes yourself,
+            handsome. Raorr! Welcome to Ba Sing Se. <charAction>Stamps their
+            tickets.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Disgusted.</charAction> I'm going to forget I saw that.
+                <charAction>Grabs ticket and walks away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Camera changes to view of Jet, overlooking Zuko, now under the adopted
+                alias, Lee.</description>
+   </section>
+   <section>
+      <speech speaker="Jet">I think Lee would make a good Freedom Fighter. He's just trying to find his way in
+            the world, like us.</speech>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">You don't know anything about him, Jet.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">I know he didn't get that scar from a waterbender.</speech>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">Besides, I thought we were going straight now.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">We are, and the new Freedom Fighters could use a guy like Lee. What do you think,
+            Longshot?</speech>
+   </section>
+   <section>
+      <description>Longshot looks over at him silently with a meaningful look on his face and
+                blinks his eyes.</description>
+   </section>
+   <section>
+      <speech speaker="Jet">I can respect that.</speech>
+   </section>
+   <section>
+      <description>Meanwhile, back at the Outer Wall, Katara attempts to heal a member of the
+                Terra Team.</description>
+   </section>
+   <section>
+      <speech speaker="General Sung">What's wrong with him? He doesn't look injured.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">His chi is blocked. <charAction>Stops healing.</charAction> Who did this to
+            you?</speech>
+   </section>
+   <section>
+      <speech speaker="Terra Team member">Two girls ambushed us. One of them hit me with a bunch of quick jabs and suddenly I
+            couldn't earthbend anymore and I could barely move. Then she cartwheeled away.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Eyes widen in realization.</charAction> Ty Lee. She doesn't look
+            dangerous, but she knows the human body and its weak points. It's like she takes you
+            down from the inside.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Excitedly.</charAction> Ooh, ooh, ooh, ooh! Ooh!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Yes?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">What you just said! That's how we're going to take down the drill! The same way Ty
+            Lee took down all those big earthbenders!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">By hitting its pressure points!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Looking out over the wall with a determined look.</charAction> We'll
+            take it down from the inside.</speech>
+   </section>
+   <section>
+      <description>The scene cuts to the Fire Nation drill. The camera pans to where Aang,
+                Katara, Sokka and Toph are crouching together in one of the abandoned trenches of
+                the Terra Team.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Gesturing toward the drill.</charAction> Once I whip up some cover,
+            you're not going to be able to see. So, stay close to me.</speech>
+   </section>
+   <section>
+      <description>She steps outside the trench and with a powerful stomp of her foot, sending
+                a mass of flying debris clouding toward the drill.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Run!</speech>
+   </section>
+   <section>
+      <description>The group races into the dust cloud behind Toph. The scene cuts to the
+                command module where Ty Lee is peering at the cloud through the
+                periscope.</description>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">Hey, look at that dust cloud. <charAction>Periscope view shows front of drill and
+                billowing cloud.</charAction> It's so ... poofy. <charAction>Cut back to Ty Lee who
+                looks away from the periscope with a spaced-out expression.</charAction>
+            Poof.</speech>
+   </section>
+   <section>
+      <speech speaker="Qin">Don't worry, Princess. I'm sure it's nothing. <charAction>Azula casts a doubtful
+                look.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The scene changes to outside where the group is standing in the midst of
+                the dust beside the drill. Toph earthbends a hole into the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Everyone into the hole!</speech>
+   </section>
+   <section>
+      <description>She and the others jump into the hole and the ground above them closes
+                shut. The camera pans to underground where it is pitch black.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's so dark down here, I can't see a thing!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Sarcastically.</charAction> Oh no, what a nightmare!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sheepishly.</charAction> Sorry.</speech>
+   </section>
+   <section>
+      <description>They make their way to the surface underneath the drill, where Sokka spots
+                an opening.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">There!</speech>
+   </section>
+   <section>
+      <description>Aang leaps up to the bar hanging from the opening and, dangling upside-down
+                from his legs, hoists himself and Katara into the drill. He realizes Toph is not
+                following them. Sokka sticks his head out of the drill.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Toph, come on!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">No way am I going in that metal monster. I can't bend in there. I'll try to slow it
+            down out here.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Okay, good luck! <charAction>He and Aang disappear into the
+            drill.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Toph earthbends a wedge of rock into the drill, however, it is proving to
+                be a difficult task as it pushes her back. The scene changes to inside the drill
+                where Sokka is leading the others through a tunnel of valves and
+                pipes.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I need a plan of this machine. Some schematics that show what the inside looks like.
+            Then we can find its weak points.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Where are we going to get something like that? <charAction>Sokka unexpectedly cuts
+                off a steam valve with his machete.</charAction> What are you doing? Someone's going
+            to hear us!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's the point. I figure a machine this big needs engineers to run it. And when
+            something breaks ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">They come to fix it!</speech>
+   </section>
+   <section>
+      <description>Aang and Katara smile at each other. Moments later, an engineer wearing a
+                mask is seen walking down the misty hallway to the site of the damage.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Appears behind him.</charAction> Hi.</speech>
+   </section>
+   <section>
+      <description>She freezes the mist, covering the engineer in a thin layer of ice. Sokka
+                runs up to the frozen engineer and takes his schematics.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">This'll work. Thanks!</speech>
+   </section>
+   <section>
+      <description>The trio runs off, leaving the helpless engineer who drops his spear
+                unintentionally. The scene changes to where Sokka and the others are studying the
+                plans.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">It looks like the drill is made up of two main structures. There's the inner
+            mechanism where we are now and the outer shell. The inner part and the outer part are
+            connected by these braces. If we cut through them, the entire thing will
+            collapse.</speech>
+   </section>
+   <section>
+      <description>Aang and Katara nod in agreement. The scene changes to the train station
+                where Zuko, Iroh and the three Freedom Fighters are awaiting their train. The camera
+                focuses on Zuko and Iroh, who sit in the waiting area. Jet approaches and sits next
+                to Zuko.</description>
+   </section>
+   <section>
+      <speech speaker="Jet">So, you guys got plans once you're inside the city?</speech>
+   </section>
+   <section>
+      <speech speaker="Tea seller">Get your hot tea here! Finest tea in Ba Sing Se!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Waves hand.</charAction> Ooh! Jasmine please.</speech>
+   </section>
+   <section>
+      <description>The tea seller pours tea into a leaf cup for Iroh. Iroh sips the tea, but
+                soon grimaces at its repulsive taste.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Blaugh! Ugh, coldest tea in Ba Sing Se is more like it! What a disgrace!</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">Hey, can I talk to you for a second?</speech>
+   </section>
+   <section>
+      <description>He motions for Zuko to follow him. Zuko sighs and reluctantly rises. The
+                two walk several feet away from Iroh's spot.</description>
+   </section>
+   <section>
+      <speech speaker="Jet">You and I have a much better chance of making it in the city if we stick together.
+            You want to join the Freedom Fighters?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Thanks, but I don't think you want me in your gang.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">Come on, we made a great team looting that captain's food. Think of all the good we
+            could do for these refugees.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Walking away.</charAction> I said no.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">Have it your way.</speech>
+   </section>
+   <section>
+      <description>He catches sight of Iroh, who is sipping his now steaming hot tea, causing
+                his eyes to widen in shock and realization. Zuko, approaching Iroh, glances over his
+                shoulder at Jet, who narrows his eyes and walks away. Angrily, he knocks the tea cup
+                out of Iroh's hand.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Hey!</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Gritting in a whisper.</charAction> What are you doing firebending your
+            tea? For a wise, old man, that was a pretty stupid move!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Mourning.</charAction> I know you're not supposed to cry over spilled
+            tea, but ... <charAction>Sniffs. The cup is shown overturned in a puddle.</charAction>
+            it's just so sad!</speech>
+   </section>
+   <section>
+      <description>The scene switches to the interior of the drill where Sokka is leading the
+                others through a door onto a massive steal beam.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Wow, it looks a lot thicker in person than it does in the plans. We're going to have
+            to work pretty hard to cut through that.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Crosses her arms.</charAction> What's this "we" stuff? Aang and I are
+            going to have to do all the work.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Turns and gestures to self.</charAction> Look, I'm the plan guy. You two
+                <charAction>Makes rapid chop-chop gestures.</charAction> are the cut stuff up with
+            waterbending guys. <charAction>Strikes a heroic pose.</charAction> Together, we're Team
+            Avatar!</speech>
+   </section>
+   <section>
+      <description>Katara and Aang shoot each other awkward looks. The scene cuts to one where
+                the two are positioned on either side of one brace. Using waterbending, they slice
+                through the metal sharply. The shot changes to when the brace is sliced halfway
+                through. Both Katara and Aang are bent over and gasping in exhaustion.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Pumping arms in the air.</charAction> C'mon team. Don't quit now.
+                <charAction>Katara grinds her teeth as she seethes with rage.</charAction> We're
+            ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Explodes with frustration.</charAction> Grrr!</speech>
+   </section>
+   <section>
+      <description>Katara shoots a menacing glare while pulling out her water whip and
+                threatening to strike him with it. Cut to Sokka, who stands wide-eyed, arms still in
+                air.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I mean, <charAction>Recovers and points reassuringly.</charAction> you're almost
+            there.</speech>
+   </section>
+   <section>
+      <description>The two resume work slicing the brace. With every lash of the water whip,
+                the cut through the brace enlarges and Sokka grows more and more eager. At last, a
+                cut is made clean through the brace, however, to their disappointment, the brace
+                budges mere inches from its position.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Panting in exhaustion.</charAction> At this rate, we won't do enough
+            damage before the drill reaches the wall.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I don't know how many more of those I have in me.</speech>
+   </section>
+   <section>
+      <description>The drill suddenly creaks.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Do you hear that? We took it down! We better get out of here fast!</speech>
+   </section>
+   <section>
+      <description>The trio run for the door, only to halt upon hearing an announcement being
+                made through overhead speaking tubes.</description>
+   </section>
+   <section>
+      <speech speaker="Qin">Congratulations, crew. The drill has made contact with the wall of Ba Sing Se.
+                <charAction>Cuts to him standing in the command module.</charAction> Start the
+            countdown to victory!</speech>
+   </section>
+   <section>
+      <description>Cheers erupt from the crew. The camera cuts to Azula, a threatening look of
+                determination on her face. Aang, Katara and Sokka look at each other in shock and
+                dismay. The camera cuts to a scene of the drill hammering through the wall, sending
+                loose boulders in every direction. The scene changes to one of a stream of a
+                saturated rock and water solution traveling through tubes and making its way through
+                the back entrance of the drill. Cuts to Sokka, who is desperately attempting to move
+                the brace.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Pushing against brace.</charAction> C'mon brace ... budge!
+                <charAction>Makes several more attempts to move it.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">This is bad, really bad.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">We're putting everything we've got into busting these braces, but it's taking too
+            long!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Struck with realization.</charAction> Maybe we don't need to cut all the
+            way through. Toph has been teaching me that you shouldn't give one hundred percent of
+            your energy into any one strike. <charAction>Rises.</charAction> Sokka, take a fighting
+            stance. You've got to be quick and accurate. Hit a series of points and break your
+            opponent's stance. <charAction>Strikes Sokka several times.</charAction> And when he's
+            reeling back, you deliver the final blow. <charAction>Hits him softly on the
+                head.</charAction> His own weight becomes his downfall, literally.</speech>
+   </section>
+   <section>
+      <description>As Aang is speaking, Sokka kneels over.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">So we just need to weaken the braces, instead of cutting all the way
+            through.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Then I'll go to the top of this thing and deliver the final blow.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Rising.</charAction> And boom! It all comes crashing down!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Everyone inside that wall. The whole world is counting on us.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">The whole world minus the Fire Nation that is.</speech>
+   </section>
+   <section>
+      <description>Sokka grins, while the other two simply stare at each other exasperated.
+                The scene cuts to Toph under the drill, putting all her strength into keeping the
+                rock column stable as she is slowly pushed back by the force of the
+                drill.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Straining as the drill continues to push her back.</charAction> C'mon,
+            Twinkle Toes, hurry up!</speech>
+   </section>
+   <section>
+      <description>The scene changes to where Aang and Katara are making rapid progress,
+                slicing through several braces halfway to weaken them.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">That's enough! We need to get to the next one!</speech>
+   </section>
+   <section>
+      <description>The scene changes to outside the drill, where earthbenders are sending
+                boulders down at the drill from the wall. The scene changes to the command module
+                where the War Minister receives shocking news from engineers communicating through
+                speaking tubes.</description>
+   </section>
+   <section>
+      <speech speaker="Engineer">War Minister, an engineer was ambushed! His schematics were stolen!</speech>
+   </section>
+   <section>
+      <description>Qin is clearly surprised while Azula narrows her eyes in
+                suspicion.</description>
+   </section>
+   <section>
+      <speech speaker="Second Engineer">War Minister, a brace on the starboard side has been cut clean through! It's
+            sabotage, sir!</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>Sharply.</charAction> Let's go, ladies!</speech>
+   </section>
+   <section>
+      <description>The scene changes to where the trio continues to slice through the
+                braces.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Good work, Team Avatar! Now Aang just needs to ... <charAction>Glances up in
+                horror.</charAction> duck!</speech>
+   </section>
+   <section>
+      <description>He ducks just in time to evade the blue fire blast sent his way by Azula,
+                who runs out and stands on another brace followed by her friends.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Barely misses another fire blast.</charAction> Whoa!</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">Wow, Azula, you were right! It is the Avatar!
+                <charAction>Cut to a close-up of Ty Lee; she smiles flirtatiously at
+                Sokka.</charAction> ... and friends.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Smiles and waves.</charAction> Hey.</speech>
+   </section>
+   <section>
+      <description>Katara approaches her brother and drags him away, clearly annoyed. Ty Lee
+                swings herself forward toward Aang who quickly airbends her away. The trio escape
+                the scene and race through the drill's hallways. They come to an
+                intersection.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Guys, get out of here. I know what I need to do.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Wait. <charAction>Throws him her water skin.</charAction> You need this water more
+            than I do!</speech>
+   </section>
+   <section>
+      <description>Aang catches the water skin and starts running again. Azula and her team
+                reach the intersection.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">Follow them! The Avatar's mine!</speech>
+   </section>
+   <section>
+      <description>Mai and Ty Lee begin chasing Katara and Sokka while Azula chases after
+                Aang. Meanwhile, the two siblings have arrived at the end of the hallway where there
+                is a closed hatch.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Reads a sign nearby, while Sokka struggles to open the
+                hatch.</charAction> Slurry pipeline? What does that mean?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Having successfully opened hatch which leads to a canal channeling
+                slurry.</charAction> It's rock and water mixed together. It means our way
+            out!</speech>
+   </section>
+   <section>
+      <description>The two begin descending into the pipe when Mai and Ty Lee arrive. They
+                manage to escape into the canal just as a flurry of daggers is sent their way. The
+                camera cuts to a shot of them floating through the slurry. Mai and Ty Lee run over
+                and peer into the pipeline.</description>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>Holds her hands over the slurry.</charAction> Ugh, disgusting!</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">C'mon! You heard Azula. We have to follow them!</speech>
+   </section>
+   <section>
+      <speech speaker="Mai">She can shoot all the lightning she wants at me. I am not going in that wall sludge
+            juice. <charAction>Shivers in disgust.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Ty Lee shrugs and leaps through the pipeline into the slurry. Mai shudders
+                with a final expression of disgust and closes the hatch. The scene cuts to where
+                Aang races past several engineers through the drill. The camera cuts to the rear of
+                the drill where a flood of slurry is continually being released. Katara and Sokka
+                slide through the slurry onto the ground with Ty Lee following them in hot pursuit.
+                Katara uses waterbending to stop the flow of slurry and plug up the back entrance of
+                the drill, thus trapping Ty Lee.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hatefully and tauntingly.</charAction> Why don't you try blocking my chi
+            now, circus freak?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Katara, keep that up. The pressure will build up in the drill. Then when Aang
+            delivers the final blow, it'll be ready to pop!</speech>
+   </section>
+   <section>
+      <description>The scene changes to where Aang and Momo have made their way to the top of
+                the drill.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Halting.</charAction> This looks like a good spot, Momo.
+                <charAction>Looks up to find boulders being hurtled down the wall, nearly crushing
+                him. Yelling.</charAction> General Sung, tell your soldiers to stop shooting rocks
+            down here!</speech>
+   </section>
+   <section>
+      <speech speaker="General Sung">
+         <charAction>Frantically.</charAction> Soldiers, whatever you do, don't stop shooting
+            rocks down there!</speech>
+   </section>
+   <section>
+      <description>The soldiers nod and launch another round of rocks toward the drill. Aang
+                leaps out of the way of the oncoming boulders and begins slicing at the hull of the
+                metal using water from Katara's water skin. The scene changes to where Katara
+                continues to hold Ty Lee captive in the slurry.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Good technique, little sister! Keep it up! Don't forget to breathe!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Irritated.</charAction> You know, I'm just about sick and tired of you
+            telling me what to do all day! You're like a chattering hog-monkey!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Screaming.</charAction> Just bend the slurry, woman!</speech>
+   </section>
+   <section>
+      <description>Frustrated, Katara bends a wave of slurry into her brother with her free
+                hand, knocking him down into the foul muck.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Approaching Katara.</charAction> You guys need some help?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Toph, help me plug up this drain.</speech>
+   </section>
+   <section>
+      <description>The two cooperate with each other to bend the slurry, sending Ty Lee
+                farther into the drill and causing the pipes to begin to expand under the pressure.
+                The scene cuts to where Aang continues to slice the metal of the
+                drill.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Exhausted.</charAction> What I'd give to be a metalbender.</speech>
+   </section>
+   <section>
+      <description>Momo suddenly shrieks and Aang deflects a blue fire blast just in
+                time.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Assuming a fighting stance.</charAction> Momo, get out of here!</speech>
+   </section>
+   <section>
+      <description>Azula appears before the Avatar and a battle ensues between the two. Azula
+                shoots fire blasts at Aang, who manages to block them using airbending. She
+                continues the fire attacks only to have each one of her strikes deterred by water
+                whips. She eventually manages to vaporize the water, sending Aang back. The two
+                narrowly dodge the several boulders that are hurtled toward them at that moment.
+                Aang uses earthbending and airbending to send rocks at Azula, who manages to avoid
+                them all. Azula sends another powerful firebending assault that slams Aang into the
+                Outer Wall of Ba Sing Se, leaving him unconscious.</description>
+      <description>The camera view briefly changes to where the front of the drill is seen
+                having completely dug its way through the Outer Wall. Camera changes to Azula as she
+                walks over to him with fire in her right hand, preparing to deal a deadly final
+                strike, but Aang awakens and sends her skidding back using an earthbending gauntlet.
+                A flood of slurry is released as the drill bores deeper into the wall, coating the
+                two. Azula slides toward a helpless Aang, attempting to halt herself by windmilling
+                only to collide with him. The force of the collision sends both sliding off opposite
+                sides of the drill. Azula is able to stop her descent by grinding her feet into the
+                drill's side while Momo drags Aang up to the top with the help of Aang's
+                airbending.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Thanks, Momo. I owe you one. <charAction>Runs over to the wedge he sliced in the
+                drill.</charAction> Now all I need ... <charAction>A boulder falls before
+                him.</charAction> Actually, that is what I need for once.</speech>
+   </section>
+   <section>
+      <description>He uses airbending to position the boulder over the X mark in the drill.
+                Using earthbending, he cuts the rock several times, creating a wedge that fits
+                inside the middle of the hole. He begins sprinting toward the wall, scales up its
+                side by riding an air scooter and, once he arrives at his highest point, rockets at
+                lightning speed toward the bottom. As he propels himself downward, Azula catches
+                sight of him and fires at him. She misses by mere seconds and is sent back
+                forcefully as Aang leaps and slams down on the wedge, creating a large ripple
+                effect. The impact of the blow causes the sliced braces inside the drill to collapse
+                and the pipes to burst, releasing a torrent of slurry. Slurry begins to seep from
+                the drill. The scene cuts to Katara and Toph, who remain in their bending
+                stances.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Woohoo!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Here it comes!</speech>
+   </section>
+   <section>
+      <description>She earthbends Katara, Sokka, and herself onto a rock pillar to avoid the
+                flood of slurry. Slurry gushes from the rear of the drill, and Ty Lee slams into the
+                wall of the rock pillar as she is forcefully pushed forward by the flood. The drill
+                begins to release steam and its segments begin to collapse. On the other side of the
+                wall, the drill is seen coming to a halt.</description>
+      <description>The camera zooms out on the destroyed drill. The scene cuts to Aang covered
+                in slurry, Momo licking him as he wipes it away near his face, a huge smile spread
+                across his face. Cut to War Minister Qin, who stares at the slurry from inside the
+                command module, completely shocked. Cuts to General Sung atop the Outer Wall,
+                covered in the muck. Cuts to Ty Lee as she attempts to clear away the mess. Cut to
+                shot of Azula, skidding down the drill also covered in slurry. She lands by Ty Lee,
+                causing the acrobat to be covered in slurry once again. A hatch opens, revealing
+                Mai, who is completely clean.</description>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>Dryly.</charAction> We lost.</speech>
+   </section>
+   <section>
+      <description>The scene changes to the train station.</description>
+   </section>
+   <section>
+      <speech speaker="Train conductor">Last call for Ba Sing Se!</speech>
+   </section>
+   <section>
+      <description>Scene shifts to Jet, who is storming toward the train, Longshot and
+                Smellerbee following close behind.</description>
+   </section>
+   <section>
+      <speech speaker="Smellerbee">Jet, relax. So the old guy had some hot tea. Big deal.</speech>
+   </section>
+   <section>
+      <speech speaker="Jet">He heated it himself! <charAction>Darkly.</charAction> Those guys are
+                firebenders!</speech>
+   </section>
+   <section>
+      <description>Iroh and Zuko board the train, Jet and his groups eying them. Iroh and Zuko
+                seat themselves next to Than and his family. Iroh notices Hope.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">What a handsome baby. <charAction>Strokes the infant.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Ying">Thank you.</speech>
+   </section>
+   <section>
+      <description>Camera closes up on Hope, who is sleeping. Scene cuts to outside where two
+                earthbenders begin moving the train out of the station. Scene changes to Team Avatar
+                standing at the top of the wall, overlooking the sunset.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I just want to say, good effort out there today, Team Avatar!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Unamused.</charAction> Enough with the Team Avatar stuff. No matter how
+            many times you say it, it's not going to catch on.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">How about ... <charAction>Pulls out boomerang.</charAction> the Boomeraang Squad!
+            See it's good because it's got "Aang" in it.
+            Boomeraang.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Grins.</charAction> I kind of like that one.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Begins walking away.</charAction> Let's talk about this on our way into
+            the city.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">The Aang Gang?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka ...</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">The Fearsome Foursome?</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Also walking away.</charAction> You're crazy.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Why? We're fearsome!</speech>
+   </section>
+   <section>
+      <description>He runs after them.</description>
+   </section>
+   <section>
+      <description>Fades to credits.</description>
+   </section>
+</root>
