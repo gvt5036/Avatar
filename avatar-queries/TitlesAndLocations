@@ -1,0 +1,24 @@
+xquery version "3.1";
+declare namespace output = "http://www.w3.org/1999/xhtml";
+declare option output:method "html";
+declare option output:media-type "text/html";
+declare option output:doctype "doctype-public";
+declare option output:indent  "yes";
+    let $avatar := collection('/db/avatar/AvatarScripts')
+    let $location := $avatar//metadata/location ! normalize-space() => distinct-values()
+        for $l in $location
+            let $lTitle := $avatar//metadata[.//location ! normalize-space() = $l]//title ! normalize-space()
+                return 
+    <html>
+        <head><title>Location</title></head>
+    <body>
+    <table>
+    <tr><th>{$l}</th></tr>
+    <tr>
+          <td>{$pos}</td>
+               
+        </tr> 
+</table>
+</body>
+</html>
+    

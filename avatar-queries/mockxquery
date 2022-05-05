@@ -1,0 +1,22 @@
+xquery version "3.1";
+declare variable $ThisFileContent:=
+<html>
+    <head><title>Avatar Script XQuery</title>
+    </head>
+<body>
+    <h1>What  Avatar episodes have the most speeches?</h1>
+{
+let $avatar := collection ('/db/avatar/TransformedScripts/')
+for $ep in $avatar
+let $epCount := $avatar => count()
+let $title := $ep//metadata/title
+let $speechCount := $ep//speech => count()
+order by $speechCount descending
+return    
+    <li> {$title} has a length of {$speechCount} </li>
+}
+</body>
+</html>;
+let $ThisFileContent:="mockxquery.html"
+let $ty-db-avatarqu:= xmldb:store("db/avatar-queries", $filename, $ThisFileContent, "html")
+return $ty-db-avatarqu

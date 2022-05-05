@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/avatar-queries/nationSpeeches" version="1" owner="admin" group="dba" mode="755" created="2022-04-21T18:52:38.991Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Fire.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-21T18:55:38.383Z" modified="2022-04-28T23:50:25.946Z" filename="Fire.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Water.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-21T18:55:40.593Z" modified="2022-04-28T23:50:28.822Z" filename="Water.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Earth.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-21T18:55:44.955Z" modified="2022-04-28T23:50:40.508Z" filename="Earth.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Air.txt" skip="no" owner="admin" group="dba" mode="644" created="2022-04-21T18:55:45.834Z" modified="2022-04-28T23:50:42.335Z" filename="Air.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
