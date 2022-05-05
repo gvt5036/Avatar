@@ -1,0 +1,380 @@
+/* Main Container */
+body {
+    background-image: url("images/aPattern1.jpg");
+    color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+/* __________________________________________________________________________________________________________________________________________________________ */
+/* Right Container */
+main {
+    flex: 5;
+}
+div.map{
+    /*width: 70%;*/
+    display:grid;
+    grid-auto-flow:column;
+    grid-template-columns: .75fr .25fr;
+    
+}
+div.text{
+    /*width: 10%;*/
+    
+}
+div.map iframe{
+   /* width:20vw;*/
+   object-fit:contain;
+   width: 20vw;
+}
+svg.imageMap{
+    /*max-width:70vw;*/
+    object-fit:contain;
+    width:100%;
+}
+/* __________________________________________________________________________________________________________________________________________________________ */
+/* Left Container */
+.navbar {
+    background-color: #B4DFFE;
+    /*transition: 200ms ease;*/
+    flex: 1;
+}
+
+figure{
+    width: 80%;
+}
+/* __________________________________________________________________________________________________________________________________________________________ */
+/* for scroll bar */
+body::-webkit-scrollbar {
+    width: 0.25rem;
+}
+body::-webkit-scrollbar-track {
+    background: #1e1e24;
+}
+body::-webkit-scrollbar-thumb {
+    background: #B4DFFE;
+}
+/* __________________________________________________________________________________________________________________________________________________________ */   
+/* Image tom-foolery */
+
+img.src {
+      width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+nav {
+height: 500px;
+
+}
+
+/*
+nav {
+    width: 300px;
+background: #B4DFFE;
+  padding: 50px;
+  margin: 20px;  
+    display: block;
+  margin: 5px;
+   text-align: justify;
+  line-height: 1.5;
+}
+*/
+
+
+/*  NONSENSE
+.readable {
+background: #B4DFFE;
+object-fit:contain;
+ width:100%;
+   display: flex;
+  justify-content: center;
+  }
+
+
+img {
+  justify-content: left;
+   display: flex;
+  width: 150px;
+  padding: 20px;
+  margin: 15px;
+
+}
+  
+p {
+  justify-content: right;
+  max-width:500px;
+  width:50%;
+  display: block;
+  margin: 5px;
+  margin-right: 230px;
+  text-align: justify;
+  line-height: 1.5;}
+
+ */
+
+
+/*
+h1 {
+    background-color: #B4DFFE;
+}
+ 
+h3 {float: right;
+  max-width:500px;
+  width:50%;
+  display: block;
+  margin-right: 230px;
+  text-align: justify;
+  line-height: 1.5;}
+  */
+  
+
+
+
+
+
+
+
+/*_____________________________________________________________________________________________________________________*/
+/*CSS Rework*/
+
+
+/*Main*/
+
+.home-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
+
+.graphics-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
+
+
+/*__________________________________________________*/
+/*About Page*/
+.about-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
+
+.about-descript {
+    text-align: center;
+    background-color: #B4DFFE;
+    /*   margin-left: 19rem;
+    margin-right:19rem; */
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: auto;
+    opacity: .94;
+    margin-bottom: 30px;
+}
+
+.about-descript p{
+    line-height: 1.5;
+    font-size: larger;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    padding-bottom: 17px;
+}
+
+/*__________________________________________________*/
+/*Graphics Section*/
+.graphics-main {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+
+.graphics-container {
+    text-align: center;
+    opacity: 94%;
+    background-color: #B4DFFE;
+    width: 70%;
+}
+
+.SVGcontent {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    background-color: #B4DFFE;
+    padding-bottom: 50px;
+}
+
+.graphics-container h5{
+    line-height: 1.5;
+    font-size: larger;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding-bottom: 60px;
+}
+
+
+/*__________________________________________________*/
+/*Characters*/
+
+.character-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    margin-left: 14rem;
+    margin-right:14rem;
+}
+
+.character-main{
+    flex-wrap: wrap;
+}
+
+.char-gallery{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.char-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.char-pic {
+    margin: 3rem;
+    height: 300px;
+    width: 250px;
+    margin-bottom: 60px;
+    border-radius: 8px;
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/aang3.jpg');
+    background-size: cover;
+    position: relative;
+    color: black;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.char-pic h1{
+    background-color: #B4DFFE;
+    height: 30px;
+    margin-top: 310px;
+    padding: 8px 15px 8px 15px;
+    opacity: 80%;
+}
+
+.char-pic:nth-child(2){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/katara2.jpg');
+}
+
+.char-pic:nth-child(3){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/sokka.jpg');
+}
+
+.char-pic:nth-child(4){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/toph2.png');
+}
+
+.char-pic:nth-child(5){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/zuko2.jpg');
+}
+
+.char-pic:nth-child(6){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/UncleIroh.jpg');
+}
+
+.char-pic:nth-child(7){
+    background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 0%, 
+    rgba(0,0,0,0) 100%), 
+    url('images/azula2.jpg');
+}
+
+.char-box h1{
+    text-decoration: none;
+    color: black;
+}
+
+.char-pic{
+    border-radius: 4px;
+}
+
+
+.indChar-main{
+    align-items: center;
+}
+
+.indChar-header{
+    text-align: center;
+    background-color: #B4DFFE;
+    height: 40px;
+}
+
+.indChar-container{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    margin: 20px;
+}
+
+.char-image{
+    display: flex;
+    max-height: 500px;
+    object-fit: contain;
+    flex: 1;
+    background-color: #B4DFFE;
+    opacity: 94%;
+    margin-right: 10px;
+}
+
+.indChar-para{
+    max-height: 500px;
+    background-color: #B4DFFE;
+    font-size: x-large;
+    opacity: 94%;
+    flex: 1;
+    margin-left: 10px;
+}
+
+.indChar-para p{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
