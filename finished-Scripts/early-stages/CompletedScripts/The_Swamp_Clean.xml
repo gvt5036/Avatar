@@ -1,0 +1,1147 @@
+<root>
+    <metadata>
+        <title>The Swamp</title>
+    </metadata>
+    <p>
+        <speech>
+            <description>The episode opens with an overhead shot of rice paddies. The camera pans
+                down, revealing an Earth Kingdom village. The scene cuts to a shot of a bridge over
+                a nearby stream. People carrying backpacks and other loads walk back and forth over
+                the bridge, either entering or departing the small village.</description>
+            <description>The scene cuts to a street within the village. Iroh and Zuko are sitting on
+                straw mats, their stolen ostrich horse lying behind them. A cart with masks for sale
+                passes by in front of them; one of the masks is seen to be the Blue Spirit mask. As
+                the cart passes, another pedestrian walks in front of Iroh. Iroh holds his hat out
+                to the pedestrian and begins to talk to him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Somewhat enthusiastically.</charAction> Spare coins for weary
+            travelers?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The pedestrian tosses a couple of copper pieces into Iroh's hat as Zuko
+                turns to Iroh in anger.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Angrily, with his arms folded.</charAction> This is humiliating! We're
+            royalty! These people should be giving us whatever we want.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>They will if you ask nicely. <charAction>A peasant woman strolls past; somewhat
+                dramatically.</charAction> Spare change for a hungry old man?</speech>
+    </p>
+    <p>
+        <speaker name="Peasant girl">Peasant girl</speaker>
+        <speech><charAction>Withdrawing a coin from her sleeve.</charAction> Aw, here you
+            go.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>The coin is appreciated, but not as much as your smile!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Zuko slaps his forehead in frustration as the young girl giggles lightly
+                and walks away. As soon as she walks away, a man with dual broadswords on his back
+                wanders up to Iroh and Zuko.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Broadsword man">Broadsword man</speaker>
+        <speech><charAction>Smiling.</charAction> How about some entertainment in exchange for ... a
+            gold piece? <charAction>He pulls the piece from his pocket with a
+            flourish.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech><charAction>Annoyed.</charAction> We're not performers.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Standing up.</charAction> Not professional anyway. <charAction>He puts
+                the hat down and stands up, swaying lightly as he begins to sing.</charAction> It's
+            a long, long way to Ba Sing Se, but the girls in the city, they look so pretty!</speech>
+    </p>
+    <p>
+        <speaker name="Broadsword man">Broadsword man</speaker>
+        <speech><charAction>Annoyed with the quality of the entertainment.</charAction> Come on,
+            we're talking a gold piece here! Let's see some action! <charAction>Zuko glances up
+                sharply as the man withdraws his swords.</charAction> Dance!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The man begins to slice the ground near Iroh's feet; Iroh hops up and down
+                to "dodge" the attacks while Zuko struggles to control his anger at the man. A
+                birds-eye shot of the street shows other citizens have stopped to watch the
+                spectacle.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Singing.</charAction> They kiss so sweet that you really got to meet the
+            girls from Ba Sing Se!</speech>
+    </p>
+    <p>
+        <speaker name="Broadsword man">Broadsword man</speaker>
+        <speech><charAction>Stops slicing and laughs.</charAction> Ha, ha! Nothing like a fat man
+            dancing for his dinner! Here ya go! <charAction>Tosses the gold coin onto the ground and
+                walks away.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Dramatically; close to tears.</charAction> Such a kind man.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Zuko glares after the man in anger and humiliation. The camera cuts to
+                Appa, flying through a gray sky over a large forested area; it is covered somewhat
+                by fog, and looks rather menacing. Sokka is rubbing a whetstone against his machete,
+                while Katara is studying a scroll. Aang stares at the swamp, and seems to be in a
+                trance. Sokka notices they were slowly flying down, and notices Aang's trance-like
+                state.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>To Aang.</charAction> Hey, you taking us down for a reason?
+                <charAction>Aang continues to stare at the swamp.</charAction> Aang,
+                <charAction>Aang snaps out of the trance.</charAction> why are we going
+            down?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Confused.</charAction> What? I didn't even notice.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera zooms out to see Appa flying down toward the swamp</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Are you noticing now?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Moving to the front of the saddle.</charAction> Is something
+            wrong?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>He still seems somewhat dazed by the swamp.</charAction> I know this is
+            going to sound weird, but I think the swamp is calling to me.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Holding his stomach.</charAction> Is it telling you where we can get
+            something to eat?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>No, I ... I think it wants us to land there.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Shrugging.</charAction> No offense to the swamp, but I don't see any
+            land there to land on.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I don't know. Bumi said to learn earthbending I would have to wait and listen, and
+            now I'm actually hearing the earth. Do you want me to ignore it?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka, Katara and Momo look over Appa's saddle down at the
+                swamp</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Yes.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I don't know. There's something ominous about that place.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Momo hides inside Appa's saddle as Appa groans.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>See, even Appa and Momo don't like it here.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Resignedly.</charAction> Okay, since everyone feels so strongly about
+            this, <charAction>Looks at swamp.</charAction> bye swamp. <charAction>Shakes Appa's
+                rope.</charAction> Yip, Yip!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Appa groans and flies upward, away from the swamp. A tornado suddenly
+                emerges from out of nowhere, heading right for Appa. Sokka, hearing something, turns
+                around and finally sees it.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Panicked.</charAction> You better throw in an extra "yip"! We gotta
+            move!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Appa starts to fly faster, attempting to avoid the tornado, however he is
+                not fast enough to get away. As the tornado begins to move closer to Appa, the wind
+                pulls Sokka right off from the saddle. Katara manages to grab his hand, holding him
+                back from flying into the tornado. Aang jumps up onto Appa's saddle and creates an
+                air shield around Appa, stabilizing the air and allowing Sokka to fall back into the
+                saddle, uninjured. The wind sucks Appa, who is still protected by the air shield,
+                into the tornado. Aang struggles to maintain the air shield, however as it shrinks,
+                one of Appa's legs slips from the protective air, thereby breaking it. Aang, Katara,
+                and Sokka fall off Appa, with Aang landing lightly in muddied water as the latter
+                two land quite roughly. Appa and Momo are thrown elsewhere in the
+                swamp.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Looking around the swamp and at his friends.</charAction> Where's Appa
+            and Momo? <charAction>Aang jumps up to the top of the trees, looking for his animal
+                friends as he uses the height to search for them.</charAction> Appa! Momo!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts back to Katara and Sokka. Katara glances at her elbow before
+                looking up at her brother.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Pointing blandly.</charAction> Sokka, you've got an elbow
+            leech.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>He spins around, panicking, trying to find it.</charAction> Where?
+            Where?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>A creature is shown sticking on to Sokka's elbow.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Crosses her arms; sarcastically.</charAction> Where do you
+            think?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Ripping off the elbow leech and throwing it behind to Katara. He cries
+                out angrily.</charAction> Why do things keep attaching to me?!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang swings over the muddied water on a vine, waiting for it to stop moving
+                so he can land.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>You couldn't find them?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Jumping down into the muddy water.</charAction> No, and the tornado ...
+            it just disappeared.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara and Sokka turn to face the darkness in the swamp. The scene switches
+                to Appa, who is hanging suspended over the swamp, caught in a mass of vines. Momo
+                jumps up from the saddle and begins chewing through the vines. Appa falls, with
+                Momo, into the muddy water. He shakes the water from his fur and takes off flying,
+                before again becoming trapped. Appa groans as Momo berates him, before the lemur
+                begins to cut the vines, again. The scene switches back to Aang, Katara, and
+                Sokka.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Cutting the vines with his machete.</charAction> We better speed things
+            up.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>To Sokka.</charAction> Maybe we should be a little nicer to the
+            swamp.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Continuing to cut the vines.</charAction> Aang, these are just plants.
+            Do you want me to say "please" and "thank you" as I swing my machete back and
+            forth?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Maybe you should listen to Aang. Something about this place feels ...
+                <description>alive.</description></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I'm sure there are lots of things that are alive here and if we don't wanna wind up
+            getting eaten by them, we need to find Appa as fast as we can.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka continues to slice through the vines. The shot changes perspective to
+                show Aang, Katara and Sokka through the vines, as though someone is looking at them.
+                The scene changes to Appa and Momo. Appa is walking on the wet, muddy ground,
+                trailing his footprints behind, carrying Momo on his back. A tree trunk happens to
+                be in Appa's way, and the bison collapses to the ground, unwilling to attempt flying
+                over it or crawling beneath it. Momo takes Aang's bison whistle and blows it to make
+                Appa move. The bison ignores it the first time, growling angrily, but when Momo
+                blows it a second time, he uses his tail to squash the lemur. Dazed from the blow,
+                Momo sways and collapses. The scene changes back to Aang, Katara, and Sokka, now
+                walking through a foggier part of the swamp.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Yelling.</charAction> Appa! Momo!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>There's no way they can hear us and no way we can see them. We'll have to make camp
+            for the night.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Several flies surround Sokka. Sokka swings his machete at them, trying to
+                shoo them away. At that moment, a huge bubble of swamp gas rises from the muddy
+                water below them. The gas grows closer to Aang, Katara, and Sokka.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>What was that?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Nothing, just swamp gas. <charAction>Indicating.</charAction> Look, there's nothing
+            supernatural going on here.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The three groan as the smell reaches them, with Sokka waving his hand in
+                front of his nose as Katara clamps hers shut. Suddenly, the quiet is shattered by a
+                terrifying scream, causing them all to scream and huddle together, looking around
+                wide-eyed for the source. The camera zooms backward, showing a small, grumpy-looking
+                white bird. It opens its beak extremely wide, emitting the terrifying scream, and
+                flutters off.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Sweating, his voice cracking.</charAction> I think we should build a
+            fire.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka runs off to a nearby tree and cuts pieces of wood from its roots.
+                Aang and Katara walk up to Sokka.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Sokka, the longer we're here, the more I think you shouldn't be doing do
+            that.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>No, I asked the swamp. It said this was fine. <charAction>Grabs a nearby
+                root.</charAction> Right, swamp? <charAction>Shakes the root and fakes a
+                reply.</charAction> "No problem, Sokka!"</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka continues to chop up the roots, while Aang looks somewhat annoyed.
+                The scene changes to a later shot of the trio around a fire. Katara glancing around
+                at the swamp.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Does anyone else get the feeling that we're being watched?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka is shown with a fly buzzing around him. He does not seems scared
+                anymore.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Please, we're all alone out here.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka uses his machete to try and scare the fly off. The fly turns into a
+                big, shining ball of light. It flies away from the gang, illuminating over a dozen
+                pairs of eyes staring at them. They turn around and see them.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Except for them.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>They turn back around and huddle together.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>His calm demeanor vanishing.</charAction> Right, except for
+            them.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene changes to Appa and Momo, who are lying down on a giant tree
+                branch. The constant nocturnal noises echoing around them has Momo scuttling
+                frantically from one end of the saddle to the other whilst chittering in fear. Appa,
+                unable to sleep by the noise, growls loudly, causing the noises to stop, and Momo
+                settles down on Appa's saddle. As Momo begins to close his eyes, another small sound
+                is heard, causing his ears to perk up and his eyes to widen. The scene changes back
+                to Aang, Katara, and Sokka. The camp fire is beginning to die out, and the three
+                friends are huddled together, sleeping. Another perspective shot shows someone
+                looking at them through the vines. A vine snakes its way to Sokka's leg, which is
+                sticking out, and begins to wind around both it and Sokka's whole
+                body.</description>
+            <description>The shot cuts to an overhead view of the three, each tied up by several
+                vines that snake out of the frame. The scene cuts to a close-up profile shot of the
+                three. For a moment, they are still asleep - Sokka holding his machete and drooling
+                - but they awake screaming as the vines simultaneously yank them all out off the
+                screen and away from each other.</description>
+            <description>The scene cuts to Sokka. He plants the blade of his machete in the ground
+                as he is dragged away. Both Katara and Aang are also dragged off into the mist.
+                Sokka gets up and looks around for his sister and Aang. The respite does not last
+                long as vines are suddenly thrown at him. They wrap around him and attempt to drag
+                him away again. Before he can travel too far, Sokka starts hacking the vines with
+                his machete. He frees himself and runs back down the tree root, pursued by more
+                vines.</description>
+            <description>The scene cuts to Katara, struggling to free herself from the vines. Using
+                a water whip she cuts through her bonds and runs off into the mist.</description>
+            <description>The scene cuts to Aang, who frees himself by creating an air bubble around
+                him and expanding it. His bonds attach to the bubble, and Aang jumps away before
+                they ensnare him again. He jumps through the trees, closely pursued by more vines.
+                He escapes a vine that pulls him to the ground using his airbending to propel
+                himself far away and soon finds himself alone in the swamp. Cut to a wide shot of
+                Aang looking around for his friends.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Guys?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene fades to a shot of Appa's footprint, which is now filled with
+                swamp water. Two figures are looking down at the footprint. Due is tall and skinny,
+                while his friend Tho is short and fat. Both wear small, animal skin loincloths and
+                have a single, large leaf on their heads to serve as a hat. Tho is carrying a stick,
+                and uses it to indicate the animal track.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>What'd you reckon make a track like that, Tho?</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>Don't know, Due. <charAction>Points his stick at the footprint.</charAction> Some'in
+            with six legs. Pretty big'uns too.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera pans up to reveal more of Appa's tracks in the
+                mud.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>Leaves a nice, wide trail to folla'.</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>You know what's at the end of that trail?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Due shakes his head in the negative. Cut to a close-up of Tho's smiling
+                face.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech><charAction>Grinning.</charAction> Dinner.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to Appa swimming in the marshy water before cutting to a
+                close-up of Momo. A fly is buzzing around his head, and he watches it, shifting his
+                eyes from side to side. It flies off, and Momo goes after it. He lands on a nearby
+                tree root, still attempting to catch the fly. He hops from tree root to tree root,
+                following the fly, although unknowingly lands on the back of a catgator. He catches
+                the fly on the last root, but lets go of it as he jumps to fly away from the
+                creature. It pursues Momo as he flies back to Appa. The camera pans left, following
+                the chase. When Momo and the crocodile reach Appa, the sky bison's mouth is open and
+                the catgator swims right into it. Appa holds the creature there for a moment, before
+                spitting it back out. Momo and the catfish crocodile hiss at each other for a
+                moment, and the crocodile swims off. The scene cuts back to Appa, who shakes his
+                head and loudly groans.</description>
+            <description>Cut to Katara, who is walking through an area where the tree roots are
+                covered in white flowers.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Calling out.</charAction> Aang! Sokka!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Ahead of Katara is another Water Tribe woman, her back facing Katara. She
+                wears the same robe as Katara and has the same hair style. Katara begins walking
+                toward the figure.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Hello? Hello? Can you help me? <charAction>She squints.</charAction> Mom?
+                <charAction>More loudly and running toward the figure.</charAction> Mom!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Katara runs to the figure, her eyes streaming tears of joy. She reaches the
+                figure and places a hand on her shoulder.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I can't believe ...</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The smile leaves her face as the scene begins to lighten. Katara stands in
+                front of a tree stump as she realizes the figure was only an illusion. Katara gasps,
+                falling to her knees as she begins to cry. It cuts to an overhead shot of the very
+                devastated Katara, and fades to shot of Sokka's hand holding his machete in the air.
+                The rest of Sokka appears.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Aang! <charAction>While slashing at the vines.</charAction> Stupid swamp! Dumb, ugly
+            vines! Katara! <charAction>He becomes caught, and grunts with exertion before slicing
+                himself free.</charAction> You think you're so tough, huh?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka trips over as he cuts through the vine in which he was tangled,
+                falling offscreen with his face in the mud. Upon lifting up his head, he sees an
+                image of Yue in a beam of light not far in front of him. Sokka stands up, puts away
+                his machete and starts walking toward Yue.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Hello? Yue? <charAction>He takes a hold of his head, before removing his hands and
+                shrugging, turning away from the apparition.</charAction> This is just a trick of
+            the light ... swamp gas ... I ... hit my head running away last night. I'm going crazy.
+                <charAction>Almost fearfully, he turns around and walks
+            closer.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Princess Yue">Princess Yue</speaker>
+        <speech><charAction>Accusingly.</charAction> You didn't protect me.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka rubs his eyes in disbelief, opening them to find that Yue has
+                disappeared. Sokka sighs in relief, but as he turns around he falls over backward,
+                startled at seeing Yue right before his eyes again. The image of Yue disappears
+                immediately after that and Sokka stands up and pulls his machete back out, almost
+                threateningly.</description>
+            <description>The scene switches to Aang, who is wandering the swamp calling the names of
+                his friends.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Katara! Appa!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Upon wading through the swamp, Aang notices an unfamiliar girl in a dress
+                standing on a hill, accompanied by a winged pig.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Hello? Who are you?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The pig flies off and the girl giggles, before turning around and running
+                away.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Hey, come back! <charAction>He holds his hand out as though to grab
+                her.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang jumps to the top of the hill, only to find she has completely
+                disappeared from his sight. Hearing her laugh again, Aang turns around only to see
+                her running across the limbs of another tree. He uses the vines, however before he
+                can even reach his destination, the girl has moved and is now running across the
+                ground tries to chase the girl. Aang continues his wild chase through the treetops,
+                as the scene switches to show Appa with Momo on his back swimming through the river
+                that flows through the swamp. A little further on the stream, covered by fog, is a
+                group of six swamp tribe members divided over three canoes; Due and Tho sitting in
+                the middle canoe. They look at each other in silence for a few moments, Tho wetting
+                his lips using his tongue. Appa halts as Momo chitters at the strange
+                people.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>Look at that Tho. Is that a little hairy fella ridin' that thing?</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>No, that's what they call a "lemoo". Saw one at a traveling show once. Real smart
+            they say.</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>Bet he tastes a lot like possum chicken.</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>You think everything tastes like possum chicken.</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>C'mon now, fellas. <charAction>He moves to the front of the boat.</charAction> Just
+            a little closer. Nice and easy. Nothing to worry about. We just fixin' to eat
+            ya.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Appa turns around and takes off in the opposite direction.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech><charAction>Annoyed.</charAction> What'd you say that fer?</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech><charAction>Shrugging as he tries to appease his friend.</charAction> Well, we
+            are!</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>But you don't have to tell 'em that.</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech><charAction>He shrugs again.</charAction> Well how'd I know they'd understand
+            me?</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>Come on!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Due stands up in front of the canoe and starts spinning his arms, bending
+                the water behind his canoe in order to chase Appa. The other two canoes follow suit,
+                trailing behind Appa in a 'V' formation. Appa bounds through the river, desperate to
+                escape the strange people hunting him. The scene switches back to Aang, who is still
+                chasing the girl.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Who are you?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Peering through a wall of vegetation, Aang sees the girl on a small hill.
+                Running after her, it is too late to stop as he notices that it is not the girl, but
+                Katara. Aang runs into the waterbender and they both fall over. Sokka hears the
+                commotion and turns around to investigate with his machete cocked - in the wrong
+                direction, as only a few seconds later, Aang and Katara come barreling down the root
+                he is standing on and hit him in the back, knocking him over too.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>He stands up and puts his machete away.</charAction> What do you guys
+            think you're doing!? I've been looking all over for you!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>She has not moved, although her hand is on her head as she sits on the
+                root they have fallen onto.</charAction> Well, I've been wandering around looking
+            for you!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>He looks away before airbending himself to his feet. He appears
+                embarrassed that he was not actively searching for his friends like they were
+                him.</charAction> I was chasing some girl.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>What girl?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>He walks over to Katara and helps her up before rubbing his
+                ear.</charAction> I don't know. I heard laughing and I saw some girl in a fancy
+            dress.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Sarcastically, with exaggerated hand movements.</charAction> Well, there
+            must be a tea party here and we just didn't get our invitations!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I thought I saw Mom.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Look, we were all just scared and hungry and our minds were playing tricks on us.
+            That's why we all saw things out here.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Surprised.</charAction> You saw something too?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>He looks away for a moment, before turning back and taking a step closer
+                to his sister.</charAction> I thought I saw Yue. But, that doesn't prove anything.
+            Look, I think about her all the time, and you saw Mom, someone you miss a lot.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>What about me? I didn't know the girl I saw. And all our visions led us right
+            here.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang begins walking around, as if looking for something.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Okay ... so where's here? The middle of the swamp?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang looks around, his gaze finally resting on a massive tree growing right
+                next to him. The camera pans to reveal exactly how enormous the tree really
+                is.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Yeah, the center ... it's the heart of the swamp. It's been calling us here. I knew
+            it.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>It's just a tree. <charAction>He raises his arms above his head.</charAction> It
+            can't call anyone. For the last time, there's nothing after us and there's nothing
+            magical happening here.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>As Sokka finishes his tirade, a seaweed monster jumps out from the water.
+                The gang huddles together and screams, separating as the monster begins to attack
+                them. The seaweed monster goes after Sokka first as the trio split up, each running
+                in different directions. Sokka is picked up and swung around, only being released as
+                Aang uses airbending to slice part of the monster's arm off. The monster goes after
+                Aang, flicking the monk away and into the surrounding trees. Sokka is shown fighting
+                with the vines that had him captured only seconds ago, and so intent was he at
+                destroying them, he failed to notice a column rising behind himself. The column
+                attaches to the seaweed monster and Sokka is swiped from the ground. Katara comes to
+                his rescue this time as she slices at the monster's arm. It did not have the desired
+                effect, as more vines grew to patch up the hole her waterbending created. She
+                manages to push the monster back a little, however it is not long before she is
+                flung away. Aang stops to watch her, giving the monster time to attack him. Sokka is
+                absorbed into the chest of the monster as the scene changes to Appa continuing his
+                escape from the Foggy Swamp members. Momo throws objects at them from the back of
+                his friend, attempting to slow them down. One of these such items was a shirt that
+                appears to belong to Sokka at a Foggy Swamp member, resulting in the boat that
+                member was on to spin out of control.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>Now, what would a lemoo need a shirt fer?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Tho manages to capture Momo after the latter hits a low tree branch and is
+                thrown backward. The loss of his friend encourages Appa to run faster. The scene
+                changes back to the gang fighting the seaweed monster. After using a tornado-like
+                airbending move, Katara freezes Sokka in place before shooting him with water,
+                expelling him from the monster's body. The fight ends as Katara begins to waterbend
+                repeatedly at the monster, slicing through the vines and not allowing the monster to
+                regenerate. A person is seen inside the monster, bending the vines.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>There's someone in there! He's bending the vines!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>With a final slice, Katara cuts through the mask on the seaweed monster,
+                the whole top half falling off. However, this does not stop the monster, and vines
+                spring out of the marsh, capturing Katara high on a pillar. Aang airbends over to
+                the monster and, using his native bending, rips apart the vines.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Demanding offensively.</charAction> Why did you call me here if you just
+            wanted to kill us!?</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>Wait! <charAction>The vines drop to reveal a slightly larger man wearing nothing but
+                a leaf loincloth.</charAction> I didn't call you here.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>He shares a look of confusion with Sokka, who is also in an offensive
+                stance.</charAction> We were flying over and I heard something calling to me,
+            telling me to land.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>He's the Avatar. Stuff like that happens to us a lot.</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>The Avatar? Come with me.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The trio drop their stances and look at each other. The scene cuts to Huu,
+                leading the gang to the top of the giant tree Aang noticed earlier.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>So, who are you then?</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech><charAction>Bending a vine out of the way.</charAction> I protect the swamp from
+            folks that want to hurt it, like this fella with his big knife.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>See, completely reasonable. <charAction>He finally puts his machete
+                away.</charAction> Not a monster, just a regular guy defending his home. Nothing
+            mystical about it.</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>Oh the swamp is a mystical place all right. It's sacred. I reached enlightenment
+            right here under the banyan-grove tree. <charAction>He sits on the tree, looking at the
+                group as he explains.</charAction> I heard it calling me, just like you
+            did.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Humoring Huu.</charAction> Sure you did. It seems real chatty.</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech><charAction>The camera zooms out as he explains, slowly revealing more and more of
+                the swamp. It shows how large the banyan-grove tree is compared to the others, but
+                at the final magnification, it is impossible to distinguish it from the other
+                trees.</charAction> See this whole swamp is actually just one tree spread out over
+            miles. Branches spread and sink, take root, and spread some more. One big, living
+            organism. Just like the entire world.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Cuts back to Aang, looking at Huu. He is still openly
+                skeptical.</charAction> I get how the tree is one big thing, but the whole
+            world?</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>Sure. You think you're any different from me or your friends or this tree? If you
+            listen hard enough, you can hear every living thing breathing together.
+                <charAction>Another shot shows the swamp river. There are the sounds of several
+                animals heard in the background.</charAction> You can feel everything growing. We're
+            all living together, even if most folks don't act like it. We all have the same roots
+            and we are all branches of the same tree.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>She and her friends are now sitting, listening to Huu.</charAction> But
+            what did our visions mean?</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>In the swamp, we see visions of people we've lost, people we loved, folks we think
+            are gone. <charAction>The shot cuts to show the people that Sokka and Katara saw in the
+                swamp, before cutting back to Huu.</charAction> But the swamp tells us they're not.
+            We're still connected to them. Time is an illusion and so is death.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>But what about my vision? It was someone I had never met.</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>You're the Avatar. You tell me.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>He looks down as he tries to understand.</charAction> Time is an
+            illusion. So, it's someone I will meet.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Huu nods.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Sorry to interrupt the lesson, but we still need to find Appa and Momo.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I think I know how to find them. <charAction>Aang kneels down and places his hand on
+                the tree.</charAction> Everything is connected. <charAction>Energy travels from
+                Aang's hand to Appa's location. Appa is seen being captured by the Foggy Swamp
+                members. Back at the banyan-grove tree, Aang stands up.</charAction> Come on! We've
+            got to hurry!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Back to the Foggy Swamp members, Appa is trapped inside a net while Tho
+                sings.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech><charAction>Singing and tapping the side of his canoe. Momo is seen struggling
+                inside the sack he has been placed in.</charAction> Set my lines by the river bed!
+            Caught ten fish and I killed 'em dead! Cut 'em and gut 'em and I tossed the heads in the
+            water to keep them catgators fed.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The boats stop when a jet of water appears and destroys the boat next to
+                Tho and Due's. The two people from the destroyed boat fly into the water as Aang
+                appears on a tree branch.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Appa!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Aang airbends a stream of air, throwing Tho into the water and freeing Momo
+                who was being held by Tho.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>We're under attack!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Due scoops up a puddle of water and sends it toward Aang and Katara. The
+                three become engaged in a waterbending fight, with neither side gaining an
+                advantage.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Hey, you guys are waterbenders!</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>You too! That means we're kin! <charAction>Due ceases waterbending, followed by a
+                slightly disgusted Katara. He watches as Sokka and Huu run up to the branch Katara
+                and Aang are standing on.</charAction> Hey Huu! How you been?</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>You know, scared some folks, swung some vines, the usual.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Huu?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to the gang sitting around a fire in the Foggy Swamp Tribe.
+                There is a member waterbending some liquid in a pot to stirs it, and Due grabs a
+                fish from the pot before moving over to the fire.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>How you like that possum chicken?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Tastes just like arctic hen. So why were you guys so interested in eating Appa?
+                <charAction>He indicates the catgator lying behind Tho.</charAction> You've got
+            plenty of those big things wandering around.</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech>You want me to eat old Slim? He's like a member of the family!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Due pulls the fish off the branch and gives it to Slim.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Nice Slim!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka throws a bug at the catgator; it bounces off his nose and he growls
+                at Sokka, who cowers slightly.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech><charAction>Laughing.</charAction> Oh, he don't eat no bugs! That's people
+            food.</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>Where'd you say you was from?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Smiling. Sokka is shown chewing nonchalantly next to her.</charAction>
+            The South Pole.</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>Didn't know there was waterbenders anywhere but here. They got a nice swamp there,
+            do they?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No, it's all ice and snow.</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>Hmm. No wonder you left.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>To Katara.</charAction> Well, I hope you realize now that nothing
+            strange was going on here. <charAction>He raises his arms for emphasis.</charAction>
+            Just a bunch of greasy people living in a swamp.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>What about the visions?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I told you, we were hungry. I'm eating a giant bug!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka holds up said giant bug, taking a bit of its abdomen. He swallows it
+                with some difficulty before exhaling sharply, sticking his tongue out.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Feeding Momo.</charAction> But what about when the tree showed me where
+            Appa and Momo were?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>That's Avatar stuff, that doesn't count. <charAction>To Huu.</charAction> The only
+            thing I can't figure out is how you made that tornado that sucked us down.</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>I can't do anything like that. I just bend the water in the plants.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Well, no accounting for weather. Still, there's absolutely nothing mysterious about
+            the swamp.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to a long shot of the camp from across the river. The white screaming
+                bird from earlier lands on a visible tree branch and lets out its horrible cry. A
+                nearby vine rises up and bats the bird into the camera, which goes
+                dark.</description>
+            <description>When the image returns, it is of a full moon back in the Earth Kingdom
+                village where Zuko and Iroh were seen last. The camera pans down to reveal the
+                broadsword man walking down a street alone. He hears something behind him, turns and
+                draws his blades. The scene cuts to a frontal shot of him, where there was nothing
+                behind him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Broadsword man">Broadsword man</speaker>
+        <speech>Who's there?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to a close-up shot of his hands, which are both grabbed by
+                another person. He is disarmed and thrown against some nearby boxes, his swords
+                falling uselessly to the ground. His assailant's feet are seen to approach the
+                sword. He picks them up, the camera in turn reveals that the assailant is the Blue
+                Spirit himself.</description>
+        </speech>
+    </p>
+    <p>
+        <speech>
+            <description>Fades to credits.</description>
+        </speech>
+    </p>
+</root>

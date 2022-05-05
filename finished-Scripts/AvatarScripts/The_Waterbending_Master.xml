@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="18">The Waterbending Master</title>
+      <director>Giancarlo Volpe</director>
+      <writer>Michael Dante DiMartino</writer>
+      <date>2005-11-18</date>
+      <location nation="water">Agna Qel'a</location>
+   </metadata>
+   <section>
+      <description>The episode opens to show a koala otter calmly floating on its back on the
+                water, purring slightly. Noticing something approach to its right, it turns its
+                head, chirps, and dives under water as a large shadow passes it by. It turns out to
+                be Appa flying overhead.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Hanging lazily over the back of Appa's saddle; grumpily.</charAction>
+            I'm not one to complain, <charAction>Side-view shows Appa flying just above the
+                water.</charAction> but can't Appa fly any higher?</speech>
+   </section>
+   <section>
+      <description>Sokka's words barely left his lips as Appa loses more altitude and his paws
+                drag through the water momentarily, before rising slightly again. Cut to a shot from
+                Appa's saddle, showing a bored Katara popping herself up on her elbows, staring into
+                nothingness in front of her, and a peeved Aang looking back from atop Appa's
+                head.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Irritably.</charAction> I have an idea! Why don't we all get on your
+                <charAction>Points angrily at Sokka; Katara briefly looks at Aang, but resumes her
+                stare in front of her.</charAction> back and you could fly us to the North
+            Pole?!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Back-view of Sokka looking over his shoulder;
+                sarcastically.</charAction> I'd love to. <charAction>Points to his
+                back.</charAction> Climb on everyone, <charAction>Shakes his rear.</charAction>
+            Sokka's ready for take off.</speech>
+   </section>
+   <section>
+      <description>A chirping Momo hops on his back, making Sokka shoot an angry glare at the
+                animal. Cut back to the shot of Katara and Aang, with the latter still staring
+                angrily at Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Waving her hands up and down while shifting looks between Aang and
+                Sokka.</charAction> Look, we're all just a little tired and cranky because we've
+            been flying for two days straight.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Frontal shot, Momo is now on his lap; annoyed.</charAction> And for
+            what? We can't even find the Northern Water Tribe. <charAction>Cut to a wide side-shot,
+                revealing Appa floating along a vast ocean of only water and ice.</charAction>
+            There's nothing up here.</speech>
+   </section>
+   <section>
+      <description>Cut to Katara and Aang, with the former having laid down her head in
+                boredom, letting it rest on her hands. She looks up in wonder when a slushing sound
+                can be heard. Cut to a frontal shot of Appa, while the water in front of him
+                suddenly rises and solidifies to ice spikes. Cut to a frontal shot of Aang screaming
+                in fright, his eyes wide in horror, as he violently yanks the reins to this right in
+                an attempt to avoid the sudden obstacle. Cut to a side-view of a growling and
+                turning Appa. Cut to the siblings yelling in fright as they hold on for dear life to
+                the sides of the saddle. Cut to a back-shot of a swerving Appa, who suddenly shoots
+                up as another ice spike manifests right in from of him. A close-up shot of his
+                underside shows that he was not quick enough, and part of the ice attaches itself to
+                his leg, freezing instantly. His momentum causes the ice to break, but he is thrown
+                off balance and catapulted away. Frontal shot of Katara and Sokka who loudly scream
+                in fright. Cut to a wider shot of Appa spiraling toward the camera, before switching
+                to an overview shot of him landing into the water, throwing it up high. As he turns
+                upright again, the water around him instantly freezes, and he is locked in place.
+                Cut to the surrounding ice spikes from which Water Tribe boats appear, each carrying
+                several waterbenders, surrounding the team. Cut to a surprised looking Katara and an
+                alarmed looking Sokka who is reaching for his boomerang atop the
+                saddle.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">They're waterbenders! <charAction>Happily.</charAction> We found the Water
+            Tribe!</speech>
+   </section>
+   <section>
+      <description>Cut to a more far-off shot of the scene, revealing Appa to be frozen in the
+                water, with six Water Tribe boats surrounding him.</description>
+      <description>The scene switches to a Fire Navy base in the Fire Nation harbor. The
+                camera cuts to inside a guarded tent, where Zhao is standing before a map of the
+                Avatar World.</description>
+   </section>
+   <section>
+      <speech speaker="Zhao">He's heading north. The Northern Water Tribe. The Avatar needs to master
+            waterbending. He's looking for a teacher.</speech>
+   </section>
+   <section>
+      <speech speaker="Li">
+         <charAction>Impatiently.</charAction> Then what are we waiting for? Let's go get
+            him!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">Patience, Captain Li. This isn't some little Earth village we can just march into.
+            The Water Tribe is a great nation. There's a reason they've survived a hundred years of
+            war. The frozen tundra is treacherous, the landscape itself is an icy fortress. We'll
+            need a massive invasion force.</speech>
+   </section>
+   <section>
+      <description>The scene changes to the North Pole where the group is being escorted to
+                the Northern Water Tribe. The magnificent wall of the city comes into view much to
+                everyone's amazement.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Pointing excitedly.</charAction> There it is!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>In awe.</charAction> The Northern Water Tribe.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Surprised.</charAction> We're finally here.</speech>
+   </section>
+   <section>
+      <description>A portion of the icy wall is lowered, allowing them to enter into the city.
+                Canal workers use waterbending to transport the group into the city.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Fascinated.</charAction> I can't believe how many waterbenders live up
+            here!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To Katara.</charAction> We'll find a master to teach us, no
+            problem.</speech>
+   </section>
+   <section>
+      <description>The team passes through the channels of the city, catching the attention of
+                several civilians who run over to spectate them. Aang waves happily at the people.
+                As they continue their trek inward, Sokka notices a young lady going by on a boat,
+                capturing his attention. He blushes at the sight of her and leaps onto Appa's tail
+                as she pulls away from view.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">This place is beautiful.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Yeah ... she is ...</speech>
+   </section>
+   <section>
+      <description>The scene changes to nightfall, where Zuko's ship is docked in a port.
+                Members of the crew have gathered for music night on the ship. Lieutenant Jee plays
+                a lute as Iroh sings. Several other crew members play instruments or
+                dance.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Singing.</charAction> Winter, spring ... Summer, and fall ... Winter,
+            spring ... Summer, and fall ... Four seasons ... four loves ... Four seasons ... for
+            love.</speech>
+   </section>
+   <section>
+      <description>The music stops as they notice Admiral Zhao boarding the ship, along with
+                two soldiers. The crew looks in surprise at the admiral. A high-pitched chord emits
+                from the lute. The scene switches back to the Northern Water Tribe, where Team
+                Avatar is being honored with a feast, hosted by the tribe's chief. Men play drums
+                and a giant crab is set in a pool of water.</description>
+   </section>
+   <section>
+      <speech speaker="Arnook">Tonight, we celebrate the arrival of our brother and sister from the Southern Tribe.
+            And they have brought with them, someone very special, someone whom many of us believed
+            disappeared from the world until now ... the Avatar! <charAction>Crowd applauds and
+                cheers.</charAction> We also celebrate my daughter's sixteenth birthday. Princess
+            Yue is now of marrying age!</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">Thank you, Father. May the great Ocean and Moon Spirits watch over us during these
+            troubled times!</speech>
+   </section>
+   <section>
+      <speech speaker="Arnook">Now, Master Pakku and his students will perform!</speech>
+   </section>
+   <section>
+      <description>Pakku and two students bend significant blobs of water, captivating Aang
+                and Katara. They merge the three blobs into one stream, bending it around each
+                other. Yue approaches Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Hi there. Sokka, Southern Water Tribe.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">
+         <charAction>Smiling and bowing slightly.</charAction> Very nice to meet you.
+                <charAction>They nervously share an awkward silence for a
+            moment.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Nervously.</charAction> So ... uhhh ... you're a princess, huh?
+                <charAction>She nods and smiles.</charAction> You know, back in my tribe, I'm kind
+            of like a prince, myself. <charAction>Shot pans left to reveal
+            Katara.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hopping in on the conversation; teasingly.</charAction> Ha, prince of
+            what?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">A lot of things! Do you mind? I'm trying to have a conversation here.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Sarcastically.</charAction> My apologies, Prince Sokka.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">So, it looks like I'm going to be in town for a while. I'm thinking ... maybe we
+            could ... do an activity, together?</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">
+         <charAction>Slightly confused; laughs.</charAction> Do an activity?</speech>
+   </section>
+   <section>
+      <description>Embarrassed while sweating, Sokka stuffs food in his mouth. Screens widens
+                to the left to show Katara clearly enjoying her brother's attempt at
+                courting.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Very smooth ...</speech>
+   </section>
+   <section>
+      <description>Cut to a long shot of the plaza fountain. In front of it stand the Chief,
+                Master Pakku and Aang. Arnook and Aang go to Pakku.</description>
+   </section>
+   <section>
+      <speech speaker="Arnook">Master Pakku, meet your newest student, the Avatar. <charAction>Aang
+                bows.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">Just because you're destined to save the world, don't expect any special
+            treatment.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">My friend and I can't wait to start training with you! After we relax for a couple
+            of days.</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">If you want to relax, then I suggest visiting a tropical island. If not, I'll see
+            you both at sunrise. Good night.</speech>
+   </section>
+   <section>
+      <description>Back on Zuko's ship. Iroh enters Zuko's room.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">For the last time, I'm not playing the tsungi horn!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">No, it's about our plans. There's a bit of a problem.</speech>
+   </section>
+   <section>
+      <description>Zhao enters.</description>
+   </section>
+   <section>
+      <speech speaker="Zhao">I'm taking your crew.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Cut to a shocked Zuko.</charAction> What?! <charAction>Turns around to
+                face Zhao.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">I've recruited them for a little expedition to the North Pole.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Uncle, is that true?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">I'm afraid so. He's taking everyone ... <charAction>Putting his arm over his face in
+                woe.</charAction> even the cook.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">Sorry you won't be there to watch me capture the Avatar. But I can't have you
+            getting in my way again.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Cuts to a furious Zuko. Zuko charges at Zhao in anger, but Iroh cuts him
+                off.</charAction> No!</speech>
+   </section>
+   <section>
+      <description>Zhao notices a pair of swords on the wall. Cut to a close-up of Zhao's
+                face, swollen in anger as he recognizes the blades. He flashes back to the Rescue in
+                Pohuai Stronghold, where the same swords were wielded by the previously-unknown Blue
+                Spirit. He takes one off the wall; cut to Zuko's face, his eyes wide and mouth open,
+                clearly recognizing the danger he is in. Iroh, visible over Zuko's shoulder, does
+                not. Cut back to Zhao, who begins practicing with the sword he has removed from the
+                wall.</description>
+   </section>
+   <section>
+      <speech speaker="Zhao">I didn't know you were skilled with broadswords, Prince Zuko.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">I'm not. They're antiques. Just decorative.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">Have you heard of the Blue Spirit, General Iroh?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Just rumors. I don't think he is real.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">He's real, all right. <charAction>He hands the broad sword to Iroh.</charAction>
+            He's a criminal, and an enemy of the Fire Nation. But I have a feeling justice will
+            catch up with him soon. <charAction>Zhao moves to exit the cabin.</charAction> General
+            Iroh, the offer to join my mission still stands ... if you change your mind.</speech>
+   </section>
+   <section>
+      <description>The next morning, at the Northern Water Tribe.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Excitedly.</charAction> I've waited for this day my whole life. I
+            finally get to learn from a real waterbending master!</speech>
+   </section>
+   <section>
+      <description>Pakku is bending a stream of water.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Good morning, Master Pakku!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">
+         <charAction>Drops the water, and speaks in an annoyed tone.</charAction> No, please,
+            march right in. I'm not concentrating or anything.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Uhhh ... This is my friend, Katara. The one I told you about?</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">I'm sorry, I think there's been a misunderstanding. You didn't tell me your friend
+            was a girl. In our tribe, it is forbidden for women to learn waterbending.</speech>
+   </section>
+   <section>
+      <description>Cut to a shot panning up Katara's body, her face clearly reflecting the
+                anger she feels.</description>
+      <description>Cut to a long, overhead shot of the Northern Water Tribe city, looking back
+                from the main wall to the citadel. Cut back to a close up of Katara.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Angrily.</charAction> What do you mean you won't teach me? I didn't
+            travel across the entire world so you could tell me no!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">No.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But there must be other female waterbenders in your tribe!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">Here, the women learn from Yagoda to use their waterbending to heal. I'm sure she
+            would be happy to take you as her student, despite your bad attitude.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I don't want to heal, I want to fight!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">I can see that. But our tribe has customs, rules.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Furious.</charAction> Well, your rules stink!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Also just as angry.</charAction> Yeah, they're not fair! If you won't
+            teach Katara, then ...</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">Then what?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Then I won't learn from you!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">Well, have fun teaching yourself! I'm sure you'll do a great job.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Wait! Aang didn't mean that! <charAction>Goes to Aang.</charAction> You can't risk
+            your training for me. You have to learn from Master Pakku, even if he is a big
+            jerk.</speech>
+   </section>
+   <section>
+      <description>Aang nods. Katara exits.</description>
+   </section>
+   <section>
+      <speech speaker="Pakku">Why don't we get started, then? <charAction>Aang gets hit with a water blast from
+                him.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>In another part of the city. Sokka catches up with Princess
+                Yue.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Princess Yue, good morning! How about that picnic last night? Boy, your dad sure
+            does know how to throw a party.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">I'm happy you enjoyed yourself.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Well, it wasn't as much fun after you left. <charAction>They both
+                blush.</charAction> So, I'm still hoping we can see more of each other.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">Do an activity, you mean?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Yes ... at a place ... for some time.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">
+         <charAction>Laughs.</charAction> I'd love to. I'll meet you on that bridge tonight.
+                <charAction>Points at a bridge.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Great! I'll see you– Ah! <charAction>Falls into the water.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Yue">
+         <charAction>Laughs.</charAction> Sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Climbs out of the water.</charAction> That's okay, it was worth it. See
+            you tonight.</speech>
+   </section>
+   <section>
+      <description>Back at the Fire Navy base.</description>
+   </section>
+   <section>
+      <speech speaker="Zhao">I'm very impressed. You all seem highly qualified for the mission I have in
+            mind.</speech>
+   </section>
+   <section>
+      <description>The pirate captain pulls a small chest toward him and opens it, a dim glow
+                radiating from within. Pirate Barker Oh takes a piece of gold from the chest and
+                bites down on it.</description>
+   </section>
+   <section>
+      <speech speaker="Oh">That's some tasty gold.</speech>
+   </section>
+   <section>
+      <speech speaker="Pirate captain">What do you need us to do?</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">I believe you're acquainted with Prince Zuko.</speech>
+   </section>
+   <section>
+      <description>Back to the Northern Water Tribe, where Katara enters the healing
+                hut.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Uhhh ... Hi. Are you Yagoda?</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">Are you here for the healing lesson?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Looks at all the young girls, and speaks in a disappointed
+                tone.</charAction> I guess I am.</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">Welcome ... welcome!</speech>
+   </section>
+   <section>
+      <description>Back at Pakku's class. Aang is working with a stream of
+                water.</description>
+   </section>
+   <section>
+      <speech speaker="Pakku">You're moving the water around, but you're not feeling the push and pull.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm trying ...</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">
+         <charAction>Slurps some soup.</charAction> Maybe that move is too advanced for you.
+            Why don't you try an easier one?</speech>
+   </section>
+   <section>
+      <description>Aang slams down the water in frustration. Back at the healing hut, Katara
+                starts a conversation with Yagoda.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Thanks for the lesson.</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">So, who's the lucky boy?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Huh?</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">Your betrothal necklace. You're getting married, right?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Shocked.</charAction> Ah ... No. I don't think I'm ready for that yet.
+            My grandmother gave my mother this necklace and my mother passed it down to me.</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">I recognize this carving! I don't know why I didn't realize sooner; you're the
+            spitting image of Kanna!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Confused.</charAction> Wait, how do you know my Gran-Gran's
+            name?</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">When I was about your age, I was friends with Kanna. She was born here in the
+            Northern Tribe.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">She never told me.</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">Your grandmother had an arranged marriage with a young waterbender. He carved that
+            necklace for her.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">If Gran-Gran was engaged, why did she leave?</speech>
+   </section>
+   <section>
+      <speech speaker="Yagoda">I don't know. That's always been a mystery to me. She left without saying
+            goodbye.</speech>
+   </section>
+   <section>
+      <description>Later that night, at Zuko's ship.</description>
+   </section>
+   <section>
+      <speech speaker="Crew member">Good luck!</speech>
+   </section>
+   <section>
+      <description>Inside Zuko's room.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Cut to a shot of Prince Zuko lying in bed in the foreground of his
+                cabin. The door opens and Iroh sticks his head in. Entering.</charAction> The crew
+            wanted me to wish you safe travels.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Bitterly.</charAction> Good riddance to those traitors.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">It's a lovely night for a walk. Why don't you join me? It would clear your head.
+                <charAction>No response.</charAction> Or just stay in your room and sit in the dark.
+            Whatever makes you happy.</speech>
+   </section>
+   <section>
+      <description>The pirates make their way onto Zuko's ship, bringing up blasting
+                jelly.</description>
+   </section>
+   <section>
+      <speech speaker="Oh">Careful with the blasting jelly!</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Hearing the noise.</charAction> Uncle? Uncle, is that you?
+                <charAction>Walks around the ship.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The fuse to the blasting jelly is lit. The ship explodes.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Zuko! <charAction>Runs back to see the ship destroyed.</charAction> Zuko
+            ...</speech>
+   </section>
+   <section>
+      <description>Back to the North Pole. Sokka goes to meet Yue, who is looking out over the
+                bridge.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Hi, Princess Yue. I made you something. I carved it myself.</speech>
+   </section>
+   <section>
+      <description>Shows her a roughly-crafted creature.</description>
+   </section>
+   <section>
+      <speech speaker="Yue">It's a bear.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Actually, it's supposed to be a fish. <charAction>Flips the carved creature
+                around.</charAction> See, it has a fin.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">Oh. I'm sorry, I made a mistake. I shouldn't have asked you to come here.
+                <charAction>Runs away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Sokka is left stunned. He throws the fish into the water. Cut to the team's
+                place of stay.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">How's warrior training going? <charAction>Sokka kicks his bag.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">That bad?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">No, it's Princess Yue. I don't get it, one minute she wants to go out with me, and
+            the next, she's telling me to get lost. <charAction>Changing the topic.</charAction> So,
+            how's waterbending training?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Master Poophead won't teach her because she's a girl.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Why don't you just teach her, Aang?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Excited.</charAction> Why didn't I think of that? At night, you can
+            teach me whatever moves you learn from Master Pakku! That way, you have someone to
+            practice with, and I get to learn waterbending! Everyone's happy!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I'm not happy.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But you're never happy. Come on, Aang.</speech>
+   </section>
+   <section>
+      <description>Outside, near the water.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Bending up some water.</charAction> Master Pakku said this move is all
+            about sinking and floating. <charAction>Sends the water to her.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Bending the water.</charAction> I got it!</speech>
+   </section>
+   <section>
+      <description>The water suddenly shoots upward.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">That was amazing!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">That wasn't me.</speech>
+   </section>
+   <section>
+      <description>Master Pakku has caught them. He takes the water, freezes it, and sticks
+                the ice crystals into the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I was just showing Katara a few moves.</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">You have disrespected me, my teachings, and my entire culture.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm sorry, I ...</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">You are no longer welcome as my student.</speech>
+   </section>
+   <section>
+      <description>The next morning, the three meet with Chief Arnook, Master Pakku, and
+                Arnook's family members.</description>
+   </section>
+   <section>
+      <speech speaker="Arnook">What do you want me to do? Force Master Pakku to take Aang back as his
+            student?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Yes ... please!</speech>
+   </section>
+   <section>
+      <speech speaker="Arnook">I suspect he might change his mind, if you swallow your pride and apologize to
+            him.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Fine.</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">I'm waiting, little girl.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">No. <charAction>Begins cracking the ice inadvertently.</charAction> No way am I
+            apologizing to a sour old man like you! <charAction>Two pots
+            shatter.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Uhhh ... Katara?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I'll be outside if you're man enough to fight me.</speech>
+   </section>
+   <section>
+      <description>Yue gasps. Katara angrily walks out.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm sure she didn't mean that.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Yeah, I think she did.</speech>
+   </section>
+   <section>
+      <description>Back at the Fire Navy base. Zhao meets with Iroh over tea.</description>
+   </section>
+   <section>
+      <speech speaker="Zhao">I'm devastated to hear about Prince Zuko. Just ... devastated.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">The Fire Lord will not be pleased when he learns who was responsible.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">You know who was behind the attack?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Yes ... pirates. We had a run-in with them a while back. They wanted
+            revenge.</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">
+         <charAction>Sips his tea.</charAction> So, have you reconsidered my offer?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Yes, I accept. It will be an honor to serve as your general. To the Fire
+            Nation!</speech>
+   </section>
+   <section>
+      <speech speaker="Zhao">To victory!</speech>
+   </section>
+   <section>
+      <description>Back to the Northern Tribe. The three head outside, looking for
+                Pakku.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Are you crazy, Katara? You're not going to win this fight!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Takes off her coat.</charAction> I know! I don't care!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You don't have to do this for me. I can find another teacher.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I'm not doing it for you! Someone needs to slap some sense into that guy!
+                <charAction>Pakku comes down.</charAction> So, you decided to show up?
+                <charAction>Pakku walks away.</charAction> Aren't you going to fight?</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">Go back to the healing huts with the other women where you belong.
+                <charAction>Katara tightens her fist and sends water whips at him. Pakku
+                halts.</charAction> Fine. You want to learn to fight so bad? Study closely!
+                <charAction>He bends two streams of water from nearby pools and sends them both at a
+                charging Katara, who falls back. He joins the two streams together, encircling both
+                Katara and himself in a forceful ring of water.</charAction> Don't worry, I'm not
+            going to hurt you!</speech>
+   </section>
+   <section>
+      <description>Katara edges away from the ring and redirects the water away. The resulting
+                blast hits Sokka. Pakku builds an ice wall in defense, which Katara slides up. She
+                lands onto a nearby post. He melts the ice and directs the full blast at her.
+                However, Katara freezes her feet down and is able to direct the blast
+                away.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Determined.</charAction> You can't knock me down!</speech>
+   </section>
+   <section>
+      <description>Some of the crowd cheers.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Go, Katara!</speech>
+   </section>
+   <section>
+      <description>Katara charges at him; Pakku draws up a wall of ice, which she quickly
+                liquefies. She attempts to land blows, but Pakku ducks them all. He whips water and
+                throws her into a pool, earning the approval of other members of the
+                crowd.</description>
+      <description>Katara emerges from pool, shakes out her hair, and summons a small pillar
+                of ice, where she proceeds to send a series of ice discs at her opponent. Pakku
+                breaks up most of them using his wrists. The camera closes up to a slow-motion shot
+                of one coming very close to hitting him. He looks at her in irritation. Katara, now
+                back on the ground, attacks by sending a stream of water at him. However, Pakku
+                generates it into a larger stream of water and sends it full force at her. Katara is
+                sent back several feet. A close-up shot of her shows her bent over, breathing hard.
+                She rises suddenly and sends two snow pillars down at him which Pakku turns to a
+                dusty mist of snow. The mist clears.</description>
+   </section>
+   <section>
+      <speech speaker="Pakku">Well, I'm impressed. You are an excellent waterbender.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But you still won't teach me, will you?</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">No.</speech>
+   </section>
+   <section>
+      <description>Katara bends over sharply, sending a wave of ice at Pakku, who merely
+                raises himself onto an ice pillar. He proceeds to liquefy the pillar, charging
+                straight at Katara, who sends a powerful stream of water his way. Pakku avoids the
+                attack, instead managing to freeze Katara's stream of water which he slides across.
+                He surges past her and strikes her down, knocking her necklace off in the process.
+                Katara falls roughly to the ground as Pakku lands onto the rim of a pool, bends a
+                tower of water and manipulates the stream overhead his opponent. He deftly freezes
+                the water into several ice shards, which he sends down at Katara. She becomes
+                trapped in the flurry of frozen daggers and appears still for a moment. The crowd
+                gasps in horror; one child looks away in fear. Katara lifts her head and begins to
+                struggle, attempting to break free as Pakku casually strolls away.</description>
+   </section>
+   <section>
+      <speech speaker="Pakku">This fight is over.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Come back here. I'm not finished yet!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">Yes, you are. <charAction>Notices the necklace.</charAction> This is my necklace
+            ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">No, it's not. It's mine! Give it back!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">I made this sixty years ago for the love of my life ... for Kanna.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Unfreezing the ice; surprised.</charAction> My Gran-Gran was supposed to
+            marry you?</speech>
+   </section>
+   <section>
+      <description>Back at the Fire Navy base. The ships are set to begin the trek north. On
+                board, Iroh meets up with Zuko, who is disguised as a shipman.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Our plan is working perfectly. Zhao doesn't suspect a thing.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">You didn't have to do this.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">No nephew of mine is going to stow away on a ship without some backup.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Thank you, Uncle.</speech>
+   </section>
+   <section>
+      <description>A door opens.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">Someone's coming. Stay hidden until we get to the North Pole and the Avatar will be
+            yours. Good luck. <charAction>The two head their separate ways.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The scene changes back to the North Pole.</description>
+   </section>
+   <section>
+      <speech speaker="Pakku">I carved this necklace for your grandmother when we got engaged. I thought we would
+            have a long, happy life together. I loved her.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But she didn't love you, did she? It was an arranged marriage. Gran-Gran wouldn't
+            let your tribe's stupid customs run her life. That's why she left. It must have taken a
+            lot of courage.</speech>
+   </section>
+   <section>
+      <description>Yue cries and runs away.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>To Sokka.</charAction> Go get her.</speech>
+   </section>
+   <section>
+      <description>Sokka exits. Later that night, he catches up with her on the
+                bridge.</description>
+   </section>
+   <section>
+      <speech speaker="Yue">What do you want from me?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Nothing. I just want you to know, I think you're beautiful, and, I never thought a
+            girl like you would even notice a guy like me.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">You don't understand.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">No, no. See, that's the thing. I think I do understand now. You're a Princess, and
+            I'm ... I'm just a Southern peasant.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">No, Sokka ...</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's okay. You don't have to say anything. I'll see you around, okay?
+                <charAction>Yue grabs him and kisses him.</charAction> Okay, now I'm really
+            confused. Happy, but confused.</speech>
+   </section>
+   <section>
+      <speech speaker="Yue">I do like you, a lot. But we can't be together, and not for the reason you think.
+            It's because ... I'm engaged. <charAction>She pulls down the collar of her coat and
+                shows him her betrothal necklace.</charAction> I'm sorry. <charAction>Runs
+                off.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The next morning, at Pakku's class. Aang turns a blob of water into a
+                stream and awkwardly sends it off.</description>
+   </section>
+   <section>
+      <speech speaker="Pakku">Not bad, not bad. <charAction>Laughs.</charAction> Keep practicing and maybe you'll
+            get it by the time you're my age.</speech>
+   </section>
+   <section>
+      <description>Aang turns around, annoyed, but quickly smiles when he notices Katara
+                coming up.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Hey, Katara!</speech>
+   </section>
+   <section>
+      <speech speaker="Pakku">What do you think you're doing? <charAction>Pause as Katara looks up.</charAction>
+            It's past sunrise. You're late.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Good to see you here.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">You, too.</speech>
+   </section>
+   <section>
+      <description>Back at the Fire Navy fleet. Zhao and Iroh stand on top of the lead
+                ship.</description>
+   </section>
+   <section>
+      <speech speaker="Zhao">My fleet is ready. Set a course for the Northern Water Tribe.</speech>
+   </section>
+   <section>
+      <description>Cut to a panning overhead shot, which reveals dozens of Fire Navy ships
+                firing up their engines in preparation to launch the final assault on the Northern
+                Water Tribe.</description>
+   </section>
+   <section>
+      <description>Fade to white, followed by credits.</description>
+   </section>
+</root>

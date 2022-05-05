@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="36">Appas Lost Days</title>
+      <director>Giancarlo Volpe</director>
+      <writer>Elizabeth Welch Ehasz</writer>
+      <date>2006-10-12</date>
+      <location nation="earth">Wan Shi Tong's Library</location>
+      <location nation="fire">Fire Nation Circus</location>
+      <location nation="earth">Kyoshi Island</location>
+      <location nation="earth">Ba Sing Se</location>
+      
+   </metadata>
+   <section>
+      <description>The episode begins with the camera panning up from the sandy desert to the
+                library and Appa. The words "FOUR WEEKS AGO ..." fade on and off the camera. Cut to
+                Toph holding up the sinking library.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">No! Stop sinking!</speech>
+   </section>
+   <section>
+      <description>Cut to Appa growling as sandbenders tie him with ropes. One sandbenders
+                tugs on a rope tied to Appa's head. Appa lifts his head, sending the sandbender
+                flying and tumbling through the sand. Two more sandbenders let go of their ropes and
+                scatter to avoid Appa's tail. Appa becomes more annoyed.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Don't make me put this down! <charAction>Lets go of the library and sends a slice of
+                sand at the sandbenders, which misses completely. She grabs the library
+                again.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Ghashiun">Put a muzzle on him!</speech>
+   </section>
+   <section>
+      <description>One sandbender throws a rope around Appa's mouth, but Appa breaks it and
+                makes the sandbender fall down. Another sandbender throws a rope around Appa's horn
+                and Appa's sends the sandbender that tried to put a muzzle on him flying through the
+                air. Appa takes off, but a sandbender throws a rope around Appa's leg and uses
+                sandbending to secure his feet. The other sandbenders follow his lead and they all
+                force Appa to the ground. A sand-sailer sails next to Appa. The sandbenders use
+                their sandbending to drag Appa with three sailers. Cut to Toph, still holding onto
+                the library.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Regretfully.</charAction> I'm sorry, Appa. <charAction>She sniffles and
+                closes her eyes.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The camera pans to the right to show Appa. Cut next to Appa, who lowers his
+                eyes. Fade to the sun and pan down to the sailers crossing the desert. On one of the
+                sailers, Ghashiun lowers his mask and signals them to stop.</description>
+   </section>
+   <section>
+      <speech speaker="Ghashiun">Ransack his saddle. Who knows what treasures are stashed in there!</speech>
+   </section>
+   <section>
+      <description>Two sandbenders run up to Appa, who growls when they
+                approach.</description>
+   </section>
+   <section>
+      <speech speaker="Ghashiun">He's tied up good. He can't hurt you.</speech>
+   </section>
+   <section>
+      <description>The two sandbenders jump onto Appa's saddle, stirring some sand. Appa
+                sneezes, sending the center sailer into a sand dune. Cut to Ghashiun and a
+                sandbender, who talk while, in the background, two sandbenders throw the contents of
+                Appa's saddle in the background onto the ground.</description>
+   </section>
+   <section>
+      <speech speaker="Sandbender #1">
+         <charAction>To Ghashiun.</charAction> What's your father gonna do when he finds out
+            we lost a sand-sailer?</speech>
+   </section>
+   <section>
+      <speech speaker="Ghashiun">Nothing. It's the one we stole from the Hami Tribe. <charAction>To the two
+                sandbenders on Appa's saddle.</charAction> Did you empty the saddle?
+                <charAction>Walks up to Sokka's club among a sleeping pad and parasol.</charAction>
+            That's it? Nothing but garbage!</speech>
+   </section>
+   <section>
+      <speech speaker="Sandbender #2">
+         <charAction>Jumps off Appa with the other sandbender and kicks a box.</charAction>
+            Doesn't matter. We'll still make a profit from selling him to those beetle-headed
+            merchants.</speech>
+   </section>
+   <section>
+      <description>The other sandbender picks up the parasol and opens it. Cut to a small camp
+                of merchants which the sandbenders bring Appa to using the two remaining
+                sand-sailers. Three merchants walk around Appa's head to bargain with
+                Ghashiun.</description>
+   </section>
+   <section>
+      <speech speaker="Merchant #1">
+         <charAction>Walks to the side of Appa's head.</charAction> How's his
+            temper?</speech>
+   </section>
+   <section>
+      <speech speaker="Ghashiun">Uh, pretty good. <charAction>Appa roars, startling two of the merchants. Ghashiun
+                chuckles.</charAction> Most of the time.</speech>
+   </section>
+   <section>
+      <speech speaker="Merchant #2">I bet someone will pay a fortune for him in Ba Sing Se.</speech>
+   </section>
+   <section>
+      <speech speaker="Merchant #1">All right, you've got a deal.</speech>
+   </section>
+   <section>
+      <description>Cut to Ghashiun with two sandbenders on either side of him. He is handed a
+                box which he opens and closes before walking to the side. A large beetle drags Appa
+                onto the merchants' caged sled. Cut to an overhead view of Aang gliding over the
+                desert.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Appa! Appa! <charAction>Closer shot of Aang, who blows his bison
+                whistle.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Appa's eyes widen and the camera switches to his point of view as he hears
+                the high-pitched whistle. Aerial view of Appa rocking the sled.</description>
+   </section>
+   <section>
+      <speech speaker="Ghashiun">
+         <charAction>Sailing away with his sandbenders.</charAction> He's your problem now!
+                <charAction>Laughs.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Merchant #2">What?</speech>
+   </section>
+   <section>
+      <description>Appa slams his tail against the ground, and starts flying.</description>
+   </section>
+   <section>
+      <speech speaker="Merchant #1">We need the shirshu spit darts!</speech>
+   </section>
+   <section>
+      <speech speaker="Merchant #2">
+         <charAction>Pulls a dart out of his robe.</charAction> Got 'em! Okay big fella,
+            you're gonna take a nice little snoozle. <charAction>Blows three darts at Appa's
+                feet.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Appa collapses to the ground cut to Aang, who lands his
+                glider.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Appa! <charAction>The camera pans up to the empty desert. Aang's eyes start watering
+                and he closes them.</charAction> No. <charAction>Opens his eyes with
+                anger.</charAction> No! <charAction>Slams his glider against the ground, using
+                airbending to send sand up into the air.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Further shot as the sand forms a giant mushroom cloud. The camera shows the
+                tiny mushroom sand cloud from Appa's point of view from far away. Appa's sighs as
+                two merchants begin to talk.</description>
+   </section>
+   <section>
+      <speech speaker="Merchant #1">We've gotta get rid of this one. He's too much trouble.</speech>
+   </section>
+   <section>
+      <speech speaker="Merchant #2">
+         <charAction>Appa's vision starts blacking out.</charAction> We could sell it for
+            parts.</speech>
+   </section>
+   <section>
+      <speech speaker="Trainer">
+         <charAction>Sighs.</charAction> I understand <charAction>The camera fades from black
+                to show a circus trainer standing outside a cage.</charAction> you've had a rather
+            hard time lately. That's too bad. You probably felt you had no choice but to behave
+            outrageously, like a wild animal. <charAction>Cut to outside the cage, where the trainer
+                pats Appa on the head.</charAction> But don't worry. You won't anymore.
+                <charAction>Frontal shot. Darkly.</charAction> Because I am going to break
+            you.</speech>
+   </section>
+   <section>
+      <description>The shot changes to show Appa's cage next to other animal cages. Fade to a
+                large circus tent. Inside, the trainer rolls a cart of cabbages and gives one to a
+                platypus bear. He passes Appa, who tries lifting his chained legs and biting off the
+                chains. The trainer gives a cabbage to a lion vulture.</description>
+   </section>
+   <section>
+      <speech speaker="Trainer">Hungry? <charAction>Walks up to Appa.</charAction> Don't worry, I'm going to feed
+            you too. <charAction>Shows a cabbage to the drooling Appa.</charAction> But not yet.
+                <charAction>Takes away the cabbage as Appa tries to slurp it up. Walks up to the
+                lion vulture.</charAction> First, I'm going to show you how you'll earn it.
+                <charAction>Gives the cabbage to the lion vulture and opens the
+            cage.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The lion vulture flies around the room and the trainer uses a fire whip to
+                control it. Appa pays little attention to the man and looks at the cart of cabbages.
+                He uses air suction to bring the cart closer to his cage and sucks up a cabbage. Cut
+                to the lion vulture flying through two hoops and making loops. It grabs the third
+                ring with its beak and throws it at the trainer, who catches it. Appa continues
+                sucking cabbages into his mouth while the trainer's back is turned.</description>
+   </section>
+   <section>
+      <speech speaker="Trainer">Of course, when you perform, the hoops will be flaming. And if you are careful, you
+            won't get burned. <charAction>Appa belches loudly and the circus trainer quickly turns
+                around.</charAction> You're about to be sorry. <charAction>Firebends a whip and
+                creates a fire in front of Appa's cage, causing Appa to panic.</charAction> It's
+            obvious that whoever your previous owner was, he had no idea how to handle you
+            properly.</speech>
+   </section>
+   <section>
+      <description>Cut to the circus tent at night as carnival music plays and people gather
+                round the entrance. Cut to tent flap opening where people walk past outside. A small
+                boy walks past, but walks back when he sees Appa try to suck up a bale of hay in the
+                tent. The boy looks questioningly at Appa, who licks the bar of the cage. The boy
+                looks understandingly at the sky bison and the boy's father walks behind
+                him.</description>
+   </section>
+   <section>
+      <speech speaker="Fire Nation man">
+         <charAction>To the boy.</charAction> I'm gonna to go get a bag of sizzle crisps.
+                <charAction>Pointing at the ground.</charAction> Stay here and <charAction>Pointing
+                at Appa.</charAction> stay away from that monster. Behave yourself or
+                <charAction>The boy flinches slightly.</charAction> you'll regret it.</speech>
+   </section>
+   <section>
+      <description>The boy runs into the tent and rolls the bale of hay right up to Appa's
+                cage. Appa licks the boy's face in appreciation and starts munching down the hay.
+                The shot changes to above Appa's head, and the boy runs away once he hears
+                voices.</description>
+   </section>
+   <section>
+      <speech speaker="Trainer">
+         <charAction>Walking in front of Appa with the circus master, Shuzumu.</charAction>
+            He's a difficult creature, stubborn and willful. I need more time with him. It's too
+            risky right now.</speech>
+   </section>
+   <section>
+      <speech speaker="Shuzumu">
+         <charAction>Closer shot of him and the trainer.</charAction> Too risky? What are you
+            talking about? <charAction>Raises his hands up.</charAction> This is the circus, home of
+            fear and danger. <charAction>Points at Appa.</charAction> I want the wind buffalo to
+            perform tonight.</speech>
+   </section>
+   <section>
+      <speech speaker="Trainer">
+         <charAction>Turns to Appa.</charAction> If you don't behave yourself, you'll regret
+            it. <charAction>Firebends a flame in front of Appa, causing the bison to reel back in
+                fear, and walks away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The boy peers out the tent flap at Appa, reassuringly
+                smiling.</description>
+   </section>
+   <section>
+      <speech speaker="Fire Nation man">
+         <charAction>Grabs the boy's shoulder.</charAction> Let's go.</speech>
+   </section>
+   <section>
+      <speech speaker="Unnamed Fire Nation boy">
+         <charAction>Waves at Appa.</charAction> See you later, buddy.</speech>
+   </section>
+   <section>
+      <description>Appa sighs and puts his head on the cage floor. Fade to the circus tent,
+                still at night. Cut to inside, where two women perform by holding three spinning
+                plates in each hand and five men in the background with painted faces form a human
+                pyramid. The two women walk to the sides to reveal two platypus bears balancing on
+                balls. Cut to the applauding crowd. In the front row, the boy from earlier tries to
+                get some sizzle crisps from his father, but the man holds it away from the
+                boy.</description>
+   </section>
+   <section>
+      <speech speaker="Shuzumu">
+         <charAction>Voice-over.</charAction> Ladies and gentlemen, now for something truly
+            special. <charAction>Frontal shot. Creates two flames with his hands.</charAction> A
+            noble beast, so magnificent and rare, it hasn't been seen by human eyes in generations.
+            I give you ... the wind buffalo!</speech>
+   </section>
+   <section>
+      <description>Shuzumu gestures toward a curtain which drops to show Appa dressed in a
+                costume complete with make-up. The audience laughs at the creature, while the boy
+                looks at it with concern. Appa walks onto the center ring.</description>
+   </section>
+   <section>
+      <speech speaker="Trainer">Up. <charAction>Appa shakes his head and turns around in a circle. The audience
+                laughs.</charAction> Up, you insolent cow! <charAction>Summons a firebending whip
+                and snaps it at Appa.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Unnamed Fire Nation boy">
+         <charAction>Stands up.</charAction> Run away! Get away from him! <charAction>His
+                father makes him sit back down.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Appa flies up into the air, swirling. The crowd gasps and starts
+                clapping.</description>
+   </section>
+   <section>
+      <speech speaker="Fire Nation man">Fabulous!</speech>
+   </section>
+   <section>
+      <description>Appa flies through a fiery ring and stands on a platform with one leg. Cut
+                to the boy, who looks concerned. Appa flies through a second ring and his costume
+                catches on fire. Appa knocks down the next ring with his tail. The ring hits the
+                trainer on the head and knocks him down. Appa lands and looks at the laughing crowd.
+                He focuses on the young boy and sees Aang laughing in a flashback. Appa shakes his
+                head, and his costume hair falls off.</description>
+   </section>
+   <section>
+      <speech speaker="Unnamed Fire Nation boy">Go, you can do it.</speech>
+   </section>
+   <section>
+      <description>Appa takes off, but a blast of fire stops him.</description>
+   </section>
+   <section>
+      <speech speaker="Trainer">Get back here, you stupid beast! <charAction>Creates a fire
+            whip.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Appa knocks the man up into the air with his tail. Cut to outside the
+                circus tent, where the trainer flies out. Appa flies out of the tent through the
+                ceiling, leaving his costume behind. The boy looks up at Appa flying away and
+                smiles. Appa flies over the desert and sees a large crater. Cut to Appa's flashback
+                of the library which had been there before. Cut back as Appa lands in the center of
+                the pit and looks around. He tries digging with his chained feet, but gives up and
+                falls asleep.</description>
+      <description>Cut to Appa flying over the desert and his stomach grumbles. Cut to a
+                purple egg which Appa tries to eat, but a gilacorn snatches it and runs away. Appa
+                flies to a cactus, scaring away a jackalope. He eats the cactus, but roars in pain
+                and spits it out due to the sharp prickles. Cut to Appa flying again, this time more
+                wearied. He sniffs for food and flies toward the Si Wong Rock. Cut to the buzzard
+                wasp nests, which Appa flies into and starts eating, but quickly flies out when the
+                buzzard wasps start attacking. Appa uses airbending to knock down all of the buzzard
+                wasps, which scatter afterward. Appa lands, panting, and licks the yellow substance
+                on his feet and arms until he stops and begins to rest.</description>
+      <description>Cut to Appa flying across the setting sun. He finds a barn, takes a drink
+                out of the trough, eats some hay, and falls asleep. In his dream, he sees the
+                Eastern Air Temple. Five baby sky bison fly through the air, and circle around their
+                mother. They gather close to her. Cut to Sister Iio, who holds a bowl of apples for
+                the young airbending monks.</description>
+   </section>
+   <section>
+      <speech speaker="Iio">Choose well. A sky bison is a companion for life.</speech>
+   </section>
+   <section>
+      <description>Further shot of the sky bison family landing and Iio throws the mother an
+                apple. Shot of Appa and the camera pans to the younger Aang, who offers the apple.
+                Appa sniffs the apple and Aang gives it to him. Aang hugs Appa, who returns the
+                affectionate gesture by knocking Aang down to the ground and licking his
+                face.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I guess this means we'll always be together. <charAction>Laughs as Appa continues
+                licking his face.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Cut to Aang, who is dreaming while camping at the Serpent's Pass. He laughs
+                and holds his arms out in the same manner as seen in Appa's dream.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Always.</speech>
+   </section>
+   <section>
+      <description>Camera pans to the side and fades to Appa waking up.</description>
+   </section>
+   <section>
+      <speech speaker="Farmer">
+         <charAction>Wielding a pitchfork.</charAction> Ahhh! It's some kind of
+            monster!</speech>
+   </section>
+   <section>
+      <description>Appa stands up and the farmer backs away. The farmer's wife enters the barn
+                and holds up a torch. Appa backs away from the flame, standing on his forelegs. The
+                farmer and his wife run away screaming. Appa breaks a hole in the ceiling to escape.
+                Cut to the farmer and wife as they watch the sky bison fly away. Cut to Appa flying
+                over the Serpent's Pass. Cut to a ship and cut to a shot of Iroh looking overboard.
+                Iroh gasps when he sees Appa fly overhead.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Sitting up on the deck floor.</charAction> Uncle? What are you looking
+            at? Is there something out there?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Nervously.</charAction> Uh, it's nothing. Go back to sleep.
+                <charAction>Zuko lies back down and Iroh sighs.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Cut to a forest. Appa flies down and crash lands in front of a tree growing
+                over a passage. He bites some grass and stands up when he hears squealing from the
+                passage. Cut to in front of the passage where a boar-q-pine runs out of the shadows
+                and toward the camera. Appa roars at the boar-q-pine, which tackles him and they
+                fall down a cliff. They stop rolling when they reach a clearing, Appa's fur being
+                prickled with some of the boar-q-pine's quills.</description>
+      <description>The boar-q-pine roars at Appa, and Appa roars back. They start to circle
+                each other, the camera first showing a view with Appa in front before switching to
+                the boar-q-pine in front. The boar-q-pine charges at Appa, knocking him into a tree
+                which falls down. Appa grabs the tree with his mouth and throws it at the
+                boar-q-pine, who jumps over the trunk and charges at Appa. Appa stands on his rear
+                legs, grabs the charging boar-q-pine, and throws it to the side. The shot changes to
+                a farther distance where the dust from the sliding boar-q-pine rises above the tree
+                tops and scatters some birds. In a closer shot, the boar-q-pine stops sliding and
+                runs away, squealing. Appa pants and grabs a quill from his leg, roaring in pain as
+                the camera zooms back.</description>
+      <description>Cut to the passage. Appa flies over the hill and walks into the passage,
+                collapses and falls asleep. Cut to the outside of the passage, in which time changes
+                from evening to night, and it starts raining. Fade to a berry bush where a hand
+                picks a berry. The shot changes to the next day, showing the Kyoshi Warriors picking
+                the berries, and pans to the right. On one of the bushes, a Kyoshi Warrior picks up
+                a clump of Appa's fur.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi Warrior #1">Must have been some fight.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Wait, let me see that. <charAction>The Kyoshi Warrior hands the clump of fur to
+                her.</charAction> No, it couldn't be. <charAction>The camera pans up to show Appa's
+                trail of fur on the cliff. Suki follows the trail and gasps when she reaches the
+                top.</charAction> Appa? Oh, no. <charAction>Close-up of Appa, who backs away into
+                the passage in fear as Suki walks up. She stops and kneels down, putting several
+                berries and an apple on the ground.</charAction> It's gonna be okay, Appa.
+                <charAction>Stands up and back away.</charAction> I have to leave, but I'm gonna be
+            back soon with help.</speech>
+   </section>
+   <section>
+      <description>Suki walks down the cliff. Appa walks up the fruit and looks at it. Cut to
+                a later time where Appa rests in the passage. The camera pans down to Suki leading
+                five Kyoshi Warriors up the side of the cliff.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">No sudden movements. He's been lost for a while and he looks like he's hurt.
+                <charAction>Closer shot of the Kyoshi Warriors.</charAction> He's shy around people
+            and scared. Stay low and stay quiet.</speech>
+   </section>
+   <section>
+      <speech speaker="Kyoshi Warrior #1">I can't believe you found the Avatar's bison. Didn't you just see the Avatar a few
+            days ago?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">Yes, so he can't be too far from here. <charAction>Walking up the hill.</charAction>
+            It's our responsibility to get Appa back to him safely. This could be our most important
+            mission yet. <charAction>The Kyoshi Warriors peer over the top of the hill at Appa, who
+                growls and shakes his head at the intruders.</charAction> Give him some space!
+                <charAction>The other Kyoshi Warriors take a step back. Suki takes a step
+                forward.</charAction> Appa, it's me, Suki. I'm a friend. <charAction>Appa growls and
+                Suki slowly approaches Appa.</charAction> I want to help you. You're hurt. We can
+            help you feel better. <charAction>Appa growls in response.</charAction> And we can help
+            you find Aang. <charAction>Appa softly growls and Suki places her hands Appa's nose and
+                Appa lies down with Suki kneeling in front.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Cut to Appa's shackles and boar-q-pine quills on the ground and pan to Appa
+                surrounded by the Kyoshi Warriors. Appa licks one of the warrior's faces. Close-up
+                of Appa's ear as he hears footsteps thundering. Lightning strikes a nearby tree,
+                causing it to fall down and blocking the pathway. Mai, Azula, and Ty Lee arrive on
+                mongoose lizards.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>Holding a clump of Appa's fur.</charAction> My, my, you're easy to find.
+            It's really astounding my brother hasn't captured you yet.</speech>
+   </section>
+   <section>
+      <description>The camera pans down to show the Kyoshi Warriors standing in front of Appa.
+                Appa growls at Azula and the Kyoshi Warriors draw their shield fans.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">What do you want with us?</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">Who are you? The Avatar's fan girls&gt;?</speech>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">
+         <charAction>Beat.</charAction> Oh, I get it. Good one, Azula.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">If you're looking for the Avatar, you're out of luck.</speech>
+   </section>
+   <section>
+      <speech speaker="Mai">
+         <charAction>Aerial view; Mai sighs.</charAction> I knew this was a waste of
+            time.</speech>
+   </section>
+   <section>
+      <speech speaker="Azula">No Avatar, huh. Well, that's okay. Any friend of the Avatar <charAction>Jumps off
+                the mongoose lizard.</charAction> is an enemy of mine! <charAction>Firebends at
+                Appa, who the Kyoshi Warriors protect by moving their shields
+            together.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Azula firebends at Appa. The Kyoshi Warriors protect him by moving their
+                shield fans together. Ty Lee and Mai jump off their mongoose lizards. Mai faces two
+                Kyoshi Warriors and throws three shurikens, pinning a Kyoshi Warrior to a
+                tree.</description>
+   </section>
+   <section>
+      <speech speaker="Kyoshi Warrior #2">Huh? <charAction>Looks at the weapons on her right arm in
+            confusion.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Mai">You're so colorful, it's making me nauseous. <charAction>Throws a bunch of darts at
+                the second Kyoshi Warrior.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The Kyoshi Warrior unsheathes her sword and uses it to deflect the darts.
+                She swings at Ty Lee, who manages to get behind the Kyoshi Warrior and perform chi
+                blocking.</description>
+   </section>
+   <section>
+      <speech speaker="Ty Lee">You're not prettier than we are.</speech>
+   </section>
+   <section>
+      <description>Cut to a side-view from the woods. Suki defends Appa from Azula's
+                firebending blasts with her fan shield. Closer shot of Azula summoning blue fire.
+                Shot changes to Appa and Suki. Suki takes the blast and deflects it to the side
+                where it sets the fallen tree behind them on fire. Appa looks frightened at the
+                flames.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">Afraid of fire, I see. That's good. You should be.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Unsheathes her sword.</charAction> Go, Appa! Fly away from
+            here!</speech>
+   </section>
+   <section>
+      <description>Appa flies up and Suki charges Azula with her sword. Slow motion shot of
+                Azula jumping up and knocks the sword out of her hand and into a tree. Azula fires
+                another blast at Suki, who blocks it with her shield. Suki tries kicking Azula, but
+                Azula uses the opportunity to knock down Suki. Cut to Appa flying overhead, who
+                looks down and flies back. Cut to Azula, preparing to strike another firebending
+                blast. A Kyoshi Warrior in the background throws her fans at Azula, who ducks and
+                kicks a firebending blast at the other Kyoshi Warrior and pursues her. Suki stands
+                up and waves a torch at Appa.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">Get out of here! You have to find Aang! We'll be okay!</speech>
+   </section>
+   <section>
+      <description>Appa backs away from Suki and flies away. A blue firebending blast hits
+                Suki's shield. Suki steps back and wields her fan.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">
+         <charAction>Calmly.</charAction> Don't you know fans just make flames
+            stronger?</speech>
+   </section>
+   <section>
+      <description>They charge at each other, Azula firing another blast and Suki deflecting
+                it. As they clash, the scene action freezes. Cut to Appa flying near the tree tops,
+                which fades to an aerial view of a river, which Appa flies over with a flock of
+                birds. Fade to Appa flying through the rain. Cut to a fleet of Water Tribe ships
+                while Appa flies through the sky in the distance. On one of the ships, Hakoda looks
+                up and watches the sky bison. Frontal shot of Appa flying through the mountains and
+                soon reaches the Eastern Air Temple. Appa walks inside and the scene flashes back
+                and pans up to show the calf Appa and his siblings running through the air temple.
+                Cut to the present where he continues walking and finds a circle of railing. Fade to
+                the past, where Appa and his siblings gnaw at the railings. Fade to the present
+                where Appa gnaws the now dusty railing and coughs. Fade to outside the air temple,
+                where Appa crosses a bridge. Appa reaches a balcony and sees a man meditating and
+                looks over-joyed. Appa runs over to the man knocking him down and licks the man's
+                face.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">
+         <charAction>Blinks in confusion.</charAction> Hello. I am Guru Pathik.
+                <charAction>Aerial shot as Appa flies to the back of the balcony and closer shot as
+                he growls at the guru.</charAction> I know I'm not the person you expected. And I
+            didn't expect to be licked by a giant tongue just now. <charAction>Side shot of Appa and
+                Pathik on the balcony.</charAction> The world is full of surprises.</speech>
+   </section>
+   <section>
+      <description>Appa growls at the guru. Pathik lies down and closes his eyes. Later, he
+                opens his eyes and looks at Appa, who growls in return. Pathik closes his eyes again
+                and later opens one eye at Appa. Appa snorts in return. Fade to night time, this
+                time Appa asleep and snoring. Pathik stands up and rubs his hands together. He walks
+                over to Appa and places his hand on Appa's upper stomach.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">Oh, dear. You've been through so much recently. Hurt and betrayed. So twisted up
+            inside. <charAction>Moves his hand.</charAction> You're still full of love. Ah. But fear
+            has moved in where trust should be. <charAction>The camera shows a further shot of the
+                balcony and pans up to the Air Temple; voice-over.</charAction> I've been expecting
+            you and the young Avatar for quite a long time. I had a vision many years ago of helping
+            him. That's why I came to the Eastern Air Temple. <charAction>Closer shot of Appa and
+                Pathik.</charAction> Oh, your emotions are so turbulent. Like swirling storm clouds.
+                <charAction>Puts his hand on Appa's forehead.</charAction> Let the clouds in your
+            mind be gentle, peaceful ones. <charAction>Appa purrs and the shot fades to
+                black.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Appa wakes up and looks around hostilely. He notices some fruit right in
+                front of him and gobbles it up and follows a path of fruit. Cut to a raised platform
+                which Appa approaches on top of the platform, Pathik feeds a bird some seeds while
+                another bird perches on his head and two squirrels.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">Someone looks very well rested, <charAction>Cut to Appa, whose fur on one side of
+                his head is slightly messed up.</charAction> judging by your bed head.
+                <charAction>Appa growls and shakes away the bed head.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Fade to the moon and pan down to Pathik meditating. Appa paces behind him
+                twice and collapses. Pathik opens his eyes and places his hand on Appa's side. He
+                stands up, holding a scroll.</description>
+   </section>
+   <section>
+      <speech speaker="Pathik">I have prepared a message for Aang. May I attach it to your horn? <charAction>Appa
+                mutter in agreement and Pathik ties the scroll to Appa's horn. Cut to the leaves
+                falling overhead and pan down to Appa and Pathik.</charAction> You and the Avatar's
+            energies are mixed. You have an unbreakable bond. By reading your energy, I can sense
+            where Aang is. <charAction>Appa licks him.</charAction> Funny, what invisible strings
+            connect us all. <charAction>Places his hand on Appa's forehead. Further shot of the Air
+                Temple as a path of light illuminates a pathway.</charAction> I'll see you again,
+            great beast. <charAction>Closer shot of Pathik and Appa.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The camera fades to white. Cut to Appa flying toward Ba Sing Se at night.
+                He flies over a wall. Another shot of Appa shows two Dai Li agents on the roof who
+                descend once they see Appa. Appa continues flying over the city and his eyes widen
+                when he hears a high-pitched whistle. Shot changes to three pygmy pumas standing on
+                a roof top as Appa descends. Cut to Aang's bison whistle. A further shot shows Aang
+                asleep with his bison whistle and a curled-up Momo at his sides.</description>
+      <description>Cut to Long Feng blowing on his own high-pitched whistle. Long Feng steps
+                out of the shadows. Appa growls at him and takes a step back, leaving a single
+                footprint in the mud. Long Feng earthbends the slab of rock beneath him, causing it
+                to swirl around and capture Appa underground. Shot of Appa's footprint in the mud
+                fades to a further shot of the dust around the slab of rock dissipating. Fade to
+                credits.</description>
+   </section>
+</root>

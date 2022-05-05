@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="4">The Warriors of Kyoshi</title>
+      <director>Giancarlo Volpe</director>
+      <writer>Nick Malis</writer>
+      <date>2005-03-04</date>
+      <location nation="earth">Kyoshi Island</location>
+   </metadata>
+   <section>
+      <description>The episode opens, depicting a clear, starry night sky, the camera panning
+                downwards to the open sea where Zuko's ship sails through the water. Cut to shot of
+                inside Zuko's bedroom, the camera panning to the right to portray the entirety of
+                the room. Zuko is seen meditating in his cabin, his back to the camera. The glow of
+                the four candles situated on a table steadily increases and decreases in time with
+                the prince's relaxed inhalations and exhalations. Cut to frontal shot of Zuko
+                sitting peacefully with his eyes closed, the four candles in view, continually
+                brightening and dimming. Cut to side-view shot of Zuko's head, the door to his cabin
+                in view. Iroh cracks open the door and peeks through while Zuko opens his
+                eyes.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Calmly.</charAction> The only reason you should be interrupting me, is
+            if you have news about the Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Pushes open the door completely and enters the room, holding a rolled up
+                scroll in his hands.</charAction> Well, there is news, Prince Zuko, but you might
+            not like it. Don't get too upset.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Cut to shot of the prince sitting motionless, still assuming his
+                meditative stance, his back to the camera. Calmly.</charAction> Uncle, you taught me
+            that keeping a level head is a sign of a great leader. Now, whatever you have to say,
+            I'm sure I can take it.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Frontal view of Zuko, Iroh tugging his small beard in the
+                background.</charAction> Okay then. <charAction>Hesitatingly.</charAction> We have
+            no idea where he is.</speech>
+   </section>
+   <section>
+      <description>The flames of the candles suddenly erupt in a fiery mass, brushing the
+                ceiling and obscuring Zuko from sight.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Enraged.</charAction> What!?</speech>
+   </section>
+   <section>
+      <description>Cut to a wider shot of the room as Zuko rises to his feet, enraged. Iroh
+                shields his face from the flames, and merely withdraws a fan from his robe and
+                begins waving it to cool himself down.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">You really should open a window in here.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>He snatches the scroll from Iroh's hand.</charAction> Give me the map!
+                <charAction>He unrolls it, scanning over the parchment.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Well, there have been multiple sightings of the Avatar, but he is impossible to
+            track down.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Desperately.</charAction> How am I going to find him, Uncle?
+                <charAction>Cut to a shot of the map in Zuko's hand, several locations marked down
+                with zigzagged lines connecting each point; Voice-over.</charAction> He is clearly a
+            master of evasive maneuvering.</speech>
+   </section>
+   <section>
+      <description>The shot of his map fades to a shot of the team's own map, minus the
+                zigzagged lines, Sokka holding it in his hands. Cut to shot of him pouring over the
+                map and questioning Aang's navigational skills.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>To Aang.</charAction> You have no idea where you're going, do
+            you?</speech>
+   </section>
+   <section>
+      <description>Cut to shot of the entire group mounted on Appa. The siblings are riding in
+                his saddle while Aang sits atop his head, looking back. Appa's fur seems dirty and
+                disordered.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Well ... <charAction>Happily.</charAction> I know it's near water.</speech>
+   </section>
+   <section>
+      <description>Scene cut to overhead view of Appa flying over a vast body of
+                water.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sarcastically.</charAction> I guess we're getting close then.</speech>
+   </section>
+   <section>
+      <description>Cut to shot of Katara, who is preoccupied with sewing a hole in Sokka's
+                pants, Aang glancing over at her from atop Appa's head, Momo perched on his
+                shoulder. He concocts an idea to impress her.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Momo, marbles please. <charAction>Close-up of Momo who dives into his shirt and
+                emerges, handing Aang two small, gray marbles.</charAction> Hey Katara, check out
+            this airbending trick!</speech>
+   </section>
+   <section>
+      <description>Using airbending, Aang manages to spin the two marbles quickly along an
+                equatorial plane as he grins happily. Cut to side-view of Aang and Katara, Katara
+                taking no notice and continues to sew.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Nonchalantly, still focusing on her task at hand.</charAction> That's
+            great, Aang.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Disappointed, stops performing the trick.</charAction> You didn't even
+            look.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Looks over Aang and attempts to show enthusiasm.</charAction> That's
+            great!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Dismayed.</charAction> But I'm not doing it now.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Cut to shot of Katara and Sokka seated on Appa's saddle. Sokka waves his
+                arm breezily at Aang as if he is trying to shoo him away.</charAction> Stop bugging
+            her, airhead. You need to give girls space when they do their sewing.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Close side-view shot of Katara as she casts her brother an annoyed
+                glare; irritably.</charAction> What does me being a girl have to do with
+            sewing?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Cut to a shot of Sokka lazily resting with his arms behind his
+                head.</charAction> Simple. Girls are better at fixing pants than guys and guys are
+            better at hunting and fighting and stuff like that. <charAction>Cut back to an annoyed
+                Katara.</charAction> It's just the natural order of things.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Suddenly smiles. Sarcastically.</charAction> All done with your pants!
+                <charAction>Shows that the pants are still ripped.</charAction> And look what a
+            great job I did!</speech>
+   </section>
+   <section>
+      <description>Katara angrily tosses the pants in his direction. Cut to shot of Sokka as
+                the pair of pants hit him in the face, covering it. He quickly scrambles to free
+                himself.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Protesting and pleading.</charAction> Wait! I was just kidding.
+                <charAction>Sticks one arm through the large hole in his pants.</charAction> I can't
+            wear these! Katara, please!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut to a frontal view of Aang with the duo in the background.
+                Enthusiastically.</charAction> Relax, Sokka. Where we're going, you won't need any
+            pants.</speech>
+   </section>
+   <section>
+      <description>Aang yanks Appa's reins to the left, his tongue sticking out of the corner
+                of his mouth. Appa picks up speed as he flies right passed the camera. Cut to an
+                overview shot of an island covered with mountains. Switch to a far off shot of a
+                beach, where Appa has landed and Team Avatar has dismounted.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">We just made a pit stop yesterday. Shouldn't we get a little more flying done before
+            we camp out?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Cut to close frontal view of Aang who is looking at something, his hand
+                held against his brow. The siblings stand in the background.</charAction> He's
+            right. At this rate, we won't get to the North Pole until spring.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Camera moves back to reveal Appa as well. Innocently.</charAction> But
+            Appa's tired, aren't you boy?</speech>
+   </section>
+   <section>
+      <description>Appa does not react at all apart from a mild grunt, which comes across less
+                than convincing.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Nudges Appa against his front leg with his elbow.</charAction> I
+                said, &gt;aren't you boy?</speech>
+   </section>
+   <section>
+      <description>Appa puts slightly more enthusiasm behind his response the second time by
+                grunting louder and opening up his mouth wide as if he was yawning.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Aang smiles over his shoulder at the duo. Sarcastically.</charAction>
+            Yeah, that was real &gt;convincing.<charAction>Somewhat
+                fearfully.</charAction> Still, hard to argue with a ten-ton magical
+            monster.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Runs toward the shore, takes a sharp breath and points.
+                Excitedly.</charAction> Look!</speech>
+   </section>
+   <section>
+      <description>Cut to an overview shot of the bay. Aang is standing on the beach, pointing
+                and looking at the water where an elephant koi jumps out the water and back in,
+                creating a giant splash. Switch to a shot of the two siblings staring in awe at the
+                giant fish. Cut to a view from behind Sokka and Katara with Aang visible between the
+                back of their heads.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Excited.</charAction> That's why we're here. <charAction>Starts to
+                disrobe while more koi fish jump out of the water in the background.</charAction>
+            Elephant koi, and I'm gonna ride it. Katara, you've got to watch me!</speech>
+   </section>
+   <section>
+      <description>Cut to a side-view of the coastline as Aang runs up and dives in. As soon
+                as he submerges, he jumps out again.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Cold!</speech>
+   </section>
+   <section>
+      <description>Switch to Katara and Sokka, still standing on shore, they exchange glances
+                while Appa walks away, clearly taking interest in something else. Sokka makes a
+                circular motion with his left hand around near his left temple, signaling to his
+                sister that he thinks Aang is crazy. Cut back to Aang who is swimming toward the
+                deep waters of the bay where the koi fish are. He dives under and immediately
+                appears again, now holding on to the back fin of one of these giant animals as it
+                jumps out of the water before diving again. Cut back to the siblings. Katara smiles
+                broadly and impressed at the sight of Aang riding the koi fish while Sokka stares at
+                the scene with an uninterested look upon his face and his arms crossed. Cut to a
+                broader view, Sokka and Katara are with their back toward the camera. Momo is
+                jumping excitedly up and down as Aang's koi fish reappears again.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Switch to a close-up of Aang atop the fish's back, waving at his
+                friends.</charAction> Hahaha, hahaha!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Cut to Katara who enthusiastically waves back.</charAction>
+            Whooh!</speech>
+   </section>
+   <section>
+      <description>Switch to a frontal view of Aang riding the koi. Two other koi jump out of
+                the water behind him to the left and right. Aang is still laughing loud with
+                excitement as they race through the water. Cut to an overview shot of the bay as the
+                three koi playfully jump out the water before diving. Switch to an underwater shot
+                of Aang and the fish. Cut to a shot of Katara and Sokka on the beach. Momo is still
+                excitedly jumping up and down while Katara addresses her brother who still has his
+                arms crossed.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Smiling.</charAction> He looks pretty good out there.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Unimpressed.</charAction> Are you kidding? <charAction>Lazily gestures
+                at Aang in the water.</charAction> The fish is doing all the work.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Notices something behind Sokka and runs off screen.</charAction> No,
+            Appa. Don't eat that! <charAction>Appa grunts.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Switch back to a widely smiling Aang atop the fish, presumably in an
+                attempt to impress Katara. Switches to off the shore from his perspective as Katara
+                runs off inland. Close-up of Aang's disappointed face.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Disappointed, the smile having faded off his face.</charAction> Oh man
+            ...</speech>
+   </section>
+   <section>
+      <description>Cuts to overhead shot of the water, the backs of the three koi fish in
+                view. Two koi fish suddenly change direction, including Aang's, swerving to the
+                bottom-right of the screen, leaving behind one koi fish that continues to race
+                forward. The camera pans up, the dark shadow of a large body appears beneath the
+                water's surface directly behind the koi fish. Switch to a close shot of
+                Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Alarmed.</charAction> There's something in the water!</speech>
+   </section>
+   <section>
+      <description>Cut to shot of one koi fish as it attempts to leap out of the water only to
+                be pulled back under the surface by something unknown. Cut to a frontal shot of Aang
+                still surfing on the koi fish's back, smiling widely, unaware of the danger. Katara
+                reappears next to her brother again while Momo is screeching in alarm.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Worried.</charAction> What's wrong?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Aang's in trouble. Aang!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Get out of there!</speech>
+   </section>
+   <section>
+      <description>Cut to Aang who grips the dorsal fin of the fish, his smile having now
+                faded. He looks surprised at the commotion on the shore. Cut to shot of the shore
+                from his perspective, Katara and Sokka motioning for him to exit the water by
+                flailing their arms and calling to him from far away.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Get back here, Aang!</speech>
+   </section>
+   <section>
+      <description>Switch back to a shot of Aang, who, believing them to be cheering him on,
+                waves only to suddenly be hurled off the koi fish, into the water when the koi fish
+                is being pulled under.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Flailing his arms and legs.</charAction> Whaaaahh! Aaaah!</speech>
+   </section>
+   <section>
+      <description>Cut to wide-open shot of the lake, Aang plunging into the water as the koi
+                fish he was mounted atop disappears under the water. Cut to Aang who resurfaces and
+                gasps for breath as the massive dorsal fin of the unknown creature emerges from the
+                surface directly behind him. Cut a wider shot of entire dorsal fin and a shot of
+                Aang who turns around, suddenly alarmed by the sight.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Frightened.</charAction> Whaaaahh!</speech>
+   </section>
+   <section>
+      <description>Cut to wide-view shot of the lake, the dorsal fin of the creature swerving
+                off to the side as Aang uses airbending to run across the surface of the lake at
+                lightning speed. Cut to a frontal shot of a heavily panting Aang fleeing the scene,
+                his feet treading water, the creature following him in hot pursuit. Cut to overhead
+                shot of the lake, Aang a mere speck in the water, a trail of white foam behind him,
+                the creature gaining on him. Cut to shot of Sokka and Katara standing on the shore.
+                Sokka suddenly grows alarmed as Aang collides straight into him, having reached the
+                shore safely. Cut to shot of the entire lake and shore as the dorsal fin of the
+                creature disappears beneath the surface. Katara runs to where her brother and Aang
+                have come to a halt. Cut to shot of Sokka leaning against a tree trunk, a trail
+                marking where his body slid across the ground. Aang is seen dressing himself as
+                Katara and Momo approach the two.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">What was that thing?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I don't know.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Stands up and wipes his hands together.</charAction> Well, let's not
+            stick around to find out. Time to hit the road.</speech>
+   </section>
+   <section>
+      <description>The camera pans upward to where several female warriors clad in green
+                kimonos descend from the treetops ambushing the trio. The women quickly encircle the
+                group and take them out. Cut to Sokka who is being pulled back and knocked over.
+                Switch to a shot of Katara with Aang in the background. Katara is pulled by her arm.
+                As she leans in to maintain her balance, someone pulls her parka over her head and
+                pulls her down. Aang is distracted by Katara's struggles, giving the opportunity to
+                another female warrior to grab him by his collar. Momo flies up screeching from his
+                shoulder, only to be quickly caught in a bag, only his head still protruding. Cut to
+                a shot of the ground when a bound and blindfolded Momo, Aang, Katara, and Sokka are
+                thrown on the ground in a line, each grunting when they hit the ground. They are
+                surrounded by the female warriors.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Or, we could stay a while.</speech>
+   </section>
+   <section>
+      <description>The camera switches to a shot of the beginning of a snowy path. The camera
+                pans up, revealing that the path leads to a village in the distance. Cut to a shot
+                of the back of a man while the scene pans to the left. The man addresses Aang,
+                Sokka, and Katara who are still blindfolded and tied to a large wooden pole. The
+                bagged Momo stands on the ground in front of Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Voice-over.</charAction> You three have some explaining to do.</speech>
+   </section>
+   <section>
+      <description>The camera moves even further to the left, revealing the back of one of the
+                woman dressed in green that ambushed the group earlier.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Voice-over.</charAction> And if you don't answer all our questions,
+            we're throwing you back in the water with the Unagi.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Close-up of the blindfolded Sokka. Challenging.</charAction> Show
+            yourselves, cowards!</speech>
+   </section>
+   <section>
+      <description>A gloved hand, the forearm dressed in a leather band with a gold insignia
+                on top of it, removes the blindfold. The scene switches to Sokka's point of view.
+                Five girls in green kimonos and wearing white and red face paint are standing in
+                front of him. Cut to a side-view shot, panning to the right.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Aggressively.</charAction> Who are you? Where are the men who ambushed
+            us?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Stepping forward, gesturing heavily with her clenched fist.
+                Indignantly.</charAction> There were no men. We ambushed you. Now tell us, who are
+            you and what are you doing here?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Closer side-view shot of Sokka who stares at them in
+                disbelief.</charAction> Wait a second, <charAction>He amusingly glance to his right
+                to where Aang stands as if he is looking for confirmation. Mockingly.</charAction>
+            there's no way that a bunch of girls took us down.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Grabs Sokka by his collar. Angrily.</charAction> A bunch of girls, huh?
+            The Unagi's gonna eat well tonight.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Leans forward in her bonds. Pleading and apologetically.</charAction>
+            No, don't hurt him! He didn't mean it. My brother is just an idiot sometimes.
+                <charAction>Suki released Sokka, but still stares at him in
+            dismay.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">It's my fault. <charAction>The three teenagers looks surprised at Aang's words. The
+                camera pans the left to reveal a sorrowfully looking Aang.</charAction> I'm sorry we
+            came here. I wanted to ride the elephant koi.</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Cut to a frontal view of Oyaji. Angrily.</charAction> How do we know
+            you're not <charAction>Points at the bound three.</charAction> Fire Nation spies? Kyoshi
+            stayed out of the war so far. And we intend to keep it that way!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut back to Aang, a brightened expression on his face.</charAction> This
+            island is named for Kyoshi? I know Kyoshi!</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Humorless.</charAction> Ha! How could you possibly know her?</speech>
+   </section>
+   <section>
+      <description>Switch to Oyaji's point of view as the camera pans up. At the top of the
+                wooden pole stands a statue of a tall woman holding two stretched open fans. She is
+                dressed in a similar outfit as the female warriors that ambushed the
+                group.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">Avatar Kyoshi was born here four hundred years ago. <charAction>Close-up of the face
+                of the statue. The colors have faded away a bit, but it is still clear that Kyoshi
+                wears the same white face paint, with the red accentuated eyes as the modern Kyoshi
+                Warriors wear.</charAction> She's been dead for centuries.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut to Aang who looks pensive at the statue before looking at the ground
+                in front of him. He speaks in a soft, calm voice while the camera slowly zooms in on
+                him.</charAction> I know her because I'm the Avatar.</speech>
+   </section>
+   <section>
+      <description>Cut to a shot of Suki and Oyaji with the other Kyoshi Warriors standing in
+                the background. Oyaji looks shocked at Aang's revelation.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Not convinced by Aang's statement. Shaking her fist to emphasize her
+                words.</charAction> That's impossible! The last Avatar was an airbender who
+            disappeared a hundred years ago.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut to Aang and his friend from a point of view between Suki and Oyaji.
+                Aang smiles sheepishly.</charAction> That's me!</speech>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Cut to frontal view of Suki and Oyaji who angrily points at Aang while
+                looking at Suki.</charAction> Throw the impostor to the Unagi!</speech>
+   </section>
+   <section>
+      <description>Suki and the rest of her warriors immediately retract their metal fans from
+                out of their belts and slid them open. Ready to counter any sudden attack, they
+                threateningly start to move forward and surround the bound friends. Cut to a close
+                shot of Katara as she leans forward in the ropes, glancing to her right where Aang
+                is bound to the pole.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Nervously.</charAction> Aang ... do some airbending.</speech>
+   </section>
+   <section>
+      <description>The camera pans to the left, passing Sokka who is looking at the female
+                warriors, his mouth open in shock and stopping at Aang who looks questioningly at
+                Katara for a moment. Cut to an overview shot of the scene as Aang bends over before
+                pushing himself off the ground. He leaves a large dust cloud as he shoots in the
+                air, stretching out his ropes, using one of the outstretched fans of the statue to
+                snap them in half. Now completely free of his bonds, he tumbles elegantly over the
+                statue.</description>
+   </section>
+   <section>
+      <speech speaker="Spectators">
+         <charAction>Talking all at once.</charAction> Wow! Did you see that?
+            Airbender!</speech>
+   </section>
+   <section>
+      <description>Aang lands gently on the ground in front of the surprised crowd, his robes
+                still fluttering in the air. Oyaji and the Kyoshi Warriors stare at him in shock. A
+                lot more people have gather around to see what is going on. Unlike the female
+                warriors, Oyaji and the other civilians are dressed in blue.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>In awe.</charAction> It's true ... you are the Avatar!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cut to a frontal view of Aang with a serious look on his face, a
+                relieved Sokka and Katara still tied up in the background to his left.</charAction>
+            Now ... <charAction>He pulls his marbles out from underneath his robes.</charAction>
+            check this out!</speech>
+   </section>
+   <section>
+      <description>He performs his trick again, letting the marbles spins around really fast
+                between his hands. Grinning and blinking like a fool, he looks at the crowd, hoping
+                to impress them. Cut to the cheering crowd. A young man in the front starts to emit
+                a high pitched squeal while widely tossing his hands up in the air in admiration. He
+                gets so overexcited that he starts to foam, fall toward the camera, and faints; the
+                rest of the villagers just keep on cheering.</description>
+      <description>Cut to a side-view of the harbor of Kyoshi island, where one of the village
+                girls runs up a dock toward a fisherman who is fiddling with his basket of
+                fish.</description>
+   </section>
+   <section>
+      <speech speaker="Little girl">
+         <charAction>Excited.</charAction> Did you hear the news? <charAction>The fisherman
+                picks up his basket.</charAction> The Avatar's on Kyoshi!</speech>
+   </section>
+   <section>
+      <speech speaker="Fisherman">
+         <charAction>Due to his utter surprise, he drops his basket.</charAction>
+            Huh?</speech>
+   </section>
+   <section>
+      <description>The fisherman picks his basket up again and turns around. The scene fades
+                over to a scene in a street where the fisherman delivers the basket to the
+                fishmonger while passing on the news of the Avatar's whereabouts. The fishmonger
+                turns around and the scene fades away again to another scene where the fishmonger
+                sells one of the fish to a servant, dressed in Fire Nation red. He too passes on the
+                news. When the servant turns around, the scene fades to inside Zuko's ship where the
+                servant is serving the cooked fish at the table of Zuko and Iroh. Cut to a frontal
+                view of Zuko as he quickly stands up.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Yells on a demanding tone.</charAction> The Avatar's on Kyoshi Island?
+                <charAction>Cut to a frontal shot of Iroh as Zuko addresses him while leaving the
+                room. Iroh looks at Zuko as he walks away.</charAction> Uncle, ready the rhinos.
+            He's not getting away from me this time.</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Casually points at the smoking fish in front of him.</charAction> Are
+            you going to finish that?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Turns around and snatches the plate off the table.
+                Aggressively.</charAction> I was going to save it for later!</speech>
+   </section>
+   <section>
+      <description>Zuko leaves the room under the watchful eye of Iroh. As soon as Zuko is out
+                of the screen, Iroh crosses his arms, turns around, and sulks.</description>
+      <description>The shot switches to a close-up of Kyoshi's statue's wooden face as it is
+                being repainted. The right side of her face is already done and the previous cracks
+                are not visible anymore. The painter carefully reapplies her left eyebrow with black
+                paint. A back view shot of the statue shows the main street of Kyoshi village with
+                houses at both sides and one bigger house at the end of the street. Another villager
+                is cleaning the back of the statue with a broom. The camera pans to the right until
+                the big house becomes the center of the shot before cutting to a shot of Appa who
+                lazily lies on his side, eating hay while two villagers are grooming him. He growls
+                and chews while the camera pans the left and up to focus on three open windows of
+                the main house on the first floor. Cut to a side-view of inside the house where
+                Aang, Katara, and Momo are sitting at a long table. A villager places another dish
+                on the already richly filled table. Aang and Momo are very excited to see the
+                display of decadent desserts in front of it, but Katara supports an uneasy
+                look.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Throws his arms in the air while Momo digs in and chitters.
+                Ecstatic.</charAction> All right! Dessert for breakfast!</speech>
+   </section>
+   <section>
+      <description>Katara pokes one of the squishy looking, orange puffs with a flat top in
+                front of her. Cut to a frontal view of the two as a doubtful Katara picks up and
+                closely investigates the dessert she just pokes. Aang on the other hand does not
+                share her reluctance and starts stuffing his face, two desserts at
+                once.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">These people sure know <charAction>The rest is kind of muffled out because he is
+                cramming his desserts in his mouth.</charAction> how to treat an Avatar!</speech>
+   </section>
+   <section>
+      <description>Katara still is not convinced about the deliciousness of the dessert she is
+                holding. Glances at Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Impressed.</charAction> Mmm ... <charAction>Offers one of the desserts
+                he is holding to Katara.</charAction> Katara you've got to try these!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Puts down the orange dessert, accepts the dessert Aang offers her and
+                takes a bit.</charAction> Well, maybe just a bite.</speech>
+   </section>
+   <section>
+      <description>Momo sneaks up to Aang and snatches the dessert out of his other hand and
+                quickly dashes away, who smiles at his pet. He does not let the theft bother him and
+                quickly gabs another dessert in front of him while Katara munches down the piece of
+                cake and reaches across the table for the same dessert Aang just took. Aang glances
+                to his left, over the hunched Katara to Sokka. Momo appears between Aang and Katara
+                and quickly snatches another cupcake from the table before vanishing underneath
+                it.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Sokka, what's your problem? Eat!&gt;
+      </speech>
+   </section>
+   <section>
+      <description>Cut to Sokka who is sitting in a corner, walking with his arms crossed
+                while staring in front of him.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Not hungry.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Aang leans backward to be able to look past Katara to Sokka; his eyes
+                wide open in surprise.</charAction> But you're always hungry!</speech>
+   </section>
+   <section>
+      <description>Cut to a wide shot of the room, Aang in front, Sokka in the back. It is
+                shown that the amount of desserts has dwindled severely.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Glancing amusingly at Aang. Slightly mocking.</charAction> He's just
+            upset because a bunch of girls kicked his butt yesterday.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Protesting.</charAction> They snuck up on me!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Mockingly looks at her brother.</charAction> Right. And then they kicked
+            your butt.</speech>
+   </section>
+   <section>
+      <description>Cut to a wider shot of the table. Momo is lying underneath the table with
+                his front paws around a bunch a pastries he collected. He is chewing while Sokka
+                angrily stands up in the background.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Indignant.</charAction> Sneak attacks don't count! <charAction>Walks out
+                of the scene with big strides. Mumbling to himself.</charAction> Tie me up with
+            ropes! I'll show them a thing or two. <charAction>Comes back to the table to face Katara
+                and Aang. Momo grabs some more pastries that lie around him.</charAction> I'm not
+            scared of any girls. <charAction>Snatches some of the desert of the table.</charAction>
+            Who do they think they are anyway? <charAction>He shoves one of the deserts in his mouth
+                and stalks off again.</charAction> Mmm ... this is tasty.</speech>
+   </section>
+   <section>
+      <description>Front view of Aang and Katara. In the back villagers are still working on
+                beautifying the statue of Kyoshi. Aang is still holding one of the sweets as he
+                looks at Katara.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">What's he so angry about? <charAction>Excited.</charAction> It's great here. They're
+            giving us the royal treatment!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Hey, don't get too comfortable. It's risky for us to stay in one place for very
+            long.</speech>
+   </section>
+   <section>
+      <description>Momo's arm comes into view from underneath the table. He scans the table
+                for new pastries to snatch.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Lowers his arm with the pastry and offers it to Momo's grasping
+                paw.</charAction> I'm sure we'll be fine. <charAction>The lemur feels the desert and
+                quickly snatches it out of Aang's hand.</charAction> Besides, did you see how happy
+            I'm making this town? <charAction>Aang moves closer to Katara and turns around to look
+                out of the window at the statue.</charAction> They're even cleaning up that statue
+            in my honor!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Well, it's nice to see you excited about being the Avatar. <charAction>Slightly
+                concerned.</charAction> I just hope it doesn't all go to your head.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Reassuring.</charAction> Come on, you know me better than that. I'm just
+            a simple monk.</speech>
+   </section>
+   <section>
+      <description>Aang gets up and leans on the window sill so he can look better outside. As
+                soon as he emerges, the villagers scream with delight and admiration for him. Aang
+                looks down in surprise to see where the sound came from. The camera switches to his
+                point of view and reveals a bunch a little girls cheering for him; Koko is among
+                them in the front row. The camera cuts back to Aang who flashes a broad smile at the
+                girls while blushing. Katara is standing behind him with her arms crossed in
+                disapproval. She rolls her eyes and makes a raspberry.</description>
+      <description>The shot changes to a side-view of a brownish-red bridge over a small
+                creek. Aang quickly runs over it from the right to the left, trailed by four
+                screaming fangirls. They run out of the picture, but Aang quickly comes back and
+                traverses the bridge again, now from left to right. The girls are still following
+                him, screaming loudly with the same amount of enthusiasm. They run out of the
+                picture again, but once again, Aang runs back in. He runs up the bridge, but halts
+                in the middle, looking from left to right as he sees that hordes of fangirls are
+                trapping him on the bridge as they run up from both sides. Before they can reach
+                him, the airbender leaps in the air. Cut to a closer shot of the girls in the middle
+                of the bridge as they are still screaming and reaching for the sky. They gasp for
+                air in admiration when they see that Aang is suspended in the air by clinging to an
+                airball. The ball, however, slowly reduces in size until it vanishes completely.
+                Aang looks scared as he drops down into the crowd of little girl who happily catch
+                him.</description>
+      <description>Switch to a shot of Aang and Koko standing serene with a waterfall in the
+                background. A painter is measuring their proportions with his brush. Aang and Koko
+                are obscured from sight as the artist raises his canvas and starts painting the
+                outlines of Koko.</description>
+   </section>
+   <section>
+      <speech speaker="Painter">
+         <charAction>Muttering to himself.</charAction> Hmmm ... Painting the Avatar ...
+            that's easy enough ... <charAction>He lowers the canvas and notices that another girl
+                has pulled up next to Aang. Surprised.</charAction> Oh, there's another one ...
+                <charAction>He obscures his models again from sight by raising his canvas and
+                painting the outlines of the other girl.</charAction> Well, I'll make an adjustment
+            here, and ... <charAction>He lowers the canvas to see that three more girls have joined
+                Aang.</charAction> There's more ... <charAction>He obscures the Avatar and his
+                fangirls from sight again with his canvas while he quickly paints Aang.</charAction>
+            well that ...</speech>
+   </section>
+   <section>
+      <description>The painter lowers his canvas again and discovers that Aang is now
+                surrounded by sixteen little girls. The camera switches to the annoyed face of the
+                painter. As he stares at his models, his brush drips on his painting. Close shot of
+                Aang and the fangirls as they all push and pull to be as close to Aang as possible.
+                They are all smiling widely and giggling while Aang looks somewhat horrified by all
+                the girls around him. A side-view of the scene shows that some girls are completely
+                leaning on others in order to have a spot on the painting. The painter gets up and
+                walks away without saying a word, while the tower of people crashes under its own
+                weight.</description>
+      <description>Switch to a shot of Aang and his fangirls back in the village. A frontal
+                shot of the monk shows that he is doing push-ups while Momo is sitting on his back
+                and his fangirls have lined up in a semi-circle behind him. After three push-ups,
+                Aang starts to do one handed push-ups and soon switches to no handed push-ups, but
+                pushing himself up with his airbending. The girls stare at him in admiration. Cut to
+                a wider view as Katara walks past carrying a basket. A look of disapproval dons her
+                face as she keeps on walking without even glancing at the Avatar.</description>
+      <description>Cut to a shot of a small house surrounded by trees. Sokka walks up to
+                it.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Angrily grunting to himself.</charAction> I can't believe I got beat up
+            by a bunch of girls.</speech>
+   </section>
+   <section>
+      <description>Inside the house, six Kyoshi Warriors are training. They are performing a
+                routing with a fan in perfect unison. Sokka peeks his head around the door to look
+                at them. He smiles smugly and enters.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Condescending.</charAction> Sorry ladies, <charAction>Suki and the other
+                warriors stop their exercise and close their fans. They stare at Sokka with a
+                serious look on their faces.</charAction> didn't mean to interrupt your dance
+            lesson. <charAction>The camera moves back, revealing that Sokka was
+                stretching.</charAction> I was just looking for somewhere to get a little
+            workout?</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Looks at how Sokka continues his warm up.</charAction> Well, you're in
+            the right place. <charAction>Cut to a side-view while Sokka is loosening up his
+                hips.</charAction> Sorry about yesterday. I didn't know that you were friends with
+            the Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Stretching his arms.</charAction> It's all right. <charAction>Mockingly
+                suppressing a laugh while speaking.</charAction> I mean, normally I'd hold a grudge,
+            but seeing as you guys are a bunch of girls, I'll make an exception.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Sarcastically.</charAction> I should hope so. A big strong man like you?
+            We wouldn't stand a chance.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Smugly.</charAction> True. But don't feel bad. After all, I'm the best
+            warrior in my village.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Keeps using sarcasm without Sokka catching on to it. Leans slightly
+                toward Sokka.</charAction> Wow! Best warrior, huh? <charAction>Glances back to the
+                other Kyoshi Warriors.</charAction> In your whole village? <charAction>Looks back to
+                Sokka.</charAction> Maybe you'd be kind enough to give us a little
+            demonstration.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Frontal view of Sokka as his eyes widen upon hearing the unexpected
+                request.</charAction> Oh ... Well ... I mean ... I ...</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Turns to the other warriors.</charAction> Come on, girls! Wouldn't you
+            like him to show us some moves?</speech>
+   </section>
+   <section>
+      <description>The camera switches position and shows the other female warrior giggling
+                and smiling in agreement. Switch back to a side-view of Sokka and
+                Suki.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Well, if that's what you want, I'd be happy to. <charAction>He places his hands on
+                Suki's shoulder in order to push her back a little, but she does not move a
+                bit.</charAction> All right, you stand over there. Now, this may be a little tough,
+            but try to block me.</speech>
+   </section>
+   <section>
+      <description>While he is talking, Sokka takes on a fighting stance while Suki has not
+                moved a muscle from the position Sokka has put her in. Sokka bends through his knees
+                and attacks the female warrior by trying to punch her. Suki does not move, but
+                easily defends herself by bringing up her left arm and thrusting her closed fan
+                against Sokka's shoulder. His cries out in pain and staggers backward.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Rubbing his hurt right shoulder. Impressed.</charAction> Aw! Heh heh ...
+            Good. Of course, I was going easy on you.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Close-up of Suki's confident face.</charAction> Of course.</speech>
+   </section>
+   <section>
+      <description>Cut to a side-view. Sokka is clearly annoyed and angered by Suki's arrogant
+                facial expression.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>He starts with a mumble, raising his tone of voice with each
+                word.</charAction> Let's see if you can <charAction>Shouting while he attempts to
+                hit Suki with a roundhouse kick.</charAction> handle this!</speech>
+   </section>
+   <section>
+      <description>Suki quickly dodges under Sokka's outstretched leg and pushes him off
+                balance. When the Water Tribe warrior lands flat on his back with a loud thud, Suki
+                lazily opens her fans to wave herself some air. Sokka, a little shocked by his
+                second failure, loses his temper at the sight of Suki's defiant
+                posture.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>His voice cracking in anger.</charAction> That does it!</speech>
+   </section>
+   <section>
+      <description>He gets up and madly charges her again. Suki quickly closes her fan and
+                moves out of Sokka's way. She grabs him by the arm with her right hand, while she
+                pushes against his shoulder with her left hand, quickly spinning him around. After
+                two turns, she switches position and spins Sokka in the other direction. Close-up of
+                Sokka's distressed face as he is powerlessly being tossed around. Switch to a wider
+                shot as Suki suddenly halts Sokka so he topples forward. Before falling down, Suki
+                loosens Sokka's belt and ties his left hand to his right foot behind his back in one
+                swift movement. Sokka tries so maintain his balance for a while by jumping on one
+                leg, but it is not long before he loses footage and smacks down flat on his
+                face.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Mockingly.</charAction> Anything else you want to teach us?</speech>
+   </section>
+   <section>
+      <description>Sokka blushes in humiliation as the Kyoshi Warriors laugh at
+                him.</description>
+      <description>Switch to an overview of Kyoshi Village where Aang and his fangirls are
+                standing before Kyoshi's statue. The camera slowly moves toward the group before
+                changing to a bird view of Aang and the girls that are looking up at the statue. One
+                girl to the right of Aang is carrying a passed out Momo.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">There she is, girls. Me in a past life.</speech>
+   </section>
+   <section>
+      <description>Scene switches to a frog view of the statue.</description>
+   </section>
+   <section>
+      <speech speaker="Fangirls">Ooohhh ...</speech>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>Admiringly.</charAction> You were pretty!</speech>
+   </section>
+   <section>
+      <description>Aang turns to look at her with a wondering look upon his face. He looks at
+                the rest of his fangirls like he is searching for someone.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Holding up a finger to draw their attention.</charAction> Excuse me for
+            a second, ladies.</speech>
+   </section>
+   <section>
+      <description>The girls do not say anything, but there cheerful expression changes to one
+                of disappointment.</description>
+      <description>The scene switches to a frontal view of Katara who filling a pot with
+                groceries. Aang comes up behind her, smiling, and gives her a gentle poke to get her
+                attention.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Turns around in surprise, but is happy to see that the poke came from
+                Aang.</charAction> Oh, good! Can you help me carry this back to the room?
+                <charAction>She moves the pot toward Aang.</charAction> It's a little
+            heavy.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Holding up his hands to fob off with the offered pot.</charAction>
+            Actually, I can't right now.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Slightly irritated.</charAction> What do you mean, "you can't?"</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I promised the girls I'd give them a ride on Appa. Why don't you come with us? It'll
+            be fun!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Resumed filling the pot with more vegetables.</charAction> Watching you
+            show off for a bunch of girls does not sound like fun.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Disappointed.</charAction> Well, neither does carrying your
+            basket.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Annoyed.</charAction> It's not my basket. These supplies are for our
+            trip. I told you, we have to leave Kyoshi soon.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Central focus on Aang.</charAction> I don't want to leave Kyoshi yet. I
+            can't put my finger on it, <charAction>He puts his hand to his chin in a thinking
+                posture; the camera pans to the right, showing Aang's fangirls better in the
+                background.</charAction> but there's something I really like about this
+            place.</speech>
+   </section>
+   <section>
+      <description>The fangirls giggle. Shot switches to a closer shot of the
+                girls.</description>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>Stomping her foot in annoyance and puts her hands on her hips, while
+                another girl happily waves at Aang; irritated.</charAction> What's taking you so
+            long, Aangy?</speech>
+   </section>
+   <section>
+      <description>Cut back to Aang and Katara; the former enthusiastically waves back at his
+                awaiting fangirls, while the latter raises an eyebrow at the scene.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Slightly mocking.</charAction> Aangy ...</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Enthusiastically.</charAction> Just a second, Koko!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Sarcastic.</charAction> "Simple monk", huh?
+                <charAction>Annoyed.</charAction> I thought you promised me that this Avatar stuff
+            wouldn't go to your head.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">It didn't. You know what I think? You just don't want to come because you're
+                jealous.&gt;
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Close-up; angrily.</charAction> Jealous? <charAction>More high pitched
+                voice.</charAction> Of what?</speech>
+   </section>
+   <section>
+      <description>Cut to a broader shot. Aang moves back slightly, when an irritated Katara
+                resumes to ferociously stuff the basket with more fruits.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Jealous that we're having so much fun without you.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Irritated.</charAction> That's ridiculous.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">It is a little ridiculous, but I understand.</speech>
+   </section>
+   <section>
+      <description>Katara turns to Aang, towering over him with her hands trust in her sides,
+                like she is about to come down on him, but reconsiders.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Turning away; irritated.</charAction> Urch!</speech>
+   </section>
+   <section>
+      <description>She grabs the heavy basket and staggers away, while Aang's fangirls run on
+                screen and crowd around him, pulling him backward out of the screen.</description>
+      <description>Scene switches to Sokka who is standing outside of the Kyoshi Warriors'
+                training hut. He kicks away a rock before turning toward the dojo. Cut to a shot
+                from inside the dojo where Suki shows a movement that is copied by the eight other
+                warriors behind here. Sokka walks in and the Kyoshi Warriors interrupt their
+                training to face him.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Timidly.</charAction> Uh ... Hey, Suki.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Hostile.</charAction> Hoping for another dance lesson?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Cut to a shot of Sokka who does not know how to act.</charAction> No ...
+            I ... well, let me explain.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Close-up of Suki; hostile.</charAction> Spit it out! What do you
+            want?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sokka looks hurt at Suki's hostility. He humbly drops to his knees in
+                front of her.</charAction> I would be honored if you would teach me.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Frog view of Suki; hostile.</charAction> Even if I'm a girl?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Averting his eyes.</charAction> I'm sorry if I insulted you earlier. I
+            was ... wrong.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Cut to a side-view of the two; Suki has her arms crossed while looking
+                down upon Sokka.</charAction> We normally don't teach outsiders, let alone
+            boys.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Raises his head to face her; pleading.</charAction> Please make an
+            exception. <charAction>Bowing again.</charAction> I won't let you down.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Frog view; on a friendlier tone.</charAction> All right. But you have to
+            follow all of our traditions.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Close-up; eagerly.</charAction> Of course!</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Smiling.</charAction> And I mean all of them.</speech>
+   </section>
+   <section>
+      <description>The episode jumps to a few moments later when Sokka is standing in the dojo
+                donned in the typical green dress of the Kyoshi Warriors and sporting the white face
+                paint.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Embarrassed looking down at his wardrobe.</charAction> Do I really have
+            to wear this? It feels a little ... <charAction>Lower his arms in defeat.</charAction>
+            girly.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">It's a warrior's uniform, you should be proud. <charAction>Closeup of Sokka, the
+                camera pans down to reveal the entire uniform close by.</charAction> The silk
+            threads symbolize the brave blood that flows through our veins. The gold insignia
+            represents the honor of the warrior's heart.</speech>
+   </section>
+   <section>
+      <description>Cut back to a broader shot, Sokka looking more comfortable wearing "a
+                dress." Aang passes by the front door looking in with interest while Sokka proudly
+                erects himself.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Proudly.</charAction> Bravery and honor.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Popping in; smiling broadly.</charAction> Hey Sokka! <charAction>Sokka
+                winces upon hearing his name and slants his eyes and shoulders in
+                embarrassment.</charAction> Nice dress!</speech>
+   </section>
+   <section>
+      <description>Suki turns to Aang, who speeds away, and looks back to the embarrassed
+                Sokka with a content and broader smile on her face.</description>
+      <description>Cut to an outside-view of Aang walking through town. Switch to a close-up
+                of a small cup filled with water. Katara is sitting beside it and moving her left
+                hand over the cup, bending the water inside it. The camera follows the rising of the
+                water and the scene changes to a broader view of the room. Katara is looking
+                concentrated at the water when Aang walks in. She moves the plume of water up and
+                down, right and left.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Confidently.</charAction> Katara, remember how Unagi almost got me
+            yesterday?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Slants up her eyes in annoyance, which Aang can't see while continuing
+                to practice her bending.</charAction> Yeah.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Bragging.</charAction> Well, I'm gonna go ride it now. It's gonna be
+            real dangerous.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Still not looking at Aang; disinterested.</charAction> Good for
+            you.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Surprised.</charAction> You're not going to stop me?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Still disinterested.</charAction> Nope. Have fun.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Crossing his arms; defiant.</charAction> I will.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Growing irritated again.</charAction> Great.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Annoyed at Katara's lack of interest.</charAction> I know it's
+            great.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Irritated.</charAction> I'm glad you know.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Annoyed.</charAction> I'm glad you're glad.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Angry.</charAction> Good! <charAction>She loses control over the water
+                and it splashed back into the bowl. Katara balls her fists in
+                annoyance.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Emphasizing his reacting by swinging his hands.</charAction>
+            Fine!</speech>
+   </section>
+   <section>
+      <description>Aang angrily turns around to walk out of the door. Before he leaves,
+                however, he already glances back to Katara with a sorrowful expression on his face.
+                Right after he leaves the room, Katara crosses her arms in protection and glances at
+                the door, looking sad as well. She turns her head and raises her eyes in a
+                combination of annoyance and regret.</description>
+      <description>Cut to a bird view shot of inside the Kyoshi Warriors' training dojo where
+                Sokka is performing some exercises with a fan under the watchful eyes of
+                Suki.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">You're not going to master it in one day. Even I'm not that good.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I think I'm starting to get it.</speech>
+   </section>
+   <section>
+      <description>Close-up of Sokka as he performs a series of well executed moves with his
+                fan.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Tah!</speech>
+   </section>
+   <section>
+      <description>As a last move, he closes the fan on throws it out of the dojo. The object
+                flies straight into a tree, knocking down some of snow that had gathered on its
+                branches.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Peeks her head around the door to look at the hit tree before turning
+                back to Sokka. Friendly.</charAction> It's not about strength. Our technique is
+            about using your opponents' force against them. Loosen up. <charAction>Retracts her own
+                fan from her belt and points it at Sokka, who takes on a battle
+                position.</charAction> Think of the fan as an extension of your arm.
+                <charAction>Close-up of Sokka.</charAction> Wait for an opening and then
+            ...</speech>
+   </section>
+   <section>
+      <description>Suki charges Sokka, but he manages to evade her attack and uses the
+                momentum of her speed against her, knocking her on her behind, much to her
+                surprise.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Looks surprised, quickly crosses his arms and looks smug.</charAction>
+            Hmm ...</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Quickly gets up; irritated.</charAction> I fell on purpose to make you
+            feel better!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Points at Suki, exclaims ecstaticly.</charAction> I got you! Admit I got
+            you!</speech>
+   </section>
+   <section>
+      <description>Suki grabs Sokka's pointing finger and twists it, making Sokka twitch and
+                grunt in pain.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">Okay, it was a lucky shot. <charAction>Releases the finger while smiling broadly. On
+                a more serious tone.</charAction> Let's see if you can do it again.</speech>
+   </section>
+   <section>
+      <description>Camera moves to an overview shot as the two warriors prepare to battle
+                again. Suki opens her fan threateningly and starts to circle around
+                Sokka.</description>
+      <description>Cut to a back view scene of Aang swimming in the water, while his troop of
+                fangirls can be seen on the shore in the background. Switch to a close shot of the
+                six girls, either sitting or lying on the shore in boredom.</description>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>Resting her head on her hand. Bored and impatiently.</charAction> What's
+            taking so long?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Close-up; reassuring.</charAction> I'm sure it will be here any second!
+                <charAction>Looking for a way to entertain the girls.</charAction> What about
+            this?</speech>
+   </section>
+   <section>
+      <description>Aang takes out his marbles and spins them around between his hands with his
+                airbending, smiling hopefully.</description>
+   </section>
+   <section>
+      <speech speaker="Little Girl">
+         <charAction>Annoyed.</charAction> Not that again.
+            Boring&gt;!</speech>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>The girls stand up. Waving her arms to emphasize her
+                question.</charAction> Where's Unagi? It's getting late.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Waving from the water to the girls. Pleading.</charAction> Where're you
+            going? Don't leave!</speech>
+   </section>
+   <section>
+      <speech speaker="Koko">
+         <charAction>Holds her hands to her mouth to emphasize her yelling.</charAction>
+            Sorry, Aang! Maybe next time.</speech>
+   </section>
+   <section>
+      <description>As the girls leave, the camera moves to a close-up of a disappointed Aang.
+                He lowers himself to be partially under the water and starts blowing bubbles. Switch
+                to a shot of the shore, where the last of the girls is leaving, but their place is
+                taken by Katara who just arrived. Aang jumps up from the water and
+                smiles.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Happily.</charAction> Katara! You showed up!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Somewhat concerned.</charAction> I wanted to make sure you were safe.
+            You really had me worried.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Back there you acted like you didn't care.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>In a regretful voice.</charAction> I'm sorry.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Lowering his eyes.</charAction> Me too. I did let all that attention go
+            to my head. I was being a jerk.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Smiling. Puts her hands beside her mouth, yelling in a joking
+                manner.</charAction> Well, get out of the water before you catch a cold, you big
+            jerk!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Smiling broadly and starts to swing toward the shore.</charAction> On my
+            way!</speech>
+   </section>
+   <section>
+      <description>Side-view of Aang swimming to the shore, when suddenly a giant dorsal fin
+                appears from out of the water behind him. Close-up of Katara as her eyes open in
+                shock and she draws a sharp breath in horror. Cut back to Aang, who is, still
+                oblivious to the danger behind him, swimming toward her with a smile on his face.
+                Suddenly Aang is swept away by a wave and lifted out of the water, while he is
+                screaming in panic. He looks around to find himself sitting on the back of Unagi as
+                the monstrous eel erects itself before him, and directs a powerful jet of water to
+                him. Aang withstands the water by holding on to one of the smaller dorsal fins of
+                Unagi. The animal charges Aang and tries to eat him, but Aang narrowly escapes by
+                catching one of Unagi's whiskers. Screaming his lungs out, he dangles from side to
+                side in from of the big green eye of Unagi.</description>
+      <description>Cut to a shot from inside Unagi's mouth, looking out as Aang comes to a
+                halt right in front of him. The enormous tongue moves from side to side in
+                anticipation of the meal. Cut to a broader shot of the two as Unagi suddenly and
+                violently moves his head in all directions, trying to snatch Aang of his
+                whisker.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Worried.</charAction> Hang on, Aang!</speech>
+   </section>
+   <section>
+      <description>Close-up of a terrified Aang as he holds on to the whisker for dear life.
+                Unagi tosses him some more from side to side, and Aang finally lets go from the
+                force and speed of the throw. He is thrown through the air, still screaming loudly,
+                and smacks in the water, not so far from where Katara is standing on the shore. He
+                emerges back to the surface, clearly unconscious with his tongue out of his mouth.
+                The camera pans up to show a heavily panting and fully clothed Katara entering the
+                water.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang!</speech>
+   </section>
+   <section>
+      <description>Unagi shrieks and dives under to get to his unconscious prey. Close-up of a
+                worried Katara who is moving toward Aang through the water as fast as she can. The
+                camera switches between shots of a rapidly approaching shadow underneath the water
+                of Unagi, and a heavily panting Katara in her frantic effort to reach Aang before
+                the eel. The moment Katara reaches Aang and takes him into her arm, Unagi emerges
+                right in front of them. In an attempt to get away, Katara violently pushes the
+                water, propelling herself and Aang backward with her waterbending; at the same time,
+                Unagi snatches the water where they were just moments before. Although missing the
+                duo, the impact of Unagi's attack creates a giant wave that slams Katara and Aang
+                back to the rocks on shore. Angered, the animal spews power streams of water to the
+                rocks before submerging again.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Carefully peeking over the rock.</charAction> Zuko!</speech>
+   </section>
+   <section>
+      <description>Close-up of the fast approaching ship of the banished prince. A side-view
+                shows that the ship reaches shore at the same moment Unagi's large dorsal fin
+                submerges completely underneath the water. Closer shot when the ship's walkway is
+                lowered; a frontal shot of three riders mounted on komodo rhino's, with Zuko in the
+                lead.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">I want the Avatar alive.&gt;
+      </speech>
+   </section>
+   <section>
+      <description>Katara crawls up some rocks to have a better view of the approaching prince
+                and his soldiers. Switch to a scene of the sky that quickly pans down to reveal how
+                Zuko and his man ride past Katara and Aang's hiding place. Katara protectively
+                covers the body of the still unconscious Aang, while worriedly looking up and
+                hearing the riders move past. When she is certain the riders have pass, Katara lays
+                Aang on his back.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Worriedly.</charAction> Wake up, Aang!</speech>
+   </section>
+   <section>
+      <description>She looks around for a while before starting to move her left hand over his
+                chest, while supporting his head with her right. She moves her hand from his chest
+                to his mouth, and bends out the water he had swallowed.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Coughing out the last of the water. In a weak voice.</charAction> Katara
+            ... <charAction>Katara lovingly smiles at him with relief written all over her
+                face.</charAction> don't ride Unagi. Not fun.</speech>
+   </section>
+   <section>
+      <description>Cut to an outside shot of the Kyoshi Warriors' dojo. Inside Suki and Sokka
+                are still training. Momo is hanging by his tail on one of the support beams of the
+                roof. He has a collection of sweets with him which he is eating while watching the
+                duo below him train. The camera moves closer to the duo on the ground, where Suki
+                thrusts her hand, holding the fan forward, only to have it blocked by
+                Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Smiling while impressed.</charAction> Not bad.</speech>
+   </section>
+   <section>
+      <description>Sokka smiles back at her with confidence, when suddenly Oyaji appears in
+                the door.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Sokka and Suki worriedly turn to him. Alarmed.</charAction> Firebenders
+            have landed on our shores! <charAction>Suki immediately runs to him while he turns to
+                head back to the town.</charAction> Girls, come quickly!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Protesting.</charAction> Hey, I'm not a ... <charAction>Momo jumps on
+                his shoulder and pushes himself off toward the door. Conceding.</charAction> oh,
+            whatever!</speech>
+   </section>
+   <section>
+      <description>Sokka runs out of the room.</description>
+      <description>The camera pans up to show the deserted main street of the village. Zuko
+                and three other soldiers mounted on komodo rhinos are standing at the base of the
+                Kyoshi statue.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Frog view close-up.</charAction> Come out, Avatar! <charAction>Camera
+                pans from left to right, revealing how several villagers are hiding in the nearby
+                houses.</charAction> You can't hide from me forever! <charAction>Camera focuses on
+                the four riders while moving away from them over the main street, showing that there
+                is not any movement in the village. Side-view of Zuko.</charAction> Find
+            him.</speech>
+   </section>
+   <section>
+      <description>As Zuko gives the command, the camera follows how the other three rhinos
+                move into town. Cut to a shot of a fan being opened on a nearby roof. Cut to a side
+                shot of two rhinos with their riders as one of the Kyoshi Warriors quickly passes
+                them by behind some houses. Cut to a frontal view of the three rhinos, before
+                switching to a shot of the running feet of a Kyoshi Warrior atop a snowy roof. When
+                she pushes herself off, the scene switches to a frog view of the three rhinos and
+                there riders as three Kyoshi Warriors come jumping toward them from atop nearby
+                roofs, knocking off some of the riders. A Kyoshi Warriors lands in front of the lead
+                rhino and opens her fans. The rider stabs at her with his spear. She moves to the
+                right, disarms the rider, and jumps up to knock him off his steed with a spinning
+                kick. Suki can be seen running past in the background.</description>
+      <description>Cut to a frontal view of a concentrated Suki while she runs toward Zuko.
+                Switch to a back view of Suki, who moves to the left to avoid a fire blast of the
+                prince. She jumps over another blast and tries to attack Zuko from the air, but he
+                turns his rhino. The beast slams Suki away with a might sweep of his tail, knocking
+                her down. Zuko shoots a fire blast at the downed warrior, but right before it would
+                have burned her, Sokka jumps before her and decimates the flames with a sweep of his
+                fan. Sokka prepares to fight Zuko, but before he can do anything, another Kyoshi
+                Warrior jumps of a nearby roof and knocks a surprised Zuko of his rhino; the beast
+                dashes away.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">I guess training's over.</speech>
+   </section>
+   <section>
+      <description>Sokka glances at Suki before running to the downed prince. Close-up of Zuko
+                angrily opening his eyes. The camera moves back to reveal how Sokka, Suki, and the
+                other Kyoshi Warrior all take on a fighting stance. Zuko pushes himself up and
+                rapidly spins around on his hand while shooting fire out of his feet, knocking the
+                Kyoshi Warrior back into the house and slamming Suki against a wooden pole, where
+                she collapses in pain. Zuko proceeds with a low fire kick in Sokka's direction. The
+                Water Tribe Warrior jumps over the fire, but as soon as he lands again, Zuko sweeps
+                his feet from underneath him. Sokka falls in his back, and Zuko jumps over him to
+                the middle of the street. He angrily looks around. Camera moves back to reveal the
+                completely deserted street.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">Nice try, Avatar! But these little girls can't save you.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Close-up of Zuko.</charAction> Hey! Over here!</speech>
+   </section>
+   <section>
+      <description>Zuko turns around. Close-up of a determined Aang standing at the beginning
+                of the main street, holding his staff in front of him like he is challenging the
+                prince.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">Finally!</speech>
+   </section>
+   <section>
+      <description>Zuko commences by sending two fire balls in Aang's direction. Back view of
+                Aang as he prepares to face the incoming, burning projectiles. He ducks underneath
+                the first and uses his staff to decimate the next fire ball. He rapidly spins the
+                staff over his head, propelling himself in the air. He lands in front of Zuko, who
+                immediately kicks the staff out of his hands. Aang jumps up and lands between two
+                fans of a Kyoshi Warrior that are lying on the ground. He stands up and picks us the
+                fan with his airbending. Close-up of Zuko, who madly charges Aang with his fist
+                already held stretched out before him. Aang spins around a few times to create a
+                bigger momentum and uses the extra power of his swirl to blast Zuko in a nearby
+                house with a strong blast of air. Aang looks sad and lowers the fans. He runs down
+                the main street and picks up his staff along the way. Aang tosses the object in the
+                air, where it snaps open into his glider and jumps on. A close-up of a saddened
+                Aang, switches to the scene he is seeing: a lot of burning houses and the Fire
+                Nation troops among them. Aang looks back to see the burning statue of Avatar
+                Kyoshi, which saddens Aang even more.</description>
+      <description>Cut to an overview shot of Katara as she is leading Koko and another
+                village girl into a house.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Get inside.</speech>
+   </section>
+   <section>
+      <description>Aang lands and Katara turns to face him as he walks over to
+                her.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Sorrowful.</charAction> Look what I brought to this place.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">It's not your fault.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Close-up. Upset.</charAction> Yes, it is. These people got their town
+            destroyed trying to protect me.</speech>
+   </section>
+   <section>
+      <description>Camera turns to Katara. Five little girls can be seen behind her in the
+                house. Koko stands in the doorway holding Momo, whole the girl next to her peeks
+                around the door frame with a worried look upon her face.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Then let's get out of here. Zuko will leave Kyoshi to follow us. I know it feels
+            wrong to run, but I think it's the only way.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Sad.</charAction> I'll call Appa.</speech>
+   </section>
+   <section>
+      <description>Cut to a Kyoshi Warrior who deflects a fire blast with her fan, and
+                retaliates by throwing her other closed fan to the firebender. With a load clung,
+                the object makes contact with the bender's helmet, knocking him on his behind. The
+                camera moves backward through an ally. Two retreating Warriors can be soon,
+                deflecting fire balls left and right, before the camera pans to the left, revealing
+                Sokka and Suki squatting behind a house.</description>
+   </section>
+   <section>
+      <speech speaker="Suki">There's no time to say goodbye.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">What about, "I'm sorry?"</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Surprised.</charAction> For what?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Close-up. Regretful.</charAction> I treated you like a girl when I
+            should've treated you like a warrior.</speech>
+   </section>
+   <section>
+      <speech speaker="Suki">
+         <charAction>Side-view.</charAction> I am a warrior. <charAction>She leans over and
+                kisses Sokka on the cheek, before continuing again. A surprised Sokka touches his
+                cheek where Suki just kissed him.</charAction> But I'm a girl, too. <charAction>Cut
+                to shot of Sokka who blushes; cut to Suki who stands in the alleyway, her fan slid
+                open to fight.</charAction> Now get out of here! We'll hold them off.</speech>
+   </section>
+   <section>
+      <description>Sokka stands up and runs to Appa who was lying ready a few meters further.
+                Both Momo and Sokka run up Appa's tale.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Pulling the reins.</charAction> Appa, yip yip!</speech>
+   </section>
+   <section>
+      <description>Appa groans and takes off. A frog view shows how the bison flies over the
+                burning buildings.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">Back to the ship! Don't lose sight of them!</speech>
+   </section>
+   <section>
+      <description>Zuko and his men turn and run toward the coast where their ship is
+                docked.</description>
+      <description>Cut to shot of the group flying away on Appa. Katara and Sokka are in the
+                saddle, Aang on his head, and the burning village of Kyoshi is behind
+                them.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Peeking over the rim of the saddle to address a saddened Aang. Sokka is
+                wiping of the face paint with his sleeve.</charAction> I know it's hard, but you did
+            the right thing. <charAction>Gesturing toward the town.</charAction> Zuko would have
+            destroyed the whole place if we had stayed. <charAction>Comforting.</charAction> They're
+            going to be okay, Aang.</speech>
+   </section>
+   <section>
+      <description>Aang looks up with a determined look on his face. The camera zooms in on
+                him, when he suddenly jumps off Appa, the camera following his free
+                fall.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Shocked; off-camera.</charAction> What are you doing?</speech>
+   </section>
+   <section>
+      <description>Cut to shot of the surface of the ocean as Aang plunges into the water.
+                Switches back to a shot of Katara and Sokka, his face cleaned of the warrior
+                make-up, peering over the edge of the saddle, wide-eyed in chock. Momo peeks over
+                the rim as well beside Katara. Cut back to a shot of the surface, where a few
+                ripples reveal the nearing emerging of something. The water bubbles and suddenly
+                Unagi shoots out of the water with Aang on top of his head, holding his whiskers.
+                After swaying about a few times, he sturdies himself atop Unagi's head and pulls the
+                creature's barbels. Unagi opens its mouth wide and begins gushing water which rains
+                over the town. Cut to shot of the village houses as the fires are put out by the
+                rain. Cut to shot of a drenched Zuko and his men mounted on the rhinos, Zuko looking
+                humiliated and his men looking surprised. Unagi ceases to gush water and launches
+                Aang into the air, who is subsequently caught by an overflying Appa.</description>
+      <description>Cut to shot of Oyaji viewing the spectacle from a building, his back to the
+                camera. Switch to a frontal shot.</description>
+   </section>
+   <section>
+      <speech speaker="Oyaji">
+         <charAction>Gratefully smiling.</charAction> Thank you, Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Side-view of Aang mounting Appa's saddle.</charAction> I know, I know.
+            That was stupid and dangerous.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Smiling as Aang sits down.</charAction> Yes, it was.</speech>
+   </section>
+   <section>
+      <description>Cut to Aang whom Katara suddenly hugs. Aang smiles and inhales deeply
+                before sighing and closing his eyes, happily. Cut to shot of the ocean, Unagi
+                disappearing below the surface of the water.</description>
+   </section>
+   <section>
+      <description>Fade to credits.</description>
+   </section>
+</root>

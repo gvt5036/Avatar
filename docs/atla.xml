@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="avatar.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <characters>
         <char name="aang">
@@ -85,8 +87,8 @@
         </char>
     </characters>
     <nations>
-        <nation name="Water Nation">
-            <name>Water Nation</name>
+        <nation>
+            <elementNation>Water Nation</elementNation>
             <desc>The Water Nation consists of two major tribes, the Northern and Southern tribes.
                 The Southern Water Tribe is the less developed of the two, and consists of primative
                 huts made from wood and animal skins. The Southern Water Tribe only has one
@@ -99,8 +101,9 @@
                 the remaining waterbenders. The people of the Water Nation were </desc>
             <notChars> Katara, Sokka, Yue</notChars>
         </nation>
-        <nation name="Earth Nation">
-            <name>Earth Nation</name>
+        <nation>
+            <elementNation>Earth Nation</elementNation>
+
             <desc>The Earth Nation, or Earth Kingdom is the largest nation in the world of Avatar.
                 The Earth Kingdom is known for its massive walled cities built by earthbenders,
                 namely Omashu and Ba Sing Se. The people of the Earth Nation are typically strong,
@@ -112,8 +115,9 @@
                 Aang and his companions and the Earth King's power was restored,</desc>
             <notChars>Toph, Suki</notChars>
         </nation>
-        <nation name="Fire Nation">
-            <name>Fire Nation</name>
+        <nation>
+            <elementNation>Fire Nation</elementNation>
+
             <desc>The Fire Nation is the second largest of the four nations, and arguably the most
                 powerful. The Fire Nation was led by Fire Lord Ozai, who sought to expand through
                 colonialism. The Fire Nation was well known for its factories and pagoda-style
@@ -121,13 +125,16 @@
                 They placed a large emphasis on military power and developed a large number of metal
                 war machines that were incredibly advanced for their time.</desc>
         </nation>
-        <nation name="Air Nation">
+        <nation>
+          <elementNation> Air Nation</elementNation>
             <name> Air Nation</name>
             <desc> The Air Nation is a tribe of nomads and gurus that resided in the four Air
                 Temples in each corner of the world. The Air Nation was typically peaceful and
                 sought spiritual enligntenment as oppeosed to power. The Air Nation was typically
                 peaceful and did not have a standing army. As a result, the Air Nation was easily
                 wiped out by the Fire Nation before the events of the show.</desc>
+            
+     
         </nation>
     </nations>
     <animals></animals>

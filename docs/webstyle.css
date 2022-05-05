@@ -169,15 +169,19 @@ h3 {float: right;
 
 .about-descript {
     text-align: center;
+
     background-color: #B4DFFE;
     /*   margin-left: 19rem;
     margin-right:19rem; */
+
     padding-left: 5rem;
     padding-right: 5rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     height: auto;
+
     opacity: .94;
+
     margin-bottom: 30px;
 }
 

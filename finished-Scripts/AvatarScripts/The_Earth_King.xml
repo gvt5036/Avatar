@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="38">The Earth King</title>
+      <director>Ethan Spaulding</director>
+      <writer>Jonh O' Bryan</writer>
+      <date>2006-11-16</date>
+      <location nation="earth">Ba Sing Se</location>
+   </metadata>
+   <section>
+      <description>The episode opens just outside the vast waters of Lake Laogai. Team Avatar
+                has stopped on a tiny islet in the center of the lake. Aang is embracing Appa, happy
+                upon reuniting with him.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I missed you more than you'll ever know, buddy. <charAction>Momo flies into Appa to
+                hug him too. Appa licks Aang, which causes Aang to laugh.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Sokka approaches Katara and Toph.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Look, we escaped from the Dai Li. We got Appa back. I'm telling you, we should go to
+            the Earth King now and tell him our plan. We're on a roll.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">One good hour after weeks of trouble isn't much of a roll.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">We can build on it. If we want to invade the Fire Nation when the eclipse happens,
+            we'll need the Earth King's support.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">What makes you think we'll get it? I don't know if you've noticed, but things don't
+            usually go that smoothly for our little gang.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">I know, but I've got a good feeling about this. This time will be
+            different.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Sokka, Long Feng is in control of the city. His conspiracy with the Dai Li is too
+            powerful. I think we should just keep flying and leave this horrible place behind
+            us.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">I'm with Sweetness. I've seen enough of Ba Sing Se. <charAction>Raises arms and
+                opens eyes wide.</charAction> And I can't even see!</speech>
+   </section>
+   <section>
+      <description>Aang flies into the shot.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">But now that we have Appa back, there's nothing stopping us from telling the Earth
+            King the truth. About the conspiracy and the War.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">See? Aang's with me. <charAction>Puts his arm around Aang and smiles.</charAction>
+            It's the whole reason we came here in the first place. We have to try.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Thinks for a moment.</charAction> Well, I guess if the Earth King knew
+            the truth, things could change. <charAction>Sokka and Aang smile.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Stands up.</charAction> I don't trust the new positive Sokka.
+                <charAction>Points at Sokka in an accusing manner.</charAction> Long Feng
+            brainwashed you, didn't he!?</speech>
+   </section>
+   <section>
+      <description>Aang notices a few ships in the lake.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's probably the Dai Li searching for us. <charAction>To Katara.</charAction>
+            So?</speech>
+   </section>
+   <section>
+      <description>Katara thinks for a moment before looking at Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Determined.</charAction> Let's fly!</speech>
+   </section>
+   <section>
+      <description>They fly toward the Palace, now with no saddle, holding onto Appa's fur for
+                dear life, especially Toph.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">Can we please buy a new saddle? Riding bareback is terrifying! <charAction>Buries
+                face in Appa's back.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>They get closer to the palace.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">There it is! That whole thing is the palace! The Earth King's chamber should be in
+            the center!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">We have to be careful. Long Feng's probably warned the king that we're
+            coming.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Why would you assume that? If you ask me, I think we're just gonna sail right in
+            and- <charAction>A giant rock almost hits them.</charAction> Aahh!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">What was that?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Surface-to-air rocks! <charAction>Sees more being launched.</charAction> More
+            incoming!</speech>
+   </section>
+   <section>
+      <description>They dodge a few more rocks. One gets launched right at Aang, but he
+                destroys it with his hand. Another is launched at them head on, but Aang slices it
+                cleanly in two by swinging his staff at the rock to augment his earthbending. He
+                launches himself from Appa to the front of the palace and slams his staff into the
+                ground, generating a massive earthen wave to knock back the palace guards. Appa
+                lands and roars at the captain's ostrich horse, which causes it to drop the captain
+                and run off. As they continue toward the Earth King, more guards appear and launch
+                earth cubes at the gang. Toph and Aang use earthbending to block the attacks, while
+                Katara uses waterbending to subdue the guards.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Water whips two guards.</charAction> Sorry!</speech>
+   </section>
+   <section>
+      <description>Katara turns around and strikes down more guards with her waterbending,
+                though closes her right eye in a sympathetic flinch for a moment as she does so. As
+                more guards rush toward them in an attempt to halt Team Avatar's progress, Toph uses
+                her earthbending to flip the tiles of the walkway, trapping them between them and
+                ensuring a clear passage for the team.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Sorry! We just need to get through to see the Earth King!</speech>
+   </section>
+   <section>
+      <description>More guards appear on the opposite end of a bridge and launch two giant
+                statues at them. Toph and Aang create an earth igloo to block the statues. Katara
+                creates an ice ramp to jump to the other side of the bridge and water-whips the
+                guards into the water. Aang freezes them in the water as the rest all jump across.
+                More surface-to-air rocks appear as guards are coming down a giant staircase. Toph
+                uses earthbending to change the stairs into a ramp, causing them all to fall. She
+                and Aang use earthbending to escalate themselves up the stairs.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Seriously, we're actually on your guys' side! <charAction>Pauses for a
+                moment.</charAction> Sorry.</speech>
+   </section>
+   <section>
+      <description>More guards come and Aang and Toph push them away with
+                earthbending.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">In there! <charAction>They enter the palace.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>They come to an area with three doors. More guards appear and Toph easily
+                defeats them all.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Toph, which way to the Earth King?</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">How should I know? I'm still voting we leave Ba Sing
+            Se.</speech>
+   </section>
+   <section>
+      <description>Toph defeats more guards while Sokka opens the doors to find the Earth
+                King. The first room is empty, as is the second; outside the second door, a royal
+                guard goes flying to the right off-screen. Sokka bursts into a third room, startling
+                a woman.</description>
+   </section>
+   <section>
+      <speech speaker="Palace woman">Burglar! <charAction>Tries to run, trips, and falls flat on her
+            face.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shuts the door.</charAction> Sorry. Wrong door.</speech>
+   </section>
+   <section>
+      <description>Meanwhile, Zuko and Iroh return from Lake Laogai. The former seems
+                ill.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">You did the right thing. Letting the Avatar's bison go free.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">I don't feel right. <charAction>Gets dizzy and passes out.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Zuko! <charAction>Rushes to him.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back at the palace, the team arrives at a pile of rubble. Sokka climbs atop
+                it and sees a gigantic door.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Now that's an impressive door. It's gotta go somewhere. <charAction>Drops down from
+                the rubble and attempts to kick the door open.</charAction> Yaaah! <charAction>The
+                door does not move even slightly. Sokka starts trying to push it open, but to no
+                avail. Toph and Aang jump in from behind and bust the door down, knocking Sokka
+                forward in the process. He starts rubbing the back of his head.</charAction> A
+            little warning next time?</speech>
+   </section>
+   <section>
+      <description>They arrive in the Earth King's chamber with Kuei sitting in his throne.
+                Long Feng and his Dai Li agents stand in their way. The team takes fighting stances
+                against them.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">We need to talk to you.</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>Turns to face the Earth King.</charAction> They're here to overthrow
+            you.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">No, we're on your side. We're here to help.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">You have to trust us.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Stands up with a rising aggravated tone.</charAction> You invade my
+            palace, lay waste to all my guards, break down my fancy door, and you expect me to trust
+            you?</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">He has a good point.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">If you are on my side, then drop your weapons and stand down!</speech>
+   </section>
+   <section>
+      <description>They look at each other for a moment. Aang drops his staff, Katara puts her
+                water whip back in her water skin, Sokka drops his machete, and Toph drops the
+                boulder she is levitating.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Smiles.</charAction> See? We're friends, Your Earthiness.
+                <charAction>Gives a slight nervous chuckle.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The king says nothing and just continues to frown grimly. Long Feng signals
+                the Dai Li to cuff their arms with rock gloves.</description>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>Smiles sinisterly.</charAction> Detain the assailants!</speech>
+   </section>
+   <section>
+      <description>The Dai Li rush behind Team Avatar.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">But we dropped our weapons. We're your allies.</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">Make sure the Avatar and his friends never see daylight again. <charAction>The king
+                looks at him shocked.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">The Avatar? <charAction>Points at Sokka.</charAction> You're the Avatar?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Uh, no. Him. <charAction>Nudges his head at Aang.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Effortlessly breaks free of his earth cuffs and raises his
+                arms.</charAction> Over here. <charAction>Re-attaches the
+            cuffs.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">What does it matter, Your Highness? They're enemies of the state.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">Perhaps you're right. <charAction>Sees Bosco sniff and lick Aang, who laughs, and
+                smiles at Long Feng.</charAction> Though Bosco seems to like him. <charAction>Looks
+                back at the team.</charAction> I'll hear what he has to say. <charAction>Long Feng
+                glares at Aang.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Walks forward.</charAction> Well, sir, there's a war going on right now.
+            For the past one hundred years in fact. The Dai Li's kept it secret from you. It's a
+            conspiracy to control the city, and to control you.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">A secret war? That's crazy!</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">Completely!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Long Feng didn't want us to tell you, so he stole our sky bison to blackmail us. And
+            blackmail is the least of his crimes; he brainwashed our friend!</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>Quickly turns to face the king.</charAction> All lies. I've never even
+            seen a sky bison, Your Majesty. Frankly, I thought they were extinct.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Sits down.</charAction> Your claim is difficult to believe. Even from an
+            Avatar.</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>Whispers in his ear.</charAction> These hooligans are part of an
+            anarchist cell that my agents have been tracking for weeks. <charAction>Kuei looks
+                shocked at what Long Feng is telling him.</charAction> If you listen to them, you're
+            playing right into your own destruction.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Thinks for a moment.</charAction> I have to trust my advisor.</speech>
+   </section>
+   <section>
+      <description>The agents start taking the team away, but Sokka stops for a
+                moment.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Wait! <charAction>Turns to face the king with a big smile.</charAction> I can prove
+            he's lying. Long Feng said he's never seen a sky bison. Ask him to lift his
+            robe.</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">What? I am not disrobing! <charAction>The king looks
+                thoughtful before looking at Sokka suspiciously.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Aang and Sokka smile slyly and nod at each other. Aang blows a large gust
+                of air at Long Feng's legs, lifting his robe and revealing a bite mark left by
+                Appa.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Right there! Appa bit him!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Never met a sky bison, huh?</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>Lowers his robe.</charAction> That happens to be a large birth mark.
+                <charAction>Sarcastically.</charAction> Thanks for showing everyone.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">Well I suppose there's no way to prove where those marks came from.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Of course there is!</speech>
+   </section>
+   <section>
+      <description>The group gets Appa and brings him in. He opens his mouth. Aang points at
+                the bison's teeth and at Long Feng's mark.</description>
+   </section>
+   <section>
+      <speech speaker="Kuei">Yup. That pretty much proves it. <charAction>Team Avatar cheers.</charAction> But it
+            doesn't prove this crazy conspiracy theory. <charAction>Team Avatar becomes
+                downcast.</charAction> Though, I suppose this matter's worth looking into.
+                <charAction>Team Avatar look at each other approvingly, while Long Feng glares at
+                the king before walking away with his agents.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Back in Iroh and Zuko's apartment, Zuko is asleep. He wakes
+                up.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">You're burning up. <charAction>Dips a cloth in water.</charAction> You have an
+            intense fever. <charAction>Places the cloth on Zuko's forehead.</charAction> This will
+            help cool you down.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">So thirsty. <charAction>Sits up, but Iroh makes him lie back
+            down.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Grabs a bucket with a spoon in it; takes out the spoon.</charAction>
+            Here's some clean water to drink. <charAction>Sits him up slightly.</charAction> Stay
+            under the blankets and sweat this out.</speech>
+   </section>
+   <section>
+      <description>Zuko grabs the spoon from Iroh and drinks the water. He tosses the spoon
+                aside and grabs the bucket. He drinks from it, while spilling some out. He tosses
+                the bucket aside and lies back down. Iroh pulls the covers more over him. Meanwhile,
+                on a train, passengers are shocked to see the Earth King, who is standing in the
+                middle of the cart surrounded by guards.</description>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Feeling strange from exposition.</charAction> So this is what a train is
+            like? I didn't realize it would be this ... public.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">So you've never been outside the Upper Ring before?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">I've never been outside the palace. <charAction>Katara and Sokka look at each other;
+                the Earth King looks outside and sees Aang flying on Appa.</charAction> Now that's
+            the way to travel. <charAction>Looks at Katara and Sokka.</charAction> So, may I ask
+            where we're going?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Underneath Lake Laogai, Your Kingliness. To the Dai Li's secret headquarters. You're
+            about to see where all the brainwashing and conspiring took place.</speech>
+   </section>
+   <section>
+      <description>Cut to the shores of Lake Laogai. The team stand on the shore beside the
+                Earth King and his guards. Toph steps to the edge of the water, and with a hop,
+                reveals the the secret path to the hatch door entrance, though discovers it has been
+                destroyed.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">It's gone!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Oh don't tell me- ! <charAction>Gives a thumbs up and a fake smile.</charAction>
+            That's okay. Still got my positive attitude.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">The Dai Li must've known we were coming and destroyed the evidence!</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Looks suspicious.</charAction> Hm ...
+                <charAction>Sarcastically.</charAction> That seems awfully convenient.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Hey, if anything, this proves the conspiracy exists even more. <charAction>Smiles
+                and nods.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">Long Feng was right. This was a waste of time. <charAction>Turns to
+                leave.</charAction> If you'll excuse me, I'm going back to the palace.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Smiles with realization.</charAction> The wall. They'll never be able to
+            cover that up in time.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Oh, yeah. <charAction>Hops to in front of the king.</charAction> If you come with us
+            to the Outer Wall, we can prove to you that the secret war is real.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">No Earth King has ever been to the Outer Wall. <charAction>Walks past
+                Aang.</charAction> I don't have any more time for this nonsense. <charAction>Aang
+                looks depressed.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Runs up to them.</charAction> If you come with us, this time you can
+            ride on Appa. <charAction>The Earth King stops as Appa lows in the background. A pleased
+                smile grows on his face.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>En route to the Outer Wall. The Earth King is riding on Appa, holding on
+                for dear life and screaming at the top of his lungs in fear, his clothes flapping in
+                the wind.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">First time flying?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">It's both thrilling and terrifying!</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Yeah. <charAction>Smiles.</charAction> I hate it, too.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">I have to be honest with you: part of me really hopes that what you're telling me
+            about this war isn't true.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I wish it wasn't.</speech>
+   </section>
+   <section>
+      <description>Meanwhile at the apartment, Iroh again places the moist cloth over his
+                feverish nephew's forehead. Zuko is having a dream that he is the Fire Lord, with no
+                scar on his eye. One red and one blue dragon appear and start circling around the
+                pillars on each side of him. The blue dragon starts circling around
+                Zuko.</description>
+   </section>
+   <section>
+      <speech speaker="Blue dragon">
+         <charAction>In Azula's voice.</charAction> It's getting late. Are you planning to
+            retire soon, my lord?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">I'm not tired.</speech>
+   </section>
+   <section>
+      <speech speaker="Blue dragon">
+         <charAction>Into Zuko's ear.</charAction> Relax, Fire Lord Zuko. Just let go. Give
+            in to it. Shut your eyes for a while.</speech>
+   </section>
+   <section>
+      <description>Zuko slowly starts to shut his eyes but widely opens them upon hearing the
+                other dragon.</description>
+   </section>
+   <section>
+      <speech speaker="Red dragon">
+         <charAction>In Iroh's voice.</charAction> No, Fire Lord Zuko! Do not listen to the
+            blue dragon. You should get out of here right now. Go! Before it's too late!
+                <charAction>Both dragons are poised to either side of Zuko.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Blue dragon">Sleep now, Fire Lord Zuko.</speech>
+   </section>
+   <section>
+      <description>The dragons disappear, and the room they're in, as well as the guards
+                watching Zuko, crumble to nothing. The blue dragon reappears in front of him. Two
+                golden eyes appear, followed by the face of the blue dragon, which closes
+                rapidly.</description>
+   </section>
+   <section>
+      <speech speaker="Blue dragon">Sleep. <charAction>Voice grows louder and more hostile as it continues
+                talking.</charAction> Just like mother!</speech>
+   </section>
+   <section>
+      <description>Charges at Zuko and opens its mouth. Inside the dragon's mouth, Zuko sees
+                his mother, Ursa. Within that darkness, the camera draws closer to Ursa, who drops
+                her hood.</description>
+   </section>
+   <section>
+      <speech speaker="Ursa">Zuko! Help me! <charAction>A distraught Zuko is seen in her
+            eyes.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Zuko disappears through the floor. The sleeping Zuko starts sweating.
+                Meanwhile, Team Avatar arrives at the Outer Wall and sees the drill.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Points at the drill.</charAction> It's still there!</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Shocked.</charAction> What is that?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's a drill. A giant drill <charAction>Cut to the drill.</charAction> made by the
+            Fire Nation to break through your walls. <charAction>Cut to a close-up of the king who
+                looks horrified.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>On top of the wall, they're looking down at the drill.</description>
+   </section>
+   <section>
+      <speech speaker="Kuei">I can't believe I never knew. <charAction>He looks to his right as he hears
+                something.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>Appears on an earth elevator with two Dai Li agents.</charAction> I can
+            explain this, Your Majesty. <charAction>Walks toward the king.</charAction> This is
+            nothing more than ... a construction project. <charAction>Gestures his hand to the
+                drill.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Sarcastically.</charAction> Really? Then perhaps you could explain why
+            there's a <charAction>Points to the drill as Kuei follows to where she is pointing. Cut
+                to the Fire Nation insignia clearly shown on the drill.</charAction> Fire Nation
+            insignia on your "construction project".</speech>
+   </section>
+   <section>
+      <speech speaker="Long Feng">
+         <charAction>The king looks at him suspiciously.</charAction> Well it's imported of
+            course. You know you can't trust domestic machinery. <charAction>Looks at them
+                worried.</charAction> Surely you don't believe these children instead of your most
+            loyal attendant?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Looks at Team Avatar, who stare back innocently, then at Long Feng, who
+                is glaring back.</charAction> Dai Li! Arrest Long Feng! I want him to stand trial
+            for crimes against the Earth Kingdom.</speech>
+   </section>
+   <section>
+      <description>Long Feng and Team Avatar look shocked. The two agents behind Long Feng
+                share glances, launch shackles onto his arms and pull him in.</description>
+   </section>
+   <section>
+      <speech speaker="Long Feng">You can't arrest me! You all need me more than you know! <charAction>He is taken
+                away.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Happily.</charAction> Looks like Long Feng is long gone! Ha! Ah, yeah,
+            I've been waiting to use that one. <charAction>Aang smiles at him and Katara gives him
+                an unimpressed look.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>That night at the Palace, the Earth King is talking with Team
+                Avatar.</description>
+   </section>
+   <section>
+      <speech speaker="Kuei">I want to thank you, young heroes, for opening my eyes. All this time, what I
+            thought was a great metropolis was merely a city of fools. And that makes me the king
+            fool. <charAction>Buries his face in one of his hands.</charAction> We're at war. With
+            the Fire Nation.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's why we came to Ba Sing Se, Your Highness: because we think you can help us
+            end the war.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Momo climbs up Kuei's arm.</charAction> We don't have much time. There's
+            a comet coming this summer. Its energy will give the firebenders unbelievable strength.
+            They'll be unstoppable.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">But there is hope. Before the comet comes, we have a window of opportunity: A solar
+            eclipse is coming. The sun will be completely blocked out by the moon, and the
+            firebenders will be helpless.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">What are you suggesting, Sokka?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">That's the day we need to invade the Fire Nation. <charAction>Cut to a close-up of
+                the king. Cut back to Sokka.</charAction> The Day of Black Sun.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">I don't know. That would require moving troops out of Ba Sing Se. We'd be completely
+            vulnerable.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You're already vulnerable. The Fire Nation won't stop until Ba Sing Se falls. You
+            can either sit back and wait for that to happen, or take the offensive and give yourself
+            a fighting chance.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Thinks for a moment as everyone waits anxiously.</charAction> Very well.
+            You have my support.</speech>
+   </section>
+   <section>
+      <description>Team Avatar celebrates. Someone else arrives.</description>
+   </section>
+   <section>
+      <speech speaker="General How">Your Majesty. <charAction>Walks up to Team Avatar and bows to the king.</charAction>
+            I apologize for the interruption.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>To Team Avatar.</charAction> This is General How. He's the leader of the
+            Council of Five, my highest ranking generals.</speech>
+   </section>
+   <section>
+      <speech speaker="General How">We searched Long Feng's office. I think we found something that will interest
+            everybody. <charAction>Team Avatar look at each other.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>In Long Feng's office, a soldier is carrying a box of papers to the
+                desk.</description>
+   </section>
+   <section>
+      <speech speaker="General How">There are secret files on everyone in Ba Sing Se. Including you kids.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Secret files?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Takes out a scroll and reads the side.</charAction> "Toph Beifong."
+                <charAction>Hands the scroll to General How, who hands it to Toph, who hands it to
+                Katara.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Opens the scroll and reads it.</charAction> It's a letter from your mom.
+            Your mom's here in the city. And she wants to see you. <charAction>Toph's eyes widen
+                with shock.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Toph">Long Feng intercepted our letters from home? <charAction>Shakes her
+                head.</charAction> That's just sad.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Takes out another scroll and hands it to Aang.</charAction>
+            Aang?</speech>
+   </section>
+   <section>
+      <speech speaker="General How">This scroll was attached to the horn of your bison when the Dai Li captured
+            it.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Opens the scroll and reads it.</charAction> It's from the Eastern Air
+            Temple.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Is there a letter for me and Sokka by any chance?</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">
+         <charAction>Looks in the box.</charAction> I'm afraid not.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>He and Katara become downcast.</charAction> Oh.</speech>
+   </section>
+   <section>
+      <speech speaker="General How">But there is an intelligence report that might interest you. <charAction>Hands a
+                scroll to Katara.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Opens the scroll and reads it.</charAction> "A small fleet of Water
+            Tribe ships."</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shocked. Appears on Katara's side.</charAction> What? That could be
+            Dad!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Reads the report with excitement.</charAction> "Protecting the mouth of
+            Chameleon Bay. <charAction>Her and Sokka's eyes widen.</charAction> Led by Hakoda."
+                <charAction>Katara and Sokka turn to each other in excitement.</charAction> It
+                is Dad!</speech>
+   </section>
+   <section>
+      <description>Meanwhile at the apartment, Iroh is pouring tea.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">You should know that this is not a natural sickness, but that shouldn't stop you
+            from enjoying tea. <charAction>Feeds Zuko the tea.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">What's happening?</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">Your critical decision. What you did beneath that lake. It was in such conflict with
+            your image of yourself that you are now at war within your own mind and body.
+                <charAction>Feeds Zuko more tea.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">What's that mean? <charAction>Coughs continuously and lies
+            down.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">You are going through a metamorphosis, my nephew. It will not be a pleasant
+            experience, but when you come out of it, <charAction>Takes a cloth and wipes Zuko's
+                head.</charAction> you will be the beautiful prince you were always meant to
+            be.</speech>
+   </section>
+   <section>
+      <description>Back in Long Feng's office.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">I can't believe it. There's a man living at the Eastern Air Temple. He says he's a
+            guru.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">What's a guru? Some kind of poisonous blow fish?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">No, a spiritual expert. He wants to help me take the next step in the Avatar
+            journey. He says he can teach me to control the Avatar State.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">And I can't believe we know where our dad is now.</speech>
+   </section>
+   <section>
+      <speech speaker="Toph">I know what you mean. My mom's in the city. And from her letter it sounds like she
+            finally understands me.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">This is all such big news! Where do we even start?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I hate to say it, but we have to split up.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Worriedly.</charAction> Split up? We just found Appa and got the family
+            back together! Now you want us to separate?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">You have to meet this guru, Aang. If we're going to invade the Fire Nation, you need
+            to be ready.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Well, if I'm going to the Eastern Air Temple, Appa and I can drop you off at
+            Chameleon Bay to see your dad.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Someone has to stay here with the Earth King and help him plan for the invasion.
+                <charAction>Stands up.</charAction> I guess that's me.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">No, Sokka. I know how badly you wanna help Dad. You go to Chameleon Bay. I'll stay
+            here with the king.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Overjoyed with tears welling in his eyes. Stands up and dances
+                happily.</charAction> You are the nicest ... sister ... ever! <charAction>Throws his
+                arms around Katara and kisses her on the cheek.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Easy there, big brother ... <charAction>Gives a slight chuckle.</charAction> Though
+            you're right. I am.</speech>
+   </section>
+   <section>
+      <description>Outside the Palace, Team Avatar is preparing to leave. The king walks down
+                to them. Katara is petting Appa. Aang turns to face her.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Katara? I need to tell you something. <charAction>Starts blushing.</charAction> I've
+            been wanting to say it for a long time.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">What is it, Aang?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Rubs the back of his head.</charAction> Katara, I- <charAction>He is cut
+                off by Sokka.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Throws Aang in a headlock.</charAction> All right. Who's ready to get
+            going on our little men-only man trip? <charAction>Noogies Aang. Katara looks at him,
+                annoyed.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">Aang and Sokka, <charAction>They look at him.</charAction> I wish you a good
+            journey. Ba Sing Se owes you its thanks. We look forward to your safe return.
+                <charAction>Aang, Katara, and Sokka bow.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Sokka starts climbing atop Appa. A soldier walks up to the
+                king.</description>
+   </section>
+   <section>
+      <speech speaker="Soldier">Your Majesty. There are three female warriors to see you. They're from the island of
+            Kyoshi.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shocked.</charAction> That's Suki! <charAction>Falls off
+                Appa.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">You know these warriors?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Gets up.</charAction> Oh yeah. The Kyoshi Warriors are a skilled group
+            of fighters. Trustworthy too. They're good friends of ours.</speech>
+   </section>
+   <section>
+      <speech speaker="Kuei">Then we shall welcome them as honored guests.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Aang turns to Appa.</charAction> Wait. Aang. <charAction>She hugs him,
+                which startles him, then kisses him on the cheek, causing him to
+            blush.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Toph">I'm really gonna miss you guys.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Hugs Toph with Aang. Sokka looks away, crossing his arms.</charAction>
+            Me too.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Yeah.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Everyone goes to hug him.</charAction> Aahh! Great. That's enough.
+                <charAction>Smiles.</charAction> Okay, we love each other. <charAction>Pats Aang and
+                Katara on the head.</charAction> Seriously.</speech>
+   </section>
+   <section>
+      <description>Appa flies off. Back at the apartment, Iroh and Zuko are asleep. Zuko wakes
+                up and walks into the bathroom. He washes his face with water. When he looks in the
+                mirror, he sees himself with no scar, no hair and an arrow tattoo on his head,
+                resembling Aang. He looks horrified. He screams himself awake and breathes heavily.
+                He touches the scar on his face and closes his eyes. Meanwhile, Appa is flying Sokka
+                and Aang. Sokka is resting across Appa's back.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">You see, Aang? A little positive thinking works wonders. We got the king on our
+            side, we got Long Feng arrested, and when we get back, Suki's waiting for me.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Dreamily.</charAction> Yeah. Girls are waiting for us. Thanks, positive
+            attitude.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Everything is gonna work out perfectly. From now on and forever. <charAction>Aang
+                turns around and smiles at him.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>In a prison, Long Feng is sitting in his cell. A Dai Li agent appears
+                outside of the cell.</description>
+   </section>
+   <section>
+      <speech speaker="Agent">
+         <charAction>Slides a tray of food underneath the door.</charAction> Dinner.
+                <charAction>Long Feng grabs some food.</charAction> The Council of Five and the
+            military are loyal to the Earth King, <charAction>Long Feng looks at him.</charAction>
+            but the Dai Li remains loyal to you, Long Feng, sir. <charAction>Walks away as Long Feng
+                eats his food while smiling sinisterly.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Meanwhile, at a random house, Toph is outside. She exhales deeply and
+                knocks on the door. It opens on its own.</description>
+   </section>
+   <section>
+      <speech speaker="Toph">
+         <charAction>Enters.</charAction> Hello? Mom? Anyone home? <charAction>Walks to the
+                center of the room. She senses something, but is quickly captured in a metal box. In
+                a scared voice.</charAction> Hey! Who do you think you're dealing with!?</speech>
+   </section>
+   <section>
+      <description>Xin Fu and Master Yu appear.</description>
+   </section>
+   <section>
+      <speech speaker="Xin Fu">One loud-mouthed little brat who strayed too far from home.</speech>
+   </section>
+   <section>
+      <description>Back at the palace, three Kyoshi Warriors are walking up to the king and
+                bow.</description>
+   </section>
+   <section>
+      <speech speaker="Kuei">In our hour of need, it is with the highest honor that I welcome our esteemed
+            allies, the Kyoshi Warriors!</speech>
+   </section>
+   <section>
+      <description>The warriors look up.</description>
+   </section>
+   <section>
+      <speech speaker="Azula">We are the Earth King's humble servants.</speech>
+   </section>
+   <section>
+      <description>The middle warrior is shown to have gold eyes, showing that it is really
+                Azula, Mai, and Ty Lee disguised as Kyoshi Warriors, whom they have previously
+                defeated.</description>
+   </section>
+   <section>
+      <description>Fade to credits.</description>
+   </section>
+</root>

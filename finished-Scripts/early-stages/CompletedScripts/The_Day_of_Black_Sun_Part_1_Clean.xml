@@ -1,0 +1,954 @@
+<root>
+    <metadata>
+        <title>The Day of Black Sun Part 1</title>
+    </metadata>
+    <p>
+        <speech>
+            <description>The episode starts in the Black Cliffs, with the scene cutting to a shot of
+                three maps lying splayed out on the ground. Cut to Sokka who ponders over the maps
+                intensely. He closes his eyes and rubs his forehead, seemingly confused. Two gloved
+                hands suddenly appear, one holding a cup and the other moving Sokka's hand aside
+                from his forehead to hand him the cup. The hand comes to rest on his shoulders
+                comfortingly. Cut to zoomed out shot of Sokka sitting by a cliff-edge, the maps laid
+                out before him. Katara is kneeling right beside him, having been the one to hand him
+                the cup. Toph can be seen in the background, sitting idly on a rock. Aang suddenly
+                appears on-screen, leaping into the air and landing beside Toph.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Momo jumps onto his shoulder; cheerfully.</charAction> Top of the
+            morning, Momo!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Rises and places hands on hips.</charAction> Sounds like you slept
+            well.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Moves his hand aside in a sweeping motion.</charAction> Like a baby
+            moose lion. <charAction>Assumes a fighting stance and raises fists;
+                exuberantly.</charAction> I'm ready to face the Fire Lord.</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>So, what's your strategy for taking him down? <charAction>Smiling and raises her
+                hands to her eyes, her fingers wiggling outward in a mimicry of the Avatar
+                State.</charAction> Gonna get your glow on and <charAction>Punches the air with a
+                determined expression on her face.</charAction> hit him with a little Avatar State
+            action?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Looks down sorrowfully.</charAction> I can't. <charAction>Cut to
+                side-view of him, the camera panning slightly to the left.</charAction> When Azula
+            shot me with lightning, <charAction>Close his eyes briefly.</charAction> my seventh
+            chakra was locked, cutting off my connection to all the cosmic energy in the universe.
+                <charAction>Cut back to shot of him and Toph.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>You know what I just heard? <charAction>Holds up one hand and opens and closes it in
+                a "gibber-gabber" expression.</charAction> Blah, blah, spiritual mumbo jumbo blah,
+            blah, something about space. <charAction>Bored.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Cut to a wide shot of the ocean; thick fog is visible on the
+                horizon.</charAction> Oh, no. <charAction>Cut to a shot of Katara, appearing
+                concerned.</charAction> Sokka, do you think the fog will delay the
+            invasion?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Stands up.</charAction> No. <charAction>Cut to close-up of the fog, five
+                Water Tribe ships suddenly appearing from amid the mist.</charAction> That is the
+            invasion!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to shot of Hakoda standing on the deck of one ship, peering through a
+                telescope; Bato stands in the background. Hakoda lowers the telescope and smiles
+                confidently. Scene fades to shot of the shoreline where Aang and Toph stand in the
+                background by the water. They utilize earthbending to raise rock from beneath the
+                water and form a dock. Cut to overhead shot of the Black Cliffs to show four Water
+                Tribe ships already docked. The last Water Tribe ship is seen coming into port. Cut
+                to closer shot of one ship by the dock, Hakoda standing nearby. Katara and Sokka run
+                over to him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>You made it, Dad! <charAction>Cut to shot of Katara embracing her father
+                happily.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Spirited.</charAction> Were you able to locate everyone I told you to
+            find?</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>I did. <charAction>Two members of the Foggy Swamp Tribe disembark.
+                Doubtfully.</charAction> But I'm a little worried, Sokka. Some of these men aren't
+            exactly the "warrior type". <charAction>Turns head slightly toward the two swamp
+                dwellers.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to frontal shot of Tho and Due as they descend the wooden ramp from the
+                ship.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech><charAction>Enthusiastically, swinging his arm.</charAction> Oooh-whee!
+                <charAction>Cut to shot of the two men standing on the dock.</charAction> This place
+            ain't nothing like a swamp. <charAction>Points accusingly to a rock in the
+                water.</charAction> What you reckon that is, Tho? Some sort of Fire Nation exploding
+            trap what eat ya?</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech><charAction>Impartial.</charAction> It's just a rock, Due.</speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech><charAction>Grins.</charAction> Well, I'll be. <charAction>Scratching his
+                head.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Is it just me, or are those fellas a little loose in the leaf-hat?</speech>
+    </p>
+    <p>
+        <speaker name="Bato">Bato</speaker>
+        <speech><charAction>Walks past, behind the chief and his family, stopping beside
+                Sokka.</charAction> I just wish they would wear pants.</speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech><charAction>Cut to shot of Huu standing alone on the dock. Scratches his
+                stomach.</charAction> Pants are an illusion, and so is death.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to shot of the Hakoda, Katara, and Bato appearing less than reassured;
+                Sokka, on the other hand, grins widely. Scene fades to far shot of Katara, Aang,
+                Toph, and several Foggy Swamp members clustered by the shore, talking among
+                themselves. A pair of legs appears on screen, boasting Earth Kingdom clothing. A
+                voice speaks.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>Off-screen.</charAction> Hi, Katara. <charAction>Cut to close-up of the
+                figure who reveals himself to be Haru; he smiles, now sporting a small mustache and
+                goatee.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Cut to zoomed out shot of Haru.</charAction> Haru! <charAction>Runs over
+                and embraces him.</charAction> It's so good to see you!</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Appears on screen with Toph.</charAction> Toph, this is Haru. When we
+            met him, his town was controlled by the Fire Nation. So he had to hide his
+            earthbending.</speech>
+    </p>
+    <p>
+        <speaker name="Haru">Haru</speaker>
+        <speech><charAction>With Katara resting a hand on his shoulder.</charAction> Katara inspired
+            me and my father to take back our village. <charAction>Turns to Katara who blushes and
+                looks away.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech><charAction>Tyro appears and lays his hands on Haru's and Katara's
+                shoulders.</charAction> You helped us find our courage, Katara. <charAction>Katara
+                turns to him.</charAction> Now we're here to help you.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Toph suddenly senses someone on her left. She angrily turns and takes a
+                fighting stance.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>No way! Is that-</speech>
+    </p>
+    <p>
+        <speech>
+            <description>She is lifted off the ground by two big arms. The camera shows that the
+                arms actually belong to the Big Bad Hippo, a former competitor at Earth Rumble VI.
+                He is joined by the Boulder, another former competitor. The Hippo hugs
+                Toph.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Big Bad Hippo">Big Bad Hippo</speaker>
+        <speech>Hippo happy to see Blind Bandit!</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Angrily.</charAction> You guys here for a rematch?</speech>
+    </p>
+    <p>
+        <speaker name="The Boulder">The Boulder</speaker>
+        <speech>Negatory. The Boulder and The Hippo no longer fight for others' entertainment. Now,
+            we fight for our kingdom!</speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Smiling.</charAction> Sweet.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera cuts to Sokka, while The Hippo puts Toph down. He turns to his
+                dad. Suddenly, a bomb explodes on a boat, making Sokka, Hakoda, and Aang run toward
+                it. The mechanist appears from below deck, coughing. Teo leaves the boat, followed
+                immediately by his father, and Pipsqueak carrying The Duke on his
+                shoulder.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Was that a new invention?</speech>
+    </p>
+    <p>
+        <speaker name="Mechanist">Mechanist</speaker>
+        <speech><charAction>Teo licking his fingers clean.</charAction> Yes, but unfortunately the
+            incendiary capabilities of peanut sauce prove to be a failure.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>The others seems disgusted.</charAction> You're making peanut sauce
+            bombs?</speech>
+    </p>
+    <p>
+        <speaker name="Pipsqueak">Pipsqueak</speaker>
+        <speech>They're destructive.</speech>
+    </p>
+    <p>
+        <speaker name="The Duke">The Duke</speaker>
+        <speech>And delicious. <charAction>They both lick the sauce that splashed all over their
+                faces. Momo flies over to Pipsqueak and starts licking his face, much to his and The
+                Duke's amusement.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Where you able to complete work on the plans I send you?</speech>
+    </p>
+    <p>
+        <speaker name="Mechanist">Mechanist</speaker>
+        <speech>Yes, I was, and I think the Fire Nation will be quite surprised.</speech>
+    </p>
+    <p>
+        <speaker name="Teo">Teo</speaker>
+        <speech>Aang, my dad and I made this for you.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Hands a staff to Aang. Aang taps it on the ground and it opens, revealing a
+                brand new glider.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>A new glider! This is amazing!</speech>
+    </p>
+    <p>
+        <speaker name="Mechanist">Mechanist</speaker>
+        <speech>And as a special feature, I added the snack compartment. <charAction>Rotates the
+                handle, making the snacks come out.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Oh ... well, I'm sure that will come in handy.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to the Fire Nation prison where Iroh was sent
+                to.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Warden Poon">Warden Poon</speaker>
+        <speech>I bet you're tired of being in this cell old man. Well too bad. <charAction>Camera
+                shows Iroh's face.</charAction> You're never stepping outside these walls
+            again.</speech>
+    </p>
+    <p>
+        <speaker name="Ming">Ming</speaker>
+        <speech><charAction>Enters.</charAction> Breakfast.</speech>
+    </p>
+    <p>
+        <speaker name="Warden Poon">Warden Poon</speaker>
+        <speech><charAction>Stands.</charAction> Careful, Ming, don't get too close. His stench will
+            knock you right out. <charAction>Leaves, laughing.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Ming">Ming</speaker>
+        <speech><charAction>Looks at Poon contemptuously and approaches Iroh.</charAction> I snuck
+            in some white jade tea. I know you like rare teas.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Ming places the tray of tea inside Iroh's cell.</charAction> Thank you,
+            Ming. Ever since I was put in here, you have been very kind to me.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show a very nervous Sokka standing on a podium with his
+                father and Team Avatar</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Don't worry, you'll do great.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Good morning everyone. Ahh! <charAction>Trips on stage.</charAction> Umm ... so, as
+            you know, today, we're invading the Fire Nation! I mean I know you know that because
+            otherwise why else would you be here? <charAction>Laughs nervously.</charAction> Uh
+            anyway, <charAction>Dropping scrolls. Unraveling one on a board.</charAction> the Fire
+            Lord's palace is here <charAction>Points at map, realizing it isn't the map, flips the
+                chart several times until it is the map.</charAction>. Uh nope, uh wait, uh wait, uh
+            wait, it's here, <charAction>Brief shot of Due scratching his head.</charAction> and uh,
+            there's an eclipse today and Aang's gonna fight the Fire Lord and the firebenders won't
+            have any fire to use so that's good for us! <charAction>Brief shot of Teo and the
+                mechanist looking on.</charAction> And ... um ... I'm sorry let me start at the
+            beginning <charAction>Stands up straight, and begins talking very fast.</charAction>.
+            Katara and I discovered Aang frozen in an iceberg, now I didn't like Aang at first but
+            grew to love him over time, then we went to the Southern Air Temple where Aang used to
+            live and then we met Suki, <charAction>Water Tribe warrior yawns.</charAction> who's a
+            Kyoshi warrior. She dressed me like a woman and then she kissed me, and then Aang's
+            friend was a crazy old king and ...</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Cut to Katara speaking over Sokka as he continues talking.</charAction>
+            Wow, when he says the beginning he means the beginning beginning. <charAction>Hakoda
+                gets up and approaches Sokka.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>... And then Katara got Haru arrested and then now he's grown a mustache which if
+            you look at him in the front row you can see it ...</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech><charAction>Interrupting.</charAction> Thank you, Sokka. It's okay why don't you
+            take a break? <charAction>Sokka leaves the stage to sit down, disappointed in himself.
+                Hakoda addresses the crowd.</charAction> Let me just clarify a few points for
+            everyone. <charAction>Shot of Haru stroking his chin. Everyone pays attention to
+                Hakoda.</charAction> Today, is the day of black sun, and I want to thank you all for
+            your self-sacrifice, and your courage. There are two steps to the invasion, a naval
+            stage, and then a land stage. <charAction>Shot of Sokka looking down, sad, Katara, Momo
+                and Aang looking at Hakoda and Toph.</charAction> To gain sea access to the Fire
+            Nation capital, we need to get past our first major obstacle here, <charAction>Points at
+                map.</charAction> The Great Gates of Azulon. Next, we hit the land, and we hit hard.
+            We must fight past their battlements and secure the plaza tower. Once we do that, it's
+            up to the Royal Palace. At that point, the eclipse will begin.</speech>
+    </p>
+    <p>
+        <speaker name="The Boulder">The Boulder</speaker>
+        <speech>Excuse me. The Boulder is confused. Isn't the point to invade during the eclipse,
+            when the firebenders are powerless?</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>The eclipse only lasts eight minutes, not enough time for the whole invasion. And
+            the Royal Palace is heavily guarded by firebenders. So that's where we'll need the
+            eclipse's advantage the most. When this is finished, the Avatar will have defeated the
+            Fire Lord. We will have control of the Fire Nation capital, and this war will be
+            over!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The entire crowd cheers, and Sokka looks dismayed.</description>
+        </speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show the team preparing for the upcoming battle. Katara
+                is bending four streams of water into water skins, Toph is putting on her Blind
+                Bandit battle armor, Hakoda is putting on a black Water Tribe helmet, Appa is shown
+                fully dressed in his armor which Sokka made, and Aang is shaving his head to show
+                his Air Nomad tattoos. He is joined by a koala sheep. The scene cuts again to the
+                Fire Nation Palace. Zuko takes off his head piece and armor, revealing the clothes
+                underneath it and letting his hair hang down. He sits and starts to write a letter.
+                The camera cuts once again to show Sokka, still dismayed, standing on the cliff side
+                and Aang flying up to him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>We've been looking everywhere for you. The boats are ready to leave.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I messed up, Aang.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>What?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>The invasion plan was my moment of truth and I completely flubbed it. I just fell
+            apart.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Approaches, putting a hand on his shoulder.</charAction> Sokka, that
+            speech wasn't your moment of truth. That was just public speaking, and nobody's really
+            good at that.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>My dad is! He explained the plan perfectly and inspired everyone, like a real leader
+            should.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Look, your moment of truth isn't gonna be in front of some map; it's gonna be out
+            there on the battlefield.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>You seem so confident about everything, how do you know we're gonna win?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Because I already failed the world once at Ba Sing Se. I won't let myself fail
+            again.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Camera cuts to show the fleet of ships traveling across the sea. Cut to a
+                view through a Bato's telescope.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>There they are, the Great Gates of Azulon.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I don't see any gates.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to Katara and Hakoda's boat.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Katara, you and the swamp benders whip up a fog cover.</speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>We'll sneak by them statues just like we sneak by that Fire Navy blockade!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to show Katara, Due, and other swamp benders waterbending a thick fog
+                cover.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Keep it up, we're almost through!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Suddenly a bell rings as a huge net rises out of the water and is set on
+                fire. Sokka and the others are shocked to see patrol boats racing toward
+                them</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Everyone below deck! <charAction>Everyone goes into the boats; to
+                Sokka.</charAction> Let's hope your invention works.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Camera shows several Fire Nation soldiers climbing onto the boats. They are
+                shown to search the boats thoroughly, but find no one.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Male Fire Nation soldier">Male Fire Nation soldier</speaker>
+        <speech>No one's on board, sir.</speech>
+    </p>
+    <p>
+        <speaker name="Female Fire Nation soldier">Female Fire Nation soldier</speaker>
+        <speech>Where'd they go?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Several submarines are shown traveling beneath the gates. Inside,
+                waterbenders are moving the subs. Cut inside a sub as the mechanist is sitting at
+                the front. Hakoda, Sokka, Pipsqueak, and Bato are standing behind him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech><charAction>Placing a hand on Sokka's shoulder.</charAction> You've really outdone
+            yourself this time, son.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Cut to Toph, who is sitting on the floor behind them with the Duke. She is
+                getting seasick.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech><charAction>Sarcastically.</charAction> Yeah, congratulations, Sokka. You managed to
+            invent a worse way of travel than flying. <charAction>She holds her mouth, about to
+                throw up.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="The Duke">The Duke</speaker>
+        <speech><charAction>Takes off his helmet and offers it to Toph.</charAction>
+            Helmet?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Toph accepts his offer and vomits into the helmet. The Duke just places his
+                hand on Toph's back, trying to comfort her.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Well, I just came up with the idea. The mechanist did all the work.</speech>
+    </p>
+    <p>
+        <speaker name="Mechanist">Mechanist</speaker>
+        <speech>Now don't sell yourself short, my boy. <charAction>Cut briefly to Katara and Huu
+                waterbending.</charAction> It was your idea to use waterbending to make the subs
+            sink and float, brilliant! <charAction>Cuts back to the mechanist opening a scroll,
+                revealing a very crude drawing of a submarine.</charAction> Though your original
+            designs were a bit difficult to decipher. Unfortunately there is one problem I couldn't
+            fix. <charAction>Cut to outside of submarine as the submarines swim past, along with
+                Aang on Appa.</charAction> The subs have a limited air supply. Before we land on the
+            beaches, we'll need to resurface.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Ming coming back into Iroh's cell.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Ming">Ming</speaker>
+        <speech>Lunchtime, General Iroh. <charAction>Whispers and looks back.</charAction> And this
+            time, I brought you an extra bowl of rice.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>Thank you, Ming. Your little gestures of kindness have made my days in prison
+            bearable. <charAction>Thinks for a moment and smiles.</charAction> I think you should
+            take the rest of the day off.</speech>
+    </p>
+    <p>
+        <speaker name="Ming">Ming</speaker>
+        <speech><charAction>Confused.</charAction> What?</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech>You don't look well. Maybe you should go home and rest.</speech>
+    </p>
+    <p>
+        <speaker name="Ming">Ming</speaker>
+        <speech>No, I feel fine.</speech>
+    </p>
+    <p>
+        <speaker name="Iroh">Iroh</speaker>
+        <speech><charAction>Brief close-up of his face.</charAction> Trust me. It is better that you
+            are not here this afternoon.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Ming nods, indicating that she understands. She gets up and walks out. The
+                scene cuts to show the fleet of submarines surfaced on the water. The Duke is
+                dipping his helmet into the water, trying to wash out Toph's vomit. Everyone is
+                stretching as Aang lands on the submarine from Appa.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>To Toph, Sokka, and Katara, who approach him.</charAction> So, this is
+            it huh?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Are you ready for the Fire Nation to know the Avatar is alive?</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>I'm ready. <charAction>Sokka and Aang shake hands and the group
+            hugs.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Toph">Toph</speaker>
+        <speech>I hope you kick some serious Fire Lord butt, Twinkle Toes.</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Everyone listen up. <charAction>Team Avatar comes out of the hug.</charAction> The
+            next time we resurface, it'll be on the beaches. So stay alert, and fight smart. Now
+            break time's over, back in the subs. <charAction>Sokka, Toph, and Momo leave Katara and
+                Aang standing alone together.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Turning to see Katara.</charAction> Katara, I ...</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech><charAction>Speaking at the same time.</charAction> Aang, I ...</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>You go first.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>We've been through so many things together, and I've seen you grow up so much.
+            You're not that little goofy kid I found in the iceberg anymore. <charAction>Aang
+                blushes.</charAction> I guess what I'm trying to say is, I'm really proud of
+            you.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>Everything's gonna be different after today, isn't it.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Yes, it is.</speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>What if ... what if I don't come back?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Aang, don't say that, of course you'll- <charAction>Katara is cut off as Aang kisses
+                her. After the kiss, Katara blushes and stares sadly after Aang as he confidently
+                snaps his glider and flies away.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Katara, what are you doing? It's time to submerge.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>What? Right, I'm on it. <charAction>Jumps onto Appa and waterbends a sphere of water
+                around his head before submerging.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Zuko walking into Mai's room. He looks at a painting
+                of them and becomes downcast.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>I'm sorry Mai.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>He leaves a note on her bed and leaves. The scene cuts to show Aang flying
+                over land. His stomach growls, and he rotates the handle of his glider to release
+                food.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>What do you know? It did come in handy.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show the submarine fleet approaching land. The other end
+                of a periscope emerges above water, looking around. Cut to inside the sub, Hakoda
+                manning the periscope. Realizing where they are he turns around to address the
+                earthbenders.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Everyone in position. Earthbenders, into your tanks. This is gonna be a rough
+            ride.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Toph and other earthbenders climb down a ladder in the sub and get ready.
+                Cut to an overview of the Fire Nation port. An alarm goes off as the subs approach
+                the gate. Several harpoons are launched at the subs, but most miss. One hits,
+                causing a leak which is quickly sealed by a foggy swamp waterbender turning the
+                water to ice, and pulls the attached sub out of the water. Katara quickly responds
+                by piloting Appa out of the water and using waterbending to slice through the chain,
+                dropping the sub back down.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Ready the torpedo. <charAction>An ice-covered torpedo is loaded.</charAction>
+            Launch!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Huu launches the torpedo with waterbending. Cut outside as six torpedoes
+                make holes in the underwater barrier, making it possible for the subs to pass
+                through.</description>
+        </speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Toph, the Boulder, and other earthbenders standing
+                in a metal tank. Cut to Water Tribe warriors and foggy swamp waterbenders with Sokka
+                among them, he lets out a sigh. Cut to the subs rising from the water, being
+                instantly attacked by missiles. The subs open and several tanks exit while the other
+                soldiers yell and charge out. The battle commences as they make their way inland,
+                destroying battlements as they go. Earthbenders use rocks provided by a truck
+                containing many rocks. Appa arrives and Katara jumps off as Fire Nation tanks
+                appear. Teo is seen inside an earthbender tank before it destroys a battlement by
+                crushing it. Another tank lifts its front up to slam down and crush a Fire Nation
+                tank. More Fire Nation tanks arrive as the army pushes on. The swamp benders use
+                water provided to destroy enemy tanks.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tho">Tho</speaker>
+        <speech>We're a man down. Where in tarnation is Huu? <charAction>He and Due continue
+                waterbending, launching a tank into the water.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Suddenly a large seaweed monster is shown coming out of the water and
+                destroys several enemy tanks, throwing one into a battlement on the ledge
+                above.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Due">Due</speaker>
+        <speech><charAction>Waves.</charAction> Hey Huu! Where you been? <charAction>The seaweed
+                opens to reveal Huu standing inside.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Huu">Huu</speaker>
+        <speech>Communin' with nature. Takes a while to collect this much seaweed.
+                <charAction>Closes the seaweed again as he sees a large fireball coming straight
+                toward him.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>Several Fire Nation soldiers on rhinos appear shooting fireballs at a group
+                of Water Tribe warriors. They charge, and Sokka quickly disarms one of the riders
+                and steals his rhino.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Dad, look out!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Hakoda grunts as he turns and deflects a fireball with his shield. He turns
+                back to disarm a soldier and quickly defeats others before jumping on the rhino to
+                join Sokka. The vehicle full of rocks for earthbenders is destroyed. Huu, inside the
+                seaweed, is shown destroying more tanks. An earthbender tank is destroyed by a
+                battlement above. Cut to Hakoda and Sokka who saw this happen.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Sokka, we've gotta take out those battlements! It's our only chance.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>I've got an idea.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka, Hakoda, and Katara are shown riding a fully armored Appa. Sokka
+                draws his sword and slices the end of a missile launcher off. As they fly past
+                another, Hakoda throws two bombs inside the battlement. Cut to two soldiers running
+                out as it explodes. Cut back to Appa as Katara breaks two barrels of water attached
+                to either side of Appa as it forms around her arms. They fly past another battlement
+                she freezes the soldier and launcher inside. Appa lands between two still
+                operational battlements. The three jump off Appa.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>You two take out that battlement. <charAction>Pointing to a battlement in the
+                distance before leaving to another.</charAction> I got this one. Watch each other's
+            backs. <charAction>Cut to Sokka and Katara, shown breaking into their battlement, Katara
+                freezing the soldiers inside. Sokka uses his sword to cut through the launcher,
+                causing part of it to fall out and explode outside as Katara and Sokka exit the
+                battlement. They see Hakoda on the roof of his as he climbs inside. They hear noises
+                from the ensuing fight until the launcher shoots and explodes, hearing Hakoda
+                yelling out in pain. Cut to Sokka and Katara's worried faces as Hakoda exits,
+                wounded, and falls to the ground.</charAction></speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Dad?</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Dad! <charAction>The two run to his side.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The camera cuts again to show Zuko kneeling at a painting of his
+                mother.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Zuko">Zuko</speaker>
+        <speech>I know I've made some bad choices, but today, I'm gonna set things right.
+                <charAction>He rises, picks up his sword, covers his head with the hood of his robe,
+                turns his back to the camera and leaves.</charAction></speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Appa landing on the edge of the battlefield. Sokka
+                and Katara help Hakoda onto the ground, and Katara starts trying to heal
+                him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>How does that feel, dad?</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Ah, a little, better. I need, to get back to the troops. <charAction>Attempts to
+                stand but is too weak to.</charAction> Ahh!</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>You're hurt, badly. You can't fight anymore.</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>Everyone's counting on me to lead this mission Katara, I won't let them down.
+                <charAction>Attempts to stand again but can't.</charAction> Ahh!</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Can't you heal him any faster?</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I'm doing everything I can.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Looks around before looking confidant.</charAction> I'll do it.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>No offense Sokka, but you're not exactly Mr. Healing Hands.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>No. <charAction>Stands confidently.</charAction> I'll lead the invasion
+            force.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>Don't be crazy Sokka.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Maybe I am a little crazy, but the eclipse is about to start and we need to be up
+            that volcano by the time it does.</speech>
+    </p>
+    <p>
+        <speaker name="Hakoda">Hakoda</speaker>
+        <speech>You can do this. <charAction>Cuts to a close-up of him.</charAction> I'm proud of
+            you son.</speech>
+    </p>
+    <p>
+        <speaker name="Katara">Katara</speaker>
+        <speech>I still think you're crazy, but I'm proud of you too.</speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech><charAction>Nods, puts his helmet on and boards Appa.</charAction> Yip yip.</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Appa flies away as the scene cuts to show the battlefield, a mess of Fire
+                Nation tanks destroyed everywhere. Several raised battlements fire on the army
+                below. Appa lands and takes out an enemy tank as Sokka makes his way to the back of
+                the saddle to rally the soldiers.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Sokka">Sokka</speaker>
+        <speech>Listen up, everyone. I want the tanks in wedge formation. Warriors and benders in
+            the middle. We're taking that tower, and heading for the royal palace. <charAction>All
+                the tanks come together in wedge formation behind Appa, soldiers protected in the
+                middle. Cut to Sokka, on Appa, who draws his sword and thrusts it
+                forward.</charAction> Charge!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to show Aang standing on the edge of the volcano. He glides
+                down to a building attempting to hide. He rises, confused, as there is nobody
+                there.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech><charAction>Looking around.</charAction> That's strange. <charAction>He continues
+                onto the Royal Palace, breaks open the door, and takes a fighting
+                stance.</charAction> The Avatar is back! <charAction>Realizing no one is around he
+                relaxes, looking confused.</charAction> Hello? Anyone home?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>The scene cuts to the tanks, which are making their way up the volcano,
+                unaffected by fire blasts from firebenders in front. Cut to Sokka steering a vehicle
+                full of explosives into a wall before jumping off. Cut to an aerial view showing two
+                explosions at the inner walls. Cut to Sokka, soldiers behind him, as they charge
+                forward. Firebenders attempt to stop them but are pushed back. Cut to Tyro running
+                in with the other troops as Bato appears behind him.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Tyro">Tyro</speaker>
+        <speech>The Fire Nation is falling back!</speech>
+    </p>
+    <p>
+        <speaker name="Bato">Bato</speaker>
+        <speech>Sokka, we're on our way to victory!</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Sokka looks ahead as the camera cuts to show Aang airbending his way into
+                an empty, darkened throne room.</description>
+        </speech>
+    </p>
+    <p>
+        <speaker name="Aang">Aang</speaker>
+        <speech>No. <charAction>Kneels down on the ground; frustrated.</charAction> No, no, no! Fire
+            Lord Ozai, where are you!?</speech>
+    </p>
+    <p>
+        <speech>
+            <description>Scene fades to credits.</description>
+        </speech>
+    </p>
+</root>

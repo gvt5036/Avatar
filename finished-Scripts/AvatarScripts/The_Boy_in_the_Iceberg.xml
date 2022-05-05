@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../0_scripts_0.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <metadata>
+      <title episode="1">The Boy in the Iceberg</title>
+      <director>Dave Filoni</director>
+      <writer>Michael Dante DiMartino</writer>
+      <writer>Bryan Konietzko</writer>
+      <date>2005-02-21</date>
+      <location nation="water">Southern Water Tribe</location>
+   </metadata>
+   <section>
+      <speech speaker="Katara">Water. Earth. Fire. Air. My grandmother used to tell me stories about the old days:
+            a time of peace when the Avatar kept balance between the Water Tribes, Earth Kingdom,
+            Fire Nation and Air Nomads. But that all changed when the Fire Nation attacked. Only the
+            Avatar mastered all four elements; only he could stop the ruthless firebenders. But when
+            the world needed him most, he vanished. A hundred years have passed, and the Fire Nation
+            is nearing victory in the war. Two years ago, my father and the men of my tribe
+            journeyed to the Earth Kingdom to help fight against the Fire Nation, leaving me and my
+            brother to look after our tribe. Some people believe that the Avatar was never reborn
+            into the Air Nomads and that the cycle is broken, but I haven't lost hope. I still
+            believe that, somehow, the Avatar will return to save the world.</speech>
+   </section>
+   <section>
+      <description>As the title card fades, the scene opens onto a shot of an icy sea before
+                panning slowly to the left, revealing more towering icebergs drifting in the water
+                as the shot rotates, moving over a large snow-covered area where the untouched
+                blanket of snow is broken by two tracks of footsteps. The shot fades to another shot
+                of the sea and of icebergs in blue water contrasted by the paleness of the sky
+                beyond. As the shot once again pans to the left and rotates likewise, a small canoe
+                comes into view, its motion through the water indicated by the wake left behind it.
+                The shot zooms slightly on the canoe before cutting down to it, providing a side
+                angle of the canoe and of the walls of ice rising on either side of the vessel.
+                Sokka, a teenage boy, and his younger sister, Katara, a teenage girl, are sitting in
+                the boat; Sokka holds a spear at the ready, while Katara simply stares into the
+                water on the other side of the boat. The shot cuts to an overhead view, revealing
+                that a fish is swimming close to the surface right in front of Sokka, who is focused
+                on it, following its every movement. Cut to a frontal view of him.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">It's not getting away from me this time. <charAction>Close-up of Sokka as he grins
+                confidently over his shoulder in the direction of Katara.</charAction> Watch and
+            learn, Katara. This is how you catch a fish.</speech>
+   </section>
+   <section>
+      <description>The shot pans quickly from Sokka to Katara, who seems indifferent to his
+                claim and turns back to her side of the boat again. Her expression changes to
+                surprise; as the shot jumps behind her, looking down into the water over her
+                shoulder, another fish quickly swims by her, close to where she sits. She shoots a
+                quick glance toward her brother, removing the glove from her left hand. She
+                stretches her arm out in the direction of the fish, taking a deep breath. Her look
+                is a mixture of concentration and apprehension as she starts making a wavy motion
+                with her wrist, moving her hand up and down.</description>
+      <description>The shot widens out; Sokka, still focused wholly on the fish in front of
+                him, is completely unaware of what is happening behind his back. As Katara continues
+                to move her hand, the water in front of Katara, just in front of the shot, starts to
+                ripple. Suddenly, a bubble of water rises up from the ocean containing the newly
+                trapped fish.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Happily surprised.</charAction> Sokka, look!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Close-up of Sokka; whispering.</charAction> Sshh! Katara, you're going
+            to scare it away. <charAction>A look of bliss adorns his face. He licks his lips and
+                wiggles his fingers, not taking his eyes off the fish.</charAction> Mmmm ... I can
+            already smell it cookin'.</speech>
+   </section>
+   <section>
+      <description>Behind Sokka, Katara is still making circular movements with both her arms,
+                suspending the bubble of water that holds the fish in the air and moving back and
+                forth. The camera cuts to her face, contorted slightly by the focus it takes to
+                control the water.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Struggling with the water that passes right in front of
+                her.</charAction> But, Sokka! I caught one!</speech>
+   </section>
+   <section>
+      <description>The bubble containing her fish slowly drifts around her to hang over Sokka,
+                who is still oblivious. As the bubble hovers over his head, Sokka raises his spear
+                to strike the fish he was following. He bursts the bubble of water with the blunt
+                end of his weapon, causing Katara to lose control of the water; it rains down on
+                Sokka, soaking him.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Exclaims indignantly.</charAction> Hey!</speech>
+   </section>
+   <section>
+      <description>As Sokka lets out a gasp of discomfort, the fish tumbles through the air
+                and Katara follows its arc with her eyes as it flies over her head and splashes back
+                into the sea. Sokka rounds on his sister, placing his spear perpendicular to the rim
+                of the boat as he yells irately. The shot cuts to a close-up of him.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Why is it that every time you play with magic water, I get soaked?</speech>
+   </section>
+   <section>
+      <description>Sokka clenches his fists and a few drops of water fall from his soaked
+                gloves.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Cut to her face; she sighs lightly before answering in slight
+                annoyance.</charAction> It's not "magic", it's waterbending! And it's ...</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Cutting her off.</charAction> Yeah, yeah, "an ancient art unique to our
+            culture", blah, blah, blah. Look, I'm just saying <charAction>Grabbing his warrior's
+                wolf knot with his left hand as he turns away from her, wringing the water out of
+                it. Meanwhile, Katara has crossed her arms.</charAction> that if I had weird powers,
+            I'd keep my weirdness to myself.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Cut to her face as she raises an eyebrow skeptically, arms still
+                crossed.</charAction> You're calling me weird? I'm not the one who makes muscles at
+            myself every time I see my reflection in the water!</speech>
+   </section>
+   <section>
+      <description>Near the end of her response, Katara smiles smugly at her brother; as the
+                shot cuts to him, he is flexing at his reflection in the water and grinning
+                confidently. His happy look vanishes upon hearing his sister's remark and he turns
+                around slowly, meaning to face her. Before he can say anything, however, the canoe
+                suddenly shudders. As they both try to keep from falling over, Sokka whirls around
+                toward his end of the canoe, a frantic look on his face.</description>
+      <description>The camera cuts to a far view of the canoe, which pans up as the boat moves
+                away from it. The boat is caught in a rapid current, which is pulling it swiftly
+                toward a jumble of large icebergs which block the end of the narrow passage formed
+                by the towering walls of ice. Sokka paddles the boat in an attempt to stay clear of
+                any floating chunks of ice. He manages to gain just enough speed to keep the boat
+                from being crushed by two icebergs which slam together behind the boat. A series of
+                shots follows: the canoe moving through the water as Sokka rows furiously; a
+                close-up of Sokka's head; and a frontal shot of the canoe as it is nearly pinned by
+                a number of smaller chunks of ice. Cut to Katara's face, both her face and voice
+                full of panic as she yells commands to Sokka.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Watch out! Go left! Go left!</speech>
+   </section>
+   <section>
+      <description>The shot shows an overview of the ice floes moving closer together in front
+                of the boat, narrowing their path. The boat manages to stay clear of some of the
+                icebergs, but it veers to the right with the current and becomes pinned by three
+                large chunks of ice. As the canoe is completely crushed by the ice, Katara and Sokka
+                throw themselves from the canoe and onto one of the floes; Katara nearly slides off
+                the other side into the water, but comes to a halt at the floe's very edge. As she
+                raises her head, looking around, the shot zooms out to reveal the siblings are
+                floating on one floe among dozens.</description>
+      <description>Katara, shuffling on her hands and knees, moves away from the rim toward
+                the middle of the floe, sitting next to her brother. His spear is embedded
+                point-first in the ice just behind him.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>A touch of bitterness in her voice.</charAction> You call that
+                left?&gt;
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">You don't like my steering? Well, maybe you should've <charAction>He waves his
+                hands, mockingly imitating waterbending.</charAction> waterbended us out of the
+            ice.</speech>
+   </section>
+   <section>
+      <description>The shot cuts to a wide shot of the two on their floe; among the large
+                icebergs and tiny floes surrounding them stands a massive, towering shard of ice,
+                its craggy peak rising high above the siblings. Katara gets on her feet again,
+                facing Sokka so that the pointed iceberg is behind her.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Indignantly.</charAction> So it's my fault?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Annoyed.</charAction> I knew I should've left you home! <charAction>Cut
+                to a close-up of the siblings; Katara is staring down at her brother in anger while
+                he rants calmly.</charAction> Leave it to a girl to screw things up!</speech>
+   </section>
+   <section>
+      <description>Cut to a close-up of Katara's face as it contorts with fury. The shot cuts
+                to a side view as Katara points accusingly at her brother, who makes no movement as
+                she screams her disgust at him, the floe bobbing lightly up and down.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">You are the most sexist, <charAction>She brings her hands up to her head and swings
+                them back down and behind her in her rage; the movement creates a small wave of
+                water behind her.</charAction> immature, <charAction>Hands raised back to her
+                head.</charAction> nut brained ... <charAction>Swings her arms back down again,
+                creating a slightly larger wave; she raises her hands back to her head during a
+                brief loss for words.</charAction> I'm embarrassed <charAction>Throwing a hand
+                upward, a short jet of water shoots upward as well.</charAction> to be related to
+            you!</speech>
+   </section>
+   <section>
+      <description>She swings both her hands back forcefully once again and her unconscious
+                waterbending hurls a wave directly into the towering iceberg behind her; with a
+                loud, splitting crack, a hooklike fissure arcs up its surface and out its side,
+                leaving a spray of ice where it ends. Sokka, who wears a somewhat disinterested
+                expression, glances briefly in his sister's direction and sees the iceberg; after a
+                short moment, he does a double-take, his expression morphing into one of terror. The
+                shot cuts to show Katara's outburst from behind Sokka; as she continues with her
+                verbal outburst and arm movements, little chunks of ice from the iceberg splash into
+                the water, unheard and unnoticed by Katara.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Ever since mom died, <charAction>Points to herself.</charAction>
+         I've been doing all the work around camp while you've&gt; been
+            off playing soldier!</speech>
+   </section>
+   <section>
+      <description>She emphasizes the last words with a strong swing of her hand, waterbending
+                and deepening the crack in the iceberg. Sokka's terror deepens.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Pointing to the iceberg behind her, his voice subdued by
+                fright.</charAction> Uh ... Katara ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Close-up of a rage-fueled Katara as she continues her outburst, a finger
+                pointed in Sokka's face.</charAction> I even wash all the clothes! Have you ever
+            smelled your dirty socks? Let me tell you, not
+            pleasant!&gt;
+      </speech>
+   </section>
+   <section>
+      <description>As she yells out that last word, she unconsciously waterbends once again,
+                causing two new splits in the chunk of ice.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>In a screeching voice, his eyes open wide in fear.</charAction> Katara,
+            settle down!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">No that's it! I'm done helping you! From now on, you're on your
+                own!&gt;
+      </speech>
+   </section>
+   <section>
+      <description>Her last movement is her most agitated and it creates a huge wave which,
+                when it impacts the iceberg, sends a number of fissures to snake their way up the
+                iceberg; one of them reaches the top of the iceberg, splitting it completely in
+                half. Petrified, Sokka gasps for air, and it is only now that Katara turns to look
+                behind her. She gasps and the shot cuts to the iceberg; the two halves begin to fall
+                away from each other and the siblings can be seen through the widening space between
+                them. The shot jumps to the siblings' backs as the two halves collapse into the
+                water; a wave larger than any Katara cast at it radiates outward toward them and
+                they are thrown to the ice as it pushes their floe backward.</description>
+      <description>As the waves subside, the shot cuts to a head-on close-up of the siblings,
+                their heads slightly over the edge of the ice. Sokka, holding a protective arm over
+                Katara, turns his head toward her.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Okay, you've gone from "weird" to "freakish", <charAction>He releases
+                her.</charAction> Katara.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Astonished.</charAction> You mean I &gt;did
+            that?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sarcastically, glancing at her and smirking.</charAction> Yep.
+                <charAction>Nudging her with his elbow.</charAction> Congratulations.</speech>
+   </section>
+   <section>
+      <description>Several small bubbles appear on the surface of the water directly in front
+                of them and a small spot of water begins to glow with a bright bluish hue. An
+                overhead shot shows the spread of the brilliant glow and the bubbles within. Cut to
+                the head-on close-up as the two siblings scramble back in renewed terror from the
+                edge, just as a large, roughly spherical iceberg breaks the surface of the
+                water.</description>
+      <description>The shot jumps behind Katara and Sokka as an iceberg rises above the
+                surface, revealing its massive form to be the source of the glow. The crashing waves
+                generated by the iceberg's rising push the floe backward as the berg itself rocks to
+                one side, before coming to rest with its rounded dome exposed above the water.
+                Mesmerized by the iceberg, Katara strays closer and stares at the iceberg; behind
+                her, Sokka halfheartedly stretches out his hand, as if to hold her back. A few cuts
+                ensue: the iceberg from behind Sokka and Katara; Katara's face as she stares at the
+                object; and a shot of the iceberg itself, revealing a human shape within below a
+                larger, indistinguishable mass. The human figure, perched in lotus, has glowing
+                arrows on its head and hands. Close-up of Katara as she raises an eyebrow in
+                confusion. The shot cuts to a closer view of the figure in the ice, its features
+                accentuated by reflected light, revealing it to be a boy. Suddenly, the boy opens
+                his eyes, the same brilliant light emanating from them, eliciting shocked gasps from
+                both of the siblings.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">He's alive! We have to help!</speech>
+   </section>
+   <section>
+      <description>Before Sokka can grab it, Katara grabs Sokka's club out of its sheath on
+                his back and pulls her hood over her head, heading in the direction of the strange
+                boy sealed in the iceberg. Sokka again reaches out his hand in an attempt to hold
+                Katara back, though she is already running across the ice.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">Katara, get back here! <charAction>He grabs his spear from the ice and runs after
+                Katara, who is already at the ice's edge.</charAction> We don't know what that thing
+            is!</speech>
+   </section>
+   <section>
+      <description>Katara hops across the short distance between her floe and the iceberg on
+                five tiny chinks of ice; Sokka, close behind her, does the same. Reaching the
+                iceberg first, Katara repeatedly strikes the iceberg with Sokka's club. On her fifth
+                strike, the club breaks through the surface and a great gust of wind, which escapes
+                from within the iceberg, throws her and her brother back from the side of the dome.
+                Fissures quickly snake their way over the whole iceberg and, in a massive outward
+                explosion, the entire orb of ice destroys itself. A beam of light bursts from the
+                core of the iceberg and rockets into the sky. The camera shows the iceberg from the
+                shallow sea bottom as it emits ripples of light. The scene switches to a group of
+                tiger seals, who erect themselves to growl at the distant beam of
+                light.</description>
+      <description>Cut to a Fire Nation ship, where a boy in a Fire Nation military uniform
+                stands on the deck, gazing at the light. His ponytail flutters in the
+                wind.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">Finally! <charAction>He turns around to face another person in uniform, who sits at
+                a small table.</charAction> Uncle, do you realize what this means?!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>He is playing some sort of card game. He answers calmly while looking
+                over the tile he's holding toward his nephew.</charAction> I won't get to finish my
+            game?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Turning around again to face the light.</charAction> It means my search
+            is about to come to an end.</speech>
+   </section>
+   <section>
+      <description>Iroh sighs uninterestedly and places his tile on the table.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Gestures at the light while facing his uncle again.</charAction> That
+            light came from an incredibly powerful source! <charAction>The light dwindles and
+                disappears.</charAction> It has to be him!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>With continuing disinterest and an air of skepticism.</charAction> Or
+            it's just the celestial lights. We've been down this road before, Prince Zuko.
+                <charAction>He looks at the tile in his hand, depicting the symbol of
+                airbending.</charAction> I don't want you to get too excited over nothing.
+                <charAction>He places it on a tile carrying the symbol of firebending and gestures
+                toward the open place at the other side of the table while continuing in a relaxed
+                voice.</charAction> Please, sit. Why don't you enjoy a cup of calming Jasmine
+            tea?</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>Furiously, still facing Iroh.</charAction> I don't need any calming tea!
+            I need to capture the Avatar! Helmsman, head a course for the light!</speech>
+   </section>
+   <section>
+      <description>Zuko points in the direction of where the light once was. Iroh calmly
+                continues with his game, placing another tile bearing the airbending symbol on the
+                previous one. As he does, a gust of wind washes over him, shaking his
+                tiles.</description>
+      <description>Cut to the iceberg, where the gale has begun to settle. Sokka had
+                protectively clutched Katara, but he now releases her as he looks around. Light
+                still encircles the remains of the former mountain of ice, now reduced to a
+                hollowed-out crater. Sokka looks at his sister and they both get to their feet,
+                Katara holding onto her brother. He points his spear at the crater, ready to defend
+                them, though lowers it in shock as a figure emerges slowly from the depression in
+                the iceberg.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Brandishing his spear in defense once again.</charAction> Stop!</speech>
+   </section>
+   <section>
+      <description>Now standing atop the crater, the figure slowly erects himself and looks
+                down at them, and the two siblings stare back in wonder and fear.</description>
+      <description>The circles of light finally dissipate as the boy stops glowing. The figure
+                is revealed to be nothing more than a young boy, who gives a moan of exhaustion and
+                suddenly faints. Katara gasps and runs forward to catch him before he hits the
+                ground. Sokka follows behind and begins to poke at the boy's head with the blunt end
+                of his spear.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Waves the spear away. Annoyed.</charAction> Stop it!</speech>
+   </section>
+   <section>
+      <description>Katara places the boy gently against the base of the crater. Close-up of
+                the boy as he slowly opens his gray eyes. He gasps in awe as he beholds the Southern
+                Water Tribe girl, who stares at him, in wonder, with deep blue eyes. Her hair
+                loopies sway in the wind.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>In a weak voice.</charAction> I need to ask you something ...</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">What?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Please ... come closer.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Curiously.</charAction> What is it?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>In a clear, happy, hopeful tone.</charAction> Will you go penguin
+            sledding with me?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Awkwardly.</charAction> Uh, sure ... I-I guess.</speech>
+   </section>
+   <section>
+      <description>The camera moves back again to show the threesome at the base of the
+                iceberg. The boy elegantly rises to his feet in one swift motion, surprising the
+                other two. Katara looks at him in awe while Sokka backs away in shock, aiming his
+                spear at him again. Katara glances at him in disbelief.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Looking around and rubbing his head, while Katara scrambles on her
+                feet.</charAction> What's going on here?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Aggressively.</charAction> You tell us! <charAction>Points at the top of
+                the crater.</charAction> How did you get in the ice? And why aren't you frozen?
+                <charAction>He pokes the boy in his side with his spear.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Lazily pushes the spear away.</charAction> I'm not sure.</speech>
+   </section>
+   <section>
+      <description>A low, gruff noise suddenly fills the air, coming from within the crater of
+                the iceberg. Quickly, the boy scrambles up the ridge of ice and happily jumps on the
+                head of a large, furry creature that has the same arrow-shaped marking on his
+                forehead as the boy.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Exclaims happily.</charAction> Appa! Are you all right? <charAction>He
+                hangs down the side of the beast to look at its eyes, which are still
+                closed.</charAction> Wake up, buddy.</speech>
+   </section>
+   <section>
+      <description>He opens an eyelid that immediately closes again once it is released. He
+                jumps down to the front of the bison and tries to lift its enormous head. Sokka and
+                Katara appear around the corner as Appa finally starts to react to Aang, opening his
+                mouth and licking Aang with his giant tongue. Sokka's jaw drops upon seeing the
+                beast.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Laughing cheerfully.</charAction> Ha, ha! You're okay!</speech>
+   </section>
+   <section>
+      <description>Aang hugs the bison's nose. The camera moves back to reveal that the
+                creature stands up on his six legs and stretches itself. When the picture moves
+                closer again, Aang is petting the bison's nose.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">What is that thing?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">This is Appa, my flying bison.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sarcastically.</charAction> Right, and this is Katara, my flying sister.
+                <charAction>Katara shoots him an odd look.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Aang looks questioningly at Sokka for a moment, but his attention is
+                diverted back toward his bison when Appa starts to inhale deeply. Realizing what is
+                about to happen, Aang ducks before Appa sneezes, sending a large blast of green snot
+                flying directly onto Sokka, who becomes completely covered in it. He squeals in
+                disgust and begins to frantically try clean it off, rubbing his face in the snow
+                under the amused gaze of his sister.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cheerfully.</charAction> Don't worry, it'll wash out. <charAction>Green
+                snot is hanging from Sokka's face to his glove, dripping down as he retracts his
+                hand. Katara covers her mouth in disgust.</charAction> So do you guys live around
+            here?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Pointing his spear accusingly again at Aang who is surprised to see the
+                thing.</charAction>
+         Don't &gt;answer that! Did you see that crazy bolt of light?! He
+            was probably trying to signal the Fire Navy!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Pushes Sokka's spear away again and addresses him
+                sarcastically.</charAction> Oh yeah, I'm sure he's a spy for the Fire Navy. You can
+            tell by that evil look in his eye. <charAction>Aang shoots the two an earnest
+                grin.</charAction> The paranoid one is my brother, Sokka. You never told us your
+            name.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">I'm A ... a-a-a-Achoo! <charAction>The boy sneezes, creating an air blast that sends
+                him soaring into the air. He lands on the ground, unharmed.</charAction> I'm Aang.
+                <charAction>He sniffles a bit.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Total disbelief.</charAction> You just sneezed ... <charAction>Points to
+                the sky.</charAction> and flew ten feet in the air!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>He looks questioningly toward the sky.</charAction> Really? It felt
+            higher than that.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Gasps for air in comprehension.</charAction> You're an
+            airbender!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Sure am!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Giant light beams, flying bison, airbenders ... <charAction>Walks away.</charAction>
+            I think I got midnight sun madness. I'm going home to where stuff makes sense.
+                <charAction>He realizes, however, that he is stranded in the middle of the ocean
+                with no way home.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Well, if you guys are stuck, Appa and I can give you a lift. <charAction>Aang
+                airbends himself onto Appa.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">We'd love a ride! Thanks! <charAction>Katara runs to the side of the
+                bison.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">Oh no! I'm not getting on that fluffy snot monster!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>While climbing on top of Appa with the help of Aang.</charAction> Are
+            you hoping some other kind of monster will come along and give you a ride home? You
+            know, before you freeze to death?</speech>
+   </section>
+   <section>
+      <description>Sokka opens his mouth in defiance and point at Katara, ready to retaliate,
+                but he cannot think of anything. He sighs and bows his head in consent and
+                defeat.</description>
+      <description>The camera switches to a shot where both siblings are sitting on Appa's
+                saddle. Sokka has his arms crossed in front of him with a sulking expression on his
+                face while Katara is full of excitement and anticipation.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Okay, first time flyers, hold on tight! Appa, yip-yip!</speech>
+   </section>
+   <section>
+      <description>Aang whips the reins and Appa growls in response. He moves his tail up and
+                down and takes a huge jump into the air. He soars through the air for merely a few
+                seconds, making it appear as though he would fly, before belly-flopping into the
+                water with a splash. The bison begins trudging through the water slowly. Katara
+                crawls to the front of the saddle while Aang tries to get Appa flying, whipping the
+                reins again.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Come on, Appa. Yip-yip!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sarcastically.</charAction> Wow, that was truly amazing ...</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Katara shoots her brother an angry glance.</charAction> Appa's just a
+            little tired. A little rest and he'll be soaring through the sky. You'll see.
+                <charAction>Katara smiles at Aang, who returns this gesture. When she wants to move
+                back, she realizes that he is still smiling at her.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Uncomfortably.</charAction> Why are you smiling at me like
+            that?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Oh, I was smiling? <charAction>Flattered, Katara smiles back.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>Sokka throws his head back and sticks his tongue out in disgust while
+                groaning loudly. Katara glares at him while Appa continues to make his way through
+                the icy sea, flapping his tail in the water.</description>
+      <description>The picture tilts up and fades away to reveal Zuko standing on the helm of
+                his ship, staring into the distance. The young man is approached by his
+                uncle.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">I'm going to bed now. <charAction>Yawns and stretches.</charAction> Yep, a man needs
+            his rest. <charAction>After a short pause, he abandons his try at a veiled suggestion
+                and delivers his request more clearly, his tone tired.</charAction> Prince Zuko, you
+            need some sleep. Even if you're right, and the Avatar is alive, you won't find him. Your
+            father, grandfather and great-grandfather all tried and failed.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">Because their honor didn't hinge on the Avatar's capture. Mine does. This coward's
+            hundred years in hiding are over.</speech>
+   </section>
+   <section>
+      <description>The scene fades to Appa who is still swimming in the water. Aang now lies
+                lazily on his back, his arms tucked under his head. Katara crawls to the front of
+                the saddle again to have a better look at the boy. She leans on the front of the
+                saddle and rests her head on her arm.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Hey.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Hey. What'cha thinkin' about?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I guess I was wondering, your being an airbender and all, if you had any idea what
+            happened to the Avatar?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Oh, no. I didn't know him. I mean, I knew people that knew him, but I didn't. Sorry.
+                <charAction>He smiles weakly at Katara.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Okay. Just curious. <charAction>She slants her eyes in disappointment for a second
+                before smiling again at Aang.</charAction> Good night.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Sleep tight.</speech>
+   </section>
+   <section>
+      <description>Aang uncomfortably turns around and a look of guilt crosses his face. The
+                camera switches to another wide shot of Appa swimming through the vast sea,
+                reflecting the brilliant sunlight.</description>
+      <description>The scene switches to a dream of Aang's, colored in various shades of gray.
+                Aang is sleeping on Appa's saddle while clouds build around and ahead of him.
+                Lightning splits the sky and the rumble of the following thunder awakens him. He
+                shoots up and looks around. In the next shot it is raining and Aang is sitting on
+                Appa's head again, holding the reigns and screaming at the top of his lungs in
+                terror while they go down. Appa and Aang splash into the waters of the ocean. Appa
+                resurfaces again, growls, but is quickly subdued anew by another wave. Both Aang and
+                Appa sink unconscious into the water. As Aang releases the reigns and drifts off,
+                his eyes and tattoos suddenly start to glow brightly. He slams his fists together,
+                creating a bluish-white sphere that encases Appa and himself. As the air sphere
+                slowly solidifies into an icy globe, a voice permeates the dream.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang? Aang! Wake up. <charAction>Aang shoots up, throwing the covers of his body and
+                gasping for air. Katara perches beside him and stands up as she sees that Aang is
+                awake.</charAction> It's okay, we're in the village now! Come on, get ready.
+                <charAction>She points to the door of the tent.</charAction> Everyone's waiting to
+            meet you.</speech>
+   </section>
+   <section>
+      <description>Aang happily gets out of bed and starts to dress himself while Katara takes
+                a step toward the door. Before she exits, however, she glances back at Aang and
+                gasps, staring in wonder at the blue, arrow-shaped tattoos that trace his arms and
+                legs and reach up his back and to his head. Before Aang is able to get up, Katara
+                pulls him along by his arm to meet the rest of the village.</description>
+      <description>Aang is dragged out the tent toward a small congregation of villagers. He
+                passes Sokka, who is sitting at the side of the tent, sharpening his
+                boomerang.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang, this is the entire village. <charAction>Points to the line of villagers in
+                front of them.</charAction> Entire village, Aang.</speech>
+   </section>
+   <section>
+      <description>Aang bows respectfully toward the villagers, but they cower away in fear,
+                bringing a surprised look to Katara and Aang's faces. Sokka just watches from a
+                distance.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Uncomfortably.</charAction> Uh, why are they all looking at me like
+            that? Did Appa sneeze on me?</speech>
+   </section>
+   <section>
+      <description>Aang checks his clothing while an elderly woman steps forward out of the
+                line of villagers.</description>
+   </section>
+   <section>
+      <speech speaker="Kanna">Well, no one has seen an airbender in a hundred years. We thought they were extinct,
+            until my granddaughter and grandson found you.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Shocked disbelief.</charAction> Extinct?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Gesturing.</charAction> Aang, this is my grandmother.</speech>
+   </section>
+   <section>
+      <speech speaker="Kanna">
+         <charAction>Flatly, with a dull look on her face.</charAction> Call me
+            Gran-Gran.</speech>
+   </section>
+   <section>
+      <description>Sokka walks toward Aang and abruptly snatches his staff out of his hands
+                and starts to examine it.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Annoyed.</charAction> What is this, a weapon? You can't stab anything
+            with this!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Aang uses a small air current to get his staff back.</charAction> It's
+            not for stabbing! It's for airbending. <charAction>He opens his staff into a glider,
+                making Sokka gasp in fright and cover his head with his hands.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Village girl">
+         <charAction>Excited.</charAction> Magic trick! Do it again!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Not magic, airbending. <charAction>He moves his glider around him, visually
+                demonstrating what he is talking about.</charAction> It lets me control the air
+            currents around my glider and fly.</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Mockingly states his disbelief.</charAction> Ya know, last time I
+            checked, humans can't fly!&gt;
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Accepting Sokka's challenge, smiling.</charAction> Check again!</speech>
+   </section>
+   <section>
+      <description>Aang grabs hold of his glider and pushes himself off the ground, leaving
+                Katara and Sokka to cover their faces against the sudden wind. The village stares in
+                awe as Aang makes some loops and turns in the sky.</description>
+   </section>
+   <section>
+      <speech speaker="Village girl">
+         <charAction>In admiration.</charAction> He's flying!</speech>
+   </section>
+   <section>
+      <description>Aang makes another loops and speeds up to soar past the gazing
+                villagers.</description>
+   </section>
+   <section>
+      <speech speaker="Village girl">It's amazing!</speech>
+   </section>
+   <section>
+      <description>Aang's shadow passes over Katara, who is smiling broadly at him. Aang,
+                intending to further impress the villagers, flies sideways and closes his eyes while
+                grinning broadly. He promptly flies head-on into the village's watchtower, causing
+                his head to be stuck in its side. Katara covers her mouth as she watches Aang
+                struggle to extricate his head from the icy watchtower. Succeeding, he tumbles
+                downward onto a pile of snow at the base of the tower that crumbled from the
+                building. Katara immediately rushes to his side while Sokka stares in shock at the
+                damage inflicted on his watchtower.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Shocked.</charAction> My watchtower!</speech>
+   </section>
+   <section>
+      <description>Aang lies covered in snow at the base of the partially collapsed tower.
+                Katara and some other girls of the tribe run toward Aang, smiling.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Offering her hand to pull him out of the snow.</charAction> That was
+                amazing!&gt;
+      </speech>
+   </section>
+   <section>
+      <description>Sokka runs toward his watchtower and starts to pat it in the hope that he
+                can save it from collapsing any further. While Aang spins his staff around to
+                retract its wings, Sokka is being knocked down by a large pack of snow that falls
+                down.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Annoyed.</charAction> Great. You're an airbender, Katara's a
+            waterbender. Together you can just waste time all day long. <charAction>He wedges
+                himself free from underneath the weight of the snow and stalks
+            off.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Surprised and with admiration.</charAction> You're a
+            waterbender?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Nervously.</charAction> Well, sort of. Not yet.</speech>
+   </section>
+   <section>
+      <speech speaker="Kanna">All right, no more playing. Come on, Katara, you have chores.</speech>
+   </section>
+   <section>
+      <description>Kanna leads Katara away from Aang. The surrounding villagers part to let
+                the duo pass.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Excitedly.</charAction> I told you, he's the real thing Gran-Gran! I
+            finally found a bender to teach me!</speech>
+   </section>
+   <section>
+      <speech speaker="Kanna">
+         <charAction>Calmly.</charAction> Katara, try not to put all your hopes in this
+            boy.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">But he's special! I can tell! <charAction>Clenches her fist and closes her eyes in
+                hope.</charAction> I sense he's filled with much wisdom.</speech>
+   </section>
+   <section>
+      <description>Katara opens her eyes again and glances back toward Aang, who is surrounded
+                by a bunch of kids. He smiles while his tongue is stuck to his staff.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Muffled.</charAction> See? Now my tongue is stuck to my staff!</speech>
+   </section>
+   <section>
+      <description>Much to Aang's discomfort, one of the smaller village boys starts to yank
+                his staff, pulling Aang along with every movement. The village kids laugh and
+                applaud Aang as his tongue remains stuck to his staff.</description>
+      <description>The scene shifts to Zuko's ship where Zuko is facing two soldiers dressed
+                in the uniforms of a firebending Fire Nation soldier. Iroh is sitting on a small
+                chair next to them.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Sternly.</charAction> Again.</speech>
+   </section>
+   <section>
+      <description>Zuko opens the fight by spreading his arms in the direction of the two
+                firebenders, showering them with flames. His adversaries block Zuko's attack with
+                ease. Zuko shifts his weight to duck under a retaliation blast of the firebender to
+                his left. The firebender to his right jumps forward to aim a blast at Zuko's feet.
+                The prince propels himself out of the way. He twists around in mid-air and directs
+                another fire blast with his hand to the firebender that retaliated first, and
+                another with his foot to the firebender that aimed for his feet. Both soldiers jump
+                out of the way of Zuko's flames. Zuko lands and stretches his fists out toward his
+                adversaries, ready to face another attack.</description>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Sighs while he gets up.</charAction> No! <charAction>Zuko lowers his
+                arms and looks at his uncle.</charAction> Power in firebending comes from the breath
+                <charAction>Iroh moves his both hand up in front of him to emphasize the breathing
+                motion.</charAction>, not the muscles. <charAction>He stretches his left arm out as
+                if he was sending a fire blast.</charAction> The breath becomes energy in the body.
+            The energy extends past your limbs and becomes: fire! <charAction>Iroh directs a fire
+                blast at his nephew that evaporates just before it would scorch him.</charAction>
+            Get it right this time.</speech>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>With suppressed anger, he walks toward his uncle and addresses
+                him.</charAction> Enough! I've been drilling this sequence all day. Teach me the
+            next set! I'm more than ready!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">No, you are impatient. <charAction>He sits down again on his chair.</charAction> You
+            have yet to master your basics. <charAction>He yells his order.</charAction> Drill it
+            again!</speech>
+   </section>
+   <section>
+      <description>Zuko clenches his teeth in anger. He turns around and suddenly directs a
+                power fire kick toward one of the soldiers. The firebender attempts to stop the fire
+                blast, but he is unable to and is thrown on his back by its power.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">
+         <charAction>The suppressed anger is very apparent in his voice.</charAction> The
+            sages tell us that the Avatar is the last airbender. <charAction>Close-up of Iroh, who
+                does not look pleased with the attitude of his nephew.</charAction> He must be over
+            a hundred years old by now. He's had a century to master the four elements! I'll need
+            more than basic firebending to defeat him. <charAction>Starts to yell at his
+                uncle.</charAction> You will teach me the advanced set!</speech>
+   </section>
+   <section>
+      <speech speaker="Iroh">
+         <charAction>Concedes reluctantly. On a dire tone.</charAction> Very well,
+                <charAction>His expression changes completely to one of delight as he picks
+                something up from the ground.</charAction> but first, I must finish my roast duck.
+                <charAction>He quickly munches down the roast duck, much to the dismay of
+                Zuko.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The scene shifts back to the Southern Water Tribe, where it pans down to
+                reveal Sokka pacing to and fro, his arms behind his back.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>With a stern expression.</charAction> Now men, it's important that you
+            show no fear when you face a firebender. <charAction>He brings out his club and holds it
+                proudly.</charAction> In the Water Tribe, we fight to the last man standing! For
+            without courage, how can we call ourselves men? <charAction>He clutches his fist to
+                emphasize the word "men" as he stares down the people in front of
+            him.</charAction>
+      </speech>
+   </section>
+   <section>
+      <description>The camera shifts positions to reveal that Sokka is talking to six
+                uninterested little boys.</description>
+   </section>
+   <section>
+      <speech speaker="Southern Water Tribe boy">
+         <charAction>Waving his hand in the air.</charAction> I gotta pee!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Angrily.</charAction> Listen! Until your fathers return from the War,
+            they're counting on you to be the men of this tribe, and that means no potty breaks!
+                <charAction>He makes some wide arm gestures to emphasize his words
+                again.</charAction>
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Southern Water Tribe boy">But I really gotta go!</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Sighs.</charAction> Okay, who else has to go?</speech>
+   </section>
+   <section>
+      <description>Every child immediately raises his hand. Sokka is surprised for a second,
+                before facepalming in frustration.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Runs up to Sokka as the children leave. In a worried tone.</charAction>
+            Have you seen Aang? Gran-Gran said he disappeared over an
+                hour&gt; ago.</speech>
+   </section>
+   <section>
+      <description>Aang appears from an outhouse igloo, pulling his pants up a bit
+                higher.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Amused.</charAction> Wow! Everything freezes in there!</speech>
+   </section>
+   <section>
+      <description>He points toward the bathroom with a smile on his face. Sokka's "soldiers"
+                halt beside Aang and laugh with him.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Annoyed.</charAction> Uh! <charAction>Angrily points at
+                Aang.</charAction> Katara, get him out of here! This lesson is for warriors
+            only!</speech>
+   </section>
+   <section>
+      <description>Sokka is about to walk away when he hears the sound of playing
+                children.</description>
+   </section>
+   <section>
+      <speech speaker="Village boy">Whee!</speech>
+   </section>
+   <section>
+      <description>He turns around, and the picture follows his gaze to reveal the village
+                children sliding down Appa's tail like a slide. The end of the tail is propped
+                upward, so the children are propelled into the air. They fly over Sokka's spear, now
+                serving as a mark that they need to cross before landing in a soft pile of snow.
+                Katara laughs as a boy lands head-first in the snow, but Sokka rushes
+                forward.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Yelling angrily.</charAction> Stop! Stop it right now! <charAction>The
+                laughter of the children is stifled immediately and Appa turns his head to look at
+                Sokka, who accusingly directs his anger to Aang.</charAction> What's wrong with
+            you?! We don't have time for fun and games with the War&gt; going
+            on!</speech>
+   </section>
+   <section>
+      <description>Sokka takes back his spear and casts an annoyed glance at the laughing
+                children who run past him.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Slides down from Appa's head.</charAction> What war? What are you
+            talking about?</speech>
+   </section>
+   <section>
+      <speech speaker="Sokka">
+         <charAction>Raises one eyebrow in disbelief.</charAction> You're kidding,
+            right?</speech>
+   </section>
+   <section>
+      <description>Aang looks questioningly at Sokka, but the expression on his face changes
+                to enthusiasm when he catches sight of an otter-penguin.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Exclaims enthusiastically.</charAction> Penguin!</speech>
+   </section>
+   <section>
+      <description>The animal is startled by Aang's outburst and quickly waddles off. Aang
+                gives chase, racing past Katara and Sokka, enhancing his speed with his airbending.
+                He leaves a deep trail in the snow as he dashes after the penguin.</description>
+   </section>
+   <section>
+      <speech speaker="Sokka">He's kidding, right?</speech>
+   </section>
+   <section>
+      <description>The siblings glance at each other, not sure what they need to think of
+                Aang's reaction.</description>
+      <description>The scene fades away to show the otter-penguin habitat, where hundreds of
+                otter-penguins are walking or sliding down icebergs. Katara approaches the penguins
+                in search for Aang.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Chasing the penguins while laughing.</charAction> Hey, come on little
+            guy. Wanna go sledding? <charAction>He jumps at a penguin, but the animal evades his
+                attempt and Aang belly flops into the snow. He turns on his back and quickly erects
+                himself with his airbending as Katara comes up beside him.</charAction> Heh heh. I
+            have a way with animals.</speech>
+   </section>
+   <section>
+      <description>Aang stretches his arms wide and imitates the sound and movements of the
+                animals around them, making Katara laugh.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Amused.</charAction> Hehehe, Aang, I'll help you catch a penguin if you
+            teach me waterbending.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Having grabbed the tail of a penguin, he holds on as it pulls him
+                through the snow for a short way before letting go and looking up at
+                Katara.</charAction> You got a deal! Just one little problem ... <charAction>He
+                airbends himself into a sitting position.</charAction> I'm an airbender, not a
+            waterbender. Isn't there someone in your tribe who can teach you?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Sadly.</charAction> No. You're looking at the only waterbender in the
+            whole South Pole.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">This isn't right. A waterbender needs to master water. <charAction>He thinks for a
+                moment.</charAction> What about the North Pole? There's another Water Tribe up
+            there, right? Maybe they have waterbenders who could teach you.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Maybe, but we haven't had contact with our sister tribe in a long time. It's not
+            exactly "turn right at the second glacier". It's on the other side of the
+                world&gt;.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">But you forget, I have a flying bison. <charAction>He happily points at
+                himself.</charAction> Appa and I can personally fly you to the North Pole. Katara,
+            we're going to find you a master!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Unsure.</charAction> That's ... I mean, I don't know. I've never left
+            home before.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Well, you think about it, but in the meantime, can you teach me catch one of these
+            penguins?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Mockingly imitating a teacher.</charAction> Okay, listen closely my
+            young pupil. <charAction>Inclines her head toward Aang.</charAction> Catching penguins
+            is an ancient and sacred art. <charAction>She conjures a fish out of her
+                sleeve.</charAction> Observe!</speech>
+   </section>
+   <section>
+      <description>She tosses Aang the fish. As he catches it with an uncomprehending look on
+                his face, the penguins immediately begin crowding him. He laughs as the penguins
+                swarm over him, pulling him down amidst their ranks.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Hi hi hi! Ha, ha, ha!</speech>
+   </section>
+   <section>
+      <description>The scene switches to a protruding iceberg that Aang and Katara use as a
+                slide, each sitting atop a penguin. They soar through the air for a moment before
+                landing on the slope and continuing their journey downward. They race down and Aang
+                uses another iceberg as a ramp to propel him into the air and to soar over and past
+                Katara. She in turn uses the next jump to land next to Aang again. The two laugh and
+                shout out as they gleefully ride over snowy bumps.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Happily.</charAction> I haven't done this since I was a kid!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">You still are a kid!</speech>
+   </section>
+   <section>
+      <description>The two ride through a tunnel of ice. Katara is in the lead and tries to
+                hold Aang back by constantly changing her direction when he wants to pass her. Aang
+                solves this problem by increasing his speed with airbending, enabling him to race
+                over the ceiling past Katara. The tunnel levels out on an open plain of ice where
+                the two get off their rides. The plain itself is dominated by a large metal ship,
+                elevated and held in place by a large protrusion of ice with the bow pointing toward
+                the sky. Curious, Aang gazes at it.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>In awe.</charAction> Whoa! What is
+            that?&gt;
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>On a slightly dark tone.</charAction> A Fire Navy ship. And a very bad
+            memory for my people. <charAction>Aang begins to approach the wreckage.</charAction>
+            Aang, stop! We're not allowed to go near it! The ship could be booby-trapped!</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">If you want to be a bender, you have to let go of fear.</speech>
+   </section>
+   <section>
+      <description>Katara ponders over that remark for a moment and walks toward Aang with a
+                scared look upon her face. The two venture closer toward the ship. Aang helps Katara
+                to climb some of the blocks of ice that lay beside the ship and they crawl through a
+                hole in the hull of the ship. The two walk through the silent rooms of the
+                shipwreck. Some white hamsters roam the otherwise deserted ship. Aang enters a room
+                stocked with weapons in various places.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Her voice echoes through the room.</charAction> This ship has haunted my
+            tribe since Gran-Gran was a little girl. <charAction>The camera shifts through the room,
+                revealing all the weapons more closely.</charAction> It was part of the Fire
+            Nation's first attacks.</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">Okay, back up. I have friends all over the world, even in the Fire Nation.
+                <charAction>Aang picks up a Guan Dao to inspect it.</charAction> I've never seen any
+            war.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang, how long were you in that iceberg?</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Uncertain.</charAction> I don't know. A few days, maybe?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">I think it was more like a hundred years!&gt;
+      </speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>In full disbelief and slightly accusing.</charAction> What?! That's
+            impossible! Do I look like a hundred-twelve-year-old man to you?</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Think about it. The War is a century old. You don't know about it because, somehow,
+            you were in there the whole time! <charAction>Aang's expression changes to one of
+                comprehension.</charAction> It's the only explanation.</speech>
+   </section>
+   <section>
+      <description>Aang backs away and slumps to floor in shock.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">A hundred years! <charAction>Saddened by his new discovery.</charAction> I can't
+            believe it.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Squats beside him.</charAction> I'm sorry, Aang. Maybe somehow there's a
+            bright side to all this ...</speech>
+   </section>
+   <section>
+      <speech speaker="Aang">
+         <charAction>Cheerfully.</charAction> I did get to meet you.</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">
+         <charAction>Smiling warmly at him while offering her hand.</charAction> Come on,
+            let's get out of here.</speech>
+   </section>
+   <section>
+      <description>Katara smiles and pulls him to his feet and the two exit the
+                room.</description>
+   </section>
+   <section>
+      <speech speaker="Katara">Aang, let's head back, this place is creepy.</speech>
+   </section>
+   <section>
+      <description>Aang ventures down yet another room with Katara on his trail. There, he
+                trips over a thin rope; as he stumbles, metal bars slide downward over the entrance,
+                barring it and trapping them inside.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Huh?</speech>
+   </section>
+   <section>
+      <description>They both run toward the bars and peek through them.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">What's that you said about booby traps?</speech>
+   </section>
+   <section>
+      <description>The gears and engines of the shipwreck suddenly power up, beginning to
+                function. In shock, Katara and Aang follow the movements of the machines until
+                suddenly, a flare is fired and explodes high in the sky.</description>
+   </section>
+   <section>
+      <speech speaker="Aang">Uh oh ... <charAction>Aang notices a hole in the roof of the ship and takes a
+                surprised Katara into his arms.</charAction> Hold on tight!</speech>
+   </section>
+   <section>
+      <speech speaker="Katara">Aaah!</speech>
+   </section>
+   <section>
+      <description>Aang enhances the power of his jump with his airbending to jump several
+                feet into the air through the hole.</description>
+      <description>The scene switches to Prince Zuko, who is peering through a telescope. He
+                follows every movement the duo makes as Aang, still holding Katara, jumps down the
+                side of the ship.</description>
+   </section>
+   <section>
+      <speech speaker="Zuko">The last airbender! <charAction>Aang and Katara reach the ground again and Aang sets
+                Katara down. They start to walk away.</charAction> Quite agile for his old age.
+                <charAction>He turns and angrily yells to a soldier behind him.</charAction> Wake my
+            uncle! Tell him I found the Avatar. <charAction>Zuko peeks through his telescope again
+                to see that Katara and Aang are running now. Zuko follows the direction they are
+                running in with his telescope and discovers that they must be headed for the village
+                he spots.</charAction> As well as his hiding place ...</speech>
+   </section>
+   <section>
+      <description>Close-up of Zuko's right eye as he squints it to look in the direction of
+                the Southern Water Tribe.</description>
+   </section>
+   <section>
+      <description>Fade to credits.</description>
+   </section>
+</root>
