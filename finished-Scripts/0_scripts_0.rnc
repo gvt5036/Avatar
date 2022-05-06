@@ -15,17 +15,14 @@ description = element description {text}
 
 
 
-#########
+# Code to grab all characters: 
 
-Code to grab all characters: 
+#xquery version "3.1";
 
-xquery version "3.1";
+#let $collection := collection("/db/avatar/AvatarScripts/")
+#let $speaker := $collection//speech/@speaker ! string() => distinct-values()
+#return string-join($speaker," | ") 
 
-let $collection := collection("/db/avatar/AvatarScripts/")
-let $speaker := $collection//speech/@speaker ! string() => distinct-values()
-return string-join($speaker," | ") 
-
-#########
 
 
 speech = element speech {speaker, mixed {charAction*}}
