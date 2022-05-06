@@ -1,3 +1,12 @@
+#Hello!
+#This file was made to ensure the continuity of the project. 
+#In the middle of the file, there are a few lines of XQUERY code that we used in order to pull the names of all the speakers instead of combing through the scrips one by one.
+
+#Code begins at start = root
+
+
+
+
 start = root
 root = element root {metadata, section+}
 
