@@ -5,10 +5,15 @@ Welcome to the DIGIT 210 *Avatar: The Last Airbender* Text Analysis Project. Our
 Group members:
 
 Tyler Cameron
+
 Zachary Dominick
+
 Julian Giles
+
 Kyara Parrish
+
 Erin Mooney
+
 Graesyn Tefft
 
 
