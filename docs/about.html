@@ -85,6 +85,7 @@
                 <p>Episode Transcripts: <a href="https://avatar.fandom.com/wiki/Avatar_Wiki:Transcripts">Avatar: The Last Airbender "Fandom Wiki"</a></p>
                 <p>Python Web Scraper kindly provided by Dr. Elisa Beshero-Bondar</p>
                 <p>Character Photos are taken directly from the show and official art sources</p>
+                <p>Our fantastic webpage background was illustrated by Julian Giles</p>
                 <p>For our code, please refer to the following:</p>
                 <a href="https://github.com/gvt5036/Avatar/tree/main/XSLT">XSLT</a>
                 <a href="https://github.com/gvt5036/Avatar/tree/main/SVG">SVGs</a>
@@ -92,6 +93,25 @@
                 <a href="https://github.com/gvt5036/Avatar/tree/main/docs/map">Image Mapping</a>
                 <a href="https://github.com/gvt5036/Avatar/tree/main/avatar-queries">Xquery</a>
                 <a href="https://github.com/gvt5036/Avatar/blob/main/finished-Scripts/0_scripts_0.rnc">RNC</a>
+            </div>
+            <div class="about-descript">
+                <h3>Our process</h3>
+                <p>Our first step in the process was to acquire the transcripts for each episode. To accomplish this, we borrowed Dr. B's Python Web Scraper. Unfortunately,
+                this produced more results than we were anticipating due to the inclusion of commentary episodes, so our first step in processing the files was removing the
+                extraneous episodes from our collection. Another issue we immediately ran into was that the Avatar Wiki used a strange form of markdown for each episode which
+                we had to convert into something more usable. To accomplish this, we used Find and Replace in the Oxygen XML editor. To ensure uniformity across all of the files,
+                we used Relax NG to build a schema. The general format for our project included &lt;description&gt; tags which would describe the setting of the episode or scene,
+                &lt;speech&gt; which was the actual spoken dialogue of each character, and &lt;charAction&gt; which would include "stage directions" of what either the context
+                behind &lt;speech&gt; (i.e., "Aang said angrily) or the action that was happening at that time (i.e. Aang turns to face Katara). We also included metadata about
+                the episode, such as director and producer.
+                </p>
+                <p>At this point, we had to re-evaluate our original research questions because it was not going to be feasible to map character interactions. Instead, we decided
+                to look at what characters had the most speeches and "character actions" as well as what the top adjectives used by each nation. This was all achieved through XQuery.
+                The scripts we used are linked above. From this data, SVG graphs were generated to display our data. Some were made manually while others were generated using
+                    <a href="https://www.pygal.org/en/stable/">Pygal.</a></p>
+                <p>We also decided we wanted to include an interactive map of the Avatar world that showed where each episode took place. To accomplish this, we used more
+                Xquery to dig through each episode and provide a location. To make the interactive map, we used an SVG image map overlay with links to HTML files containing
+                the location data for each episode. These HTML files were then displayed in an IFrame next to the map.</p>
             </div>
         </main>
     </body>
