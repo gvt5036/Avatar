@@ -86,7 +86,7 @@ All `<img>` elements should have `@alt` attributes to describe their content, to
 
 #### Dealing with SVG within HTML
 
-The [the w3c Validator](https://gvt5036.github.io/Avatar/graphics.html) gets a little choked up on the Inkscape-generated image map on the index.html page, and there's not a whole lot we can do about that except possibly some find-and-replace work over the SVG file.
+The [the w3c Validator](https://validator.w3.org/) gets a little choked up on the Inkscape-generated image map on the index.html page, and there's not a whole lot we can do about that except possibly some find-and-replace work over the SVG file.
 
 When I check the HTML of the Graphics page with the w3c Validator (and when I open it in oXygen), I can see that it contains lots of duplicate ids! That is a problem that comes up when you position multiple SVG files within an HTML page. To solve it, you would need to go back to the SVG files and add something distinct to the ids for each one. For example, you could set down a little string for a specific graph representing speech counts, say `spCt`, and then use it in the `@id` attribute values for that particular graph: `id="spCt1-activate-serie-3"` instead of `activate-serie-3`.  The *next* graph might have its `@id` attribute values be prefixed with `actCt` so they'd look like `id="actCt-activate-serie-3"`. Maintaining absolutely distinct `@id` values on an  is an appointing web accessibility issue, here making sure that, say, JavaScript or CSS you write to interact with your code can always distinguish id values precisely, so that machine "web crawlers" and screen readers and humans referring to the code of your page in a Pull Request don't stumble: every `@id` value in a file does need to be distinct.   
 
